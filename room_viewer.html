@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room Layout Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            overflow: hidden;
+        }
+        #container {
+            width: 100vw;
+            height: 100vh;
+            position: relative;
+        }
+        #canvas {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        #controls {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            z-index: 10;
+            max-width: 350px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        h2 {
+            margin-bottom: 15px;
+            color: #333;
+            font-size: 20px;
+        }
+        .file-input-wrapper {
+            position: relative;
+            overflow: hidden;
+            display: inline-block;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .btn-upload {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 14px;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+        .btn-upload:hover {
+            transform: translateY(-2px);
+        }
+        input[type="file"] {
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+        .info {
+            margin-top: 15px;
+            padding: 12px;
+            background: #f0f0f0;
+            border-radius: 8px;
+            font-size: 12px;
+            color: #666;
+        }
+        #status {
+            margin-top: 10px;
+            padding: 8px;
+            border-radius: 6px;
+            font-size: 12px;
+            text-align: center;
+            display: none;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        #roomInfo {
+            margin-top: 15px;
+            padding: 12px;
+            background: #e7f3ff;
+            border-radius: 8px;
+            font-size: 13px;
+            display: none;
+        }
+        #roomInfo h3 {
+            font-size: 14px;
+            margin-bottom: 8px;
+            color: #0066cc;
+        }
+        .models-list {
+            margin-top: 15px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .models-list h3 {
+            font-size: 14px;
+            margin-bottom: 8px;
+            color: #333;
+            position: sticky;
+            top: 0;
+            background: white;
+        }
+        .model-item {
+            background: #f8f9fa;
+            padding: 8px;
+            margin-bottom: 4px;
+            border-radius: 6px;
+            font-size: 12px;
+        }
+        .model-item strong {
+            color: #667eea;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 10px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Object Parameters Panel */
+        #objectParams {
+            margin-top: 15px;
+            padding: 12px;
+            background: linear-gradient(135deg, #e8eaf6 0%, #f3e5f5 100%);
+            border-radius: 8px;
+            border: 2px solid #9575cd;
+            display: none;
+        }
+        #objectParams h3 {
+            font-size: 14px;
+            margin-bottom: 12px;
+            color: #5e35b1;
+        }
+        #objectParams strong {
+            color: #7e57c2;
+        }
+        .param-group {
+            margin-bottom: 10px;
+        }
+        .param-group label {
+            display: block;
+            font-size: 11px;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 4px;
+        }
+        .param-group input {
+            width: 100%;
+            padding: 6px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 12px;
+            transition: border-color 0.2s;
+        }
+        .param-group input:focus {
+            outline: none;
+            border-color: #7e57c2;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <canvas id="canvas"></canvas>
+        <div id="controls">
+            <h2>🏠 Room Layout Viewer</h2>
+            
+            <div class="file-input-wrapper">
+                <button class="btn-upload">📄 Load Room JSON</button>
+                <input type="file" id="jsonInput" accept=".json">
+            </div>
+
+            <div id="status"></div>
+
+            <div id="roomInfo"></div>
+
+            <div class="models-list" id="modelsListContainer" style="display: none;">
+                <h3>📦 Objects Loaded:</h3>
+                <div id="modelsList"></div>
+            </div>
+
+            <div id="objectParams"></div>
+
+            <div class="info">
+                💡 <strong>Hướng dẫn:</strong><br>
+                • Load file JSON chứa room layout<br>
+                • <strong>Click trái:</strong> Chọn object để điều chỉnh<br>
+                • <strong>Chuột phải:</strong> Xoay camera<br>
+                • <strong>Cuộn chuột:</strong> Zoom in/out<br>
+                <br>
+                <strong>⚠️ Yêu cầu:</strong><br>
+                • Chạy server: python test.py
+            </div>
+        </div>
+    </div>
+
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+            }
+        }
+    </script>
+    <script type="module" src="room_viewer.js"></script>
+</body>
+</html>
