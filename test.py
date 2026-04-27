@@ -1,102 +1,50 @@
-# -----Load metadata and annotations for a specific object from the Objaverse dataset.
+import chromadb
 
-# import objaverse
-# uids = objaverse.load_uids()[:1]
-# annotations = objaverse.load_annotations(uids)
-# info = annotations.get(uids[0])
-# for k,v in info.items():
-#     print(f"{k}: {v}")
 
-# -----Run ChromaDB
+# 1. Kết nối vào Database đã tạo
 
-# import chromadb
-# client = chromadb.Client()
-# collection = client.create_collection("my_docs")
-# collection.add(
-#     documents=["Hà Nội là thủ đô của Việt Nam", "TP.HCM là trung tâm kinh tế lớn"],
-#     ids=["doc1", "doc2"]
-# )
-# results = collection.query(
-#     query_texts=["thủ đô của Việt Nam là gì"],
-#     n_results=1
-# )
-# print(results)
+DB_DIR = r"D:\Web\bed_chroma_db"
 
-import sqlite3
-import random
+client = chromadb.PersistentClient(path=DB_DIR)
 
-# Kết nối database
-conn = sqlite3.connect('database/db.db')
-cursor = conn.cursor()
+collection = client.get_collection(name="bed_collection")
 
-cursor.execute("SELECT COUNT(*) FROM models")
-total_rows = cursor.fetchone()[0]
 
-# Chọn ngẫu nhiên 1 ID (hoặc dùng OFFSET)
-random_offset = random.randint(0, total_rows - 1)
+def search_bed(query, n_results=3):
 
-cursor.execute(f"SELECT * FROM models LIMIT 1 OFFSET {random_offset}")
-row = cursor.fetchone()
+    print(f"\n🔍 Đang tìm: '{query}'...")
+# Truy vấn ChromaDB
+    results = collection.query(query_texts=[query],n_results=n_results)
+# Hiển thị kết quả
+    for i in range(n_results):
+# Lấy thông tin
 
-columns = [desc[0] for desc in cursor.description]  # Lấy tên các cột
-for col, val in zip(columns, row):
-    print(f"{col} : {val}")
+        meta = results['metadatas'][0][i]
 
-conn.close()
+        distance = results['distances'][0][i] # Càng thấp càng chính xác
 
-# import sqlite3
-# import json
-# import pandas as pd
-# import matplotlib.pyplot as plt
+        doc_id = results['ids'][0][i]
 
-# furniture_tags = {
-#     "chair", "sofa", "bench", "stool", 
-#     "bed", "mattress", "crib",
-#     "table", "desk", 
-#     "cabinet", "shelf", "wardrobe", "rack", 
-#     "lamp",
-#     "stair", "door", "window", "partition",
-#     "refrigerator", "oven", "microwave", "sink", "toilet", "bathtub", 
-#     "computer", "monitor", "tv", "fireplace",
-#     "rug", "curtain", "blind", "mirror", "clock", "pillow", "blanket", "vase"
-# }
 
-# conn = sqlite3.connect("database/db.db")
-# cursor = conn.cursor()
+        print(f"\n--- Top {i+1} (Độ khớp: {distance:.4f}) ---")
 
-# cursor.execute("SELECT tags FROM models")
-# rows = cursor.fetchall()
+        print(f"🛏️ Tên file: {doc_id}")
 
-# count_dict = {tag: 0 for tag in furniture_tags}
+        print(f"🎨 Style: {meta['style']}")
 
-# for row in rows:
-#     tags_json = json.loads(row[0])
-#     for tag in tags_json:
-#         name = tag["name"]
-#         if name in count_dict:
-#             count_dict[name] += 1
+        print(f"🪵 Material: {meta['material']}")
 
-# # ❗ Loại bỏ những tag count = 0
-# filtered = {tag: count for tag, count in count_dict.items() if count > 0}
+        print(f"📝 Mô tả: {meta['object']} - {meta['color_str']}")
 
-# df = pd.DataFrame(list(filtered.items()), columns=["tag", "count"])
 
-# # Vẽ biểu đồ
-# plt.figure(figsize=(12, 6))
-# bars = plt.bar(df["tag"], df["count"])
+# Chạy thử
 
-# # Thêm số lên đầu mỗi cột
-# for bar in bars:
-#     height = bar.get_height()
-#     plt.text(
-#         bar.get_x() + bar.get_width() / 2,
-#         height,
-#         str(height),
-#         ha='center',
-#         va='bottom',
-#         fontsize=9
-#     )
+if __name__ == "__main__":
 
-# plt.xticks(rotation=90)
-# plt.tight_layout()
-# plt.show()
+    while True:
+
+        q = input("\nNhập mô tả giường bạn muốn tìm (hoặc 'exit' để thoát): ")
+
+        if q.lower() == 'exit': 
+            break
+        search_bed(q)
