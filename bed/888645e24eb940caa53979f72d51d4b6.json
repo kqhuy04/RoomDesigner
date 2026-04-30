@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a modern bed with a minimalist design. It features a tall, rectangular headboard upholstered in a dark, textured fabric, likely a woven material like linen or a synthetic blend. The bed frame itself is also upholstered in the same dark fabric, creating a cohesive and grounded look. Separating the headboard from the mattress is a sleek, horizontal panel in a light grey or silver color, providing a visual break and adding a touch of sophistication. The mattress appears to be a standard size, resting on the dark upholstered base. The overall aesthetic is clean, contemporary, and functional, suitable for a variety of bedroom styles.",
+    "color": [
+        "black",
+        "light grey"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.338,
+        "height": 1.167,
+        "length": 2.661,
+        "unit": "meters"
+    }
+}

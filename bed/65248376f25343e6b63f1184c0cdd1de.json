@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a simple bed with a dark brown wooden frame. The mattress and pillow are rendered in shades of brown and yellow, suggesting a neutral color scheme. A notable feature is a red, clawed hand, presumably belonging to a creature, emerging from beneath the covers on the right side of the bed. The hand, with its sharp black claws, adds a surreal and potentially menacing element to the otherwise ordinary bedroom scene. The background is a plain gray, which helps to focus attention on the bed and the intruding hand.",
+    "color": [
+        "brown",
+        "yellow",
+        "red",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "cartoonish",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "eerie",
+    "dimensions": {
+        "width": 1.247,
+        "height": 0.689,
+        "length": 2.152,
+        "unit": "meters"
+    }
+}

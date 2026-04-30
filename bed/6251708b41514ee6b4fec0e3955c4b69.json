@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a simple, old-fashioned metal bed frame with a stained mattress. The frame is painted a faded blue and shows signs of rust, particularly on the headboard and footboard. The mattress appears to be made of a white fabric that is heavily discolored with brown and reddish-brown stains, suggesting age, wear, or a lack of cleanliness. The bed has a basic, utilitarian design with a slatted headboard. It's a single bed, suitable for one person. The overall impression is one of disrepair and neglect.",
+    "color": [
+        "blue",
+        "white",
+        "brown",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hospitalroom"
+    ],
+    "style": "vintage",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "worn",
+    "dimensions": {
+        "width": 1.097,
+        "height": 1.206,
+        "length": 2.165,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a simple, modern bed frame with a white mattress. The bed frame is constructed from dark-colored material, likely wood or metal, and features a minimalist design. It has a high headboard and footboard, both with a rectangular panel detail and square finials at the top corners. The side rails are straight and connect the headboard to the footboard, creating a sturdy structure. The mattress is a clean white rectangle, contrasting with the dark frame. The overall aesthetic is clean and unfussy, suitable for various bedroom decor styles.",
+    "color": [
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.768,
+        "height": 1.065,
+        "length": 1.712,
+        "unit": "meters"
+    }
+}

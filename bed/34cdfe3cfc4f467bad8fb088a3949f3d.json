@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a single bed with a wooden frame. The bed has a high headboard with a curved top and vertical supports. The frame appears to be made of dark wood with visible grain and some minor imperfections, suggesting a rustic or aged aesthetic. The mattress is covered in a dark gray fabric, and a crumpled dark red blanket is draped over it, along with a single light gray pillow. The overall impression is of a simple, functional bed that could fit into various settings, from a modest bedroom to a more stylized historical or fantasy environment.",
+    "color": [
+        "brown",
+        "red",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.111,
+        "height": 0.683,
+        "length": 0.588,
+        "unit": "meters"
+    }
+}

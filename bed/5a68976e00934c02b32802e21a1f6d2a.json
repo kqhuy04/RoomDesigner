@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a modern, single-person bed with a minimalist design. It features a light wood-grain finish for the frame and headboard, which curves slightly upwards and backwards. The bed frame has a sleek, angular profile with slanted legs. The mattress support is visible as several white panels, providing a clean and contemporary look. The overall construction appears to be made of engineered wood or a similar composite material, giving it a lightweight yet sturdy appearance. The clean lines and neutral color palette make it a versatile piece for various bedroom settings.",
+    "color": [
+        "beige",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "engineered wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.042,
+        "height": 0.675,
+        "length": 0.954,
+        "unit": "meters"
+    }
+}

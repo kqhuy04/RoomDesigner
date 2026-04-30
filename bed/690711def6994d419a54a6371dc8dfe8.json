@@ -1,0 +1,23 @@
+{
+    "object": "bed",
+    "description": "This is a charming pink and white bunk bed designed for children. The top bunk has safety rails and a decorative arched headboard. A slatted ladder provides access to the upper sleeping area. The bottom bunk features a mattress with a playful pink and white cartoon-themed comforter. Integrated into the base of the bed are three pink drawers with small silver handles, offering practical storage solutions. The overall design is whimsical and suitable for a child's bedroom, incorporating both functionality and a fun aesthetic.",
+    "color": [
+        "pink",
+        "white",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "playroom"
+    ],
+    "style": "childrens",
+    "material": "wood",
+    "usage": "functional, storage",
+    "mood": "playful, cozy",
+    "dimensions": {
+        "width": 2.141,
+        "height": 2.093,
+        "length": 1.528,
+        "unit": "meters"
+    }
+}

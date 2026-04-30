@@ -1,0 +1,23 @@
+{
+    "object": "bed",
+    "description": "This is a double-decker bunk bed, presented in a minimalist, monochromatic style. The bed frame is constructed from metal, giving it a sleek and modern appearance. The top and bottom bunks are furnished with bedding, including a comforter and pillows. The comforter on the bottom bunk has a subtle, woven texture. The overall presentation is clean and simple, highlighting the functional design of the bunk bed. The subtle shadows suggest it's placed on a platform, possibly for display or in a room with a clean, uncluttered aesthetic.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dormitory",
+        "kids room"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.088,
+        "height": 2.952,
+        "length": 3.088,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a queen-sized bed with a modern, minimalist design. The bed features a simple, rectangular upholstered headboard in a neutral beige tone. The bed frame is also upholstered in a matching beige fabric. The bedding consists of crisp white pillows and a lustrous, satin-like duvet cover in a shimmering silver-blue color. The duvet is artfully draped, showcasing its smooth texture and subtle sheen. The overall impression is one of comfort, luxury, and contemporary style, making it suitable for a bedroom seeking a sophisticated yet understated aesthetic.",
+    "color": [
+        "beige",
+        "white",
+        "silver",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "satin"
+    ],
+    "usage": "functional",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 2.356,
+        "height": 1.236,
+        "length": 2.067,
+        "unit": "meters"
+    }
+}

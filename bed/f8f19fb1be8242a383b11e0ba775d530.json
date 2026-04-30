@@ -1,0 +1,23 @@
+{
+    "object": "bed",
+    "description": "This 3D model showcases a collection of neatly folded bedding items, suggesting a cozy and inviting bedroom setting. The arrangement includes a pink blanket with a subtle, repeating pattern of stylized waves or scales, a folded duvet with a classic navy and white stripe pattern, and two light blue pillows, one with a faint white dot pattern and the other with a more abstract, textured design. The overall presentation evokes a sense of comfort, cleanliness, and curated style, perfect for creating a relaxing atmosphere. The textures and folds are rendered with a soft, inviting appearance, making the bedding look soft and comfortable.",
+    "color": [
+        "pink",
+        "navy",
+        "white",
+        "light blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.759,
+        "height": 0.516,
+        "length": 1.231,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This 3D model preview displays a white bed with several pillows and a rumpled duvet. The lighting creates soft shadows and highlights, emphasizing the texture and folds of the bedding. The overall impression is one of comfort and relaxation. The bed appears to be made of soft fabric, likely cotton or linen, suggesting a cozy and inviting feel. The arrangement of the pillows and the slightly disheveled duvet give it a lived-in, casual aesthetic. It's a representation of a made bed, ready for rest.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "contemporary",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.082,
+        "height": 0.55,
+        "length": 1.552,
+        "unit": "meters"
+    }
+}

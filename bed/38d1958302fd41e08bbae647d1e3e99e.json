@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "A standard hospital bed with a white mattress and sheet, featuring a metal frame and railings. The bed is designed for patient comfort and safety, with adjustable height and headrest options (though not explicitly shown in this static preview). The metal frame provides sturdy support, and the railings can be raised or lowered to prevent patients from falling. It appears to be on wheels, indicating it's movable. The overall design is functional and utilitarian, prioritizing medical needs over aesthetics. The clean white bedding suggests a sterile and hygienic environment typical of healthcare settings. A small, dark object, possibly a wheel or part of the bed mechanism, is visible at the bottom.",
+    "color": [
+        "white",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hospital room",
+        "medical facility",
+        "clinic"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "clinical",
+    "dimensions": {
+        "width": 0.346,
+        "height": 0.176,
+        "length": 0.635,
+        "unit": "meters"
+    }
+}

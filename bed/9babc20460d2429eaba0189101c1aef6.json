@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "A rustic wooden bed frame with intricately carved headboards that resemble stylized birds or animal heads. The bed is dressed with a green sheet and a textured, dark gray blanket or comforter, neatly folded at the foot. The wood appears to be aged and weathered, suggesting a traditional or fantasy-inspired aesthetic. The construction features visible joinery and rough-hewn planks, adding to its handcrafted and durable appearance. The overall design evokes a sense of natural beauty and sturdy craftsmanship.",
+    "color": [
+        "brown",
+        "green",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.451,
+        "height": 1.43,
+        "length": 2.241,
+        "unit": "meters"
+    }
+}

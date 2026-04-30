@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a simple, rustic wooden bed frame with a red blanket and a white pillow. The bed features a low profile with four sturdy legs and decorative finials on the headboard and footboard posts. The headboard has a gently curved top edge. The red blanket is draped casually over the mattress, creating a cozy and inviting appearance. The overall design suggests a classic or traditional aesthetic, suitable for a variety of bedroom settings. The texture of the wood appears to be rough or unfinished, adding to its natural charm. The model is rendered against a plain grey background, highlighting the details of the bed itself.",
+    "color": [
+        "brown",
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.847,
+        "height": 0.735,
+        "length": 1.417,
+        "unit": "meters"
+    }
+}

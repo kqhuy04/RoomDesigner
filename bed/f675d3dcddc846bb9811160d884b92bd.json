@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "A minimalist white bed frame with a mattress covered in a striped duvet. The duvet features bold, horizontal stripes in shades of navy blue, orange, light blue, and white. A pillow with matching stripes is placed at the head of the bed. The bed appears to be a single-sized bed, ideal for a child's room or a small apartment. The simple design of the bed frame suggests a modern or Scandinavian aesthetic, while the colorful bedding adds a playful and vibrant touch. The shadows cast by the bed suggest it is placed on a flat, neutral surface.",
+    "color": [
+        "white",
+        "navy blue",
+        "orange",
+        "light blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "playful, minimalist",
+    "dimensions": {
+        "width": 1.999,
+        "height": 1.198,
+        "length": 3.807,
+        "unit": "meters"
+    }
+}

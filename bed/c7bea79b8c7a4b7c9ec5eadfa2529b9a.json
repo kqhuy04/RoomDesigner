@@ -1,0 +1,28 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a simple and modern bed, presented against a plain blue background. The bed consists of a dark brown, sturdy bed frame with four visible legs. A white mattress rests on the frame, topped with a light beige or off-white blanket that is casually draped, showing gentle folds and texture. A matching light-colored pillow is placed at the head of the bed. The overall design is very minimalist, focusing on clean lines and essential elements, suitable for a contemporary interior.",
+    "color": [
+        "dark brown",
+        "white",
+        "light beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom",
+        "dorm_room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric",
+        "foam"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.606,
+        "height": 1.045,
+        "length": 2.288,
+        "unit": "meters"
+    }
+}

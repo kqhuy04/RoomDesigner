@@ -1,0 +1,29 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a single bed, presented against a dark green background. The bed features a sturdy, light grey metal frame with a somewhat distressed or textured finish, particularly visible on the headboard and footboard which have a slatted design. It is equipped with a light beige mattress, a soft pink pillow placed at the head, and a military or olive green blanket neatly folded and draped over the foot end. The overall design is simple and functional, suggesting a utilitarian or basic sleeping arrangement.",
+    "color": [
+        "grey",
+        "beige",
+        "pink",
+        "olive green"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dorm room",
+        "barracks",
+        "hospital room"
+    ],
+    "style": "utilitarian",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "stark",
+    "dimensions": {
+        "width": 4.851,
+        "height": 2.225,
+        "length": 2.282,
+        "unit": "meters"
+    }
+}

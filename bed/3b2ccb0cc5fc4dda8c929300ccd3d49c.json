@@ -1,0 +1,25 @@
+{
+    "object": "bed",
+    "description": "A rustic and weathered metal bed frame, showing signs of age and use with rust patches and worn paint. The frame has a simple, utilitarian design with vertical bars at the headboard. It is fitted with a thin mattress covered in a textured, grey fabric. Draped over the mattress is a dark, patterned blanket, possibly plaid, adding a touch of texture and wear to the scene. The overall impression is one of disuse and a somewhat somber atmosphere.",
+    "color": [
+        "brown",
+        "grey",
+        "red",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "attic",
+        "storage"
+    ],
+    "style": "rustic",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "somber",
+    "dimensions": {
+        "width": 1.332,
+        "height": 1.303,
+        "length": 2.1,
+        "unit": "meters"
+    }
+}

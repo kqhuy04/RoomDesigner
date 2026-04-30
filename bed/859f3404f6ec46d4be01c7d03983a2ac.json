@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a twin-sized metal bed frame with a white mattress and bedding. The bed frame features ornate scrollwork on both the headboard and footboard, with a central decorative element on each. The posts at each corner are topped with small finials. The overall design suggests a vintage or romantic aesthetic. The bed is presented against a plain, light gray background, emphasizing its form and details.",
+    "color": [
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "vintage",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "romantic",
+    "dimensions": {
+        "width": 1.297,
+        "height": 1.159,
+        "length": 2.149,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a simple, sturdy wooden bed. The bed frame is constructed from rough-hewn, greyish-brown timber, featuring robust posts at each corner. Decorative rope details are integrated along the side rails, adding to its rustic charm. The bedding consists of a plain white sheet and pillow, topped by a textured green blanket. A subtle golden-yellow stripe runs across the upper edge of the sheet or blanket, providing a touch of accent color. The overall design suggests a functional, no-frills piece of furniture, reminiscent of medieval or fantasy settings, or a very traditional, handcrafted style. It appears to be a single or twin-sized bed.",
+    "color": [
+        "grey-brown",
+        "green",
+        "white",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guest room"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "fabric",
+        "rope"
+    ],
+    "usage": "functional",
+    "mood": "humble",
+    "dimensions": {
+        "width": 1.161,
+        "height": 0.661,
+        "length": 2.078,
+        "unit": "meters"
+    }
+}

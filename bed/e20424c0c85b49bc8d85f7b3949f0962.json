@@ -1,0 +1,25 @@
+{
+    "object": "bed",
+    "description": "A modern, queen-sized bed with a dark, intricately patterned headboard and a textured blue comforter. The headboard features a repeating geometric design with raised, rounded elements, adding a touch of sophisticated texture. The comforter is a rich, deep blue with a subtle woven pattern, creating a sense of depth and coziness. Two rectangular blue pillows are neatly arranged against the headboard. The bed frame itself appears to be a dark, possibly woven material that complements the headboard. The overall presentation is clean and elegant, suggesting a focus on comfort and style.",
+    "color": [
+        "blue",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 4.387,
+        "height": 1.997,
+        "length": 3.197,
+        "unit": "meters"
+    }
+}

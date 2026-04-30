@@ -1,0 +1,23 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a white bed with a floral duvet cover. The duvet features a repeating pattern of small, stylized flowers in shades of pink and red, with some white accents. The bed is presented as if made up, with the duvet neatly laid out. The overall impression is one of a cozy and inviting sleeping space, possibly for a child's room or a guest room, given the cheerful floral design. The clean white base of the bed contrasts nicely with the vibrant pattern of the duvet, creating a balanced aesthetic. The model is shown from a frontal perspective, slightly elevated, giving a clear view of the bedding.",
+    "color": [
+        "white",
+        "pink",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "kids room"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cheerful",
+    "dimensions": {
+        "width": 1.42,
+        "height": 0.182,
+        "length": 2.113,
+        "unit": "meters"
+    }
+}

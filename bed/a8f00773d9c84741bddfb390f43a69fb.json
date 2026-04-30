@@ -1,0 +1,23 @@
+{
+    "object": "bed",
+    "description": "A rustic wooden bed frame with a carved headboard and footboard. The bed is covered with a textured light-colored sheet and a deep blue blanket. The blanket is draped casually over the bed, with a portion folded down at the foot. Sunlight streams in from a window, casting strong shadows across the bed and the patterned tiled floor. The scene suggests a quiet, possibly aged, interior space, perhaps a bedroom in an older home or a room with a vintage aesthetic.",
+    "color": [
+        "brown",
+        "blue",
+        "beige",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "peaceful",
+    "dimensions": {
+        "width": 1.74,
+        "height": 1.22,
+        "length": 2.536,
+        "unit": "meters"
+    }
+}

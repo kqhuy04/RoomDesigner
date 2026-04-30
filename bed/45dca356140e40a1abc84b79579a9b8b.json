@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a modern bed, viewed from a top-down perspective. The bed features a sleek, minimalist design with a clean, white rectangular headboard. The duvet and pillows are rendered in a dark charcoal grey, creating a striking contrast with the white headboard. The overall impression is one of contemporary elegance and comfort, suitable for a modern bedroom. The simplicity of the design suggests a focus on functionality and clean lines, making it a versatile piece that could complement various interior design schemes.",
+    "color": [
+        "white",
+        "charcoal grey"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.671,
+        "height": 2.197,
+        "length": 1.067,
+        "unit": "meters"
+    }
+}

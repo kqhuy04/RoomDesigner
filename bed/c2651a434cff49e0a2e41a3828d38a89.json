@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a modern, low-profile bed with an integrated headboard and side tables. The bed frame and headboard are crafted from light brown wood, showcasing clean lines. The bed is dressed with a dark blue duvet or comforter featuring a repeating pattern of light blue bamboo stalks and stylized white Chinese characters. Two pillows with a minimalist, abstract pattern in beige and dark brown tones rest against the headboard. The overall design suggests a blend of modern aesthetics with strong East Asian influences.",
+    "color": [
+        "brown",
+        "dark blue",
+        "light blue",
+        "white",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern asian",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.004,
+        "height": 0.696,
+        "length": 2.303,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model preview of a multi-functional children's loft bed, rendered in a monochromatic light gray. The design integrates a raised sleeping platform, accessible via a small ladder, and features an exciting slide for descent. Beneath the elevated bed, there's a dedicated study area, complete with an integrated desk and a swiveling office chair. Adjacent to the desk, a series of open shelves provides storage space. On the opposite side, another set of shelves or steps is visible, offering additional utility. The model showcases a modern, space-saving design, perfect for maximizing room utility in a child's bedroom. Shadows are prominently cast, giving depth and a sense of form to the untextured surfaces.",
+    "color": [
+        "light gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "child's room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.048,
+        "height": 2.362,
+        "length": 4.191,
+        "unit": "meters"
+    }
+}

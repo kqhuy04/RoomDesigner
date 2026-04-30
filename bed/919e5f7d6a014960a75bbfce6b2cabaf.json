@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a minimalist wooden bed frame with a tufted mattress. The bed frame is made of dark wood, featuring a simple rectangular base and four legs. The headboard is tall and slatted, also made of dark wood, providing a clean and modern look. The mattress is white with a diamond tufted pattern, suggesting comfort and a classic design. The overall aesthetic is clean, understated, and functional, suitable for a contemporary bedroom.",
+    "color": [
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.594,
+        "height": 0.564,
+        "length": 0.697,
+        "unit": "meters"
+    }
+}

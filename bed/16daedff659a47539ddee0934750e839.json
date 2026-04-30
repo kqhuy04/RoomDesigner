@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "A minimalist, cartoonish bed with a simple yellow frame and a white headboard. The bed is made with a white sheet, a red pillow, and a bright teal comforter that has a gradient effect, transitioning from a lighter teal at the top to a deeper blue-green at the bottom. Next to the bed is a small, white nightstand with two drawers, also in a simplified, cartoon style. On top of the nightstand rests a small, red and white alarm clock with black hands and a stylized face. The overall aesthetic is clean, modern, and playful, with a focus on bold colors and simple geometric shapes.",
+    "color": [
+        "teal",
+        "blue",
+        "red",
+        "white",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.968,
+        "height": 1.081,
+        "length": 1.684,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a hospital bed, rendered with a minimalist, low-poly aesthetic. The bed features a gray frame and headboard, with a turquoise mattress and pillow. It is equipped with four black wheels, indicating mobility. The design is clean and functional, focusing on essential elements. The overall presentation is simple, set against a plain gray background, emphasizing the object itself without distractions.",
+    "color": [
+        "gray",
+        "turquoise",
+        "black"
+    ],
+    "appropriate_room": [
+        "hospital",
+        "clinic",
+        "bedroom"
+    ],
+    "style": "minimalist",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.163,
+        "height": 1.786,
+        "length": 1.513,
+        "unit": "meters"
+    }
+}

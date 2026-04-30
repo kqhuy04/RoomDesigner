@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a simple, low-poly model of a four-poster bed. The bed frame is made of brown wood with a headboard and footboard featuring simple, turned posts. The mattress is covered with white sheets, and a light blue duvet is neatly folded over it. A single white pillow rests at the head of the bed. The overall design is minimalist and appears to be a 3D render. It's depicted against a plain gray background.",
+    "color": [
+        "brown",
+        "white",
+        "blue",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.934,
+        "height": 0.819,
+        "length": 0.919,
+        "unit": "meters"
+    }
+}

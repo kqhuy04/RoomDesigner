@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model preview of a loft bed, designed with a white frame and a wooden ladder. The loft bed features a raised sleeping area, accessible by the ladder. Above the sleeping area, there's a structure resembling double doors, adding a unique architectural element. The bed is placed on a light wood-textured floor. This design suggests a modern and functional piece of furniture, potentially for a child's room or a small living space where maximizing vertical space is desired. The overall aesthetic is clean and contemporary, with a touch of natural warmth from the wooden ladder and door frame.",
+    "color": [
+        "white",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "kids room",
+        "studio apartment"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.253,
+        "height": 1.296,
+        "length": 3.145,
+        "unit": "meters"
+    }
+}

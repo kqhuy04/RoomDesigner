@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a twin-over-twin metal bunk bed with two mattresses. The frame is black and has a sturdy ladder attached to the side for access to the top bunk. The mattresses appear to be standard coiled spring type, with a white and grey patterned cover. The bunk bed is presented in a grayscale rendering, highlighting its industrial and utilitarian design. The shadow cast by the bed on the gray background emphasizes its form and placement. This type of bed is commonly found in dormitories, military barracks, children's rooms, or any space where maximizing sleeping capacity is a priority.",
+    "color": [
+        "black",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dormitory",
+        "shared room"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.106,
+        "height": 1.792,
+        "length": 0.935,
+        "unit": "meters"
+    }
+}

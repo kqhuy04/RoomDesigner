@@ -1,0 +1,20 @@
+{
+    "object": "bed",
+    "description": "This is a wireframe model of a rustic wooden bed with two pillows. The bed frame is sturdy and features a headboard and footboard with simple, angular designs. The mattress is covered with bedding, and two plump pillows rest at the head. The overall design suggests a functional and comfortable piece of furniture, likely intended for a bedroom. The wireframe rendering emphasizes the geometric structure and construction of the bed, showcasing its polygonal form.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.561,
+        "height": 0.215,
+        "length": 0.225,
+        "unit": "meters"
+    }
+}

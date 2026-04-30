@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D render of a simple, modern bed viewed from an elevated perspective against a plain light grey background. The bed features a dark purple headboard and frame. A light blue sheet is visible beneath two white or very light grey pillows. The majority of the bed is covered by a vibrant blue blanket with a distinct quilted or grid-like pattern. The overall aesthetic is clean and straightforward, suggesting a minimalist or low-poly design often found in digital art or game environments.",
+    "color": [
+        "purple",
+        "blue",
+        "white",
+        "light blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.732,
+        "height": 0.323,
+        "length": 0.71,
+        "unit": "meters"
+    }
+}

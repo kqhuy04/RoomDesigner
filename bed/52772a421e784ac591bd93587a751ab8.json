@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a 3D rendered image of a modern bed with a dark brown frame and headboard. The mattress is covered with a dark gray comforter, and there are two white pillows neatly placed at the head of the bed. A thin white line separates the mattress from the frame, adding a subtle visual detail. The bed is presented against a plain dark gray background, which emphasizes its form and structure. The overall design is minimalist and clean, suggesting a contemporary aesthetic.",
+    "color": [
+        "brown",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.048,
+        "height": 1.829,
+        "length": 4.267,
+        "unit": "meters"
+    }
+}

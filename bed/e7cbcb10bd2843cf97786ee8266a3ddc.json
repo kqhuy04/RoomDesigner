@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a modern wooden bed with a headboard and footboard. The bed is made of dark brown wood with a natural grain. It has a simple, minimalist design. The bedding is white with a pattern of light blue flowers. Two white pillows are placed at the head of the bed. The bed appears to be a queen-size or king-size bed. The overall aesthetic is clean and inviting, suitable for a bedroom setting.",
+    "color": [
+        "brown",
+        "white",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.84,
+        "height": 0.911,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

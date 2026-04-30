@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a modern bed featuring a crisp white frame and matching white bedding, including a textured bedspread and several pillows. It is designed with a minimalist aesthetic, contributing to a clean and tranquil room setting. The headboard area is integrated into a larger decorative wall panel depicting a shimmering blue water surface, which serves as a striking backdrop. A few accent pillows in darker tones (brown and black) add a subtle contrast to the predominantly white color scheme. The bed appears to be part of a twin bed setup, suggesting it's suitable for a shared or guest room, embodying a refreshing and serene atmosphere.",
+    "color": [
+        "white",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom",
+        "hotel room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "serene",
+    "dimensions": {
+        "width": 1.063,
+        "height": 1.063,
+        "length": 1.063,
+        "unit": "meters"
+    }
+}

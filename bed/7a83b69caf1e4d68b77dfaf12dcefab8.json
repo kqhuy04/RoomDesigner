@@ -1,0 +1,28 @@
+{
+    "object": "bed",
+    "description": "This is a two-tiered bunk bed with a white metal frame and a ladder. The top bunk has a brown blanket and a light blue pillow. The bottom bunk is partially visible and appears to have a light blue mattress. The beds are positioned next to a desk with a computer setup. The overall scene suggests a compact living space, possibly a dorm room or a small apartment.",
+    "color": [
+        "white",
+        "brown",
+        "blue",
+        "tan"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dormitory"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric",
+        "foam"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.2,
+        "height": 2.185,
+        "length": 2.106,
+        "unit": "meters"
+    }
+}

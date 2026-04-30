@@ -1,0 +1,29 @@
+{
+    "object": "bed",
+    "description": "This is a luxurious round bed featuring a large, ornate headboard upholstered in a light cream or off-white fabric. The headboard has a classic, elegant design with rounded edges and soft pleating or channeling. The bed is made up with crisp white bedding and a plaid throw blanket in shades of grey, blue, and brown draped over it. Four decorative pillows adorn the head of the bed: two vibrant blue, satin-like pillows and two larger yellow pillows with an intricate floral or damask pattern. The overall impression is one of comfort, elegance, and sophisticated design, making it a distinctive focal point for a bedroom.",
+    "color": [
+        "cream",
+        "white",
+        "blue",
+        "yellow",
+        "grey",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "master bedroom"
+    ],
+    "style": "classic luxury",
+    "material": [
+        "fabric",
+        "upholstery"
+    ],
+    "usage": "functional",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 2.658,
+        "height": 1.125,
+        "length": 2.698,
+        "unit": "meters"
+    }
+}

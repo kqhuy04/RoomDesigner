@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "A 3D model preview of a bed featuring a dark blue headboard and a comforter. The comforter is adorned with a vibrant, detailed graphic depicting an overgrown, abandoned city landscape integrated with a tropical beach scene. Structures appear to be partially consumed by lush green vegetation, with vines and trees growing over buildings and pathways. The scene transitions to a sandy beach with turquoise water lapping at the shore. The sky in the graphic is a bright blue with fluffy white clouds. The overall impression is a unique blend of urban decay and natural reclamation, set against a serene coastal backdrop.",
+    "color": [
+        "blue",
+        "green",
+        "brown",
+        "white",
+        "teal"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "fantasy",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "imaginative",
+    "dimensions": {
+        "width": 1.721,
+        "height": 1.086,
+        "length": 2.32,
+        "unit": "meters"
+    }
+}

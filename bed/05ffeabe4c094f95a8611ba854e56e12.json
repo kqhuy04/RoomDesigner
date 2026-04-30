@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This 3D model displays a pile of crumpled bedding, likely a blanket or duvet, resting on top of another piece of bedding. The top layer is a light beige or tan color with visible folds and creases, suggesting it's made of a soft fabric like cotton or fleece. It appears to be casually tossed rather than neatly arranged. Beneath this is a green fabric, possibly a sheet or a patterned blanket, decorated with dark green and pink heart shapes. The overall impression is of a cozy, lived-in item, perhaps recently used or waiting to be put away.",
+    "color": [
+        "green",
+        "pink",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "casual",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.781,
+        "height": 0.923,
+        "length": 1.295,
+        "unit": "meters"
+    }
+}

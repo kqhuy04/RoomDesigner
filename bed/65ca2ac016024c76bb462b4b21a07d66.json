@@ -1,0 +1,29 @@
+{
+    "object": "bed",
+    "description": "This 3D model appears to be a bed or a medical cot with a distinctive design. It features a prominent, large maroon-colored cover that envelops most of the structure, suggesting a mattress or a protective shroud. On the left side, a small portion of a white pillow or headrest is visible, peeking out from under the maroon covering. Below the maroon section, there is a black rectangular element, possibly a control panel or a structural support. The entire structure is supported by a visible gray leg on the left, which has a simple, sturdy design, and hints of another leg on the right side. The overall form is rectangular with slightly rounded corners on the maroon top. The simplicity of the design and the color palette suggest it might be intended for a clinical or functional setting, though its compact size could also make it suitable for a smaller room.",
+    "color": [
+        "maroon",
+        "black",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hospital",
+        "clinic"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.171,
+        "height": 0.981,
+        "length": 1.243,
+        "unit": "meters"
+    }
+}

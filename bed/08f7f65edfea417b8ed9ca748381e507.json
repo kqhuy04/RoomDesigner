@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a modern, minimalist wooden bed frame with a matching headboard. The bed is made with a light wood finish, giving it a natural and clean aesthetic. The mattress is covered in a neutral-toned fabric, and on top, there's a comforter with a subtle texture. A striking accent is the throw blanket draped across the foot of the bed, featuring bold green and white stripes, adding a touch of visual interest. Beside the bed, a small, matching wooden nightstand is present, equipped with two dark drawers and topped with a contemporary lamp and a mobile phone, suggesting functionality and comfort.",
+    "color": [
+        "light brown",
+        "beige",
+        "white",
+        "green",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.123,
+        "height": 0.9,
+        "length": 2.428,
+        "unit": "meters"
+    }
+}
