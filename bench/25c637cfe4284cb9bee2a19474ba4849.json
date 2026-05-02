@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "A rustic wooden bench is positioned against a textured stone wall, with a flagstone patio in the foreground. The bench is made from a substantial, weathered wooden beam, supported by two roughly hewn wooden blocks. The stone wall behind it is constructed from irregular, natural stones of varying sizes and colors, giving it an organic and aged appearance. The flagstone patio features large, flat stones with visible grout lines, suggesting an outdoor or patio setting. The overall scene evokes a sense of natural simplicity and enduring craftsmanship, fitting for a garden, courtyard, or rustic outdoor space.",
+    "color": [
+        "brown",
+        "gray",
+        "beige"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "stone"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 4.012,
+        "height": 1.863,
+        "length": 1.664,
+        "unit": "meters"
+    }
+}

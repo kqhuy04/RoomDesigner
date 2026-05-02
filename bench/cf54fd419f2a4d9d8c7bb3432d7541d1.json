@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a minimalist and sturdy bench, featuring a rectangular wooden seat and backrest. The wood has a visible grain, suggesting a natural finish. A dark, possibly metal, frame outlines the backrest and forms the four simple, angled legs. The overall design is clean and functional, suitable for seating multiple people. The bench is presented against a plain, light blue-grey background, indicative of a 3D model render.",
+    "color": [
+        "light brown",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "patio",
+        "garden",
+        "entryway",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "grounded",
+    "dimensions": {
+        "width": 3.7,
+        "height": 1.948,
+        "length": 1.387,
+        "unit": "meters"
+    }
+}

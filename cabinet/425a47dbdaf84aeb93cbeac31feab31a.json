@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a wooden dresser with a dark countertop and a mirror attached. It has multiple drawers and cabinets with dark metal handles. The dresser has a slightly curved front and appears to be on small wheels. The mirror has a distressed or antique look with a wooden frame that matches the dresser. The overall design suggests a piece of furniture that could be used for storage and as a vanity.",
+    "color": [
+        "brown",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 1.505,
+        "height": 1.867,
+        "length": 0.729,
+        "unit": "meters"
+    }
+}

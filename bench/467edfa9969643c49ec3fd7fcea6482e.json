@@ -1,0 +1,31 @@
+{
+    "object": "bench",
+    "description": "This is a low-poly 3D model of a park bench with two figures sitting on it, illuminated by a streetlamp. The figures, rendered in a blocky, pixelated style, are seated side-by-side. One figure wears a white t-shirt and blue pants, while the other wears a pink t-shirt and white pants. The bench itself is made of wooden planks. The streetlamp is dark gray with a yellow light fixture, casting a warm glow. The overall scene is set against a plain, gradient brown background. The style is reminiscent of early video games or a minimalist aesthetic.",
+    "color": [
+        "brown",
+        "gray",
+        "white",
+        "pink",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "park",
+        "garden"
+    ],
+    "style": "low-poly",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "peaceful",
+    "dimensions": {
+        "width": 0.41,
+        "height": 1.03,
+        "length": 1.02,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "bench",
+    "description": "This is a modern wooden bench with a curved design. The seat and backrest are constructed from horizontal wooden slats, giving it a slatted appearance. The frame and legs are made of metal, featuring elegant scrollwork at the base, adding a decorative touch. The overall design is sleek and contemporary, suitable for both indoor and outdoor use. Its ergonomic curve suggests comfort for seating. The wood grain is visible, indicating a natural material finish.",
+    "color": [
+        "brown",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "balcony",
+        "park",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.903,
+        "height": 1.266,
+        "length": 1.941,
+        "unit": "meters"
+    }
+}

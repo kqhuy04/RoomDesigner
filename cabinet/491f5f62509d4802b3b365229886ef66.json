@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow red cabinet with a gray top and base. It features two doors, each with a white, horizontally oriented handle. The cabinet has a clean, modern design and appears to be made of a smooth, solid material. The two doors suggest it is designed for storage, with the top door likely for items that are accessed less frequently or are perhaps decorative, and the bottom door for more general storage. Its slim profile makes it suitable for placement in kitchens, bathrooms, or other areas where space is at a premium.",
+    "color": [
+        "red",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bathroom",
+        "laundryroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.4,
+        "height": 1.41,
+        "length": 0.634,
+        "unit": "meters"
+    }
+}

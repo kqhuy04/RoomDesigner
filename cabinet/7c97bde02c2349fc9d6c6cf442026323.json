@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "A set of three vintage-style pixelated objects, reminiscent of early video games or a retro aesthetic. The largest is a tall, light blue cabinet with a wider base that has two drawers with yellow knobs. The upper part of the cabinet is a narrow, multi-shelf display case with grid-like openings, revealing a checkered pattern inside. To the right, a wall-mounted grandfather clock with a dark wood finish features a round clock face with visible hands. Below the clock is a small, teal-colored stool with a delicate, almost icy appearance, supported by thin, spindly legs. The overall presentation suggests a curated collection of decorative furniture pieces with a distinct pixelated charm.",
+    "color": [
+        "blue",
+        "brown",
+        "yellow",
+        "teal",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage and decorative",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.49,
+        "height": 0.51,
+        "length": 0.391,
+        "unit": "meters"
+    }
+}

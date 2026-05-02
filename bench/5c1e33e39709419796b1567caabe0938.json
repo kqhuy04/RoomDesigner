@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "This is a modern bench with a slatted wooden top and black metal legs. The wooden top is made of several planks with visible wood grain, giving it a natural and rustic feel. The planks are arranged parallel to each other, creating a linear texture. The black metal legs are simple and angular, providing a stark contrast to the warm tones of the wood. The bench appears to be sturdy and well-constructed, suitable for both indoor and outdoor use. Its minimalist design makes it versatile and able to complement a variety of decor styles.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "outdoor"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.8,
+        "height": 0.45,
+        "length": 0.597,
+        "unit": "meters"
+    }
+}

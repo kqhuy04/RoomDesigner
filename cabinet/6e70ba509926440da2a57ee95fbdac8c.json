@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "A 3D rendered image of a classic arcade game cabinet. The cabinet is primarily a vibrant purple color, with a black screen displaying the words 'GAME OVER' in red, pixelated text. It features two red joysticks and two pink buttons on the control panel. The design is simple and geometric, evoking a retro gaming aesthetic. The cabinet stands on its own with a subtle shadow cast behind it, indicating a single light source from the front-right. The overall presentation is clean and stylized, suitable for a minimalist or themed environment.",
+    "color": [
+        "purple",
+        "black",
+        "red",
+        "pink"
+    ],
+    "appropriate_room": [
+        "game room",
+        "living room",
+        "basement",
+        "entertainment room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.472,
+        "height": 0.844,
+        "length": 0.362,
+        "unit": "meters"
+    }
+}

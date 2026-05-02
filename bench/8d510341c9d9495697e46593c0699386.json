@@ -1,0 +1,26 @@
+{
+    "object": "bench",
+    "description": "This is a dark gray bench with a cushioned top and two drawers. The drawers have a recessed panel design, adding a touch of subtle detail to the otherwise minimalist form. The bench appears to be made of wood, with a textured fabric covering the seat. Its compact size suggests it would be suitable for smaller spaces, such as an entryway or a bedroom, providing both seating and storage.",
+    "color": [
+        "gray",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "entryway",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "storage, seating",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.024,
+        "height": 2.326,
+        "length": 4.88,
+        "unit": "meters"
+    }
+}

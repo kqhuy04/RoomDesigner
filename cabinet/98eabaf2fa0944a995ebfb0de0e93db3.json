@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a three-door cabinet rendered in a neutral, matte gray. The front features three vertical panels, suggesting distinct compartments or drawers within. The design is clean and minimalist, with subtle grooves delineating the panels. The cabinet has a rectangular form with sharp edges and appears to be a freestanding unit. Its simple, unadorned aesthetic makes it versatile for various interior design schemes. The overall impression is one of functional simplicity and modern design. The lighting casts soft shadows, highlighting the geometric form of the cabinet and its smooth surfaces. It seems to be placed against a plain, light gray background.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.667,
+        "height": 0.701,
+        "length": 0.328,
+        "unit": "meters"
+    }
+}

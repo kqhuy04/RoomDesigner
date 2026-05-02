@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a beautifully carved wooden cabinet with double doors. The doors feature intricate relief carvings of figures and ornate scrolling motifs. It has a drawer at the bottom with a small knob and rests on carved, rounded feet. The wood has a warm, natural finish, highlighting the grain and the detailed craftsmanship. The overall design suggests a piece of antique or traditional furniture, likely meant to be a statement piece in a room.",
+    "color": [
+        "brown",
+        "wood tones"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.668,
+        "height": 2.103,
+        "length": 1.154,
+        "unit": "meters"
+    }
+}

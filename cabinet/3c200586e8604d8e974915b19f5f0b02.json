@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a two-door cabinet with two glass-fronted display shelves on top. The bottom doors have sleek, modern handles, and the overall design is minimalist and functional. The cabinet stands on thin metal legs, with one of the back legs having a wheel, suggesting it might be on casters for easy movement. The contrasting colors of the bottom doors, one a muted brown and the other a dark gray, add a subtle design element. This cabinet appears to be a versatile piece of furniture, suitable for various storage and display needs.",
+    "color": [
+        "gray",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.933,
+        "height": 1.73,
+        "length": 0.461,
+        "unit": "meters"
+    }
+}

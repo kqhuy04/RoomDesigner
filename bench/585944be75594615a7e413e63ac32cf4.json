@@ -1,0 +1,24 @@
+{
+    "object": "bench",
+    "description": "A modern, minimalist bench with a stone-like texture. It features two distinct rectangular openings, suggesting it might serve as a seating area with built-in storage or display compartments. The angled sides and the slight inward curve at the base give it a contemporary and somewhat futuristic appearance. The material appears to be a durable, possibly concrete or stone composite, lending it a solid and stable feel. The overall design is sleek and functional, suitable for both indoor and outdoor spaces.",
+    "color": [
+        "grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "garden",
+        "entryway",
+        "patio"
+    ],
+    "style": "modern",
+    "material": "stone composite",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.524,
+        "height": 0.864,
+        "length": 0.406,
+        "unit": "meters"
+    }
+}

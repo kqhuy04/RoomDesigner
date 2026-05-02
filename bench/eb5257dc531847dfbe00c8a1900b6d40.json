@@ -1,0 +1,22 @@
+{
+    "object": "bench",
+    "description": "This is a wooden bench designed for outdoor use. It features a slatted seat and backrest, supported by sturdy wooden legs and armrests. The design is simple and functional, typical of garden or park furniture. The wood has a visible grain texture, suggesting it's made from a natural material like pine or cedar, and it appears to be treated for weather resistance. The overall aesthetic is rustic and durable, intended to provide comfortable seating in an outdoor environment.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "balcony"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.707,
+        "height": 0.955,
+        "length": 1.363,
+        "unit": "meters"
+    }
+}

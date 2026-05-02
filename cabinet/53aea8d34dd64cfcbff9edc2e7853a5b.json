@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "A modern, minimalist cabinet with a sleek design. It features two open drawers at the top, revealing their interiors, and two cabinet doors at the bottom, also open, showcasing two shelves. The cabinet is supported by slender, angled legs with gold accents, adding a touch of elegance. The overall aesthetic is clean and sophisticated, making it a functional and stylish piece of furniture. Its compact size suggests it would be suitable for various spaces.",
+    "color": [
+        "gray",
+        "gold",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.9,
+        "height": 1.2,
+        "length": 0.468,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a wooden cabinet with a traditional design. It features several drawers at the top, each with an ornate metal handle. Below the drawers is a section with multiple small compartments, suitable for storage or display. The bottom half of the cabinet has two doors, also made of wood, with a prominent metal clasp in the center. The overall construction suggests a piece of furniture designed for both functionality and aesthetic appeal, likely used to store various items or as a decorative element in a room. The wood grain is visible, adding to its natural and classic look.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.757,
+        "height": 0.115,
+        "length": 0.757,
+        "unit": "meters"
+    }
+}

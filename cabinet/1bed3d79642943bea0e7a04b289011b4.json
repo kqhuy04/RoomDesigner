@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A wooden cabinet with a rustic, farmhouse-inspired design. It features three drawers across the top, each with a circular wooden knob. Below the drawers are two louvered cabinet doors on either side, revealing storage space behind them. In the center, between the cabinet doors, are two open shelves. The overall construction appears sturdy and functional, made from light-colored wood with a visible grain pattern. The design suggests a blend of traditional craftsmanship and practical storage solutions, suitable for a variety of home decors.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "farmhouse",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.709,
+        "height": 0.915,
+        "length": 0.486,
+        "unit": "meters"
+    }
+}

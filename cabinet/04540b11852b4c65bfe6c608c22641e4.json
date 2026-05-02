@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a classic wooden dresser with two columns of drawers. The wood appears to be a dark, rich tone, giving it a sense of solidity and traditional design. Each drawer has a simple, metallic pull, suggesting a functional and understated aesthetic. The dresser has a rectangular top surface, suitable for placing items like a lamp, books, or decorative objects. Its overall form is straightforward and utilitarian, designed for practical storage of clothing or other household items. The dark wood and simple hardware point towards a piece that would fit well in various bedroom settings, offering both utility and a touch of warmth.",
+    "color": [
+        "brown",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.808,
+        "height": 0.946,
+        "length": 0.579,
+        "unit": "meters"
+    }
+}

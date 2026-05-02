@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a narrow, tall cabinet with a wooden finish. The cabinet features a rustic wood grain texture, with visible lines and variations in the wood. It appears to be constructed from several planks of wood joined together. The cabinet stands on two thin, dark-colored legs that extend downwards. The overall design is simple and functional, with a focus on the natural material. The dimensions suggest it might be suitable for holding various items or as a decorative accent piece in a room.",
+    "color": [
+        "brown",
+        "tan",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.588,
+        "height": 0.706,
+        "length": 0.441,
+        "unit": "meters"
+    }
+}

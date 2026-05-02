@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A rustic wooden dresser with a weathered finish, featuring multiple drawers and an open shelving unit in the center. The wood grain is prominent, giving it a natural and organic feel. The handles on the drawers are dark metal, adding a contrasting touch to the wooden surfaces. This piece appears to be designed for storage and display, likely serving as a functional item in a bedroom or living area. Its design suggests a connection to country or farmhouse aesthetics, emphasizing durability and a timeless quality.",
+    "color": [
+        "brown",
+        "tan",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.341,
+        "height": 0.942,
+        "length": 0.904,
+        "unit": "meters"
+    }
+}

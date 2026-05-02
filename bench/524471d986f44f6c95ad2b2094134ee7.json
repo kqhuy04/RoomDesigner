@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a rustic workbench constructed from plywood, featuring several shelves for storage and a sturdy surface for work. The wood grain is prominent, showcasing its natural texture and unfinished appearance. The workbench is supported by two metal sawhorses, adding a utilitarian and industrial feel. Various items, including cardboard boxes (one with a Dell logo and another with an Epson logo), are placed around and under the workbench, suggesting a workshop or storage area. The overall aesthetic is utilitarian and practical, designed for functionality rather than elaborate design.",
+    "color": [
+        "brown",
+        "wood",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "garage",
+        "workshop",
+        "basement"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 1.258,
+        "height": 2.577,
+        "length": 3.423,
+        "unit": "meters"
+    }
+}

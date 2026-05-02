@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "A set of two wooden cabinets with a rustic, medieval-inspired design. Both cabinets are constructed from planks of dark brown wood, with visible wood grain textures. They feature metal hardware, including hinges and handles, that appear somewhat aged and distressed. The larger cabinet on the right has two doors, each adorned with multiple metal straps and handles, and it stands on angled legs. The smaller cabinet on the left is a chest-like unit with two doors and similar metal detailing. Behind the doors of both cabinets, visible shelves are present, suggesting storage utility. The overall aesthetic evokes a sense of old-world craftsmanship and durability.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen",
+        "study"
+    ],
+    "style": "medieval",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 0.731,
+        "height": 0.273,
+        "length": 0.517,
+        "unit": "meters"
+    }
+}

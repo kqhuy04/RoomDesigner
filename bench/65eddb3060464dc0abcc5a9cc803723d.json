@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "This is a wooden bench designed with multiple slats for both the seat and backrest. The slats are horizontally arranged and have a curved, modern aesthetic, particularly noticeable in the way the seat curves around the sides. The wood appears to have a rich, dark finish with visible grain, suggesting a natural and durable material. The bench is supported by simple, dark metal legs. It is situated on a wooden boardwalk in a serene, natural environment with tall trees in the background, hinting at an outdoor setting like a park or forest trail.",
+    "color": [
+        "brown",
+        "dark brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.252,
+        "height": 0.896,
+        "length": 0.872,
+        "unit": "meters"
+    }
+}

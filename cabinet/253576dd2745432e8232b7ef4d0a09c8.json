@@ -1,0 +1,22 @@
+{
+    "object": "cabinet",
+    "description": "A minimalist white dresser viewed from the side. It has a clean, modern design with three visible drawers, each featuring a simple spherical knob. The top surface is flat and rectangular, with a slightly raised edge. The overall form is sleek and unobtrusive, emphasizing functionality and a clutter-free aesthetic. The smooth, matte white finish contributes to its contemporary appearance, making it suitable for various modern interior designs.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.588,
+        "height": 4.006,
+        "length": 2.682,
+        "unit": "meters"
+    }
+}

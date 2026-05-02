@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A small, antique-style wooden cabinet with a decorative top. It features two small drawers at the top, each with ornate handles and inlaid designs. Below the drawers is a single cabinet door with a similar decorative inlay and a round knob for opening. The cabinet appears to be made of dark, richly grained wood, possibly mahogany or walnut, with metallic accents on the hardware and decorative elements. The overall design suggests a vintage or old-world aesthetic, suitable for storing small items or as a decorative accent piece.",
+    "color": [
+        "brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "study"
+    ],
+    "style": "antique",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.086,
+        "height": 2.0,
+        "length": 0.976,
+        "unit": "meters"
+    }
+}

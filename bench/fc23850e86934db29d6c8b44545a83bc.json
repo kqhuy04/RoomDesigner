@@ -1,0 +1,23 @@
+{
+    "object": "bench",
+    "description": "This is a pair of classic green wooden benches, likely designed for outdoor use in a park, garden, or patio setting. Each bench features a slatted seat and a slatted backrest supported by vertical spindles. The benches have a simple, sturdy construction with a traditional design, consisting of a seat, back, and legs connected by horizontal supports. The green color suggests a weathered or natural aesthetic, blending well with outdoor environments. The overall appearance is functional and enduring, suitable for providing seating in a natural or landscaped setting.",
+    "color": [
+        "green",
+        "brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.728,
+        "height": 0.134,
+        "length": 0.074,
+        "unit": "meters"
+    }
+}

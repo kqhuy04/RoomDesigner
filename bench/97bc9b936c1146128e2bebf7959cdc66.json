@@ -1,0 +1,24 @@
+{
+    "object": "bench",
+    "description": "This is a simple, modern bench with a backrest. It appears to be made of wood for the seat and back, supported by dark, slender legs. The design is clean and uncluttered, suggesting it's intended for practical use in a variety of settings. The smooth surfaces and straightforward construction point to a contemporary aesthetic. It's a versatile piece of furniture that could serve as seating in an entryway, a garden, or even a minimalist living space.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "garden",
+        "livingroom",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.286,
+        "height": 1.486,
+        "length": 0.838,
+        "unit": "meters"
+    }
+}

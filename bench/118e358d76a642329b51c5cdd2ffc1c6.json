@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a modern, outdoor bench designed with a unique, angular metal frame and a wooden slatted seating and backrest. The metal frame has a matte, textured finish and forms a striking V-shape at each end, providing a sturdy and contemporary base. The wooden slats are light brown with a visible grain, arranged horizontally to create a comfortable and visually appealing surface. The bench's design is minimalist and functional, suitable for public spaces, parks, or modern garden settings. Its angled structure adds a dynamic element, distinguishing it from traditional bench designs. The combination of natural wood and industrial metal creates a balanced aesthetic that is both durable and stylish.",
+    "color": [
+        "brown",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "park",
+        "public space"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.14,
+        "height": 1.14,
+        "length": 1.056,
+        "unit": "meters"
+    }
+}

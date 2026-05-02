@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow, open cabinet with an interior visible. The cabinet has a wooden exterior with a natural wood grain pattern. The interior features multiple shelves, also with a wood grain finish, against a plain white background. One door of the cabinet is open, revealing the interior shelves. The door itself has a contrasting design, with a distressed wood effect in lighter tones, giving it a rustic or weathered appearance. The overall design is minimalist and functional, emphasizing storage space within a compact footprint.",
+    "color": [
+        "brown",
+        "white",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "bedroom",
+        "livingroom",
+        "kitchen",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.582,
+        "height": 2.019,
+        "length": 0.451,
+        "unit": "meters"
+    }
+}

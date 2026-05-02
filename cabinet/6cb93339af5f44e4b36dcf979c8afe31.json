@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "This is a vintage wooden cabinet with an open shelving unit on top and a base with drawers and doors. The shelves are divided into two vertical sections, each with multiple horizontal levels, ideal for displaying books, decor, or other items. Below the shelving unit, there are three drawers with small brass knobs, followed by three cabinet doors, also with brass handles. The wood appears to be aged, with visible grain and a distressed finish, giving it a rustic and historical feel. The overall design suggests it could be a hutch, a Welsh dresser, or a large sideboard.",
+    "color": [
+        "brown",
+        "dark brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "kitchen",
+        "hallway"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 2.103,
+        "height": 2.221,
+        "length": 0.559,
+        "unit": "meters"
+    }
+}

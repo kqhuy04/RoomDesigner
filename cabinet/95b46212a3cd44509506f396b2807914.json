@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "A heavily ornate, dark wood cabinet with a pointed, almost crown-like top structure. The wood appears aged and weathered, with visible grain and a distressed, metallic sheen that suggests it might be treated or aged. The cabinet has glass panels on the front, one of which is ajar, revealing a dark interior with hints of what might be reflective elements or objects within. The overall design is intricate, with carved details and a somewhat Gothic or fantasy-inspired aesthetic. The cabinet is tall and appears to be designed for display or storage, with its unique top adding a dramatic flourish.",
+    "color": [
+        "brown",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom"
+    ],
+    "style": "gothic",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage, decorative",
+    "mood": "mysterious, antique",
+    "dimensions": {
+        "width": 1.181,
+        "height": 2.866,
+        "length": 1.288,
+        "unit": "meters"
+    }
+}

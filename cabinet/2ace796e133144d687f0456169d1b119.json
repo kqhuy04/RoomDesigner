@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow cabinet with a warm wood top and a light gray body. It features two upper doors with woven cane inserts and two wooden knobs, suggesting a display or storage area. Below these doors are four drawers, each with a simple wooden handle, indicating functional storage space. The cabinet stands on four tapered wooden legs, giving it a slightly elevated and airy appearance. The overall design is clean and modern with a touch of natural texture from the cane and wood.",
+    "color": [
+        "gray",
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "cane",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "natural, minimalist, warm",
+    "dimensions": {
+        "width": 0.804,
+        "height": 1.102,
+        "length": 0.42,
+        "unit": "meters"
+    }
+}

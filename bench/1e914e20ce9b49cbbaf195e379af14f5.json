@@ -1,0 +1,24 @@
+{
+    "object": "bench",
+    "description": "This 3D model depicts a modern, sculptural bench made of wood, with a unique, flowing shape. The bench has an organic form, wider in the middle and tapering towards the ends, with a subtle curve on the seating surface. Intricate, stylized carvings adorn the front of the bench, adding a touch of artistry. A white, mannequin-like figure is seated on the bench, demonstrating its use and scale. Another segment of the bench is visible to the right, suggesting it might be part of a modular design or a separate piece. The overall presentation is minimalist, with a neutral background that highlights the form and texture of the wood.",
+    "color": [
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "garden",
+        "patio"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.118,
+        "height": 0.314,
+        "length": 1.118,
+        "unit": "meters"
+    }
+}

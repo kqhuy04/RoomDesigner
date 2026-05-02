@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a richly detailed, dark wood cabinet with a prominent arched recess in the center, flanked by symmetrical drawers. The cabinet features a traditional design with carved drawer pulls and decorative trim. It stands on four carved legs, adding an elegant touch. The wood grain is pronounced, suggesting a high-quality finish. The central archway offers a space for display or can be a decorative element itself. The overall construction appears sturdy and designed for both functionality and aesthetic appeal.",
+    "color": [
+        "dark brown",
+        "bronze"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.881,
+        "height": 0.76,
+        "length": 0.564,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "A three-drawer dresser with a light wood grain finish. The dresser has simple, round black knobs on each drawer. The top surface is flat and dark, contrasting with the lighter wood of the drawers and frame. The overall design is minimalist and functional, suitable for a variety of bedroom styles. It stands on four short, square legs.",
+    "color": [
+        "light brown",
+        "dark grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.586,
+        "height": 0.966,
+        "length": 1.08,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a rustic bench carved from a substantial log. The interior of the log forms the seat and backrest, which are adorned with detailed relief carvings depicting several wild animals, possibly wolves or dogs, in motion. The exterior retains the natural texture of the bark, adding to its organic appeal. The bench is supported by two sturdy, rough-hewn bases. It is presented on a segment of ground featuring exposed earth, rocks, and patches of green grass, indicative of an outdoor or natural environment. The overall design emphasizes natural materials and a handcrafted aesthetic.",
+    "color": [
+        "brown",
+        "grey",
+        "green",
+        "earth tones"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "park",
+        "garden",
+        "forest_path"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 4.365,
+        "height": 1.499,
+        "length": 2.475,
+        "unit": "meters"
+    }
+}

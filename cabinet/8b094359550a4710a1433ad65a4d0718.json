@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "A modern, white filing cabinet with a grey granite-patterned countertop and three drawers. Each drawer has a sleek, silver handle. The cabinet is supported by small, clear casters, indicating it is mobile. Its clean lines and neutral color palette suggest it would fit well in a variety of office or home environments, providing functional storage with a contemporary aesthetic. The granite top adds a touch of sophistication and practicality, offering a durable surface.",
+    "color": [
+        "white",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "livingroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "stone"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.56,
+        "height": 0.915,
+        "length": 0.621,
+        "unit": "meters"
+    }
+}

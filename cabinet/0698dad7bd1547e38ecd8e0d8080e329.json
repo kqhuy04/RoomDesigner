@@ -1,0 +1,30 @@
+{
+    "object": "cabinet",
+    "description": "This is a stylized wooden cabinet, likely designed for a fantasy or adventure-themed setting. It features a prominent red draped cloth on top, with a sword resting on a wooden block. The cabinet itself has multiple open shelves displaying various items such as rolled scrolls, books, a quill, and what appears to be a cooking pot and a lens or similar round object. The wood has a warm, reddish-brown tone and a slightly worn, textured appearance. Metal accents, such as hinges and decorative strips, add a touch of detail and durability. The overall design is somewhat whimsical and appears to be a functional piece for storing adventuring gear or supplies.",
+    "color": [
+        "brown",
+        "red",
+        "silver",
+        "yellow",
+        "purple"
+    ],
+    "appropriate_room": [
+        "fantasy room",
+        "game room",
+        "study"
+    ],
+    "style": "fantasy",
+    "material": [
+        "wood",
+        "metal",
+        "fabric"
+    ],
+    "usage": "storage",
+    "mood": "adventurous",
+    "dimensions": {
+        "width": 1.605,
+        "height": 2.048,
+        "length": 0.796,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "This is a dark brown dresser with three drawers. Each drawer has a round, brass knob. The dresser has a simple, rectangular design with a flat top and four tapered legs. The wood has a subtle grain texture, giving it a classic and slightly rustic appearance. The brass knobs add a touch of elegance and contrast nicely with the dark wood. This piece of furniture is designed for storage and would fit well in a bedroom or dressing room.",
+    "color": [
+        "brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.707,
+        "height": 0.521,
+        "length": 0.418,
+        "unit": "meters"
+    }
+}

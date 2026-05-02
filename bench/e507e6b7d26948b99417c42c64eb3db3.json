@@ -1,0 +1,26 @@
+{
+    "object": "bench",
+    "description": "This is a modern-style bench with a minimalist design. It features a sleek, angular frame constructed from dark metal, supporting two light orange seating surfaces. The longer seating area is horizontal, while a shorter, vertical panel is integrated into the right side, suggesting a partially enclosed or segmented seating arrangement. The clean lines and simple color palette create a contemporary and understated aesthetic, making it a versatile piece for various settings.",
+    "color": [
+        "orange",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "patio",
+        "waiting room",
+        "hallway",
+        "lobby"
+    ],
+    "style": "modern",
+    "material": "metal, wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.746,
+        "height": 1.448,
+        "length": 0.762,
+        "unit": "meters"
+    }
+}

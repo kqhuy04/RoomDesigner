@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a wooden cabinet with a rich, reddish-brown finish. It features a central open shelf space, perfect for media devices or decorative items. Below the open shelf is a single drawer with a small, dark knob for easy access. Flanking the central section are two cabinet doors, each also with a small, dark knob. The cabinet stands on four slightly tapered legs, adding a touch of traditional design. The overall construction suggests it's designed for longevity and practical use, likely serving as a media console or storage unit in a living area or entertainment room.",
+    "color": [
+        "brown",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.6,
+        "height": 0.62,
+        "length": 0.45,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "bench",
+    "description": "A wooden bench with a slatted backrest featuring three panels, each adorned with a prominent cross symbol. The bench has a simple, sturdy design with armrests and a long seating area, supported by robust legs. The wood grain is visible, suggesting a natural and perhaps rustic aesthetic. This bench appears to be designed for seating, potentially in a place of worship, a garden, or as a decorative piece with a spiritual theme.",
+    "color": [
+        "wood brown",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "garden",
+        "livingroom",
+        "church"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "peaceful",
+    "dimensions": {
+        "width": 1.024,
+        "height": 1.213,
+        "length": 2.537,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "This is a dark, industrial-style bench with a slatted backrest and two hinged doors at the front, revealing a storage compartment. The frame and legs appear to be made of a mottled, weathered metal, giving it a rugged and slightly aged look. The seat and the doors are a dark, almost black material with a marble-like pattern, adding a touch of contrasting texture. The overall design suggests a piece of furniture that is both functional for seating and provides hidden storage, suitable for an outdoor space, a utility area, or a room with a minimalist or industrial aesthetic. Its sturdy construction implies durability.",
+    "color": [
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garage",
+        "entryway",
+        "hallway"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "stone"
+    ],
+    "usage": "storage",
+    "mood": "rugged",
+    "dimensions": {
+        "width": 1.462,
+        "height": 1.362,
+        "length": 1.104,
+        "unit": "meters"
+    }
+}

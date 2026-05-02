@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern, minimalist wooden cabinet with an open shelf at the top and a drawer below. The cabinet is constructed from light-colored wood with a visible grain pattern, giving it a natural and warm aesthetic. The design is clean and functional, with a sturdy base that elevates the main unit. The open shelf provides an area for display or easy access to items, while the drawer offers concealed storage. This piece of furniture is designed to be both practical and visually appealing, fitting seamlessly into contemporary interior designs.",
+    "color": [
+        "light brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.88,
+        "height": 0.84,
+        "length": 0.9,
+        "unit": "meters"
+    }
+}

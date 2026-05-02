@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a three-drawer dresser with a dark wood finish and brass hardware. The dresser is rectangular in shape with clean lines and stands on four tapered legs. Each drawer has a horizontal brass pull. The overall design is simple and modern, making it a versatile piece that can fit into various decor styles. The dark wood and brass combination lends a touch of elegance and sophistication. The dresser appears to be made of solid wood and the brass handles suggest quality craftsmanship. It's a functional piece for storing clothes or other items.",
+    "color": [
+        "dark brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.707,
+        "height": 0.521,
+        "length": 0.425,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a simple cabinet or counter. It has a clean, minimalist design with a light-colored, slightly curved top surface. The main body of the cabinet is a light gray, appearing to be made of a solid material with a subtle texture that suggests a slightly aged or weathered finish, possibly concrete or a similar material. The front of the cabinet features a cut-out or an open space at the bottom, creating a sense of leg or support structure. The overall form is rectangular and appears sturdy. The object is presented against a plain, neutral gray background, highlighting its form and texture.",
+    "color": [
+        "white",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bathroom",
+        "storage room",
+        "workshop"
+    ],
+    "style": "minimalist",
+    "material": [
+        "concrete",
+        "stone"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.447,
+        "height": 0.439,
+        "length": 0.56,
+        "unit": "meters"
+    }
+}

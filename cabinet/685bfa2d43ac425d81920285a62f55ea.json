@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a small, modern cabinet with a wooden frame and a glass door. It features a single shelf inside and a small, silver knob for opening. The wood has a visible grain texture, giving it a natural and slightly rustic feel. The rounded edges of the frame add a touch of softness to its otherwise geometric form. Its compact size makes it suitable for various spaces where a bit of storage or display is needed without taking up too much room. The transparent door allows for visibility of the items stored inside, making it both functional and aesthetically pleasing.",
+    "color": [
+        "brown",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.7,
+        "length": 0.618,
+        "unit": "meters"
+    }
+}
