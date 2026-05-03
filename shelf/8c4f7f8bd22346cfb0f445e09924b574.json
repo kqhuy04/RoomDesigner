@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "A two-tiered, freestanding bookshelf with a simple, modern design. The frame is a warm, reddish-brown color and appears to be made of wood. Each shelf holds a collection of books with brightly colored spines, suggesting a playful or educational context. The books are arranged in a somewhat haphazard manner, but their varied colors add visual interest. The overall aesthetic is clean and functional, suitable for a variety of indoor spaces.",
+    "color": [
+        "brown",
+        "blue",
+        "orange",
+        "purple",
+        "red",
+        "green",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "studyroom",
+        "classroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "organized",
+    "dimensions": {
+        "width": 2.107,
+        "height": 4.213,
+        "length": 2.107,
+        "unit": "meters"
+    }
+}

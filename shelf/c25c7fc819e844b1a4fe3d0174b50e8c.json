@@ -1,0 +1,30 @@
+{
+    "object": "shelf",
+    "description": "This 3D model showcases a wall-mounted shelf, prominently featuring an industrial-rustic design aesthetic. The main surface consists of a single, thick plank of wood, characterized by its distressed texture, visible grain, and slightly worn appearance, suggesting an aged or reclaimed material. Supporting this wooden slab are two vertical metal pipes, which extend downwards. These pipes, along with all other metal components, are finished in a dark grey, almost black hue with a textured, rugged surface, reminiscent of cast iron or weathered steel. Beneath the wooden shelf, a horizontal metal pipe forms a hanging bar, connected to the vertical supports via various elbows and flanges. The entire structure exudes a sturdy, utilitarian charm, combining practical storage with a distinct stylistic presence.",
+    "color": [
+        "brown",
+        "dark grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "entryway",
+        "livingroom",
+        "office"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "rugged",
+    "dimensions": {
+        "width": 0.892,
+        "height": 0.872,
+        "length": 2.204,
+        "unit": "meters"
+    }
+}

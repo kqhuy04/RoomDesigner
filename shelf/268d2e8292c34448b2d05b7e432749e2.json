@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "A tall, four-tiered industrial-style shelving unit constructed from dark metal. The frame consists of vertical posts and horizontal beams, with diagonal cross-bracing on the sides for added stability. Each shelf is a flat rectangular surface, also made of metal, with a slightly textured, matte finish. The overall design is utilitarian and robust, suggesting durability and a practical purpose. The clean lines and dark color give it a modern, somewhat minimalist aesthetic.",
+    "color": [
+        "black",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "garage",
+        "storage room",
+        "basement",
+        "workshop",
+        "industrial kitchen"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.64,
+        "height": 2.32,
+        "length": 2.24,
+        "unit": "meters"
+    }
+}

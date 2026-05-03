@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "A tall, brown wooden bookshelf with multiple shelves and two cabinets at the bottom. The top shelf holds a globe. The second shelf displays several red-spined books. The third shelf has a stack of white papers, a small black object, and more red-spined books. The fourth shelf contains two stacks of books, a small glass dome with a figure inside, and a pencil. The cabinets below have yellow knobs.",
+    "color": [
+        "brown",
+        "red",
+        "white",
+        "blue",
+        "green",
+        "yellow",
+        "black"
+    ],
+    "appropriate_room": [
+        "study",
+        "library",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "academic",
+    "dimensions": {
+        "width": 0.109,
+        "height": 0.512,
+        "length": 0.275,
+        "unit": "meters"
+    }
+}

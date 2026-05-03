@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a simple, freestanding bookshelf with four shelves. The bookshelf is constructed from wood and has a rustic, slightly distressed finish. The shelves are evenly spaced, providing ample storage or display space. The overall design is straightforward and functional, making it suitable for a variety of settings. The bookshelf appears to be of medium size, easily fitting into a room without dominating the space. Its neutral wood tone allows it to blend with various color schemes and interior designs. It looks solid and stable, capable of holding a decent amount of weight.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.61,
+        "height": 2.106,
+        "length": 1.376,
+        "unit": "meters"
+    }
+}

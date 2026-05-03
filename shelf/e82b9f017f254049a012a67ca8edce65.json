@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, abstract wooden shelf unit with an interlocking geometric design. It features two rectangular frames that are offset from each other, creating a dynamic and visually interesting arrangement. The wood has a natural grain pattern, suggesting it's made of solid wood or a high-quality veneer. The shelves themselves are integrated into the frames, offering distinct areas for display or storage. The design is minimalist yet striking, with clean lines and a focus on form. The reflection in the central portion suggests it might be designed to hold a mirror or is placed against a reflective surface, adding to its contemporary aesthetic.",
+    "color": [
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.5,
+        "height": 0.5,
+        "length": 0.14,
+        "unit": "meters"
+    }
+}

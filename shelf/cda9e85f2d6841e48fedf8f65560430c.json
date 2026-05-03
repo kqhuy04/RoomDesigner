@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, slender bookshelf crafted from dark, reddish-brown wood, displaying a prominent wood grain. The unit features a distinct top compartment or shelf and four evenly spaced open shelves below, providing ample storage and display opportunities. Its design is characterized by clean, straight lines and a minimalist aesthetic, suggesting a modern or contemporary style. The bookshelf stands on two short, integrated legs, slightly elevating it from the floor. The rich wood tone and functional layout make it a versatile piece for organizing and showcasing items in various rooms.",
+    "color": [
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.91,
+        "height": 1.695,
+        "length": 0.436,
+        "unit": "meters"
+    }
+}

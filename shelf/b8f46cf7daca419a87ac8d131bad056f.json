@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "This 3D model presents a five-tiered wooden bookshelf filled with books. The shelves are made of wood with a visible grain pattern, giving it a somewhat rustic or natural feel. The books are varied in color, predominantly in shades of brown, red, and green, with ornate details on their spines, suggesting classic or vintage volumes. Some books are neatly arranged upright, while others are casually tilted, lying flat, or partially stacked, indicating a well-used piece of furniture. The background is blurred, drawing focus to the bookshelf.",
+    "color": [
+        "brown",
+        "red",
+        "green",
+        "orange"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "library"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "paper"
+    ],
+    "usage": "storage",
+    "mood": "academic",
+    "dimensions": {
+        "width": 0.781,
+        "height": 1.063,
+        "length": 0.236,
+        "unit": "meters"
+    }
+}

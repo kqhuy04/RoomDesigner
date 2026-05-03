@@ -1,0 +1,30 @@
+{
+    "object": "shelf",
+    "description": "This is a simple, modern-style shelf unit with a flat top and an open compartment below. The shelf has a wooden frame with a lighter wood tone for the main structure and a darker, possibly wood-veneer drawer front. Two white storage bins with light green lids are neatly stacked within the open compartment, suggesting a focus on organization and tidiness. A white, fabric-like cover drapes over the top edges of the shelf, adding a soft visual element. The overall design is clean and minimalist, with a neutral color palette.",
+    "color": [
+        "tan",
+        "brown",
+        "white",
+        "light green"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "closet",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "plastic",
+        "fabric"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.126,
+        "height": 1.374,
+        "length": 1.24,
+        "unit": "meters"
+    }
+}

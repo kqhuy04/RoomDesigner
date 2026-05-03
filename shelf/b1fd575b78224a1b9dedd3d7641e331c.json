@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, rectangular bookshelf with a dark brown wood finish, featuring a prominent wood grain texture. The unit consists of a sturdy frame and six open shelves, providing ample storage and display space. The design is simple and clean, characterized by straight lines and a lack of ornamentation, emphasizing functionality. The bookshelf is rendered against a plain light grey background, highlighting its structural details and material texture. It is viewed from a slightly angled perspective, showcasing its front and right side.",
+    "color": [
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "home office",
+        "study",
+        "library"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.459,
+        "height": 2.0,
+        "length": 1.055,
+        "unit": "meters"
+    }
+}

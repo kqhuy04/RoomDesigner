@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "A sleek and modern display shelf unit featuring two rectangular mirror panels flanking a central shelved section. The mirrors are framed in a minimalist grey, and the shelves are white, creating a clean and contemporary aesthetic. The unit appears to be made of metal and glass, with a smooth, matte finish. The overall design is airy and open, suggesting it's intended for showcasing items in a retail or exhibition space. The background is blurred, but hints at an indoor environment with soft lighting.",
+    "color": [
+        "grey",
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "retail space",
+        "showroom",
+        "hallway",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "storage, display, decorative",
+    "mood": "minimalist, sleek",
+    "dimensions": {
+        "width": 3.8,
+        "height": 2.221,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

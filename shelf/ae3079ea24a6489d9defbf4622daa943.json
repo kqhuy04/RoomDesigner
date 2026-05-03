@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow, dark brown bookshelf with five open shelves. The bookshelf has a simple, minimalist design with clean lines and a rectangular frame. It stands on four short, sturdy legs. The shelves are evenly spaced, providing ample vertical storage space. Its slender profile makes it ideal for smaller rooms or for use as an accent piece. The dark color and simple form suggest a modern or contemporary aesthetic. The overall appearance is functional and unobtrusive, designed to hold books, decorative items, or other personal belongings.",
+    "color": [
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.482,
+        "height": 1.977,
+        "length": 0.37,
+        "unit": "meters"
+    }
+}

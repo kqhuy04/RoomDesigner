@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a three-tiered shelf unit with a minimalist design. The frame and shelves are made of wood, with a natural grain texture. The shelves are rectangular and evenly spaced, supported by four vertical legs. The overall appearance is simple and functional, suitable for storing or displaying items. The dark brown color of the wood gives it a classic and versatile look.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.5,
+        "height": 0.82,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

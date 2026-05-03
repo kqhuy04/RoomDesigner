@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, open bookshelf with a modern industrial design. It features a sturdy black metal frame with a geometric structure, including angled supports that create an 'X' shape on each side of the shelves. The shelves themselves are made of wood with a visible grain, giving it a rustic and natural feel. The bookshelf has five tiers, offering ample space for displaying books, decor, or storage items. Its narrow profile makes it suitable for various spaces, while its design adds a touch of contemporary style.",
+    "color": [
+        "black",
+        "brown",
+        "wood grain"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.053,
+        "height": 1.743,
+        "length": 0.37,
+        "unit": "meters"
+    }
+}

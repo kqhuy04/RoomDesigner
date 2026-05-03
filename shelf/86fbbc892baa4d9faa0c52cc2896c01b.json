@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, minimalist bookshelf with a black metal frame and five white shelves. The shelves have a light wood-toned edge, adding a touch of warmth and contrast to the otherwise sleek design. Thin metal wires cross diagonally in the back of the shelves, providing additional support and a subtle geometric detail. The bookshelf stands on four slender black legs, contributing to its airy and unobtrusive appearance. Its simple yet functional design makes it suitable for organizing books, decorative items, or plants in various living spaces.",
+    "color": [
+        "black",
+        "white",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.715,
+        "height": 0.838,
+        "length": 0.295,
+        "unit": "meters"
+    }
+}

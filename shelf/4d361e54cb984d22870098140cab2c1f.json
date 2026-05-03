@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A tall, four-tiered bookshelf with a light wood finish. The shelves are wide and deep, offering ample storage space. The bookshelf has a clean, minimalist design with straight lines and no visible hardware. The top of the bookshelf is slightly angled, creating a visually interesting silhouette. The structure stands on two simple legs, providing stability. The wood grain is visible, suggesting a natural and organic material. The overall appearance is understated and functional, making it suitable for a variety of home decors.",
+    "color": [
+        "wood",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.91,
+        "height": 1.695,
+        "length": 0.436,
+        "unit": "meters"
+    }
+}

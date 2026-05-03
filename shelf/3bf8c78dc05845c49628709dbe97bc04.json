@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, minimalist shelf unit with a black metal frame and wooden accents. It features multiple shelves for storage or display. The top and middle shelves are enclosed with what appears to be frosted glass or a similar translucent material, creating a visually interesting contrast with the open bottom shelf. The overall design is clean and functional, suitable for various contemporary living spaces.",
+    "color": [
+        "black",
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.715,
+        "height": 0.838,
+        "length": 0.295,
+        "unit": "meters"
+    }
+}
