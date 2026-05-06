@@ -16,10 +16,14 @@ from werkzeug.utils import secure_filename
 from dotenv import load_dotenv
 
 import chromadb
-from google import genai
 from pydantic import BaseModel, Field, validator
 from shapely.geometry import box
 from shapely.affinity import rotate, translate
+
+# --- IMPORT LANGCHAIN ---
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.prompts import PromptTemplate
+from langchain.chains import LLMChain
 
 # =========================== CẤU HÌNH & KHỞI TẠO ===========================
 load_dotenv()
@@ -35,8 +39,10 @@ CHROMA_DB_PATH = str(BASE_DIR / "chroma_db")
 
 db_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-genai_client = genai.Client(api_key=GEMINI_API_KEY)
 SKETCHFAB_API_KEY = os.getenv("SKETCH_API_KEY")
+
+# Khởi tạo mô hình qua LangChain
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=GEMINI_API_KEY, temperature=0.2)
 
 HARDCODED_MODELS = {
     "window": "window.glb",
@@ -57,24 +63,17 @@ class FurnitureItem(BaseModel):
 
     @validator('size')
     def validate_dimensions(cls, v):
-        if len(v) != 3 or any(dim <= 0 for dim in v):
-            raise ValueError("Kích thước phải là số dương [w, h, l]")
+        if len(v) != 3 or any(dim <= 0 for dim in v): raise ValueError("Kích thước phải là số dương [w, h, l]")
         return v
 
     @validator('position')
     def normalize_rotation(cls, v):
-        if len(v) != 3:
-            raise ValueError("Vị trí phải là [x, z, rotation_radians]")
+        if len(v) != 3: raise ValueError("Vị trí phải là [x, z, rotation_radians]")
         v[2] = v[2] % (2 * math.pi)
         return v
 
-class LayoutSchema(BaseModel):
-    room_width: float = Field(..., gt=0)
-    room_length: float = Field(..., gt=0)
-    furniture: List[FurnitureItem]
-
 # =============================
-# 🔹 GEOMETRY ENGINE
+# 🔹 GEOMETRY ENGINE (VALIDATOR AGENT'S CORE)
 # =============================
 
 class GeometryEngine:
@@ -142,60 +141,17 @@ class GeometryEngine:
 # 🔹 HELPERS
 # =============================
 
-def call_llm(prompt, system_instr=""):
-    try:
-        result = genai_client.models.generate_content(
-            model="gemini-2.0-flash",
-            contents=prompt,
-            config={'system_instruction': system_instr} if system_instr else None
-        )
-        return result.text
-    except Exception as e:
-        logger.error(f"LLM Error: {e}")
-        return ""
-
 def safe_json_parse(text: str) -> Optional[Dict]:
-    try:
-        return json.loads(text)
+    try: return json.loads(text)
     except:
         matches = re.findall(r'\{.*\}', text, re.DOTALL)
         if not matches: return None
         for match in sorted(matches, key=len, reverse=True):
             try:
-                decoder = json.JSONDecoder()
-                obj, _ = decoder.raw_decode(match)
+                obj, _ = json.JSONDecoder().raw_decode(match)
                 return obj
             except: continue
     return None
-
-def download_and_extract_model(uid, model_name):
-    headers = {"Authorization": f"Token {SKETCHFAB_API_KEY}"}
-    download_url = f"https://api.sketchfab.com/v3/models/{uid}/download"
-    dl_resp = requests.get(download_url, headers=headers)
-    if dl_resp.status_code != 200: raise Exception(f"Lỗi lấy link (HTTP {dl_resp.status_code})")
-
-    dl_data = dl_resp.json()
-    model_link = dl_data.get("gltf", {}).get("url") or dl_data.get("source", {}).get("url")
-    if not model_link: raise Exception("Không có link tải model")
-
-    base_dir = os.path.join(os.getcwd(), "models_downloaded")
-    os.makedirs(base_dir, exist_ok=True)
-    safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', model_name.strip().lower())
-    zip_path = os.path.join(base_dir, f"{safe_name}.zip")
-    extract_folder = os.path.join(base_dir, safe_name)
-
-    if os.path.exists(zip_path): os.remove(zip_path)
-    if os.path.exists(extract_folder):
-        import shutil
-        shutil.rmtree(extract_folder)
-
-    model_zip = requests.get(model_link, stream=True)
-    with open(zip_path, "wb") as f:
-        for chunk in model_zip.iter_content(chunk_size=8192): f.write(chunk)
-
-    with zipfile.ZipFile(zip_path, "r") as zip_ref: zip_ref.extractall(extract_folder)
-    os.remove(zip_path)
-    return extract_folder
 
 # =============================
 # 🔹 ROUTES: TRANG CHỦ & AUTH
@@ -216,8 +172,7 @@ def test_load(): return render_template('test_load.html')
 @app.route('/login', methods=['POST'])
 def login():
     data = request.json
-    if not data.get('username') or not data.get('password'):
-        return jsonify({"error": "Thiếu username/password"}), 400
+    if not data.get('username') or not data.get('password'): return jsonify({"error": "Thiếu username/password"}), 400
     
     conn = sqlite3.connect('database/database.db')
     cursor = conn.cursor()
@@ -232,8 +187,7 @@ def login():
 @app.route('/register', methods=['POST'])
 def register():
     data = request.json
-    if not data.get('username') or not data.get('password'):
-        return jsonify({"error": "Thiếu username/password"}), 400
+    if not data.get('username') or not data.get('password'): return jsonify({"error": "Thiếu username/password"}), 400
         
     password_hash = bcrypt.hashpw(data.get('password').encode('utf-8'), bcrypt.gensalt())
     conn = sqlite3.connect('database/database.db')
@@ -242,12 +196,11 @@ def register():
         cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (data.get('username'), password_hash))
         conn.commit()
         return jsonify({"message": "Register successful"}), 200
-    except sqlite3.IntegrityError: 
-        return jsonify({"error": "Username exists"}), 409
+    except sqlite3.IntegrityError: return jsonify({"error": "Username exists"}), 409
     finally: conn.close()
 
 # =============================
-# 🔹 ROUTES: TÌM KIẾM CHROMA DB (Kèm Luật chấm điểm của bạn)
+# 🔹 ROUTES: TÌM KIẾM CHROMA DB (Logic chấm điểm nguyên bản)
 # =============================
 
 @app.route('/search', methods=['POST'])
@@ -277,7 +230,6 @@ def search_model():
             semantic_score = 1.0 / (1.0 + results['distances'][0][i])
             metadata_score = 0.0
             
-            # --- LUẬT CHẤM ĐIỂM (RERANKING) NHƯ CŨ CỦA BẠN ---
             input_colors = item_data.get('color', [])
             if isinstance(input_colors, str): input_colors = [c.strip() for c in input_colors.split(',')]
             target_colors = metadata.get('color', [])
@@ -322,7 +274,7 @@ def search_model():
     except Exception as e: return jsonify({"found": False, "error": str(e)}), 500
 
 # =============================
-# 🔹 ROUTES: LAYOUT ENGINE (MỚI)
+# 🔹 ROUTES: LAYOUT ENGINE (MỚI - SỬ DỤNG LANGCHAIN MULTI-AGENT)
 # =============================
 
 @app.route('/generate_layout', methods=['POST'])
@@ -332,15 +284,19 @@ def generate_layout_api():
     if not user_prompt: return jsonify({"error": "Prompt trống"}), 400
 
     try:
-        # 1. Trích xuất ý định
-        extract_raw = call_llm(f"Extract room_type and style from: {user_prompt}. Return JSON with format {{\"room_type\": \"...\", \"style_phrase\": \"...\"}}")
+        # 1. AGENT PHÂN TÍCH (Space Analyst): Trích xuất ý định
+        analyst_prompt = PromptTemplate.from_template(
+            "Trích xuất room_type (living_room/bedroom) và style từ câu sau: {prompt}. Trả về dạng JSON chuẩn: {{\"room_type\": \"...\", \"style_phrase\": \"...\"}}"
+        )
+        analyst_chain = analyst_prompt | llm
+        extract_raw = analyst_chain.invoke({"prompt": user_prompt}).content
         extract_data = safe_json_parse(extract_raw) or {"room_type": "living_room", "style_phrase": user_prompt}
         
         from graph_logic import ROOM_RULES_CONFIG, build_scene_graph, solve_optimal_subgraph
         room_type = extract_data.get('room_type', 'living_room')
         style = extract_data.get('style_phrase', '')
         
-        # 2. Lấy ứng viên từ Chroma
+        # 2. AGENT TRUY VẤN (Retriever): Lấy ứng viên từ Chroma
         categories = ROOM_RULES_CONFIG.get(room_type, {}).get("required", []) + ROOM_RULES_CONFIG.get(room_type, {}).get("optional", [])
         candidates = {}
         for cat in categories:
@@ -351,25 +307,38 @@ def generate_layout_api():
                     candidates[cat] = [{"uid": res['ids'][0][i], "meta": res['metadatas'][0][i], "path": res['metadatas'][0][i].get('path', '')} for i in range(len(res['ids'][0]))]
             except: pass
         
-        # 3. Lọc bằng NetworkX
+        # Lọc đồ thị RAG bằng NetworkX
         G = build_scene_graph(candidates)
         final_items = solve_optimal_subgraph(G, room_type)
         if not final_items: return jsonify({"error": "Không tìm thấy đồ vật phù hợp để xếp"}), 404
         
         required_uids = {it['uid'] for it in final_items}
-        furn_str = "\n".join([f"- {it['type']} (UID: {it['uid']}): size(w={it.get('dimensions', {}).get('width', 1.0)}, h={it.get('dimensions', {}).get('height', 1.0)}, l={it.get('dimensions', {}).get('length', 1.0)})" for it in final_items])
+        furn_str = "\n".join([f"- {it['category']} (UID: {it['uid']}): size(w={it.get('dimensions', {}).get('width', 1.0)}, h={it.get('dimensions', {}).get('height', 1.0)}, l={it.get('dimensions', {}).get('length', 1.0)})" for it in final_items])
         
-        # 4. Gemini Spatial Engine
+        # 3. AGENT BỐ CỤC (Layout Optimizer) & KIỂM ĐỊNH (Validator Loop)
         feedback = ""
-        room_w, room_l = 5.0, 5.0 # Mặc định
+        room_w, room_l = 5.0, 5.0 # Kích thước phòng mặc định (Có thể tùy biến sau)
 
-        for attempt in range(1, 4):
-            prompt = f"{feedback}\nSTRICT TASK: Place ALL these items in a {room_w}x{room_l}m room.\nREQUIRED UIDs: {list(required_uids)}\nITEMS:\n{furn_str}\nRULES:\n- Return ONLY JSON.\n- Do NOT skip items."
-            layout_raw = call_llm(prompt, "Expert Interior Designer. Use coordinates [x, z, rotation_in_radians].")
-            layout_json = safe_json_parse(layout_raw)
+        layout_prompt = PromptTemplate.from_template(
+            "Bạn là Chuyên gia thiết kế nội thất AI. Hãy xếp ĐẦY ĐỦ các món đồ sau vào phòng {room_w}x{room_l}m.\n"
+            "Danh sách UIDs BẮT BUỘC (không được thiếu): {uids}\n"
+            "Thông số đồ vật:\n{items}\n"
+            "Phản hồi từ Validator (nếu có lỗi trước đó): {feedback}\n\n"
+            "TRẢ VỀ DUY NHẤT ĐỊNH DẠNG JSON chứa danh sách 'furniture' với tọa độ 'position': [x, z, rotation_in_radians] và 'size': [w, h, l]. Không kèm text giải thích."
+        )
+        layout_chain = layout_prompt | llm
+
+        # Vòng lặp tối ưu Agent (Tối đa 4 lần thử để tự sửa lỗi va chạm)
+        for attempt in range(1, 5):
+            layout_raw = layout_chain.invoke({
+                "room_w": room_w, "room_l": room_l,
+                "uids": list(required_uids),
+                "items": furn_str, "feedback": feedback
+            }).content
             
+            layout_json = safe_json_parse(layout_raw)
             if not layout_json or 'furniture' not in layout_json: 
-                feedback = f"Attempt {attempt} Fail: Invalid JSON."
+                feedback = f"Lỗi lần {attempt}: Trả về sai chuẩn JSON. Phải trả về JSON chứa mảng 'furniture'."
                 continue
 
             try:
@@ -377,30 +346,34 @@ def generate_layout_api():
                 items_to_place = []
                 for f in layout_json.get('furniture', []):
                     if f.get('uid') in required_uids:
-                        # Fallback cho AI hay viết nhầm size
                         size = f.get('size', [1,1,1])
                         if len(size) != 3: size = [1,1,1]
-                        items_to_place.append(FurnitureItem(type=f.get('type',''), uid=f.get('uid'), position=f.get('position', [0,0,0]), size=size))
+                        items_to_place.append(FurnitureItem(type=f.get('type', f.get('category', '')), uid=f.get('uid'), position=f.get('position', [0,0,0]), size=size))
                 
+                # Ưu tiên đặt đồ vật to trước
                 items_to_place.sort(key=lambda x: x.size[0] * x.size[2], reverse=True)
 
                 for it in items_to_place:
                     origin = next((o for o in final_items if o['uid'] == it.uid), None)
-                    if origin: it.path = origin.get('path', f"{it.uid}.glb")
+                    if origin: it.path = origin.get('meta', {}).get('path', f"{it.uid}.glb")
                     engine.validate_and_add(it)
 
-                if {it.uid for it in engine.valid_items} == required_uids:
+                placed_uids = {it.uid for it in engine.valid_items}
+
+                # Nếu đặt đủ đồ và không có lỗi -> Trả về Client luôn
+                if placed_uids.issuperset(required_uids):
                     return jsonify({
                         "metadata": {"room_width": room_w, "room_length": room_l, "style": style},
                         "furniture": [it.dict() for it in engine.valid_items]
                     })
                 
-                missing = required_uids - {it.uid for it in engine.valid_items}
-                feedback = f"Attempt {attempt} Fail. Errors: {engine.errors}. Missing UIDs: {list(missing)}"
+                # Nếu thiếu đồ hoặc bị đè lấn -> Phản hồi cho LLM Agent sửa lại
+                missing = required_uids - placed_uids
+                feedback = f"Lỗi lần {attempt}. Lỗi hình học: {engine.errors}. Các UIDs bị thiếu/lỗi: {list(missing)}. Hãy đổi tọa độ [x,z] của các đồ vật này đi chỗ khác."
             except Exception as e: 
-                feedback = f"Validation crash: {e}"
+                feedback = f"Lỗi hệ thống kiểm định: {e}"
 
-        return jsonify({"error": "AI layout failed after retries"}), 500
+        return jsonify({"error": "AI Agent không thể tìm được bố cục hợp lý sau các lần thử. Vui lòng thử lại."}), 500
     except Exception as e: return jsonify({"error": str(e)}), 500
 
 
@@ -421,9 +394,8 @@ def get_model():
     QUERY = data.get('query', '').strip().lower()
     if not QUERY: return jsonify({"error": "Thiếu từ khóa tìm kiếm (query)."}), 400
     
-    # ⚠️ CHÚ Ý BẠN ƠI: HÃY DÁN CÁI LOGIC CŨ CỦA BẠN VÀO DƯỚI ĐÂY NHÉ!
-    # ... (Giữ nguyên logic Sketchfab cũ của bạn ở đây) ...
-    return jsonify({"error": "Vui lòng copy logic Sketchfab cũ của bạn vào đây"})
+    # ⚠️ CHÚ Ý: Logic API Sketchfab cũ của bạn đặt tại đây!
+    return jsonify({"error": "Vui lòng copy logic tải zip Sketchfab cũ của bạn vào đây"})
 
 
 if __name__ == '__main__':
