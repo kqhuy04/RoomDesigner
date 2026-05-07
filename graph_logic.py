@@ -1,8 +1,11 @@
 import os
 import json
+import logging
 import networkx as nx
 from collections import Counter
 from langchain_core.tools import tool
+
+logger = logging.getLogger(__name__)
 
 # ==========================================
 # 1. KNOWLEDGE BASE & CONFIGURATION
@@ -97,7 +100,8 @@ def get_dimensions_from_json(json_path):
         if os.path.exists(json_path):
             with open(json_path, 'r', encoding='utf-8') as f:
                 return json.load(f).get('dimensions', {})
-    except: pass
+    except Exception as e: 
+        logger.warning(f"Error reading JSON from {json_path}: {e}")
     return {"width": 0, "length": 0, "height": 0}
 
 # ==========================================
@@ -174,7 +178,7 @@ def select_best_core(G, core_nodes):
         return sum(d['weight'] for _, _, d in edges) / len(edges)
     return max(core_nodes, key=score)
 
-def solve_optimal_subgraph(G, room_type):
+def solve_optimal_subgraph(G, room_type, room_dim=None):
     rules = ROOM_RULES_CONFIG.get(room_type)
     if not rules: return []
 
@@ -195,7 +199,7 @@ def solve_optimal_subgraph(G, room_type):
         best_cand, max_score = None, -999
         for cand in candidates:
             cand_data = G.nodes[cand]
-            if not check_room_capacity(cand_data, selected_nodes_data, None): continue
+            if not check_room_capacity(cand_data, selected_nodes_data, room_dim): continue
 
             rel_score = sum(G[cand][sel]['weight'] if G.has_edge(cand, sel) else -5 for sel in selected_ids)
             for c in [c for c in cand_data['meta'].get('color', '').split(',') if c.strip()]:

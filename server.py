@@ -4,11 +4,9 @@ import json
 import math
 import sqlite3
 import bcrypt
-import requests
-import zipfile
 import logging
 from pathlib import Path
-from typing import List, Optional, Dict, Set, Any
+from typing import List, Optional, Dict
 
 from flask import Flask, request, jsonify, render_template, send_from_directory
 from flask_cors import CORS
@@ -16,14 +14,16 @@ from werkzeug.utils import secure_filename
 from dotenv import load_dotenv
 
 import chromadb
-from pydantic import BaseModel, Field, validator
+from pydantic import BaseModel, validator
 from shapely.geometry import box
 from shapely.affinity import rotate, translate
 
 # --- IMPORT LANGCHAIN ---
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
-from langchain.chains import LLMChain
+
+# --- IMPORT MODULE ---
+from graph_logic import ROOM_RULES_CONFIG, build_scene_graph, solve_optimal_subgraph
 
 # =========================== CẤU HÌNH & KHỞI TẠO ===========================
 load_dotenv()
@@ -39,7 +39,6 @@ CHROMA_DB_PATH = str(BASE_DIR / "chroma_db")
 
 db_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-SKETCHFAB_API_KEY = os.getenv("SKETCH_API_KEY")
 
 # Khởi tạo mô hình qua LangChain
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=GEMINI_API_KEY, temperature=0.2)
@@ -99,10 +98,13 @@ class GeometryEngine:
 
     def clamp_strictly(self, item: FurnitureItem):
         w, _, l = item.size
-        rot = item.position[2]
+        x, z, rot = item.position
         bw, bl = self.get_rotated_bounds(w, l, rot)
-        item.position[0] = max(bw/2, min(self.room_w - bw/2, item.position[0]))
-        item.position[1] = max(bl/2, min(self.room_l - bl/2, item.position[1]))
+        
+        # Sửa lỗi unpack, repack minh bạch để đảm bảo an toàn index
+        x = max(bw/2, min(self.room_w - bw/2, x))
+        z = max(bl/2, min(self.room_l - bl/2, z))
+        item.position = [x, z, rot]
 
     def nudge_to_fit(self, item: FurnitureItem) -> bool:
         orig_pos = list(item.position)
@@ -172,7 +174,8 @@ def test_load(): return render_template('test_load.html')
 @app.route('/login', methods=['POST'])
 def login():
     data = request.json
-    if not data.get('username') or not data.get('password'): return jsonify({"error": "Thiếu username/password"}), 400
+    if not data.get('username') or not data.get('password'): 
+        return jsonify({"error": "Thiếu username/password"}), 400
     
     conn = sqlite3.connect('database/database.db')
     cursor = conn.cursor()
@@ -180,23 +183,30 @@ def login():
     result = cursor.fetchone()
     conn.close()
     
-    if result and bcrypt.checkpw(data.get('password').encode('utf-8'), result[0]):
+    # Sửa lỗi encode/decode của bcrypt với chuỗi từ DB
+    if result and bcrypt.checkpw(data.get('password').encode('utf-8'), result[0].encode('utf-8')):
         return jsonify({"message": "Login successful"}), 200
     return jsonify({"error": "Invalid credentials"}), 401
 
 @app.route('/register', methods=['POST'])
 def register():
     data = request.json
-    if not data.get('username') or not data.get('password'): return jsonify({"error": "Thiếu username/password"}), 400
+    if not data.get('username') or not data.get('password'): 
+        return jsonify({"error": "Thiếu username/password"}), 400
         
-    password_hash = bcrypt.hashpw(data.get('password').encode('utf-8'), bcrypt.gensalt())
+    # Sửa lỗi lưu kiểu byte array vào DB bằng cách giải mã utf-8
+    password_hash = bcrypt.hashpw(data.get('password').encode('utf-8'), bcrypt.gensalt()).decode('utf-8')
+    
     conn = sqlite3.connect('database/database.db')
     cursor = conn.cursor()
     try:
         cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (data.get('username'), password_hash))
         conn.commit()
         return jsonify({"message": "Register successful"}), 200
-    except sqlite3.IntegrityError: return jsonify({"error": "Username exists"}), 409
+    except sqlite3.IntegrityError: 
+        return jsonify({"error": "Username exists"}), 409
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
     finally: conn.close()
 
 # =============================
@@ -281,6 +291,12 @@ def search_model():
 def generate_layout_api():
     data = request.json
     user_prompt = data.get('prompt', '')
+    
+    # Lấy thông số kích thước phòng từ client
+    room_w = float(data.get('room_width', 5.0))
+    room_l = float(data.get('room_length', 5.0))
+    room_dim = {"width": room_w, "length": room_l}
+
     if not user_prompt: return jsonify({"error": "Prompt trống"}), 400
 
     try:
@@ -292,7 +308,6 @@ def generate_layout_api():
         extract_raw = analyst_chain.invoke({"prompt": user_prompt}).content
         extract_data = safe_json_parse(extract_raw) or {"room_type": "living_room", "style_phrase": user_prompt}
         
-        from graph_logic import ROOM_RULES_CONFIG, build_scene_graph, solve_optimal_subgraph
         room_type = extract_data.get('room_type', 'living_room')
         style = extract_data.get('style_phrase', '')
         
@@ -305,11 +320,13 @@ def generate_layout_api():
                 res = col.query(query_texts=[style], n_results=10)
                 if res['ids']:
                     candidates[cat] = [{"uid": res['ids'][0][i], "meta": res['metadatas'][0][i], "path": res['metadatas'][0][i].get('path', '')} for i in range(len(res['ids'][0]))]
-            except: pass
+            except Exception as e:
+                logger.warning(f"ChromaDB Query Error on category {cat}: {e}")
         
-        # Lọc đồ thị RAG bằng NetworkX
+        # Lọc đồ thị RAG bằng NetworkX (Có truyền kích thước phòng)
         G = build_scene_graph(candidates)
-        final_items = solve_optimal_subgraph(G, room_type)
+        final_items = solve_optimal_subgraph(G, room_type, room_dim)
+        
         if not final_items: return jsonify({"error": "Không tìm thấy đồ vật phù hợp để xếp"}), 404
         
         required_uids = {it['uid'] for it in final_items}
@@ -317,7 +334,6 @@ def generate_layout_api():
         
         # 3. AGENT BỐ CỤC (Layout Optimizer) & KIỂM ĐỊNH (Validator Loop)
         feedback = ""
-        room_w, room_l = 5.0, 5.0 # Kích thước phòng mặc định (Có thể tùy biến sau)
 
         layout_prompt = PromptTemplate.from_template(
             "Bạn là Chuyên gia thiết kế nội thất AI. Hãy xếp ĐẦY ĐỦ các món đồ sau vào phòng {room_w}x{room_l}m.\n"
@@ -384,18 +400,9 @@ def generate_layout_api():
 @app.route('/models/<path:filename>')
 def serve_model(filename):
     filename = secure_filename(filename)
-    if (Path("D:/Web") / filename).exists(): return send_from_directory("D:/Web", filename)
+    # Loại bỏ ổ đĩa cứng D:/, phục vụ trực tiếp qua folder GLBS_ROOT tương đối
     if (GLBS_ROOT / filename).exists(): return send_from_directory(GLBS_ROOT, filename)
-    return "Not found", 404
-
-@app.route('/sketchfab', methods=['POST'])
-def get_model():
-    data = request.json
-    QUERY = data.get('query', '').strip().lower()
-    if not QUERY: return jsonify({"error": "Thiếu từ khóa tìm kiếm (query)."}), 400
-    
-    # ⚠️ CHÚ Ý: Logic API Sketchfab cũ của bạn đặt tại đây!
-    return jsonify({"error": "Vui lòng copy logic tải zip Sketchfab cũ của bạn vào đây"})
+    return jsonify({"error": "File not found"}), 404
 
 
 if __name__ == '__main__':
