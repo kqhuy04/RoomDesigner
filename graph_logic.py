@@ -3,6 +3,7 @@ import json
 import logging
 import networkx as nx
 from collections import Counter
+from typing import List, Dict, Any, Optional, Set
 from langchain_core.tools import tool
 
 logger = logging.getLogger(__name__)
@@ -42,16 +43,9 @@ VALID_RELATIONS_RAW = {
     "toilet": ["sink", "bathtub", "mirror", "cabinet"]
 }
 
-WEIGHT_FACTORS = {
-    "style": 0.4,
-    "color": 0.2,
-    "material": 0.2,
-    "dimension": 0.2
-}
-
+WEIGHT_FACTORS = {"style": 0.4, "color": 0.2, "material": 0.2, "dimension": 0.2}
 WEIGHT_THRESHOLD = 15
 
-# Cấu hình luật cho từng loại phòng (Bổ sung để server.py gọi được)
 ROOM_RULES_CONFIG = {
     "living_room": {
         "core": "sofa",
@@ -62,6 +56,11 @@ ROOM_RULES_CONFIG = {
         "core": "bed",
         "required": ["bed", "wardrobe", "nightstand"],
         "optional": ["rug", "lamp", "desk", "chair"]
+    },
+    "kitchen": {
+        "core": "kitchen_cabinet",
+        "required": ["kitchen_cabinet", "dining_table", "refrigerator"],
+        "optional": ["chair", "lamp"]
     }
 }
 
@@ -69,7 +68,7 @@ ROOM_RULES_CONFIG = {
 # 2. HELPER FUNCTIONS
 # ==========================================
 
-def build_symmetric_relations(raw):
+def build_symmetric_relations(raw: Dict[str, List[str]]) -> Dict[str, Set[str]]:
     sym = {}
     for k, vs in raw.items():
         sym.setdefault(k, set()).update(vs)
@@ -79,14 +78,14 @@ def build_symmetric_relations(raw):
 
 VALID_RELATIONS = build_symmetric_relations(VALID_RELATIONS_RAW)
 
-def get_group_similarity(val1, val2, group_dict):
+def get_group_similarity(val1: Optional[str], val2: Optional[str], group_dict: Dict[str, List[str]]) -> float:
     if not val1 or not val2: return 0.2
     if val1 == val2: return 1.0
     for members in group_dict.values():
         if val1 in members and val2 in members: return 0.8
     return 0.0
 
-def get_style_score(m1, m2):
+def get_style_score(m1: Dict[str, Any], m2: Dict[str, Any]) -> float:
     s1, s2 = m1.get('style'), m2.get('style')
     if not s1 or not s2: return 0.2
     g1, g2 = STYLE_MAP.get(s1), STYLE_MAP.get(s2)
@@ -95,11 +94,11 @@ def get_style_score(m1, m2):
     key = tuple(sorted([g1, g2]))
     return SOFT_COMPATIBLE_STYLES.get(key, 0.0)
 
-def get_dimensions_from_json(json_path):
+def get_dimensions_from_json(json_path: str) -> Dict[str, float]:
     try:
         if os.path.exists(json_path):
             with open(json_path, 'r', encoding='utf-8') as f:
-                return json.load(f).get('dimensions', {})
+                return json.load(f).get('dimensions', {"width": 0, "length": 0, "height": 0})
     except Exception as e: 
         logger.warning(f"Error reading JSON from {json_path}: {e}")
     return {"width": 0, "length": 0, "height": 0}
@@ -108,7 +107,7 @@ def get_dimensions_from_json(json_path):
 # 3. SCORING ENGINE & GRAPH BUILDER
 # ==========================================
 
-def calculate_edge_weight(node1, node2):
+def calculate_edge_weight(node1: Dict[str, Any], node2: Dict[str, Any]) -> float:
     m1, m2 = node1['meta'], node2['meta']
     style_sim = get_style_score(m1, m2)
     
@@ -116,8 +115,7 @@ def calculate_edge_weight(node1, node2):
     c2 = {c.strip() for c in m2.get('color', '').split(',') if c.strip()}
     color_sim = 1.0 if c1 & c2 else 0.0
 
-    mat1, mat2 = m1.get('material'), m2.get('material')
-    mat_sim = get_group_similarity(mat1, mat2, MATERIAL_GROUPS)
+    mat_sim = get_group_similarity(m1.get('material'), m2.get('material'), MATERIAL_GROUPS)
 
     dim_sim = 1.0
     d1, d2 = node1.get('dimensions', {}), node2.get('dimensions', {})
@@ -132,7 +130,7 @@ def calculate_edge_weight(node1, node2):
              mat_sim * WEIGHT_FACTORS["material"] + dim_sim * WEIGHT_FACTORS["dimension"]) * 100
     return total if style_sim > 0.1 else total - 10
 
-def build_scene_graph(candidates_dict):
+def build_scene_graph(candidates_dict: Dict[str, List[Dict[str, Any]]]) -> nx.Graph:
     G = nx.Graph()
     for cat, items in candidates_dict.items():
         for item in items:
@@ -145,7 +143,7 @@ def build_scene_graph(candidates_dict):
     nodes = list(G.nodes(data=True))
     for i, (id_a, data_a) in enumerate(nodes):
         for id_b, data_b in nodes[i+1:]:
-            if data_b['category'] in VALID_RELATIONS.get(data_a['category'], []):
+            if data_b['category'] in VALID_RELATIONS.get(data_a['category'], set()):
                 weight = calculate_edge_weight(data_a, data_b)
                 if weight > WEIGHT_THRESHOLD:
                     G.add_edge(id_a, id_b, weight=weight)
@@ -155,12 +153,11 @@ def build_scene_graph(candidates_dict):
 # 4. ROOM CONSTRAINTS & SOLVER
 # ==========================================
 
-def check_room_capacity(cand_node, selected_nodes_data, room_dim):
+def check_room_capacity(cand_node: Dict[str, Any], selected_nodes_data: List[Dict[str, Any]], room_dim: Optional[Dict[str, float]]) -> bool:
     if not room_dim: return True
     r_w, r_l = room_dim.get('width', 9999), room_dim.get('length', 9999)
     r_area = r_w * r_l
-    c_w = cand_node['dimensions'].get('width', 0)
-    c_l = cand_node['dimensions'].get('length', 0)
+    c_w, c_l = cand_node['dimensions'].get('width', 0), cand_node['dimensions'].get('length', 0)
     if c_w > r_w or c_l > r_l: return False
 
     IGNORE_AREA_TYPES = {"rug", "lamp", "mirror"}
@@ -169,16 +166,15 @@ def check_room_capacity(cand_node, selected_nodes_data, room_dim):
         for n in selected_nodes_data if n['category'] not in IGNORE_AREA_TYPES
     )
     if cand_node['category'] not in IGNORE_AREA_TYPES: current_area += c_w * c_l
-    return current_area <= r_area * 0.5
+    return current_area <= r_area * 0.6 # Nâng giới hạn diện tích lên một chút để linh hoạt
 
-def select_best_core(G, core_nodes):
+def select_best_core(G: nx.Graph, core_nodes: List[str]) -> str:
     def score(n):
         edges = list(G.edges(n, data=True))
-        if not edges: return 0
-        return sum(d['weight'] for _, _, d in edges) / len(edges)
+        return sum(d['weight'] for _, _, d in edges) / len(edges) if edges else 0
     return max(core_nodes, key=score)
 
-def solve_optimal_subgraph(G, room_type, room_dim=None):
+def solve_optimal_subgraph(G: nx.Graph, room_type: str, room_dim: Optional[Dict[str, float]] = None) -> List[Dict[str, Any]]:
     rules = ROOM_RULES_CONFIG.get(room_type)
     if not rules: return []
 
@@ -215,14 +211,10 @@ def solve_optimal_subgraph(G, room_type, room_dim=None):
 
     return selected_nodes_data
 
-# ==========================================
-# 5. LANGCHAIN TOOLS
-# ==========================================
-
 @tool
 def check_design_rules(category: str) -> str:
-    """Tra cứu các quy tắc ràng buộc thiết kế nội thất cho một món đồ (vd: sofa, tv_stand)."""
-    relations = VALID_RELATIONS.get(category, [])
+    """Tra cứu các quy tắc ràng buộc thiết kế nội thất cho một món đồ."""
+    relations = VALID_RELATIONS.get(category, set())
     if relations:
-        return f"Vật thể '{category}' nên được đặt gần và tương tác với: {', '.join(relations)}."
+        return f"Vật thể '{category}' nên được đặt gần: {', '.join(relations)}."
     return f"Không có quy tắc ràng buộc cứng nào cho '{category}'."
