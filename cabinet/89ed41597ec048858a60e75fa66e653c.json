@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "A three-drawer filing cabinet with a bright orange top and frame, and three blue drawers. Each drawer has a silver handle. The cabinet is supported by four small, gray wheels, indicating it is mobile. The design is simple and functional, with clean lines and a slightly playful color combination. It appears to be a modern piece of furniture designed for practical storage.",
+    "color": [
+        "orange",
+        "blue",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "dorm room"
+    ],
+    "style": "modern",
+    "material": "wood, metal",
+    "usage": "storage",
+    "mood": "functional, vibrant",
+    "dimensions": {
+        "width": 1.204,
+        "height": 1.997,
+        "length": 1.335,
+        "unit": "meters"
+    }
+}

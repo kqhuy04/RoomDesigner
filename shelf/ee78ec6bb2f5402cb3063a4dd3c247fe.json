@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a set of three wooden bookshelves, with a taller central unit and two smaller, identical units flanking it. Each bookshelf features multiple tiers of open shelving, supported by turned wooden columns. The base of each unit incorporates a drawer section with decorative circular knobs. The wood appears to be a rich, dark brown, possibly mahogany or walnut, with lighter inlay detailing around the drawers and on the upper finials of the shelves. The design suggests an antique or vintage aesthetic, suitable for displaying books, decorative items, or collectibles in a refined setting.",
+    "color": [
+        "brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "antique",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 4.031,
+        "height": 1.848,
+        "length": 3.695,
+        "unit": "meters"
+    }
+}

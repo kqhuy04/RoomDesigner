@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, white, modular bookshelf designed in a tiered, staircase-like arrangement. It features six open cube-shaped compartments of varying heights, creating a visually dynamic and asymmetrical silhouette. The shelves are arranged with three compartments on the bottom row, two in the middle row, and one at the top left, resembling steps. The clean lines and lack of ornamentation suggest a minimalist aesthetic, making it a versatile piece for organizing and displaying items like books, decor, or plants. Its open design allows for easy access and visibility of stored items, while the white color provides a neutral backdrop that can complement various interior design schemes.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.53,
+        "height": 0.55,
+        "length": 0.12,
+        "unit": "meters"
+    }
+}

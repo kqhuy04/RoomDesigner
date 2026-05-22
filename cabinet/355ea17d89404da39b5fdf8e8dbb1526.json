@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a mid-century modern credenza or sideboard, likely made of wood. It features a rich, warm brown finish and has a combination of closed storage, including drawers and a cabinet with a glass door, and open shelving at the top. The design is characterized by its clean lines, tapered legs, and a minimalist aesthetic. The glass panel on the upper section adds a touch of lightness and allows for display of items within. This piece would serve as a functional storage unit and a stylish addition to a living or dining area.",
+    "color": [
+        "brown",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.588,
+        "height": 1.834,
+        "length": 2.424,
+        "unit": "meters"
+    }
+}

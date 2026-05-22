@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, open bookshelf with six shelves. The overall design is simple and functional, with clean lines and no ornamentation. The shelves are evenly spaced, suggesting it's intended for storing books or other items of similar size. The dark wood tone gives it a classic and somewhat substantial appearance. The lighting in the preview casts shadows that highlight the depth of each shelf.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.3,
+        "height": 1.566,
+        "length": 0.612,
+        "unit": "meters"
+    }
+}

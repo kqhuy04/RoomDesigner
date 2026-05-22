@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model preview of a bed. The bed frame appears to be made of wood and has a dark finish. It is topped with a mattress and two pillows, all of which are rendered with a green wireframe overlay. A draped sheet or comforter, also with a green wireframe, covers the mattress and pillows, falling loosely over the sides of the bed. The overall aesthetic suggests a minimalist or wireframe visualization, likely for design or rendering purposes.",
+    "color": [
+        "dark brown",
+        "green"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.915,
+        "height": 0.963,
+        "length": 3.239,
+        "unit": "meters"
+    }
+}

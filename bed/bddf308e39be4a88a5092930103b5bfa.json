@@ -1,0 +1,29 @@
+{
+    "object": "bed",
+    "description": "This image showcases three single-person beds, likely 3D models, set against a plain grey background. Two beds feature olive green metal frames, while the third has a blue metal frame. Each bed is equipped with a light grey mattress and a small, similarly colored pillow. The first green bed has a neatly made bed with a wrinkled grey sheet. The second green bed is also made, but its sheet appears more rumpled. The blue-framed bed features a textured brown blanket covering the mattress, with the grey pillow visible at the head. All metal frames exhibit signs of wear and tear, including chipped paint, scratches, and subtle hints of rust, suggesting an aged or heavily used appearance. The overall aesthetic is distinctly utilitarian and functional, reminiscent of dormitory, military, or hospital settings.",
+    "color": [
+        "green",
+        "blue",
+        "light grey",
+        "brown"
+    ],
+    "appropriate_room": [
+        "hospital",
+        "barracks",
+        "dormitory",
+        "bunkhouse"
+    ],
+    "style": "utilitarian",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "spartan",
+    "dimensions": {
+        "width": 3.571,
+        "height": 1.058,
+        "length": 2.18,
+        "unit": "meters"
+    }
+}

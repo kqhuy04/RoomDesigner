@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a modern bed, presented against a plain grey background. The bed features a sturdy, rectangular frame constructed from dark brown wood with a distinct wood grain pattern. On top of the wooden frame rests a mattress covered in a dark grey fabric. The mattress cover is adorned with a repeating pattern of light grey, stylized leaf or branch motifs. Two pillows are placed at the head of the bed: a larger rectangular one and a smaller square accent pillow, both in a light beige or cream color. The overall aesthetic is clean and minimalist.",
+    "color": [
+        "dark brown",
+        "dark grey",
+        "light grey",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.124,
+        "height": 0.602,
+        "length": 1.449,
+        "unit": "meters"
+    }
+}

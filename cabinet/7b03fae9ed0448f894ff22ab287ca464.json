@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "A pink, modern-style cabinet with a simple design. It features a flat top and a rectangular body that tapers slightly towards the bottom, resting on two short, widely spaced legs. The front surface is smooth and unadorned, emphasizing its clean lines. The overall aesthetic is minimalist and functional, suitable for various settings where a touch of color and basic storage is needed. The color suggests a playful or child-friendly application.",
+    "color": [
+        "pink"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "playroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.779,
+        "height": 2.277,
+        "length": 1.751,
+        "unit": "meters"
+    }
+}

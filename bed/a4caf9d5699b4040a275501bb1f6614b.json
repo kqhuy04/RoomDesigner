@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a simple, rustic single bed with a metal frame that appears to be rusted or painted a reddish-brown. The mattress is thin and covered in a textured, woven fabric that looks worn and aged, possibly a coarse burlap or canvas. A single, flattened pillow rests at the head of the bed, matching the texture and color of the mattress. The headboard is a simple, curved design made of thin vertical metal bars. The overall impression is one of austerity and age, suggesting a utilitarian or perhaps even a historical setting like a dormitory, infirmary, or simple dwelling.",
+    "color": [
+        "brown",
+        "red",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dormitory",
+        "hospitalroom"
+    ],
+    "style": "rustic",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "austere",
+    "dimensions": {
+        "width": 1.156,
+        "height": 1.217,
+        "length": 2.009,
+        "unit": "meters"
+    }
+}

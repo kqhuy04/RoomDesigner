@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a wooden display cabinet with glass doors and two drawers at the bottom. The cabinet has a light wood finish, giving it a natural and warm appearance. It features two open shelves behind the glass doors, which are divided by a vertical support. The drawers have simple wooden handles. The cabinet stands on four tapered legs, which are also made of wood. The overall design is simple and functional, suitable for storing and displaying various items.",
+    "color": [
+        "brown",
+        "light brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.2,
+        "height": 1.15,
+        "length": 0.39,
+        "unit": "meters"
+    }
+}

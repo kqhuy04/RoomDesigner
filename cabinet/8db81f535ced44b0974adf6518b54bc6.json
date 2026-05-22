@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, double-door cabinet with a minimalist design, presented in a vibrant red. The cabinet features a simple, clean silhouette with a contrasting grey top. Each of the two main doors is divided into two sections, creating a total of four door panels. Each panel is equipped with a sleek, horizontal white handle. The cabinet stands on a subtle white base, giving it a slightly elevated appearance. The overall aesthetic is modern and functional, with a strong emphasis on color and clean lines. This piece is designed for storage and would add a bold, contemporary statement to any room.",
+    "color": [
+        "red",
+        "grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.8,
+        "height": 1.41,
+        "length": 0.634,
+        "unit": "meters"
+    }
+}

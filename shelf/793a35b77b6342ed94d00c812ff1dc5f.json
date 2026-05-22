@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "This is a low-poly, stylized bookshelf with three open shelves and a closed cabinet at the bottom. The cabinet has two doors with small, diamond-shaped handles. The shelves are decorated with a few items: a teddy bear and a stack of books on the top shelf, a potted cactus and a small pink potted plant on the middle shelf, and three standing books and one open book on the bottom shelf. The overall design is simple and clean, with a muted color palette.",
+    "color": [
+        "brown",
+        "green",
+        "red",
+        "orange",
+        "pink",
+        "gray",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "nursery",
+        "study"
+    ],
+    "style": "low-poly",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.716,
+        "height": 2.451,
+        "length": 0.794,
+        "unit": "meters"
+    }
+}

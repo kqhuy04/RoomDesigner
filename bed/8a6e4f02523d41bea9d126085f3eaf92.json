@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a wooden bed frame with a headboard featuring a curved white panel. The bed is covered with a dark blue comforter that has a subtle diamond pattern. Two pillows are visible at the head of the bed, peeking out from under the comforter. The bed frame appears to be made of dark wood with visible grain. The overall design suggests a traditional or classic style, suitable for a bedroom.",
+    "color": [
+        "blue",
+        "white",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.866,
+        "height": 0.384,
+        "length": 0.678,
+        "unit": "meters"
+    }
+}

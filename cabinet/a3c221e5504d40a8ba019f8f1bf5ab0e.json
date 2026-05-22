@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow wooden cabinet with two doors. The doors have a rounded top and are adorned with dark, ornate handles. The cabinet stands on four short, decorative legs, and the base features a scalloped edge. The wood has a rich, reddish-brown tone with a visible grain pattern, suggesting a classic or traditional design. The overall appearance is somewhat rustic, with subtle textures that give it a vintage feel. The cabinet is shown against a plain white background, with a shadow cast to the left, highlighting its three-dimensional form.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.35,
+        "height": 1.969,
+        "length": 0.82,
+        "unit": "meters"
+    }
+}

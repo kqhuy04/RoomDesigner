@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a wall-mounted shelf unit with a rustic industrial design. It features a sturdy wooden shelf supported by black metal pipes, creating a simple yet functional aesthetic. Below the main shelf, there is a rack made of similar black pipes, designed to hang clothes hangers. Two wooden hangers are already attached to this rack. A vibrant red pot is placed on the top shelf, adding a pop of color to the otherwise neutral palette. The overall construction suggests durability and a utilitarian purpose, suitable for organizing or displaying items.",
+    "color": [
+        "brown",
+        "black",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "entryway",
+        "livingroom"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 4.0,
+        "height": 4.019,
+        "length": 4.019,
+        "unit": "meters"
+    }
+}

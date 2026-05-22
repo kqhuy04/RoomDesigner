@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Chủ</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="top-left-buttons">
+        <a href="login.html" class="btn">Đăng Nhập</a>
+        <a href="register.html" class="btn">Đăng Ký</a>
+    </div>
+    
+    <div id="info">
+        <strong>Đồ thị Oxyz</strong><br>
+        Kéo chuột: Xoay<br>
+        Cuộn: Phóng to/Thu nhỏ<br>
+        Ctrl + kéo: Di chuyển
+    </div>
+    
+    <div id="canvas-container"></div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="/static/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+    "object": "bench",
+    "description": "This 3D model depicts an outdoor concrete bench attached to a brick wall. The bench has a simple, utilitarian design, with a slightly weathered and textured surface, suggesting it is made of poured concrete. The brick wall behind it is rendered with a realistic texture, showing individual bricks in various shades of red and brown, with some signs of wear and tear at the top. The ground in front of the bench appears to be a gravel or concrete surface, also textured to mimic outdoor terrain. The overall presentation is that of a static architectural element, likely designed for public spaces or gardens. The lighting highlights the textures and form of the bench and wall, giving it a realistic appearance.",
+    "color": [
+        "red",
+        "brown",
+        "gray",
+        "beige"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio",
+        "park"
+    ],
+    "style": "modern",
+    "material": [
+        "concrete",
+        "brick"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.045,
+        "height": 1.919,
+        "length": 3.875,
+        "unit": "meters"
+    }
+}

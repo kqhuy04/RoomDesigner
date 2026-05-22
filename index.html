@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floorplan Professional Reconstruction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: #f9f9f9;
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .box {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 12px;
+            background: white;
+            shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            border: 2px solid #333;
+            margin-top: 10px;
+        }
+
+        pre {
+            background: #272822;
+            color: #f8f8f2;
+            padding: 15px;
+            overflow-x: auto;
+            max-height: 400px;
+            border-radius: 8px;
+            font-size: 13px;
+        }
+
+        #loading {
+            display: none;
+            text-align: center;
+            color: #007bff;
+            font-weight: bold;
+            padding: 10px;
+        }
+
+        .success-msg {
+            color: #28a745;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Hệ thống Tái tạo Mặt bằng AI</h2>
+
+    <div class="box">
+        <div class="controls">
+            <input type="file" id="imageInput" accept="image/*">
+            <button onclick="uploadImage()">Bắt đầu xử lý</button>
+        </div>
+        <p id="loading">🚀 Đang gọi Cascade API (Wall -> Detect -> Classify)... Xin chờ giây lát!</p>
+    </div>
+
+    <div class="box" id="resultBox" style="display: none;">
+        <div id="savePath" class="success-msg"></div>
+
+        <h3>1. Ảnh sơ đồ đã tái tạo:</h3>
+        <img id="resultImage" src="" alt="Kết quả Reconstruction">
+
+        <hr>
+
+        <h3>2. Dữ liệu Nội thất (Custom Workflow):</h3>
+        <pre id="jsonOutput"></pre>
+    </div>
+
+    <script>
+        async function uploadImage() {
+            const fileInput = document.getElementById('imageInput');
+            const resultBox = document.getElementById('resultBox');
+            const loading = document.getElementById('loading');
+            const savePath = document.getElementById('savePath');
+
+            if (!fileInput.files.length) {
+                alert("Vui lòng chọn 1 bức ảnh mặt bằng!");
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append("file", fileInput.files[0]);
+
+            loading.style.display = 'block';
+            resultBox.style.display = 'none';
+
+            try {
+                // Đảm bảo URL này khớp với cổng bạn chạy FastAPI (8000)
+                const response = await fetch("http://127.0.0.1:8000/api/process", {
+                    method: "POST",
+                    body: formData
+                });
+
+                if (!response.ok) throw new Error("Server trả về lỗi!");
+
+                const data = await response.json();
+
+                if (data.status === "success") {
+                    // Hiển thị đường dẫn file đã lưu trên ổ D
+                    savePath.innerHTML = `✅ Đã xử lý xong! File đã lưu tại: <br> <code>${data.saved_at}</code>`;
+
+                    // Hiển thị ảnh (Base64)
+                    document.getElementById('resultImage').src = data.result_image_base64;
+
+                    // Hiển thị tọa độ vector
+                    // Đổi từ data.vectors sang data.workflow_result
+                    document.getElementById('jsonOutput').textContent = JSON.stringify(data.workflow_result, null, 2);
+
+                    resultBox.style.display = 'block';
+                } else {
+                    alert("Có lỗi xảy ra trong quá trình xử lý AI.");
+                }
+            } catch (error) {
+                console.error("Lỗi kết nối:", error);
+                alert("Không thể kết nối đến Backend. Hãy chắc chắn bạn đã chạy lệnh: uvicorn main:app --reload");
+            } finally {
+                loading.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+
+</html>

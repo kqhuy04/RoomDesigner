@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "A white dresser with two drawers, each featuring a dark knob. The top of the dresser is covered with a plaid throw blanket. Two small blue pillows are placed on either side of the blanket, and a white shelf with three storage boxes (two blue, one gray) is mounted above it. The overall aesthetic is clean and minimalist, with a focus on functional storage and simple decorative elements. The dark gray background provides a stark contrast, highlighting the white furniture and blue accents.",
+    "color": [
+        "white",
+        "blue",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.915,
+        "height": 2.427,
+        "length": 0.718,
+        "unit": "meters"
+    }
+}

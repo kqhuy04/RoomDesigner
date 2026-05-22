@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "A simple, two-tiered bunk bed designed with a minimalist aesthetic. The structure is made of light-colored wood, featuring a ladder on one side for access to the top bunk. Both sleeping surfaces are flat platforms, and the upper bunk is enclosed by a railing for safety. The design is straightforward and functional, emphasizing practicality over ornate details. The overall impression is one of a clean and uncluttered piece of furniture suitable for a child's room or a shared sleeping space.",
+    "color": [
+        "light yellow",
+        "tan"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 1.5,
+        "height": 1.7,
+        "length": 0.8,
+        "unit": "meters"
+    }
+}

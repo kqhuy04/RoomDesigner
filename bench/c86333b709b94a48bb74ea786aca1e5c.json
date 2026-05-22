@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a rugged, rectangular bench, likely made of concrete or stone, and heavily adorned with colorful graffiti. The bench has a robust, solid top surface and two thick, sturdy legs or supports. The primary color of the bench itself appears to be a weathered grey, possibly simulating concrete or metal, with significant areas covered in spray paint, particularly in shades of red, pink, white, and hints of yellow. It sits on a flat, lighter grey rectangular base, resembling a paved slab. The overall appearance suggests an outdoor, urban environment, with a distinct street art aesthetic due to the prominent graffiti and worn texture, giving it a raw and authentic character.",
+    "color": [
+        "grey",
+        "red",
+        "pink",
+        "white",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "public_space",
+        "park"
+    ],
+    "style": "street_art",
+    "material": [
+        "concrete",
+        "paint"
+    ],
+    "usage": "functional",
+    "mood": "urban",
+    "dimensions": {
+        "width": 0.46,
+        "height": 0.231,
+        "length": 1.604,
+        "unit": "meters"
+    }
+}

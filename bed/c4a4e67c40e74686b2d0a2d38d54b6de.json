@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This image displays a 3D model preview of a bed or a large cushion set, draped with a cloth or blanket. The entire surface, encompassing both the rigid underlying structure and the flowing fabric, is covered with a colorful grid pattern and alphanumeric labels (e.g., B1, C2, E3, J4, K5, G7, H8). This pattern represents a UV map, which is a common visualization in 3D modeling for showing how a texture is applied to a model. Different sections of the model are highlighted with distinct color blocks in red, purple, green, blue, and yellow, indicating separate UV islands. The draped cloth exhibits realistic folds and wrinkles, adding a sense of realism to the rendered form.",
+    "color": [
+        "red",
+        "purple",
+        "green",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "orderly",
+    "dimensions": {
+        "width": 2.021,
+        "height": 0.335,
+        "length": 1.11,
+        "unit": "meters"
+    }
+}

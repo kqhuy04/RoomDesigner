@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow kitchen cabinet with a light blue, paneled door. The door has a vertical plank design and a small, ornate brass handle. The cabinet is topped with a white countertop that extends slightly over the front. The main body of the cabinet is white. It sits on a white base or plinth, and a hint of small black feet are visible at the bottom. The overall design suggests a coastal or slightly vintage aesthetic, suitable for a kitchen or pantry area.",
+    "color": [
+        "blue",
+        "white",
+        "brass"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "pantry",
+        "laundry room"
+    ],
+    "style": "coastal",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.528,
+        "height": 0.789,
+        "length": 1.098,
+        "unit": "meters"
+    }
+}

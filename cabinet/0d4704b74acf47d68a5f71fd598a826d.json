@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a freestanding cabinet with a clean, modern design. It features two sliding doors with barn door hardware, revealing a central open shelving unit with three shelves. The cabinet is supported by small wheels at the base, suggesting it is mobile. The overall aesthetic is minimalist and functional, with a focus on clean lines and practical storage. The doors appear to be solid, likely made of a material that gives it a sleek finish.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.673,
+        "height": 0.379,
+        "length": 0.259,
+        "unit": "meters"
+    }
+}

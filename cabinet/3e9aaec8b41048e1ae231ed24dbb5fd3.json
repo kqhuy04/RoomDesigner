@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, slender cabinet with a distinctive design. It features two doors, each with a rectangular glass panel that reveals a teal-colored interior or surface. The frame of the doors and the main body of the cabinet are a light wood color. The top of the cabinet has a slightly peaked roof-like structure, also in light wood. It stands on four short, dark wooden legs. Two small, dark round knobs serve as handles for the doors. The overall appearance is reminiscent of a stylized, perhaps whimsical, piece of furniture.",
+    "color": [
+        "teal",
+        "light wood",
+        "dark wood",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "bathroom"
+    ],
+    "style": "whimsical",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.008,
+        "height": 2.875,
+        "length": 0.958,
+        "unit": "meters"
+    }
+}

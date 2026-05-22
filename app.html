@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2D Floorplan Editor - V13 (Final Masterpiece)</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            margin: 0;
+            height: 100vh;
+            background-color: #e9ecef;
+            overflow: hidden;
+        }
+
+        #sidebar {
+            width: 300px;
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 20px;
+            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            z-index: 10;
+        }
+
+        h3 {
+            margin-top: 0;
+            border-bottom: 2px solid #34495e;
+            padding-bottom: 10px;
+            font-size: 16px;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 8px;
+            background: #34495e;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 6px;
+            font-weight: bold;
+            transition: 0.2s;
+        }
+
+        .btn:hover:not(:disabled) {
+            background: #415b76;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-blue {
+            background: #2980b9;
+        }
+
+        .btn-blue:hover:not(:disabled) {
+            background: #3498db;
+        }
+
+        .btn-success {
+            background: #27ae60;
+            margin-top: 10px;
+        }
+
+        .btn-success:hover:not(:disabled) {
+            background: #2ecc71;
+        }
+
+        .btn-warning {
+            background: #f39c12;
+            margin-top: 10px;
+        }
+
+        .btn-warning:hover:not(:disabled) {
+            background: #f1c40f;
+            color: #333;
+        }
+
+        .btn-danger {
+            background: #c0392b;
+            margin-top: 10px;
+        }
+
+        .btn-danger:hover:not(:disabled) {
+            background: #e74c3c;
+        }
+
+        .toolbar-group {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #4a6278;
+            padding-bottom: 10px;
+        }
+
+        .flex-row {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 15px;
+        }
+
+        .flex-row .btn {
+            margin-bottom: 0;
+        }
+
+        #properties-panel {
+            display: none;
+            background: #1a252f;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+
+        .prop-group {
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .prop-group label {
+            font-size: 13px;
+            color: #bdc3c7;
+        }
+
+        .prop-group input {
+            width: 80px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid #34495e;
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+        }
+
+        .prop-group input[type="color"] {
+            padding: 0;
+            height: 28px;
+            cursor: pointer;
+            border: none;
+        }
+
+        #multi-select-msg {
+            display: none;
+            background: #c0392b;
+            padding: 10px;
+            border-radius: 6px;
+            text-align: center;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        #score-board {
+            background: #1abc9c;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 15px;
+            display: none;
+            color: #fff;
+        }
+
+        #score-board ul {
+            padding-left: 20px;
+            margin: 10px 0 0 0;
+            font-size: 13px;
+        }
+
+        #workspace {
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            background-color: #dcdde1;
+        }
+
+        .canvas-container {
+            background: white;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+        }
+
+        #viewport-hints {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 6px;
+            font-size: 12px;
+            pointer-events: none;
+        }
+
+        #toast {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: #27ae60;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+            z-index: 100;
+        }
+
+        #live-tooltip {
+            position: absolute;
+            background: rgba(44, 62, 80, 0.9);
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            pointer-events: none;
+            display: none;
+            z-index: 50;
+            transform: translate(15px, 15px);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        #right-sidebar {
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            width: 250px;
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 20px;
+            box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+            z-index: 10;
+            display: none;
+            /* Mặc định ẩn */
+            flex-direction: column;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="sidebar">
+        <div class="flex-row">
+            <button id="btn-undo" class="btn" onclick="undo()" title="Hoàn tác (Ctrl+Z)" disabled>↩ Undo</button>
+            <button id="btn-redo" class="btn" onclick="redo()" title="Làm lại (Ctrl+Y)" disabled>Redo ↪</button>
+        </div>
+
+        <div class="toolbar-group">
+            <h3>Kiến trúc</h3>
+            <button class="btn btn-blue" onclick="spawnRoomTemplate()" style="margin-bottom: 12px;">🏠 Thêm Phòng Vuông
+                (4 Tường)</button>
+            <button class="btn" onclick="spawnObject('wall')">+ Tường lẻ (Wall)</button>
+            <button class="btn" onclick="spawnObject('door')">+ Cửa ra vào (Door)</button>
+            <button class="btn" onclick="spawnObject('window')">+ Cửa sổ (Window)</button>
+        </div>
+
+        <div class="toolbar-group">
+            <h3>Nội thất</h3>
+            <button class="btn" onclick="spawnObject('bed')">+ Giường (Bed)</button>
+            <button class="btn" onclick="spawnObject('wardrobe')">+ Tủ quần áo</button>
+            <button class="btn" onclick="spawnObject('nightstand')">+ Tủ đầu giường</button>
+            <button class="btn" onclick="spawnObject('sofa')">+ Ghế Sofa</button>
+            <button class="btn" onclick="spawnObject('tv_stand')">+ Kệ TV</button>
+            <button class="btn" onclick="spawnObject('table')">+ Bàn ăn</button>
+            <button class="btn" onclick="spawnObject('chair')">+ Ghế đơn</button>
+            <button class="btn" onclick="spawnObject('toilet')">+ Bồn cầu (Toilet)</button>
+            <button class="btn" onclick="spawnObject('sink')">+ Bồn rửa (Sink)</button>
+            <button class="btn" onclick="spawnObject('bathtub')">+ Bồn tắm (Bathtub)</button>
+        </div>
+
+
+
+        <div class="toolbar-group" style="border:none;">
+            <button class="btn btn-warning" onclick="evaluateLayout()">Phân tích Layout</button>
+            <button class="btn btn-success" onclick="exportData()">Sao chép JSON</button>
+            <div class="flex-row" style="margin-top: 10px;">
+                <button class="btn btn-blue" style="margin: 0; flex: 1;" onclick="saveDraft()">Lưu Nháp</button>
+                <button class="btn btn-danger" style="margin: 0; flex: 1;" onclick="clearCanvas()">Xóa Hết</button>
+            </div>
+            <button class="btn" onclick="resetViewport()" style="background: #7f8c8d;">Reset Camera</button>
+        </div>
+
+        <div id="score-board">
+            <strong>Điểm Layout: <span id="total-score">0</span></strong>
+            <ul id="score-details"></ul>
+        </div>
+    </div>
+
+    <div id="workspace">
+        <canvas id="floorplan"></canvas>
+        <div id="viewport-hints">
+            🖱️ <b>Cuộn chuột</b>: Phóng to/Thu nhỏ <br>
+            🖱️ <b>Giữ ALT + Kéo chuột</b>: Di chuyển (Pan)
+        </div>
+        <div id="toast">Thông báo</div>
+        <div id="live-tooltip">W: 100 x H: 100</div>
+    </div>
+
+    <div id="right-sidebar">
+        <div id="multi-select-msg">Đang chọn nhiều vật thể. <br>Hãy chọn từng cái để sửa!</div>
+
+        <div id="properties-panel" style="background: transparent; padding: 0;">
+            <h3>Thông số</h3>
+            <div class="prop-group"><label>Rộng:</label><input type="number" id="prop-w" oninput="updateObject()"></div>
+            <div class="prop-group"><label>Cao:</label><input type="number" id="prop-h" oninput="updateObject()"></div>
+            <div class="prop-group"><label>Góc xoay:</label><input type="number" id="prop-angle"
+                    oninput="updateObject()"></div>
+
+            <div class="flex-row" style="margin-top: 15px;">
+                <button class="btn btn-blue" style="margin: 0; flex: 1;" onclick="duplicateActive()">Nhân bản</button>
+                <button id="btn-lock" class="btn btn-warning" style="margin: 0; flex: 1;"
+                    onclick="toggleLockActive()">Khóa 🔒</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const workspaceEl = document.getElementById('workspace');
+        const liveTooltip = document.getElementById('live-tooltip');
+
+        const canvas = new fabric.Canvas('floorplan', {
+            width: workspaceEl.clientWidth, height: workspaceEl.clientHeight,
+            preserveObjectStacking: true, selection: true
+        });
+
+        window.addEventListener('resize', () => {
+            canvas.setWidth(workspaceEl.clientWidth);
+            canvas.setHeight(workspaceEl.clientHeight);
+            setupGridBackground();
+        });
+
+        const GRID_SIZE = 20;
+
+        function setupGridBackground() {
+            const gridCanvas = document.createElement('canvas');
+            gridCanvas.width = GRID_SIZE; gridCanvas.height = GRID_SIZE;
+            const ctx = gridCanvas.getContext('2d');
+            ctx.strokeStyle = '#ecf0f1'; ctx.lineWidth = 1;
+            ctx.beginPath(); ctx.moveTo(GRID_SIZE, 0); ctx.lineTo(GRID_SIZE, GRID_SIZE); ctx.lineTo(0, GRID_SIZE); ctx.stroke();
+            canvas.setBackgroundColor(new fabric.Pattern({ source: gridCanvas, repeat: 'repeat' }), canvas.renderAll.bind(canvas));
+        }
+
+        function reorderLayers() {
+            const walls = canvas.getObjects().filter(o => o.customType === 'wall');
+            walls.forEach(w => canvas.sendToBack(w));
+        }
+
+        function showToast(msg) {
+            const toast = document.getElementById('toast');
+            toast.innerText = msg; toast.style.opacity = 1;
+            setTimeout(() => { toast.style.opacity = 0; }, 2000);
+        }
+
+        // Lịch sử thao tác (Undo/Redo)
+        const MAX_HISTORY = 30;
+        let historyStack = []; let historyIndex = -1;
+        let isHistoryProcessing = false; let saveTimer;
+
+        function updateHistoryUI() {
+            document.getElementById('btn-undo').disabled = historyIndex <= 0;
+            document.getElementById('btn-redo').disabled = historyIndex >= historyStack.length - 1;
+        }
+
+        function saveHistory(immediate = false) {
+            if (isHistoryProcessing) return;
+            clearTimeout(saveTimer);
+            const executeSave = () => {
+                const json = JSON.stringify(canvas.toJSON(['customType', 'classID', 'uuid', 'name', 'baseColor', 'locked']));
+                if (historyIndex < historyStack.length - 1) historyStack = historyStack.slice(0, historyIndex + 1);
+                historyStack.push(json);
+                if (historyStack.length > MAX_HISTORY) historyStack.shift(); else historyIndex++;
+                updateHistoryUI();
+            };
+            if (immediate) executeSave(); else saveTimer = setTimeout(executeSave, 150);
+        }
+
+        function loadHistoryState(index) {
+            isHistoryProcessing = true;
+            canvas.loadFromJSON(historyStack[index], function () {
+                applyLockStateToObjects();
+                reorderLayers();
+                canvas.requestRenderAll();
+                isHistoryProcessing = false;
+                updateHistoryUI();
+            });
+        }
+
+        function undo() { if (historyIndex > 0) loadHistoryState(--historyIndex); }
+        function redo() { if (historyIndex < historyStack.length - 1) loadHistoryState(++historyIndex); }
+        canvas.on('object:modified', () => saveHistory());
+
+        const generateUUID = () => crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2) + Date.now().toString(36);
+        const normalizeAngle = (a) => (((Math.round(a / 90) * 90) % 360) + 360) % 360;
+
+        const OBJECT_CATALOG = {
+            // Các phần tử kiến trúc (Giữ nguyên dùng hình chữ nhật vì bạn không có icon cho chúng)
+            'wall': { w: 200, h: 5, color: '#000000', type: 'wall', label: 'Wall' },
+            'window': { w: 80, h: 10, color: '#85c1e9', type: 'window', label: 'Window' },
+
+            // Các phần tử dùng Icon từ thư mục máy tính của bạn
+            'door': { w: 60, h: 60, type: 'door', label: '', icon: 'icon/door.png' }, // Đã có file door.png
+            'bed': { w: 120, h: 160, type: 'furniture', label: '', icon: 'icon/bed.png' },
+            'wardrobe': { w: 100, h: 50, type: 'furniture', label: '', icon: 'icon/wardrobe.png' },
+            'nightstand': { w: 40, h: 40, type: 'furniture', label: '', icon: 'icon/nightstand.png' },
+            'sofa': { w: 160, h: 70, type: 'furniture', label: '', icon: 'icon/sofas.png' },
+            'tv_stand': { w: 120, h: 40, type: 'furniture', label: '', icon: 'icon/tv_stand.png' },
+            'table': { w: 140, h: 80, type: 'furniture', label: '', icon: 'icon/table.png' },
+            'chair': { w: 40, h: 40, type: 'furniture', label: '', icon: 'icon/armchair.png' }, // Dùng file armchair.png
+            'toilet': { w: 40, h: 60, type: 'furniture', label: '', icon: 'icon/toilet.png' },
+            'bathtub': { w: 60, h: 140, type: 'furniture', label: '', icon: 'icon/bathtub.png' },
+            'sink': { w: 50, h: 40, type: 'furniture', label: '', icon: 'icon/sink.png' },
+
+            // Plant không thấy trong thư mục, giữ nguyên khối màu xanh
+            'plant': { w: 30, h: 30, color: '#2ecc71', type: 'furniture', label: 'Plant' }
+        };
+        function spawnObject(classID, customOptions = {}) {
+            const data = OBJECT_CATALOG[classID];
+            if (!data) return;
+            const center = canvas.getVpCenter();
+
+            const finalW = customOptions.width || data.w;
+            const finalH = customOptions.height || data.h;
+
+            const commonOptions = {
+                left: customOptions.left || center.x,
+                top: customOptions.top || center.y,
+                angle: customOptions.angle || 0,
+                originX: 'center', originY: 'center',
+                customType: data.type, classID: classID, uuid: generateUUID(), name: data.label,
+                baseColor: data.color || '#ffffff',
+                locked: false
+            };
+
+            if (data.icon) {
+                // TRƯỜNG HỢP: RENDER BẰNG HÌNH ẢNH (ICON LẤY TỪ MÁY)
+                fabric.Image.fromURL(data.icon, function (img) {
+                    // Ép kích thước ảnh vừa với w và h khai báo trong Catalog
+                    img.set({
+                        scaleX: finalW / img.width,
+                        scaleY: finalH / img.height,
+                        originX: 'center', originY: 'center'
+                    });
+
+                    // Gom ảnh vào một Group (để đồng nhất với cấu trúc cũ)
+                    const obj = new fabric.Group([img], commonOptions);
+                    canvas.add(obj); canvas.setActiveObject(obj); reorderLayers();
+                    saveHistory(true);
+                });
+            } else {
+                // TRƯỜNG HỢP: RENDER BẰNG KHỐI RECTANGLE (Dành cho Tường, Cửa sổ...)
+                const rect = new fabric.Rect({ width: finalW, height: finalH, fill: data.color, originX: 'center', originY: 'center' });
+                const text = new fabric.Text(data.label, { fontSize: 14, fill: '#fff', originX: 'center', originY: 'center', fontFamily: 'Arial' });
+
+                const obj = new fabric.Group([rect, text], commonOptions);
+                canvas.add(obj); canvas.setActiveObject(obj); reorderLayers();
+                saveHistory(true);
+            }
+        }
+        // [V13 FIX 1] Bỏ chọn tường cuối cùng sau khi sinh xong Room
+        function spawnRoomTemplate() {
+            const center = canvas.getVpCenter();
+            const w = 400; const h = 300; const t = 5;
+
+            canvas.discardActiveObject();
+            isHistoryProcessing = true;
+
+            spawnObject('wall', { width: w, height: t, left: center.x, top: center.y - h / 2 + t / 2 });
+            spawnObject('wall', { width: w, height: t, left: center.x, top: center.y + h / 2 - t / 2 });
+            spawnObject('wall', { width: h - t * 2, height: t, left: center.x - w / 2 + t / 2, top: center.y, angle: 90 });
+            spawnObject('wall', { width: h - t * 2, height: t, left: center.x + w / 2 - t / 2, top: center.y, angle: 90 });
+
+            isHistoryProcessing = false;
+            canvas.discardActiveObject(); // Fix: Không để tường cuối cùng bị Select
+            saveHistory(true);
+            showToast("Đã tạo mẫu phòng vuông 400x300");
+        }
+
+        // [V13 FIX 2] Giải quyết Race Condition / Lỗi sinh nhiều History Entry của hàm Clone bất đồng bộ
+        function duplicateActive() {
+            const activeItems = canvas.getActiveObjects();
+            if (!activeItems.length) return;
+            canvas.discardActiveObject();
+
+            // Đếm số lượng object thực sự hợp lệ cần clone
+            let pending = activeItems.filter(o => o.classID && !o.locked).length;
+            if (pending === 0) return;
+
+            activeItems.forEach(obj => {
+                if (!obj.classID || obj.locked) return;
+                obj.clone(function (clonedObj) {
+                    clonedObj.set({ left: obj.left + GRID_SIZE, top: obj.top + GRID_SIZE, uuid: generateUUID() });
+                    canvas.add(clonedObj); reorderLayers();
+
+                    // Chỉ gọi SaveHistory khi phần tử cuối cùng đã được clone xong
+                    if (--pending === 0) {
+                        saveHistory(true);
+                    }
+                }, ['customType', 'classID', 'uuid', 'name', 'baseColor', 'locked']);
+            });
+        }
+
+        // Khóa vật thể
+        function toggleLockActive() {
+            const obj = canvas.getActiveObject();
+            if (!obj) return;
+            obj.locked = !obj.locked;
+            obj.set({
+                lockMovementX: obj.locked, lockMovementY: obj.locked,
+                lockRotation: obj.locked, lockScalingX: obj.locked, lockScalingY: obj.locked,
+                hasControls: !obj.locked, borderColor: obj.locked ? '#e74c3c' : '#1abc9c'
+            });
+            document.getElementById('btn-lock').innerText = obj.locked ? 'Mở Khóa 🔓' : 'Khóa 🔒';
+            canvas.requestRenderAll();
+            saveHistory(true);
+        }
+
+        // [V13 FIX 3] Thêm Guard bảo vệ các Object không thuộc hệ thống (như đường Lưới, Text phụ...)
+        function applyLockStateToObjects() {
+            canvas.getObjects().forEach(obj => {
+                if (!obj.customType) return; // Fix Guard
+                if (obj.locked) {
+                    obj.set({ lockMovementX: true, lockMovementY: true, lockRotation: true, lockScalingX: true, lockScalingY: true, hasControls: false, borderColor: '#e74c3c' });
+                } else {
+                    obj.set({ lockMovementX: false, lockMovementY: false, lockRotation: false, lockScalingX: false, lockScalingY: false, hasControls: true, borderColor: '#1abc9c' });
+                }
+            });
+        }
+
+        // Camera Pan & Zoom
+        canvas.on('mouse:wheel', function (opt) {
+            var delta = opt.e.deltaY; var zoom = canvas.getZoom(); zoom *= 0.999 ** delta;
+            if (zoom > 5) zoom = 5; if (zoom < 0.2) zoom = 0.2;
+            canvas.zoomToPoint({ x: opt.e.offsetX, y: opt.e.offsetY }, zoom);
+            opt.e.preventDefault(); opt.e.stopPropagation();
+        });
+
+        canvas.on('mouse:down', function (opt) {
+            if (opt.e.altKey) { this.isDragging = true; this.selection = false; this.lastPosX = opt.e.clientX; this.lastPosY = opt.e.clientY; }
+        });
+
+        canvas.on('mouse:move', function (opt) {
+            if (this.isDragging) {
+                var vpt = this.viewportTransform; vpt[4] += opt.e.clientX - this.lastPosX; vpt[5] += opt.e.clientY - this.lastPosY;
+                this.requestRenderAll(); this.lastPosX = opt.e.clientX; this.lastPosY = opt.e.clientY;
+            }
+        });
+
+        canvas.on('mouse:up', function (opt) {
+            this.setViewportTransform(this.viewportTransform);
+            this.isDragging = false;
+            this.selection = true;
+            liveTooltip.style.display = 'none';
+        });
+
+        function resetViewport() { canvas.setViewportTransform([1, 0, 0, 1, 0, 0]); canvas.requestRenderAll(); }
+
+        // UI Thông số
+        // UI Thông số (Đã xóa biến inColor)
+        const propPanel = document.getElementById('properties-panel');
+        const msgMulti = document.getElementById('multi-select-msg');
+        const inW = document.getElementById('prop-w'); const inH = document.getElementById('prop-h');
+        const inAngle = document.getElementById('prop-angle');
+        const btnLock = document.getElementById('btn-lock');
+        const rightSidebar = document.getElementById('right-sidebar');
+
+        function loadObjectToPanel(activeObjects) {
+            if (!activeObjects || activeObjects.length === 0) {
+                rightSidebar.style.display = 'none';
+                return;
+            }
+
+            rightSidebar.style.display = 'flex';
+
+            if (activeObjects.length > 1) {
+                propPanel.style.display = 'none';
+                msgMulti.style.display = 'block';
+                return;
+            }
+
+            msgMulti.style.display = 'none';
+            propPanel.style.display = 'block';
+
+            const obj = activeObjects[0];
+            inW.value = Math.max(10, Math.round(obj.width * obj.scaleX));
+            inH.value = Math.max(10, Math.round(obj.height * obj.scaleY));
+            inAngle.value = Math.round(obj.angle || 0);
+            // Đã xóa dòng inColor.value = obj.baseColor;
+            btnLock.innerText = obj.locked ? 'Mở Khóa 🔓' : 'Khóa 🔒';
+        }
+
+        function updateObject() {
+            const obj = canvas.getActiveObject();
+            if (!obj || obj.type !== 'group' || !obj.customType || obj.locked) return;
+            const newW = Math.max(10, parseInt(inW.value) || 10);
+            const newH = Math.max(10, parseInt(inH.value) || 10);
+
+            obj.set({ scaleX: 1, scaleY: 1, angle: parseInt(inAngle.value) || 0, width: newW, height: newH });
+
+            const child = obj.item(0);
+            if (child) {
+                if (child.type === 'rect') {
+                    // Đã bỏ chức năng fill màu từ inColor
+                    child.set({ width: newW, height: newH });
+                } else if (child.type === 'image') {
+                    child.set({ scaleX: newW / child.width, scaleY: newH / child.height });
+                }
+            }
+
+            obj.addWithUpdate(); canvas.requestRenderAll();
+            saveHistory();
+        }
+
+        canvas.on('selection:created', (e) => loadObjectToPanel(e.selected));
+        canvas.on('selection:updated', (e) => loadObjectToPanel(e.selected));
+        canvas.on('selection:cleared', () => loadObjectToPanel(null));
+
+        // Live Tooltip
+        function updateLiveTooltip(e, text) {
+            liveTooltip.style.display = 'block';
+            liveTooltip.innerText = text;
+            const workspaceRect = workspaceEl.getBoundingClientRect();
+            liveTooltip.style.left = (e.e.clientX - workspaceRect.left + 15) + 'px';
+            liveTooltip.style.top = (e.e.clientY - workspaceRect.top + 15) + 'px';
+        }
+
+        canvas.on('object:scaling', function (e) {
+            const obj = e.target;
+            const w = Math.round(obj.width * obj.scaleX);
+            const h = Math.round(obj.height * obj.scaleY);
+            updateLiveTooltip(e, `W: ${w} x H: ${h}`);
+        });
+
+        canvas.on('object:rotating', function (e) {
+            const obj = e.target;
+            updateLiveTooltip(e, `Góc xoay: ${normalizeAngle(obj.angle)}°`);
+        });
+
+        canvas.on('object:modified', function (e) {
+            const obj = e.target;
+            if (obj && obj.type === 'group' && obj.customType && !obj.locked) {
+                if (obj.scaleX !== 1 || obj.scaleY !== 1) {
+                    const w = Math.max(10, Math.round(obj.width * obj.scaleX));
+                    const h = Math.max(10, Math.round(obj.height * obj.scaleY));
+                    obj.set({ width: w, height: h, scaleX: 1, scaleY: 1 });
+
+                    const child = obj.item(0);
+                    if (child) {
+                        if (child.type === 'rect') {
+                            child.set({ width: w, height: h, originX: 'center', originY: 'center' });
+                        } else if (child.type === 'image') {
+                            child.set({ scaleX: w / child.width, scaleY: h / child.height, originX: 'center', originY: 'center' });
+                        }
+                    }
+                    if (obj.item(1)) obj.item(1).set({ scaleX: 1, scaleY: 1, left: 0, top: 0, originX: 'center', originY: 'center' });
+
+                    obj.addWithUpdate();
+                }
+            }
+            loadObjectToPanel(canvas.getActiveObjects());
+        });
+
+        const SNAP_TOLERANCE = 10; // Khoảng cách hít nam châm (10 pixel)
+
+        canvas.on('object:moving', function (options) {
+            const obj = options.target;
+            if (obj.type === 'activeSelection' || obj.locked) return;
+
+            // 1. Tọa độ mặc định khi kéo (làm tròn để chống mờ nét vẽ)
+            let newLeft = Math.round(obj.left);
+            let newTop = Math.round(obj.top);
+
+            // ==========================================
+            // 2. LOGIC TỪ TÍNH (SMART SNAPPING)
+            // ==========================================
+            const objRect = obj.getBoundingRect();
+            const objW = objRect.width;
+            const objH = objRect.height;
+
+            let snappedX = false;
+            let snappedY = false;
+
+            // Lấy tất cả vật thể khác trên bản vẽ (trừ vật đang kéo)
+            const targets = canvas.getObjects().filter(o => o !== obj && o.customType && !o.locked);
+
+            for (let target of targets) {
+                const tarRect = target.getBoundingRect();
+
+                // --- Bắt điểm trục X (Mép Trái, Giữa, Mép Phải) ---
+                if (!snappedX) {
+                    const targetPointsX = [tarRect.left, tarRect.left + tarRect.width, tarRect.left + tarRect.width / 2];
+                    const objOffsetsX = [objW / 2, -objW / 2, 0];
+
+                    for (let tx of targetPointsX) {
+                        for (let offsetX of objOffsetsX) {
+                            const currentEdgeX = obj.left - offsetX;
+                            if (Math.abs(currentEdgeX - tx) < SNAP_TOLERANCE) {
+                                newLeft = tx + offsetX;
+                                snappedX = true;
+                                break;
+                            }
+                        }
+                        if (snappedX) break;
+                    }
+                }
+
+                // --- Bắt điểm trục Y (Mép Trên, Giữa, Mép Dưới) ---
+                if (!snappedY) {
+                    const targetPointsY = [tarRect.top, tarRect.top + tarRect.height, tarRect.top + tarRect.height / 2];
+                    const objOffsetsY = [objH / 2, -objH / 2, 0];
+
+                    for (let ty of targetPointsY) {
+                        for (let offsetY of objOffsetsY) {
+                            const currentEdgeY = obj.top - offsetY;
+                            if (Math.abs(currentEdgeY - ty) < SNAP_TOLERANCE) {
+                                newTop = ty + offsetY;
+                                snappedY = true;
+                                break;
+                            }
+                        }
+                        if (snappedY) break;
+                    }
+                }
+
+                // Thoát sớm quét mảng nếu đã hít được vào góc (cả 2 trục)
+                if (snappedX && snappedY) break;
+            }
+
+            // Áp dụng tọa độ sau khi bị lực từ tính hút
+            obj.set({ left: newLeft, top: newTop });
+            updateLiveTooltip(options, `X: ${Math.round(obj.left)}, Y: ${Math.round(obj.top)}`);
+
+            // ==========================================
+            // 3. LOGIC HÍT VÀO LÕI TƯỜNG (Dành cho Cửa đi & Cửa sổ)
+            // ==========================================
+            if (obj.customType === 'door' || obj.customType === 'window') {
+                const innerRect = obj.item(0);
+                if (innerRect) innerRect.set('fill', obj.baseColor);
+
+                const walls = canvas.getObjects().filter(o => o.customType === 'wall');
+                for (let wall of walls) {
+                    const dx = Math.abs(obj.left - wall.left);
+                    const dy = Math.abs(obj.top - wall.top);
+                    const wAngle = normalizeAngle(wall.angle);
+                    const wallHalfLen = (wall.width * wall.scaleX) / 2;
+
+                    let canSnap = false;
+                    // Vẫn dùng cự ly 20px cho cửa để dễ dàng nhét vào tường hơn
+                    if (wAngle === 0 || wAngle === 180) { canSnap = (dy < 20) && (dx <= wallHalfLen + 10); }
+                    else if (wAngle === 90 || wAngle === 270) { canSnap = (dx < 20) && (dy <= wallHalfLen + 10); }
+                    else { canSnap = Math.hypot(dx, dy) < 20; }
+
+                    if (canSnap) {
+                        if (innerRect) innerRect.set('fill', '#2ecc71'); // Đổi màu xanh khi khớp
+                        obj.set({ angle: wAngle });
+                        if (wAngle === 0 || wAngle === 180) obj.set({ top: wall.top });
+                        else if (wAngle === 90 || wAngle === 270) obj.set({ left: wall.left });
+                        else obj.set({ left: wall.left, top: wall.top });
+                        break;
+                    }
+                }
+            }
+
+            loadObjectToPanel(canvas.getActiveObjects());
+        });
+
+        window.addEventListener('keydown', function (e) {
+            const isInputFocused = ['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName);
+            if (isInputFocused) return;
+            if (e.key === 'Delete' || e.key === 'Backspace') {
+                const activeObjects = canvas.getActiveObjects();
+                if (activeObjects.length) {
+                    const unlockedObjects = activeObjects.filter(o => !o.locked);
+                    if (unlockedObjects.length === 0) return;
+                    unlockedObjects.forEach(obj => canvas.remove(obj));
+                    canvas.discardActiveObject(); rightSidebar.style.display = 'none';
+                    saveHistory(true);
+                }
+            }
+            if (e.ctrlKey && e.key === 'd') { e.preventDefault(); duplicateActive(); }
+            if (e.ctrlKey && e.key === 'z') { e.preventDefault(); undo(); }
+            if (e.ctrlKey && e.key === 'y') { e.preventDefault(); redo(); }
+            if (e.key === 'l' || e.key === 'L') { toggleLockActive(); }
+        });
+
+        function clearCanvas() {
+            if (confirm("Xóa toàn bộ bản vẽ (bao gồm cả vật thể bị khóa)?")) {
+                canvas.clear(); setupGridBackground(); rightSidebar.style.display = 'none'; document.getElementById('score-board').style.display = 'none';
+                saveHistory(true);
+            }
+        }
+
+        function saveDraft() {
+            try {
+                localStorage.setItem('floorplan_draft_v3', JSON.stringify(canvas.toJSON(['customType', 'classID', 'uuid', 'name', 'baseColor', 'locked'])));
+                showToast("Đã lưu bản nháp an toàn!");
+            } catch (e) { showToast("Lỗi: Không thể lưu nháp!"); }
+        }
+
+        function loadDraft() {
+            setupGridBackground();
+            try {
+                const draft = localStorage.getItem('floorplan_draft_v3');
+                if (draft) {
+                    isHistoryProcessing = true;
+                    canvas.loadFromJSON(draft, function () {
+                        applyLockStateToObjects();
+                        reorderLayers(); canvas.requestRenderAll();
+                        isHistoryProcessing = false;
+                        saveHistory(true);
+                    });
+                } else { saveHistory(true); }
+            } catch (e) { showToast("Bản nháp bị lỗi, tải bản vẽ mới."); saveHistory(true); }
+        }
+        window.addEventListener('load', loadDraft);
+
+        function getPolygonDistance(obj1, obj2) {
+            const c1 = obj1.getCoords(); const c2 = obj2.getCoords();
+            let minDist = Infinity;
+            for (let p1 of c1) { for (let p2 of c2) { const dist = Math.hypot(p1.x - p2.x, p1.y - p2.y); if (dist < minDist) minDist = dist; } }
+            return minDist;
+        }
+
+        function evaluateLayout() {
+            const items = canvas.getObjects().filter(o => o.customType === 'furniture' || o.customType === 'window');
+            let totalScore = 0; let details = [];
+            for (let i = 0; i < items.length; i++) {
+                for (let j = i + 1; j < items.length; j++) {
+                    const a = items[i], b = items[j]; const dist = getPolygonDistance(a, b); const pair = [a.classID, b.classID].sort().join("-");
+                    if (pair === "bed-nightstand") {
+                        if (dist < 40) { totalScore += 20; details.push(`+20: Tủ đầu giường hợp lý`); } else { totalScore -= 10; details.push(`-10: Tủ đầu giường xa Giường`); }
+                    }
+                    if (pair === "bed-wardrobe") {
+                        if (dist < 10) { totalScore -= 50; details.push(`-50: Tủ ĐÈ / quá sát Giường!`); } else if (dist < 50) { totalScore -= 30; details.push(`-30: Tủ quá sát Giường`); } else { totalScore += 10; details.push(`+10: Không gian Tủ - Giường mở cửa tốt`); }
+                    }
+                    if (pair === "wardrobe-window") { if (dist < 10) { totalScore -= 40; details.push(`-40: Tủ che Cửa sổ!`); } }
+                }
+            }
+            document.getElementById('score-board').style.display = 'block'; document.getElementById('total-score').innerText = totalScore;
+            document.getElementById('score-details').innerHTML = details.length ? details.map(d => `<li>${d}</li>`).join('') : '<li>Chưa đủ điều kiện đánh giá</li>';
+        }
+
+        function exportData() {
+            const items = canvas.getObjects().filter(o => o.customType);
+            const layoutData = {
+                objects: items.map(obj => ({
+                    id: obj.uuid, type: obj.classID,
+                    position: { x: Math.round(obj.left), z: Math.round(obj.top) },
+                    rotation: normalizeAngle(obj.angle || 0),
+                    size: { w: Math.round(obj.width * obj.scaleX), d: Math.round(obj.height * obj.scaleY) }
+                }))
+            };
+            const jsonStr = JSON.stringify(layoutData, null, 2);
+            navigator.clipboard.writeText(jsonStr).then(() => {
+                showToast("Đã copy JSON vào Clipboard!"); console.log(jsonStr);
+            }).catch(() => { alert("Dữ liệu xuất ra Console. Nhấn F12 để xem."); });
+        }
+    </script>
+</body>
+
+</html>

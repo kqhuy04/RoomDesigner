@@ -1,0 +1,31 @@
+{
+    "object": "bed",
+    "description": "This is a whimsical and tropically-themed 3D model of a bed. It features a light blue mattress and a matching base, which appears to be constructed from stacked, rounded forms, giving it a soft, cushioned look. A vibrant purple bed runner, adorned with cheerful yellow starfish-like patterns, lies across the foot of the bed. A simple white pillow rests at the head, inviting comfort. The bed frame consists of four sturdy posts, seemingly crafted from textured yellow logs or bamboo, with the two head posts extending higher. These taller posts support a distinctive headboard: a bright green lifebuoy with purple stripes, adding a strong nautical or beach-inspired element. The overall design evokes a playful and relaxing beach house or resort atmosphere.",
+    "color": [
+        "light blue",
+        "purple",
+        "yellow",
+        "green",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom",
+        "themed room"
+    ],
+    "style": "tropical",
+    "material": [
+        "wood",
+        "fabric",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.332,
+        "height": 0.563,
+        "length": 0.457,
+        "unit": "meters"
+    }
+}

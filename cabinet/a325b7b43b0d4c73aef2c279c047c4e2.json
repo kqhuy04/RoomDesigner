@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, slender cabinet with a dark wood finish. It appears to be a single, narrow unit with a flat top and a base. The side view shows subtle paneling or door lines, suggesting it may have drawers or shelves inside. The dark, rich wood grain gives it a classic and somewhat imposing feel. The top and base have a contrasting dark gray trim, adding a modern touch to the overall design. The cabinet is presented against a plain gray background, emphasizing its form and texture. Its narrow profile makes it suitable for spaces where floor space is limited but vertical storage is needed.",
+    "color": [
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.245,
+        "height": 0.765,
+        "length": 0.51,
+        "unit": "meters"
+    }
+}

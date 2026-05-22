@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow, white-framed bookshelf with six rectangular cubbies arranged in a 2x3 grid. The interior of each cubby is colored a muted light yellow, with the back panels appearing a darker gray, suggesting depth and shadow. The top of each cubby is a light purple, giving it a stylized, almost abstract look. The bookshelf casts a soft shadow on the teal-colored background, indicating it is a 3D render. It appears to be a minimalist and modern piece of furniture designed for display or storage.",
+    "color": [
+        "white",
+        "light yellow",
+        "gray",
+        "purple",
+        "teal"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.0,
+        "height": 4.0,
+        "length": 1.0,
+        "unit": "meters"
+    }
+}

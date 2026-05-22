@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "A single-person bed with a wooden frame and a red blanket. The headboard and footboard are made of dark wood, appearing to be polished. The blanket is a rich, vibrant red, covering the mattress which has a light-colored sheet or pillow visible at the head. The bed's design is simple and classic, suggesting it would fit well in various bedroom settings. The wood grain is visible, giving it a natural and somewhat rustic feel, while the clean lines keep it from appearing overly ornate. It's a functional piece of furniture designed for sleeping and resting.",
+    "color": [
+        "brown",
+        "red",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.2,
+        "height": 2.081,
+        "length": 4.2,
+        "unit": "meters"
+    }
+}

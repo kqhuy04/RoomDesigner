@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "This is a detailed 3D model of a large, dark wood bookshelf with multiple shelves and glass-fronted doors. The bookshelf appears to be a traditional or vintage design, possibly intended for a study, library, or living room. The wood has a rich, dark finish, and the glass panels suggest it's designed to display items, such as books or decorative objects, while protecting them from dust. The overall impression is one of elegance and classic style, fitting for a more formal or traditional interior setting.",
+    "color": [
+        "brown",
+        "dark brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "library",
+        "study",
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 3.319,
+        "height": 2.2,
+        "length": 0.411,
+        "unit": "meters"
+    }
+}

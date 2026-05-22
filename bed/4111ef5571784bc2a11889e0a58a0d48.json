@@ -1,0 +1,29 @@
+{
+    "object": "bed",
+    "description": "This is a rustic, sparsely furnished bed, likely found in a simple dwelling or a camping setting. The bed frame appears to be constructed from rough-hewn wooden planks, suggesting a utilitarian and perhaps primitive design. The mattress or sleeping surface is covered with a thick, shaggy blanket or hide, rendered in earthy tones of brown and beige, giving it a textured and somewhat wild appearance. A small, dark pillow rests at the head of the bed. The overall impression is one of basic comfort and a connection to natural materials, suitable for a survivalist, a medieval-era dwelling, or a minimalist cabin.",
+    "color": [
+        "brown",
+        "beige",
+        "gray",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "outdoor",
+        "camping"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "fabric",
+        "fur/hide"
+    ],
+    "usage": "functional",
+    "mood": "cozy, primitive, natural",
+    "dimensions": {
+        "width": 1.633,
+        "height": 0.752,
+        "length": 2.466,
+        "unit": "meters"
+    }
+}

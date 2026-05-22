@@ -1,0 +1,30 @@
+{
+    "object": "cabinet",
+    "description": "This is a mid-century modern style wooden cabinet with a white laminate finish on the doors. It features two cabinet doors on the right side, each with a sleek, rectangular silver handle. On the left, one door is open, revealing a small compartment containing three books. The cabinet is supported by four tapered, dark wooden legs that angle outwards, contributing to its retro aesthetic. The overall design is clean and functional, suitable for storage and display.",
+    "color": [
+        "brown",
+        "white",
+        "silver",
+        "red",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "laminate",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "retro",
+    "dimensions": {
+        "width": 4.071,
+        "height": 1.531,
+        "length": 1.574,
+        "unit": "meters"
+    }
+}

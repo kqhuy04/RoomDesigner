@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a detailed 3D model of a vintage-style bed. The bed frame is made of dark wood with intricate carvings on the headboard, footboard, and legs, suggesting an ornate and classic design. The mattress is covered with a crisp white sheet, and a deep red comforter is neatly spread across it, creating a rich and inviting look. Two mustard yellow square pillows and one smaller maroon square pillow are placed against the headboard, adding a touch of color and comfort. The overall impression is one of elegance and traditional craftsmanship, suitable for a master bedroom or a guest room seeking a touch of sophistication.",
+    "color": [
+        "brown",
+        "red",
+        "white",
+        "yellow",
+        "maroon"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.792,
+        "height": 1.967,
+        "length": 4.253,
+        "unit": "meters"
+    }
+}

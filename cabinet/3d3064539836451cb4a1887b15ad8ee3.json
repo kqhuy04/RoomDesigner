@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a pink, modern cabinet with a total of six compartments. The left column features a single door with a gold knob, while the remaining five compartments are open shelves. The cabinet is divided into two rows: the top row has three open shelves, and the bottom row has three closed compartments, each with a gold knob. The overall design is simple and functional, with clean lines and a uniform color palette.",
+    "color": [
+        "pink",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "playroom",
+        "storage room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.946,
+        "height": 2.259,
+        "length": 0.828,
+        "unit": "meters"
+    }
+}

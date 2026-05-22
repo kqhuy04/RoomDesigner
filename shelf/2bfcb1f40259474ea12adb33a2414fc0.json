@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow shelf unit with a rustic and weathered appearance. It features an open top with multiple shelves, a central drawer with a single round knob, and a lower open shelf. The finish suggests aged, possibly distressed wood or metal with a dark, possibly blue-gray base color and prominent rust-colored accents. The back panels of the upper shelves appear to be divided into sections. The overall design is functional for storage and display, with a strong vintage or industrial aesthetic.",
+    "color": [
+        "gray",
+        "brown",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "kitchen"
+    ],
+    "style": "vintage",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 1.325,
+        "height": 2.24,
+        "length": 0.804,
+        "unit": "meters"
+    }
+}

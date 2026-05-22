@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern, minimalist cabinet with three doors and four tapered legs. The cabinet is rectangular in shape with a slightly overhanging top. The doors are flush with the front of the cabinet and have no visible handles, suggesting a push-to-open mechanism. The legs are thin and angled outwards, providing a light and airy feel. The overall design is sleek and uncluttered, making it a versatile piece for various interior styles. It appears to be made of a smooth, matte material.",
+    "color": [
+        "beige",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.865,
+        "height": 0.835,
+        "length": 0.623,
+        "unit": "meters"
+    }
+}

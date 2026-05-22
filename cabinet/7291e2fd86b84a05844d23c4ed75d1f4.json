@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, slender cabinet with a light wood grain finish. It features two doors that meet in the center, with a single, thin, silver handle on each door. The cabinet has a minimalist design, with clean lines and a simple rectangular shape. The wood grain pattern runs vertically, giving it a natural and organic feel. The cabinet appears to be made of wood or a wood composite material, and it is designed to be placed against a wall. Its narrow profile suggests it is intended for spaces where width is limited, making it a practical storage solution. The overall aesthetic is modern and understated, allowing it to blend seamlessly into various interior designs.",
+    "color": [
+        "light brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "bathroom",
+        "laundryroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.898,
+        "height": 2.351,
+        "length": 0.646,
+        "unit": "meters"
+    }
+}

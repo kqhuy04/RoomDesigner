@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a white metal bed frame with an ornate, curved design, featuring scrollwork and a decorative circular motif on the headboard. The bed is fitted with a pink mattress that has a subtle, lighter pink pattern resembling a heart-shaped design or floral elements. The bed is set against a neutral, muted background, casting a distinct shadow that mimics the intricate pattern of the bed frame. The overall aesthetic suggests a charming and somewhat whimsical design, possibly intended for a child's room or a feminine bedroom setting.",
+    "color": [
+        "white",
+        "pink"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "ornate",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "charming",
+    "dimensions": {
+        "width": 1.883,
+        "height": 1.627,
+        "length": 2.144,
+        "unit": "meters"
+    }
+}

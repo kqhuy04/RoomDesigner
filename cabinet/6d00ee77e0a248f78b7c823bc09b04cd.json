@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "A minimalist white cabinet with a ribbed facade, elevated on four tapered legs. The cabinet has a clean, modern design with a smooth top surface and rounded edges. The ribbed pattern on the front suggests a subtle texture and visual interest. The overall aesthetic is understated and functional, fitting seamlessly into contemporary interior design schemes. Its compact size and clean lines make it versatile for various spaces.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.45,
+        "height": 0.58,
+        "length": 0.45,
+        "unit": "meters"
+    }
+}

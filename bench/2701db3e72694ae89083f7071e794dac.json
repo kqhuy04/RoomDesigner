@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This 3D model depicts a rustic outdoor bench with a weathered appearance. The seat is constructed from aged, dark red wooden planks, showing signs of wear and tear, and is supported by substantial, rough-hewn stone pillars. The stone bases are textured and appear to be granite or a similar natural stone, with moss and possibly some small roots growing on their surfaces, suggesting they have been in place for a long time. The bench is situated on a cobblestone or brick-like pathway, also showing signs of moss growth between the paving stones. The overall presentation gives a sense of durability and a natural integration into an outdoor environment, like a park or garden.",
+    "color": [
+        "brown",
+        "red",
+        "gray",
+        "green"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "park"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "stone"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.332,
+        "height": 0.221,
+        "length": 0.991,
+        "unit": "meters"
+    }
+}

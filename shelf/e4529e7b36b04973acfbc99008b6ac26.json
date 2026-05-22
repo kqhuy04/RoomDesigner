@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "This object appears to be a minimalist corner shelf, designed to fit into the angle of two walls. It features two angled planes that meet at a right angle, creating a V-shaped structure when viewed from above. The shelf is depicted in a light, neutral color, suggesting a clean and modern aesthetic. Its simple form and lack of ornamentation make it a versatile piece that could complement various interior design styles. The shadow cast by the shelf indicates it is a solid, three-dimensional object, likely made from a material that can hold its shape, such as wood or a composite material. Its design prioritizes functionality and space-saving, making it ideal for organizing or displaying items in tight corners.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "bathroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.933,
+        "height": 0.068,
+        "length": 0.2,
+        "unit": "meters"
+    }
+}

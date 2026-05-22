@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a modern-style bed with a black upholstered headboard and frame. The bed is made up with a grey mattress, two white pillows, and a light blue blanket. The design is minimalist and clean, suggesting a contemporary bedroom setting. The bed appears to be a double or queen size, suitable for one or two people. The overall aesthetic is sleek and uncluttered, focusing on comfort and a sophisticated look.",
+    "color": [
+        "black",
+        "grey",
+        "white",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "foam"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.504,
+        "height": 0.767,
+        "length": 1.814,
+        "unit": "meters"
+    }
+}

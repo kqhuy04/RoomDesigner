@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow cabinet with a glass-fronted door. Inside, it features three shelves. The cabinet has a simple, modern design, with clean lines and a minimalist aesthetic. The exterior and interior surfaces are a uniform light gray color, creating a sleek and unobtrusive appearance. The glass door allows for a clear view of the items stored on the shelves, suggesting it could be used for display or to showcase specific objects. Its slim profile makes it suitable for spaces where floor area is limited.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.6,
+        "length": 0.297,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A rustic wooden shelf unit featuring an open top and two decorative side panels with a series of arched openings.  Below the open top, a single wooden drawer with an ornate dark metal handle is centrally positioned. The drawer is set into the main body of the shelf, which rests on a solid base with slightly splayed feet, also made of wood. The wood grain is prominent, suggesting an aged or distressed finish, with some darker accents hinting at wear or polish.  The overall design is simple yet has a vintage or antique feel, suitable for displaying items or for storage in a more traditional setting.",
+    "color": [
+        "brown",
+        "dark brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.183,
+        "height": 0.422,
+        "length": 0.486,
+        "unit": "meters"
+    }
+}

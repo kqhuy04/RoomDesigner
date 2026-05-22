@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "A minimalist wooden bed frame featuring a light brown finish. The bed has four sturdy legs and a simple, geometric headboard that extends upwards and to one side, seamlessly integrating a built-in nightstand. The nightstand is also crafted from the same light brown wood and has a single drawer. A thick, plush mattress in a vibrant lavender color rests on the bed frame. The overall design is clean and modern, with sharp lines and a subdued color palette, creating a functional and aesthetically pleasing piece of bedroom furniture.",
+    "color": [
+        "light brown",
+        "lavender"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.25,
+        "height": 0.98,
+        "length": 2.81,
+        "unit": "meters"
+    }
+}

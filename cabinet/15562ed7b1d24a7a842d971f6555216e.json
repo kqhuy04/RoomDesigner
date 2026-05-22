@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a white dresser with eight drawers arranged in two columns. The top row has four smaller drawers, and the bottom two rows each have two larger drawers. Each drawer has a small, round, dark knob. The dresser has a clean, minimalist design with straight lines and a flat top. It stands on four short, rectangular legs. The overall aesthetic is simple and functional, making it suitable for various bedroom decor styles.",
+    "color": [
+        "white",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.26,
+        "height": 0.38,
+        "length": 0.76,
+        "unit": "meters"
+    }
+}

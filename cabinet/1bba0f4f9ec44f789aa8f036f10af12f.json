@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a cabinet with double doors. The cabinet features a simple, modern design with clean lines. The main body of the cabinet has a prominent reddish-brown hue, giving it a warm and inviting appearance. Surrounding the doors is a darker brown frame, providing a contrasting outline. Two silver, oval-shaped handles are centrally positioned on the doors, suggesting functionality for opening and closing. The overall aesthetic is straightforward and practical, making it suitable for various storage needs without being overly ornate. The model is presented against a plain, neutral background.",
+    "color": [
+        "red",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 2.376,
+        "height": 3.06,
+        "length": 1.48,
+        "unit": "meters"
+    }
+}

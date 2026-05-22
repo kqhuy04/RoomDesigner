@@ -1,0 +1,26 @@
+{
+    "object": "shelf",
+    "description": "This is a two-tiered wooden shelf supported by four black metal legs. The shelf has a simple, modern design with clean lines. The top and bottom shelves are made of wood with a visible grain, giving it a natural and slightly rustic feel. The metal legs are slender and provide a stark contrast to the wooden surfaces, contributing to a minimalist aesthetic. The overall construction appears sturdy and functional.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.48,
+        "height": 0.73,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

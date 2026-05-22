@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, white, four-shelf bookshelf filled with various books. The bookshelf is designed in a simple, modern style with clean lines. The shelves are evenly spaced, providing ample storage for books and decorative items. The books themselves vary in size and color, with many appearing to be white or light-colored. The overall impression is one of a well-organized and functional storage unit, suitable for a variety of home or office environments. The lighting casts subtle shadows, highlighting the three-dimensional form of the object.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.475,
+        "height": 0.771,
+        "length": 0.115,
+        "unit": "meters"
+    }
+}

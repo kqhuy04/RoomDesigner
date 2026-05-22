@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a distressed gray wooden dresser with a changing pad on top. The dresser has four drawers, with the top two drawers being smaller and side-by-side, and the bottom two drawers being larger and stacked vertically. Each drawer has a simple black knob. The wood has a rustic, weathered appearance, suggesting a vintage or farmhouse style. The changing pad on top is white with a subtle pattern of green leaves. The overall design is practical and suitable for a nursery or child's room, combining storage with a functional changing surface.",
+    "color": [
+        "gray",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery"
+    ],
+    "style": "farmhouse",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.965,
+        "height": 1.016,
+        "length": 0.54,
+        "unit": "meters"
+    }
+}

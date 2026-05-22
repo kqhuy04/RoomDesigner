@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, white, rectangular shelf unit with eight cubbies arranged in a 2x4 grid. The unit has a clean, minimalist design, with sharp edges and flat surfaces. The cubbies are open and appear to be of equal size, suitable for storing various items. The lighting in the preview highlights the geometric divisions and creates shadows within the cubbies, emphasizing the structure of the unit. It is presented against a plain, dark gray background, which makes the white shelf unit stand out prominently.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.392,
+        "height": 1.471,
+        "length": 0.765,
+        "unit": "meters"
+    }
+}

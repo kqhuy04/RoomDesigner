@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow cabinet with a light wood finish. It features two pairs of doors at the bottom and a combination of a solid door and an open shelving unit at the top. The top section has two shelves within the open area, and the solid door on the left also has a wood panel insert. The handles and hinges are a metallic brass color. The cabinet has a slightly rustic or country feel due to the visible wood grain and simple construction. It appears to be a functional piece for storage or display.",
+    "color": [
+        "tan",
+        "light brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "kitchen",
+        "bedroom"
+    ],
+    "style": "country",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.516,
+        "height": 0.737,
+        "length": 0.349,
+        "unit": "meters"
+    }
+}

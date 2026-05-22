@@ -1,0 +1,26 @@
+{
+    "object": "bench",
+    "description": "A sleek, modern bench designed with a contemporary aesthetic. The bench features a smooth, gently curved top surface, providing a comfortable seating experience. Its base is formed by two solid, arching supports that curve inwards, creating an open and airy feel while maintaining structural integrity. The overall form is minimalist and sculptural, making it a statement piece for any outdoor or indoor space. The speckled texture of the material adds a subtle visual interest and a touch of natural elegance.",
+    "color": [
+        "gray",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio",
+        "lobby",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "granite",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.494,
+        "height": 0.374,
+        "length": 0.528,
+        "unit": "meters"
+    }
+}

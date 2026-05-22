@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a light wood cabinet with six open shelves. The cabinet has two doors, one on the left that is closed and light blue, and one on the right that is open and dark blue. Both doors have a light gray handle. The cabinet appears to be designed for storage, possibly in a child's room or a playroom, given its bright colors and simple, accessible design. The overall aesthetic is clean and functional, with a slight playful element due to the color choices.",
+    "color": [
+        "light wood",
+        "light blue",
+        "dark blue",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "playroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.553,
+        "height": 0.312,
+        "length": 0.191,
+        "unit": "meters"
+    }
+}

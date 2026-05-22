@@ -1,0 +1,29 @@
+{
+    "object": "bench",
+    "description": "This is a 3D model preview of a classic outdoor park bench. It features a sturdy construction with multiple horizontal wooden slats forming both the seat and the backrest. The wood appears to have a reddish-brown hue and a slightly textured finish. These slats are securely fastened with visible bolts to dark, heavy-set support legs, which seem to be made of cast iron or a similar metal with a rough, weathered texture. The design is robust and functional, characteristic of benches found in public parks or gardens. The model is rendered against a simple, neutral grey background.",
+    "color": [
+        "reddish-brown",
+        "dark grey",
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "park",
+        "garden",
+        "public space",
+        "patio"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sturdy",
+    "dimensions": {
+        "width": 0.591,
+        "height": 0.75,
+        "length": 1.779,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow shelving unit or bookshelf, rendered in a 3D model style. It features a light wooden frame consisting of vertical posts and horizontal supports, enclosing three distinct rectangular compartments. These compartments are painted a bright yellow, creating a vibrant contrast with the natural wood tones. The design is simple, clean, and functional, ideal for storage or display in a contemporary setting.",
+    "color": [
+        "yellow",
+        "light wood"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "painted wood"
+    ],
+    "usage": "storage",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.34,
+        "height": 1.761,
+        "length": 0.7,
+        "unit": "meters"
+    }
+}

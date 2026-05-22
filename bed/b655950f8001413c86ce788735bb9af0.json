@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This 3D model illustrates a minimalist bed frame characterized by its clean lines and geometric construction. It features a solid, rectangular platform designed to hold a mattress, supported by sturdy, block-like legs at each corner. An integrated headboard-like structure, also solid and rectangular, rises at one end, contributing to the bed's sleek profile. The design emphasizes simplicity and functionality, with no extraneous ornamentation. The overall aesthetic is understated and modern, focusing on essential forms and a robust appearance.",
+    "color": [
+        "light gray",
+        "pale blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.178,
+        "height": 1.116,
+        "length": 2.072,
+        "unit": "meters"
+    }
+}

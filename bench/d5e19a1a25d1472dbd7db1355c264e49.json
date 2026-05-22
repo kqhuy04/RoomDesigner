@@ -1,0 +1,26 @@
+{
+    "object": "bench",
+    "description": "This 3D model depicts a long, subtly curved bench with a contemporary and minimalist design. The seating surface is composed of several horizontal planks, rendered in a muted, desaturated greenish-grey color, giving the impression of weathered or treated wood. The planks feature subtle texture lines, simulating natural grain or panel divisions. The bench is supported by four dark, U-shaped leg structures that are evenly spaced along its length, providing stability and a clean, unobtrusive aesthetic. These supports appear to be made of a sturdy material like metal or a durable composite, matching the overall subdued color palette of the object. Its elongated, curvilinear form suggests suitability for public parks, gardens, or modern architectural settings where communal seating with a sleek profile is desired.",
+    "color": [
+        "greenish-grey"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "park",
+        "garden",
+        "public_space"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.352,
+        "height": 0.13,
+        "length": 1.818,
+        "unit": "meters"
+    }
+}

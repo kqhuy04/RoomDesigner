@@ -1,0 +1,25 @@
+{
+    "object": "bench",
+    "description": "This is a modern, minimalist bench designed for outdoor or indoor use. It features a long, rectangular wooden base with four separate cushioned seats. The base is constructed from light-colored wood and has a clean, geometric design with visible metal fasteners, suggesting durability and a contemporary aesthetic. Each seat is upholstered in a dark, textured fabric that provides a subtle contrast to the wooden frame. The bench is elongated, accommodating multiple users, and its modular appearance, with distinct seating sections, makes it versatile for various spaces. The overall design emphasizes functionality and a sleek, uncluttered look.",
+    "color": [
+        "tan",
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "outdoor patio"
+    ],
+    "style": "modern",
+    "material": "wood, metal, fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.52,
+        "height": 0.464,
+        "length": 0.557,
+        "unit": "meters"
+    }
+}

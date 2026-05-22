@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "This is a light blue-green wooden bookshelf with a decorative scalloped base. It features three shelves filled with books, boxes, and some loose papers. The top shelf has several books arranged vertically and horizontally, along with a dark gray box. The second shelf contains stacks of books and wooden boxes. The third shelf has larger wooden and gray boxes, and a few more books. The bottom section of the bookshelf has an open drawer with two round knobs, revealing a glimpse of the interior.",
+    "color": [
+        "blue",
+        "green",
+        "brown",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "study",
+        "bedroom",
+        "office"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "organized",
+    "dimensions": {
+        "width": 1.422,
+        "height": 1.819,
+        "length": 0.878,
+        "unit": "meters"
+    }
+}

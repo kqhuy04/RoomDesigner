@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow white bookshelf with an abstract, geometric design. The shelving units are angled and offset, creating a visually dynamic and modern appearance. The internal surfaces of the shelves are a light gray, contrasting with the white exterior frame. This design provides multiple open compartments of varying sizes and shapes, suitable for displaying books, decorative items, or other curios. The overall form is sleek and minimalist, intended to be a statement piece as well as a functional storage solution.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "unknown",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.886,
+        "height": 1.9,
+        "length": 0.355,
+        "unit": "meters"
+    }
+}

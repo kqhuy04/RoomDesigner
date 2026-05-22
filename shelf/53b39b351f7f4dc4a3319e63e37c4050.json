@@ -1,0 +1,22 @@
+{
+    "object": "shelf",
+    "description": "This is a large, white, modular shelving unit designed for media storage and display. It features two tall, multi-tiered side towers composed of numerous horizontal shelves. The central section has a lower console with three drawers, suitable for housing electronic devices, and an open space above it, likely for a television. Above the central section are three smaller cubby-like shelves. The overall design is clean, minimalist, and practical, intended to organize and showcase various items.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.282,
+        "height": 1.97,
+        "length": 0.472,
+        "unit": "meters"
+    }
+}

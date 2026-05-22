@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "A modern platform bed with a fabric-upholstered headboard and base. The bed features a minimalist design with clean lines and a low profile. It is dressed with a fitted sheet and two plush pillows, all in a neutral gray tone. The headboard is a deep navy blue, providing a subtle contrast to the lighter bedding. This bed is designed for comfort and style, fitting seamlessly into contemporary bedroom decors.",
+    "color": [
+        "navy blue",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.801,
+        "height": 0.938,
+        "length": 2.253,
+        "unit": "meters"
+    }
+}
