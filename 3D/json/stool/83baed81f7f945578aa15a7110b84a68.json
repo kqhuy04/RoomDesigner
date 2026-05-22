@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a simple, sturdy bar stool crafted from light-colored wood. It features a flat, square seat supported by four straight legs. Horizontal wooden braces connect the legs, providing additional stability and a subtle visual detail. The overall design is minimalist and functional, emphasizing the natural grain and color of the wood. Its clean lines and unadorned structure make it a versatile piece that can complement various interior styles. The stool's height suggests it is intended for use at a bar or a high counter.",
+    "color": [
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar",
+        "livingroom"
+    ],
+    "style": "contemporary",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.44,
+        "length": 0.269,
+        "unit": "meters"
+    }
+}

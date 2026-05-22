@@ -1,0 +1,27 @@
+{
+    "object": "chest",
+    "description": "This is a 3D model preview of a stacked chest, possibly for storage or as part of a game asset. It appears to be constructed from dark, rough-hewn material, possibly wood or metal, with visible horizontal banding or reinforcement. The chest has a rectangular shape and is stacked vertically, suggesting it could be part of a larger structure or a single, multi-layered container. The texture is somewhat weathered, giving it a rustic or industrial feel. The overall impression is one of utility and perhaps a sense of age or durability.",
+    "color": [
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "storage room",
+        "basement",
+        "garage",
+        "game environment"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 2.024,
+        "height": 1.279,
+        "length": 1.395,
+        "unit": "meters"
+    }
+}

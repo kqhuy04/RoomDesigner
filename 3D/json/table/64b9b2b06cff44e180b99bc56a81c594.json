@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a modern and functional table with a wooden top and a metallic base. The tabletop has a light wood grain texture, giving it a natural and appealing look. The base is a sleek, columnar structure with a dark gray accent strip running vertically. It's supported by a rectangular base with two small wheels on each side, suggesting mobility and ease of repositioning. The overall design is minimalist and practical, suitable for various settings where a compact and versatile table is needed. The adjustable knob on the side of the column implies the height of the table can be modified, further enhancing its utility.",
+    "color": [
+        "wood",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "office",
+        "bedroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.703,
+        "height": 0.719,
+        "length": 1.4,
+        "unit": "meters"
+    }
+}

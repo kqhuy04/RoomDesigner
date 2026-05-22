@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "A luxurious navy blue tufted ottoman with silver nailhead trim and dark wooden bun feet. The top surface features a deep button tufting pattern, creating a visually rich and inviting texture. The nailhead trim encircles the base, adding a classic decorative element. The ottoman is raised on four sturdy, turned wooden feet, providing a stable base and a touch of traditional elegance. Its compact yet substantial form makes it a versatile piece for various seating arrangements or as a standalone accent.",
+    "color": [
+        "navy blue",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway",
+        "lounge"
+    ],
+    "style": "traditional",
+    "material": [
+        "fabric",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.858,
+        "height": 0.459,
+        "length": 0.858,
+        "unit": "meters"
+    }
+}

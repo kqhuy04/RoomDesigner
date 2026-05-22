@@ -1,0 +1,26 @@
+{
+    "object": "chest",
+    "description": "This is a sleek and modern chest of drawers featuring three equally sized drawers. The main body of the chest is a clean white, complemented by elegant golden trim that outlines the front edges and each individual drawer. Each drawer is equipped with a single, slender, horizontal golden handle, mirroring the golden trim. The design emphasizes clean lines and a minimalist aesthetic, making it a sophisticated and functional piece of furniture.",
+    "color": [
+        "white",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.0,
+        "height": 0.903,
+        "length": 0.632,
+        "unit": "meters"
+    }
+}

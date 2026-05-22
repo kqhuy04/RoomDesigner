@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a minimalist dresser with a simple, clean design. It features a light gray frame and a series of bright cyan drawers. The drawers are arranged in a staggered pattern across the front, with three rows. The top row has three drawers of varying sizes, while the middle and bottom rows each have two larger drawers. The dresser stands on four short legs, and the base has a slightly wavy, decorative edge. The overall aesthetic is modern and functional, with a pop of vibrant color provided by the drawers.",
+    "color": [
+        "gray",
+        "cyan"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "closet"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.04,
+        "height": 0.058,
+        "length": 0.02,
+        "unit": "meters"
+    }
+}

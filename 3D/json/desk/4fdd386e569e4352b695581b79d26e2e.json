@@ -1,0 +1,29 @@
+{
+    "object": "desk",
+    "description": "This is a modern news desk with a sleek, minimalist design. The desk has a distinctive curved shape, creating a welcoming and professional appearance. Its multi-layered structure gives it a sense of depth and sophistication. The desk is primarily white, reflecting light and contributing to a clean, airy feel. Behind the desk, the backdrop features a dynamic design with horizontal stripes of yellow and grey, adding a touch of vibrancy and visual interest without being overwhelming. A large screen displaying a stylized graphic with the Russian word 'НОВОСТИ' (news) and the number '24' is positioned above the desk, reinforcing the theme. The overall impression is one of contemporary design, suitable for a broadcast studio or a high-tech presentation space.",
+    "color": [
+        "white",
+        "yellow",
+        "grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "studio",
+        "office",
+        "conference room"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "digital display"
+    ],
+    "usage": "functional",
+    "mood": "professional, minimalist, vibrant",
+    "dimensions": {
+        "width": 3.835,
+        "height": 1.266,
+        "length": 4.836,
+        "unit": "meters"
+    }
+}

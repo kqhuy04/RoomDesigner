@@ -1,0 +1,22 @@
+{
+    "object": "desk",
+    "description": "This is a 3D rendering of an L-shaped corner desk with integrated shelving, crafted from dark reddish-brown wood. The desk features a spacious main work surface that extends into a corner, with a lower shelf underneath one side. Above the desktop, there's a practical hutch design with open shelving that frames the workspace, offering additional storage or display areas. The desk stands on solid panel legs, contributing to its sturdy and contemporary aesthetic. Its design is functional, providing ample space for work and organization.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "study",
+        "home office",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "practical",
+    "dimensions": {
+        "width": 1.829,
+        "height": 1.607,
+        "length": 1.829,
+        "unit": "meters"
+    }
+}

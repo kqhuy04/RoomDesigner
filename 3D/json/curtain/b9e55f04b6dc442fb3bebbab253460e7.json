@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "A single panel of a white curtain is presented, hanging vertically against a neutral grey background. The curtain features a series of soft, uniform pleats running from top to bottom, giving it a classic and elegant drapery appearance. The top edge is straight, suggesting it's designed to be hung from a rod or track, while the bottom edge exhibits a gentle, flowing wave, characteristic of draped fabric. The material appears smooth and matte, with subtle shadows emphasizing the depth and texture of the folds, conveying a sense of lightness and simplicity.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 2.447,
+        "height": 3.103,
+        "length": 0.528,
+        "unit": "meters"
+    }
+}

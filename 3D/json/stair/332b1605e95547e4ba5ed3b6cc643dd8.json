@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This is a wooden staircase with a curved design, seemingly leading to an upper level or loft. The staircase features treads and risers made of light-colored wood, with a railing system. The railing consists of vertical white balusters and a wooden handrail that follows the curve of the stairs. Above the staircase, there's a white horizontal structure, possibly a floor or ceiling edge, and part of a triangular wooden frame with more white balusters, suggesting a continuation of the railing or a decorative element. The staircase is positioned against a translucent, ribbed wall, and it rests on a wooden floor. The overall impression is of an architectural element designed for access and movement within a space, with a modern yet warm aesthetic due to the wood.",
+    "color": [
+        "brown",
+        "white",
+        "gray",
+        "tan"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "attic",
+        "mezzanine"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.85,
+        "height": 1.128,
+        "length": 2.256,
+        "unit": "meters"
+    }
+}

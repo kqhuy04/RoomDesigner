@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow wooden bookshelf with a curved top and four shelves. The bottom of the bookshelf features two drawers with round knobs. The wood has a rich, reddish-brown hue with a visible grain pattern, suggesting a classic or rustic style. The open shelving provides ample space for displaying books, decorative items, or other belongings. The overall design is functional and aesthetically pleasing, fitting well into various home decor schemes.",
+    "color": [
+        "brown",
+        "red-brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "library"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.243,
+        "height": 2.0,
+        "length": 0.441,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "This is a set of three identical white wall-mounted lamps. Each lamp features a classic conical shade with subtle vertical indentations, giving it a slightly ribbed appearance. The shade is supported by a slender, adjustable arm that extends from a central vertical rod. A delicate chain hangs from the lower part of the rod, likely for adjusting the lamp's position or perhaps an on/off switch mechanism. The lamps are presented against a neutral gray background, highlighting their minimalist design and clean lines. They appear to be made of metal and are designed for functional illumination, likely in a modern or contemporary setting.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.329,
+        "height": 0.901,
+        "length": 0.613,
+        "unit": "meters"
+    }
+}

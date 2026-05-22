@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A low-poly armchair with a simple design. The frame is a light-brown or orange color, constructed from basic rectangular shapes. The seat and back cushion are a dark shade of purple or black and appear to be made of a soft material. The armchair's design is minimalistic, emphasizing the angular shapes. The lighting suggests it might be part of a larger 3D scene or game environment. The armchair has a modern and somewhat geometric aesthetic.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.322,
+        "height": 0.818,
+        "length": 1.112,
+        "unit": "meters"
+    }
+}

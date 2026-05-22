@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "This is a modern, minimalist side table with a distinct octagonal shape for both the tabletop and the base. The tabletop is crafted from a rich, dark wood with visible grain patterns, giving it a natural and warm feel. The underside of the tabletop features a subtle banding effect, adding a touch of detail. Connecting the tabletop to the base is a slender, cylindrical pedestal, appearing to be made of a reflective material like polished metal or clear acrylic. The base mirrors the shape of the top, providing stability and visual balance. This table's clean lines and material combination suggest a contemporary aesthetic, suitable for various interior design styles.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.055,
+        "height": 0.728,
+        "length": 1.055,
+        "unit": "meters"
+    }
+}

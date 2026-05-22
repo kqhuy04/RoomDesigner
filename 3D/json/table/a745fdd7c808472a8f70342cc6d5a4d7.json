@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a small, square wooden table with a parquet top. The wood has a rich, dark brown color with visible grain patterns, suggesting it is made of a hardwood. The table has four legs, also made of wood, that are angled slightly inwards and appear to be quite sturdy. The design is simple and functional, with a focus on the natural beauty of the wood. The overall impression is one of rustic elegance, suitable for a variety of interior design styles.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.3,
+        "height": 0.26,
+        "length": 0.3,
+        "unit": "meters"
+    }
+}

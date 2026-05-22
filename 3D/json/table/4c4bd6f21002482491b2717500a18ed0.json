@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A whimsical table lamp with a light blue pleated lampshade adorned with delicate gold detailing and a purple trim. Hanging from the underside of the shade are three light blue leaf-shaped ornaments. The lamp's stem is a bright yellow, and it stands on a vibrant pink, rounded base. This lamp appears to be made of plastic or a similar synthetic material, given its smooth surfaces and bright, uniform colors. Its design suggests a playful and decorative purpose, suitable for adding a touch of charm to a child's room or a whimsical corner.",
+    "color": [
+        "blue",
+        "purple",
+        "gold",
+        "yellow",
+        "pink"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "playroom"
+    ],
+    "style": "whimsical",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.282,
+        "height": 0.519,
+        "length": 0.282,
+        "unit": "meters"
+    }
+}

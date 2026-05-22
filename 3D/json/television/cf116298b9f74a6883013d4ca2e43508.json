@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "This 3D model presents a modern and sleek television or computer monitor, designed with a focus on minimalism and clean aesthetics. The screen itself is depicted as a bright white surface, giving the impression of a vibrant display or a blank canvas ready for content. It is framed by very thin bezels, rendered in a light grey or silver tone, which contribute to its contemporary look by maximizing the screen-to-body ratio. The television stands on a unique, gracefully curved stand, also in a matching light grey or silver finish, which adds an elegant and distinctive architectural element to the device. The stand's design is both functional and sculptural, enhancing the overall sophisticated appearance. The object is isolated against a neutral, light grey background, highlighting its streamlined form and sophisticated design, making it suitable for modern interior settings.",
+    "color": [
+        "white",
+        "light grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.07,
+        "height": 0.717,
+        "length": 0.243,
+        "unit": "meters"
+    }
+}

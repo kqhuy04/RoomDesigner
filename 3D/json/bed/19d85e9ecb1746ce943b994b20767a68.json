@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a single bed frame with a simple, classic design. The bed frame is made of wood and painted a deep, rich red color. It features a headboard and footboard with curved tops and slightly splayed legs. The headboard has a decorative carved element resembling a stylized floral or swirling pattern, adding a touch of traditional craftsmanship. A white sheet is draped over the mattress, appearing soft and slightly rumpled, suggesting it's ready for use. The wood shows some texture and subtle variations in color, hinting at a slightly aged or rustic finish. The overall impression is one of a cozy and inviting bed, suitable for a bedroom.",
+    "color": [
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.361,
+        "height": 0.908,
+        "length": 2.043,
+        "unit": "meters"
+    }
+}

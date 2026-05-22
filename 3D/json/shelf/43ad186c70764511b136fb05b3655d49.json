@@ -1,0 +1,26 @@
+{
+    "object": "shelf",
+    "description": "A simple, two-shelf wooden bookshelf with a light wood grain finish. The top shelf holds two books, one green and one pink, and a small digital clock displaying '9:00'. The bottom shelf contains a small potted cactus in a gray pot. The overall design is minimalist and functional, suitable for organizing books and displaying small decorative items. The light wood tone gives it a clean and airy feel.",
+    "color": [
+        "wood",
+        "green",
+        "pink",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.933,
+        "height": 1.086,
+        "length": 0.577,
+        "unit": "meters"
+    }
+}

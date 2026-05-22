@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a white staircase with railings, designed to connect different levels. The staircase has a clean, modern aesthetic and appears to be supported by a simple structure. It is placed on a light brown, patterned surface that resembles a wooden floor or a tiled patio. The background is a neutral, light gray, which helps to highlight the staircase itself. The overall impression is of a functional architectural element rendered in a minimalist style, suitable for indoor or outdoor use depending on the context of the surrounding environment.",
+    "color": [
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "balcony",
+        "patio",
+        "deck",
+        "interior",
+        "exterior"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.113,
+        "height": 1.222,
+        "length": 2.896,
+        "unit": "meters"
+    }
+}

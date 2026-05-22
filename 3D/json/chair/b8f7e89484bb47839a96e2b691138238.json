@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "This is a plush armchair upholstered in a rich emerald green material, likely leather or a high-quality faux leather. Both the curved backrest and the square seat cushion are adorned with a classic tufted design, featuring evenly spaced buttons that create a quilted pattern. The armrests have a smooth, upholstered curve, complemented by dark, sleek, possibly wooden or laminate panels on the outer sides, offering a striking contrast to the green. The chair is supported by short, dark legs, suggesting a sturdy and inviting piece of furniture designed for comfort and elegance.",
+    "color": [
+        "green",
+        "dark brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "office",
+        "lounge"
+    ],
+    "style": "classic",
+    "material": [
+        "leather",
+        "wood",
+        "light metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 1.29,
+        "height": 1.106,
+        "length": 1.052,
+        "unit": "meters"
+    }
+}

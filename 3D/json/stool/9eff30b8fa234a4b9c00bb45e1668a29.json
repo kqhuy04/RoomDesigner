@@ -1,0 +1,28 @@
+{
+    "object": "stool",
+    "description": "A unique, modern stool with a dark, textured, circular seat and a thin, abstract, twisting pedestal. The base is a wider, dark, circular platform, also textured. The seat appears to be upholstered with a rough, crimson fabric, possibly velvet or a similar material, with visible tufting or an embossed pattern. The dark wood-like material of the base and stem has a matte finish and shows subtle wood grain. The overall design is sculptural and artistic, suggesting it could be as much a decorative piece as a functional stool for occasional seating. Its form is eye-catching and would likely serve as a conversation starter in a contemporary setting.",
+    "color": [
+        "crimson",
+        "dark grey",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "dressingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "artistic",
+    "dimensions": {
+        "width": 1.507,
+        "height": 2.349,
+        "length": 1.507,
+        "unit": "meters"
+    }
+}

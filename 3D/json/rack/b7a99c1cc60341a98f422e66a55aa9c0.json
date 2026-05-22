@@ -1,0 +1,25 @@
+{
+    "object": "rack",
+    "description": "This is a 3D model preview of a multi-level warehouse racking system, likely a pallet flow rack or gravity flow rack. The structure consists of tall, grey metallic upright frames reinforced with diagonal cross-bracing. Each level features bright yellow horizontal beams that support roller tracks, designed for storing and moving goods efficiently via gravity. The top two levels display multiple stacks of large, light brown cardboard boxes resting on pallets. The lower levels also have roller tracks, with the bottommost level holding several cardboard boxes, suggesting a 'first-in, first-out' storage method common in industrial settings. The overall design emphasizes robust construction and optimized storage density.",
+    "color": [
+        "silver",
+        "grey",
+        "yellow",
+        "brown"
+    ],
+    "appropriate_room": [
+        "warehouse",
+        "storage_facility",
+        "industrial_storage"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "efficient",
+    "dimensions": {
+        "width": 1.86,
+        "height": 0.901,
+        "length": 1.86,
+        "unit": "meters"
+    }
+}

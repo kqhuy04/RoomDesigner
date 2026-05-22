@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A rustic, irregularly shaped wooden table with a prominent grain and natural, uneven edges. The tabletop appears to be made from a single piece of wood, showing signs of age and character. Three simple, turned wooden legs support the table, giving it a sturdy yet organic feel. The overall design suggests a piece that emphasizes natural materials and a handcrafted aesthetic, perhaps a side table or a small accent piece. The surface is warm and inviting, with visible imperfections that add to its charm and uniqueness.",
+    "color": [
+        "brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.317,
+        "height": 0.279,
+        "length": 0.277,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "object": "curtain",
+    "description": "A light purple shower curtain hangs from a white shower rod. The curtain is made of a fabric that appears to be water-repellent and has a soft, flowing texture. It is gathered with vertical pleats, creating a gentle ripple effect down its length. The shower rod is a standard design, with several hooks visible that support the curtain. The overall impression is one of simplicity and functionality, suitable for a bathroom setting. The color is a soft, pastel shade of lavender or periwinkle, giving it a calming and clean appearance.",
+    "color": [
+        "purple",
+        "white"
+    ],
+    "appropriate_room": [
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.736,
+        "height": 1.979,
+        "length": 0.934,
+        "unit": "meters"
+    }
+}

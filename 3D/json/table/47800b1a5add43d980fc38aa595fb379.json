@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A rectangular wooden dining table with two pedestal bases. The table has a natural wood grain texture and rounded edges. Each pedestal base consists of a vertical support connected to a wider, curved horizontal base, providing stability. The overall design is simple and functional, suitable for a dining room or kitchen.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "kitchen",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.016,
+        "height": 1.056,
+        "length": 4.537,
+        "unit": "meters"
+    }
+}

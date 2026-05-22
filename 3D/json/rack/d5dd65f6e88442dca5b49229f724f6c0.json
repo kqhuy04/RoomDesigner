@@ -1,0 +1,24 @@
+{
+    "object": "rack",
+    "description": "This 3D model preview displays an overhead pot rack, ideal for kitchen organization. The rack is crafted from a light gold or brass-toned metal, featuring a robust rectangular top bar supported by angled brackets. Below this, an oval-shaped grid shelf, matching the metallic finish, provides additional storage space. Three pots or pans, each with a lustrous copper or rose gold finish and black handles/hooks, hang neatly from the grid. Designed likely for ceiling mounting, this pot rack offers a practical and space-saving solution for cookware, blending industrial functionality with a touch of modern elegance.",
+    "color": [
+        "gold",
+        "copper",
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen"
+    ],
+    "style": "industrial modern",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "organized",
+    "dimensions": {
+        "width": 3.042,
+        "height": 1.436,
+        "length": 0.96,
+        "unit": "meters"
+    }
+}

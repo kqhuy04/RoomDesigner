@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This image displays three foldable chairs with red canvas seats and backs, supported by light-colored wooden frames. The chairs are arranged in a linear fashion against a plain gray background. From left to right, there is a smaller stool-like chair, followed by a standard chair with a backrest, and another standard chair. All chairs share a similar design aesthetic, emphasizing simplicity and portability. The chairs appear to be designed for outdoor use or as auxiliary seating.",
+    "color": [
+        "red",
+        "wood"
+    ],
+    "appropriate_room": [
+        "patio",
+        "garden",
+        "balcony",
+        "beach"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 2.698,
+        "height": 0.962,
+        "length": 0.592,
+        "unit": "meters"
+    }
+}

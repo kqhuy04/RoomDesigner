@@ -1,0 +1,23 @@
+{
+    "object": "bench",
+    "description": "This is a set of white, low-poly park benches arranged in a circular pattern around a small, abstract central object. There are two long benches facing opposite each other, and two smaller, single-seater benches positioned between them. The benches have a slatted design for both the seat and the backrest, giving them a simple and clean aesthetic. The central object appears to be a stylized representation of a plant or abstract sculpture. The overall presentation suggests a modern, minimalist outdoor seating area, perhaps in a park, garden, or public square.",
+    "color": [
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "park"
+    ],
+    "style": "minimalist",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.834,
+        "height": 0.658,
+        "length": 3.086,
+        "unit": "meters"
+    }
+}

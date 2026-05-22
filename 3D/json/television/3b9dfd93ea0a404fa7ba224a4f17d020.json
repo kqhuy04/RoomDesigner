@@ -1,0 +1,32 @@
+{
+    "object": "television",
+    "description": "This is a vintage television set, characterized by its classic design and CRT screen. The screen displays a television test pattern, featuring a series of colorful vertical bars (white, yellow, cyan, green, magenta, red, blue) and horizontal blocks in white and purple, indicating a no-signal or calibration state. The television has a dark wooden frame with rounded edges, two prominent antennas extending upwards, and a single dial on the right side. It stands on four dark, slender legs, suggesting a mid-century modern aesthetic. The overall presentation is dramatic, with the television illuminated against a dark background, highlighting the screen's vibrant colors and casting a warm glow on the wooden floor.",
+    "color": [
+        "white",
+        "yellow",
+        "cyan",
+        "green",
+        "magenta",
+        "red",
+        "blue",
+        "purple",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room",
+        "study"
+    ],
+    "style": "retro",
+    "material": "wood, plastic, glass",
+    "usage": "functional, decorative",
+    "mood": "nostalgic, dramatic",
+    "dimensions": {
+        "width": 1.969,
+        "height": 1.17,
+        "length": 1.969,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A classic wooden picnic table with attached benches, designed for outdoor seating and dining. The table is constructed from sturdy planks, creating a rustic and functional piece of furniture. The benches are integrated into the table's frame, offering a convenient and space-saving design. Its simple yet robust construction makes it ideal for parks, backyards, or camping areas.",
+    "color": [
+        "orange",
+        "brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 4.01,
+        "height": 1.358,
+        "length": 3.208,
+        "unit": "meters"
+    }
+}

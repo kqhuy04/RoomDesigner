@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, four-tiered wooden bookshelf with an open design. The shelves are spaced evenly apart, and the frame is constructed from light-colored wood with a visible grain pattern. The top shelf is enclosed on three sides, creating a cubby-like space, while the other shelves are open on all sides. The overall design is minimalist and functional, suitable for storing books, decorative items, or other household objects. The light wood tone and simple structure give it a Scandinavian or modern aesthetic.",
+    "color": [
+        "light brown",
+        "wood grain"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern, Scandinavian",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist, warm",
+    "dimensions": {
+        "width": 0.902,
+        "height": 1.575,
+        "length": 0.342,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a modern, somewhat abstract chandelier. It features a central red hub from which multiple thin, light purple wires extend. Each wire terminates in a light bulb, characterized by a white, elongated teardrop shape with a teal accent at the base. Along each wire, a small, circular, light blue element is positioned, suggesting connection points or decorative beads. The overall design is minimalist and sleek, with a spider-like or starburst arrangement of the light fixtures radiating from the central disc. The red hub has several circular indentations, possibly indicating mounting points or design details.",
+    "color": [
+        "red",
+        "purple",
+        "white",
+        "teal",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.758,
+        "height": 0.743,
+        "length": 0.63,
+        "unit": "meters"
+    }
+}

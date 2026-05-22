@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "This 3D model preview shows a wooden staircase with black balusters and a light-colored wooden handrail. The treads of the stairs appear to be a bright yellow color, contrasting with the natural wood of the stringers and newel posts. The staircase is positioned against a wall painted in a light, muted green hue. Shadows are cast on the wall, suggesting a light source from the side. The floor in front of the stairs is tiled with a pattern of light gray and white squares. A newel post at the bottom of the stairs features a simple, classical design. The overall impression is of a functional and clean-looking staircase, likely found in a residential setting.",
+    "color": [
+        "wood",
+        "black",
+        "yellow",
+        "green",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "foyer",
+        "landing"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 3.458,
+        "height": 1.364,
+        "length": 2.822,
+        "unit": "meters"
+    }
+}

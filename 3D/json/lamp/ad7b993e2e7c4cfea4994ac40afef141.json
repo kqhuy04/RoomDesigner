@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A minimalist, light blue chandelier suspended by a chain. It features a central column from which four arms extend, each supporting a cylindrical lampshade. The design is clean and modern, with a focus on simple geometric shapes. The overall aesthetic suggests a contemporary or Scandinavian-inspired interior.",
+    "color": [
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.642,
+        "height": 0.883,
+        "length": 0.619,
+        "unit": "meters"
+    }
+}

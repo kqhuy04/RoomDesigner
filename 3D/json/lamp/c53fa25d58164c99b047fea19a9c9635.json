@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a sleek, minimalist reading lamp designed with an integrated book or tablet stand. The entire structure is rendered in a clean white finish, featuring a cylindrical lampshade atop a slender vertical support. This support seamlessly transitions into a broader, L-shaped base that provides a flat surface and a vertical backrest, ideal for holding reading material. The design is characterized by its smooth curves, sharp edges, and absence of extraneous detail, emphasizing functionality and a contemporary aesthetic.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "livingroom",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.943,
+        "height": 4.157,
+        "length": 1.441,
+        "unit": "meters"
+    }
+}

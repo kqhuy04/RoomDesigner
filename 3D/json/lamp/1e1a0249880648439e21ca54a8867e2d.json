@@ -1,0 +1,28 @@
+{
+    "object": "lamp",
+    "description": "A vintage-style black street lamp with a detailed, ornate design. The lamp features a hexagonal top with intricate patterns and a pointed finial. Below the top, there is a square housing with four clear panels, suggesting it contains a light source. The central pole is twisted and textured, adding to its decorative appeal. It stands on a flattened, oval-shaped base, which appears to be made of a textured material in a light orange or peach color. The overall aesthetic evokes a sense of classic street lighting, often seen in historical districts or elegant outdoor spaces.",
+    "color": [
+        "black",
+        "white",
+        "light orange"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio",
+        "entryway"
+    ],
+    "style": "vintage",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.403,
+        "height": 1.034,
+        "length": 0.422,
+        "unit": "meters"
+    }
+}

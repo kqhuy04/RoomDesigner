@@ -1,0 +1,28 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a cream-colored background. It features a grid of colorful squares and rectangles, each containing a unique geometric pattern or small motif. The border of the rug is also made up of colorful squares. The overall design is reminiscent of a quilt or a collection of small textiles stitched together. The colors are varied, including red, blue, green, yellow, and brown, creating a vibrant and eye-catching appearance. The rug appears to be made of woven material, likely wool or a synthetic blend, with a textured finish.",
+    "color": [
+        "cream",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "geometric",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.992,
+        "height": 0.004,
+        "length": 0.645,
+        "unit": "meters"
+    }
+}

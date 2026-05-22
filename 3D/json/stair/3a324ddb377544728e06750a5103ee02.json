@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model showcases a contemporary, multi-level staircase design. The staircase features alternating flights of stairs, creating an interesting visual dynamic. The treads and landings appear to be made of wood, with a natural grain visible. The balusters supporting the handrail are slender and black, providing a stark contrast to the wood. The entire structure is encased in clear panels, giving it a modern, almost floating appearance. These panels are adorned with a repeating logo or pattern, adding a subtle design element. The overall impression is one of sleekness and architectural interest, suitable for modern interior designs.",
+    "color": [
+        "brown",
+        "black",
+        "white",
+        "transparent"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "modernhome"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.943,
+        "height": 2.65,
+        "length": 2.516,
+        "unit": "meters"
+    }
+}

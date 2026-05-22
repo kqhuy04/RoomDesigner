@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "This is a 3D model of a tall, narrow bookshelf, designed to hold a significant collection of books. The bookshelf features a robust, stone-like exterior, giving it a sturdy and somewhat imposing presence. Internally, it is divided into multiple horizontal shelves, each densely packed with numerous books. The books themselves appear to be uniform in size and color, suggesting a thematic collection or a stylized representation. The overall design is utilitarian, emphasizing storage capacity and a classic aesthetic, suitable for a library, study, or a room where a large volume of reading material needs to be organized.",
+    "color": [
+        "brown",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "library",
+        "study",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "classic",
+    "material": [
+        "stone",
+        "wood",
+        "paper"
+    ],
+    "usage": "storage",
+    "mood": "studious",
+    "dimensions": {
+        "width": 0.422,
+        "height": 0.626,
+        "length": 0.237,
+        "unit": "meters"
+    }
+}

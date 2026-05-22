@@ -1,0 +1,25 @@
+{
+    "object": "bench",
+    "description": "A modern and minimalist bench with a sturdy metal frame and wooden slats for the seat and backrest. The frame has a dark, matte finish, likely a deep teal or navy, providing a strong contrast to the natural, light-colored wood. The wood appears to be a smooth, finished hardwood with visible grain. The design is functional and clean, with simple lines and a slight curve to the backrest for comfort. The bench is shown casting a shadow on a dark, neutral background, highlighting its form and structure. It's a versatile piece that could fit in various settings, from indoor waiting areas to outdoor patios.",
+    "color": [
+        "dark teal",
+        "wood",
+        "black"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "waiting room",
+        "patio",
+        "garden"
+    ],
+    "style": "modern",
+    "material": "wood, metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.351,
+        "height": 0.559,
+        "length": 0.65,
+        "unit": "meters"
+    }
+}

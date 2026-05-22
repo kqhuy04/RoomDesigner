@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a contemporary chair featuring a tall, integrated backrest and seat, upholstered in a dark red, textured fabric. The backrest has a gentle curve that flows seamlessly into the flat seat. The chair is supported by a sleek, central black pedestal base with a round, highly reflective surface, suggesting a polished metal construction. Its minimalist design and clean lines make it suitable for modern interiors, offering both comfort and a stylish aesthetic.",
+    "color": [
+        "dark red",
+        "black"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "office",
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.6,
+        "height": 1.272,
+        "length": 0.612,
+        "unit": "meters"
+    }
+}

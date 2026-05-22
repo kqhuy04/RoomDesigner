@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "A set of three modern pendant lamps, each featuring a creamy white, bell-shaped shade. The top of each lamp is adorned with a vibrant purple accent piece, which appears to have a ventilated or slotted design, adding a touch of visual interest. These lamps are suspended by thin, off-white cords from a flat, round purple ceiling fixture, suggesting they are designed to be hung in a row or cluster. The overall design is clean and contemporary, with a playful color combination that could suit various interior styles.",
+    "color": [
+        "white",
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "stylish",
+    "dimensions": {
+        "width": 0.997,
+        "height": 0.769,
+        "length": 0.298,
+        "unit": "meters"
+    }
+}

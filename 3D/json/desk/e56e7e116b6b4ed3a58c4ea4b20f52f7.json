@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "A classic silver desk lamp with a flexible gooseneck. The lamp features a cone-shaped shade with a white interior, housing a single light bulb. The adjustable neck allows for directing light precisely, making it ideal for tasks like reading or studying. The lamp stands on a circular base with a simple on/off switch. Its metallic finish gives it a sleek and functional appearance, suitable for various desk setups.",
+    "color": [
+        "silver",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.693,
+        "height": 1.939,
+        "length": 1.166,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A modern wooden armchair with a cushioned seat and back. The frame is made of light-colored wood, and the cushions are upholstered in a fabric with a subtle striped pattern. The chair has a minimalist design with clean lines and a slightly angled backrest, offering a comfortable and stylish seating option. It appears to be designed for a contemporary living space.",
+    "color": [
+        "wood",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 5.558,
+        "height": 3.684,
+        "length": 4.729,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "A modern, minimalist cabinet, likely a file cabinet or a low credenza, with a dark wood grain finish on the sides and a clean white top. It sits on small black casters, suggesting mobility. The design is simple and functional, with no visible handles, implying a push-to-open mechanism or integrated pulls. The shadow cast to the left indicates a light source from the right and slightly behind the object. Its sleek lines and neutral color palette make it versatile for various office or living spaces.",
+    "color": [
+        "dark brown",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.462,
+        "height": 0.558,
+        "length": 1.602,
+        "unit": "meters"
+    }
+}

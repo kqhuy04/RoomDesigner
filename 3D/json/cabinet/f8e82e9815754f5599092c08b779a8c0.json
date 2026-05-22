@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "A light wood cabinet with glass doors and two drawers. The cabinet has two shelves within the glass-fronted section, divided by a vertical wooden support. The lower section features two drawers, each with a simple horizontal handle. The cabinet is supported by four angled legs, giving it a slightly retro or mid-century modern feel. The wood grain is visible and appears to be a light-colored hardwood, possibly oak or pine. The overall design is clean and functional, suitable for displaying items or for storage.",
+    "color": [
+        "light brown",
+        "tan",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "mid-century modern",
+    "material": "wood, glass",
+    "usage": "storage, display",
+    "mood": "warm, natural, minimalist",
+    "dimensions": {
+        "width": 1.6,
+        "height": 1.15,
+        "length": 0.39,
+        "unit": "meters"
+    }
+}

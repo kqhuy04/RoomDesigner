@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "A modern, ergonomically designed chair with a single-piece, molded seat and back in a deep red color. The seat curves gently to provide comfort, and a distinctive cutout is present on the right side of the backrest. The chair is supported by a minimalist base of three slender, grey metal legs that splay outwards for stability. Each leg is capped with a small black foot. The overall design is sleek and functional, suggesting it's intended for contemporary spaces.",
+    "color": [
+        "red",
+        "grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "kitchen",
+        "dining room",
+        "classroom"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.857,
+        "height": 2.653,
+        "length": 1.527,
+        "unit": "meters"
+    }
+}

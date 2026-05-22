@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "A single, plush armchair designed for comfort and relaxation. The chair features rolled arms and a high back, upholstered in a soft, light gray fabric. A small, light blue accent pillow rests on the seat. The base of the chair is supported by four ornate, turned wooden legs with a distressed gold finish. The seat cushion is a lighter shade of gray with a subtle textured pattern, and the base of the seat also has a decorative trim. This armchair appears to be a statement piece, combining classic design elements with a cozy feel.",
+    "color": [
+        "gray",
+        "blue",
+        "gold"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study"
+    ],
+    "style": "classic",
+    "material": [
+        "fabric",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 3.028,
+        "height": 2.862,
+        "length": 3.304,
+        "unit": "meters"
+    }
+}

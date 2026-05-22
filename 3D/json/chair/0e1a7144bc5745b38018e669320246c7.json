@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A mid-century modern-style lounge chair with a matching ottoman. The chair features a high back with a supportive headrest and deep tufting on both the seat and back. The arms are gently curved, flowing into the main body of the chair. The ottoman is similarly tufted and designed to complement the chair for ultimate relaxation. Both pieces sit on a five-star black base with swivel capabilities, indicating a focus on comfort and functionality. The overall design evokes a sense of sophisticated leisure, perfect for a reading nook or a stylish living space.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.96,
+        "height": 1.288,
+        "length": 1.912,
+        "unit": "meters"
+    }
+}

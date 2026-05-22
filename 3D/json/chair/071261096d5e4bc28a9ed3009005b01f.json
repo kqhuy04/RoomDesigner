@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a minimalist cantilever chair, featuring a sleek chrome-plated steel frame and a black leather seat and back. The frame is constructed from bent tubular steel, creating a continuous, flowing line that forms the legs, armrests, and support for the seating surface. The seat and back are made of a durable, textured black material, likely leather or a high-quality synthetic, providing both comfort and a sophisticated aesthetic. The chair's design emphasizes simplicity, functionality, and the purity of its materials, showcasing the elegance of industrial design. It appears to be a single, rather than a set, as only two are depicted with shadows suggesting they are the only items present in the scene.",
+    "color": [
+        "black",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "office",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.795,
+        "height": 0.497,
+        "length": 1.045,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,511 @@
+{
+  "objects": [
+    {
+      "id": "3f6abf12-6753-4300-ace4-84ccc5b58f05",
+      "type": "wall",
+      "position": {
+        "x": 452,
+        "z": 317
+      },
+      "rotation": 90,
+      "size": {
+        "w": 65,
+        "d": 3
+      }
+    },
+    {
+      "id": "2c50ec44-bae8-4bab-84a1-c490f8b6b247",
+      "type": "wall",
+      "position": {
+        "x": 462,
+        "z": 167
+      },
+      "rotation": 0,
+      "size": {
+        "w": 54,
+        "d": 9
+      }
+    },
+    {
+      "id": "95682142-73db-4014-8a16-806e36776548",
+      "type": "wall",
+      "position": {
+        "x": 494,
+        "z": 286
+      },
+      "rotation": 0,
+      "size": {
+        "w": 6,
+        "d": 3
+      }
+    },
+    {
+      "id": "12617998-0666-4430-895b-6725c649b790",
+      "type": "wall",
+      "position": {
+        "x": 567,
+        "z": 254
+      },
+      "rotation": 0,
+      "size": {
+        "w": 16,
+        "d": 9
+      }
+    },
+    {
+      "id": "ee79e3a4-644a-46d2-a59d-98c59ee66f99",
+      "type": "wall",
+      "position": {
+        "x": 570,
+        "z": 323
+      },
+      "rotation": 90,
+      "size": {
+        "w": 73,
+        "d": 9
+      }
+    },
+    {
+      "id": "a754e212-43f3-4d0e-9410-98062a659406",
+      "type": "wall",
+      "position": {
+        "x": 541,
+        "z": 167
+      },
+      "rotation": 0,
+      "size": {
+        "w": 36,
+        "d": 9
+      }
+    },
+    {
+      "id": "0202121b-65f7-4c20-9675-48fdf776ec22",
+      "type": "wall",
+      "position": {
+        "x": 382,
+        "z": 286
+      },
+      "rotation": 0,
+      "size": {
+        "w": 58,
+        "d": 3
+      }
+    },
+    {
+      "id": "5ed203bb-8468-4ba1-a663-70ed4a3f9978",
+      "type": "wall",
+      "position": {
+        "x": 350,
+        "z": 261
+      },
+      "rotation": 90,
+      "size": {
+        "w": 196,
+        "d": 9
+      }
+    },
+    {
+      "id": "0a6300af-1600-488a-b21b-4e115e9c6c18",
+      "type": "wall",
+      "position": {
+        "x": 492,
+        "z": 320
+      },
+      "rotation": 90,
+      "size": {
+        "w": 65,
+        "d": 3
+      }
+    },
+    {
+      "id": "84b852e7-6599-473f-9d5a-0d6cd3315b86",
+      "type": "wall",
+      "position": {
+        "x": 535,
+        "z": 257
+      },
+      "rotation": 0,
+      "size": {
+        "w": 30,
+        "d": 3
+      }
+    },
+    {
+      "id": "bf47ee54-b6f5-4075-b2cf-096991898f2d",
+      "type": "wall",
+      "position": {
+        "x": 555,
+        "z": 215
+      },
+      "rotation": 90,
+      "size": {
+        "w": 87,
+        "d": 9
+      }
+    },
+    {
+      "id": "9253e28d-f891-49d0-b43c-af7412f45e7d",
+      "type": "wall",
+      "position": {
+        "x": 440,
+        "z": 354
+      },
+      "rotation": 0,
+      "size": {
+        "w": 42,
+        "d": 9
+      }
+    },
+    {
+      "id": "ecc5018d-e3f1-48d7-9ab7-9b6281baa4b9",
+      "type": "wall",
+      "position": {
+        "x": 571,
+        "z": 261
+      },
+      "rotation": 90,
+      "size": {
+        "w": 8,
+        "d": 9
+      }
+    },
+    {
+      "id": "e02c5977-51ff-4a0f-8c70-7c1e5c13e3eb",
+      "type": "wall",
+      "position": {
+        "x": 522,
+        "z": 284
+      },
+      "rotation": 90,
+      "size": {
+        "w": 2,
+        "d": 3
+      }
+    },
+    {
+      "id": "977654de-6f97-4af9-880d-c6dd1cf9cdf7",
+      "type": "wall",
+      "position": {
+        "x": 369,
+        "z": 354
+      },
+      "rotation": 0,
+      "size": {
+        "w": 32,
+        "d": 9
+      }
+    },
+    {
+      "id": "f3497433-2ff9-4e00-8192-087e30352c38",
+      "type": "wall",
+      "position": {
+        "x": 442,
+        "z": 286
+      },
+      "rotation": 0,
+      "size": {
+        "w": 24,
+        "d": 3
+      }
+    },
+    {
+      "id": "fad6a973-a5fe-4505-8704-25c3f177032f",
+      "type": "wall",
+      "position": {
+        "x": 368,
+        "z": 167
+      },
+      "rotation": 0,
+      "size": {
+        "w": 29,
+        "d": 9
+      }
+    },
+    {
+      "id": "277ce0b8-9cd4-49e2-93c6-adb0d58fcc74",
+      "type": "wall",
+      "position": {
+        "x": 527,
+        "z": 355
+      },
+      "rotation": 0,
+      "size": {
+        "w": 78,
+        "d": 9
+      }
+    },
+    {
+      "id": "ec6ea262-219f-4c23-92ea-3309b7c4d420",
+      "type": "wall",
+      "position": {
+        "x": 547,
+        "z": 286
+      },
+      "rotation": 0,
+      "size": {
+        "w": 56,
+        "d": 3
+      }
+    },
+    {
+      "id": "38497c29-4f03-4f87-a353-e7f4201a40bb",
+      "type": "wall",
+      "position": {
+        "x": 570,
+        "z": 283
+      },
+      "rotation": 90,
+      "size": {
+        "w": 4,
+        "d": 9
+      }
+    },
+    {
+      "id": "b0b5dd10-0a77-4bba-8f4a-e7cde13fc754",
+      "type": "wall",
+      "position": {
+        "x": 522,
+        "z": 260
+      },
+      "rotation": 90,
+      "size": {
+        "w": 4,
+        "d": 3
+      }
+    },
+    {
+      "id": "c5f7424b-e958-4c45-b756-ab7ace12f159",
+      "type": "window",
+      "position": {
+        "x": 409,
+        "z": 167
+      },
+      "rotation": 0,
+      "size": {
+        "w": 52,
+        "d": 9
+      }
+    },
+    {
+      "id": "11d59c31-6592-456c-8ace-ea605418eaad",
+      "type": "window",
+      "position": {
+        "x": 506,
+        "z": 167
+      },
+      "rotation": 0,
+      "size": {
+        "w": 34,
+        "d": 9
+      }
+    },
+    {
+      "id": "65de83fa-c636-4d8d-a3aa-6997bd1c7774",
+      "type": "window",
+      "position": {
+        "x": 570,
+        "z": 273
+      },
+      "rotation": 90,
+      "size": {
+        "w": 16,
+        "d": 9
+      }
+    },
+    {
+      "id": "94d56224-e57d-4f11-9db1-2b02d4fca4e0",
+      "type": "window",
+      "position": {
+        "x": 402,
+        "z": 354
+      },
+      "rotation": 0,
+      "size": {
+        "w": 34,
+        "d": 9
+      }
+    },
+    {
+      "id": "112ea794-f408-4740-81ab-8113419e3395",
+      "type": "door",
+      "position": {
+        "x": 531,
+        "z": 273
+      },
+      "rotation": 90,
+      "size": {
+        "w": 20,
+        "d": 20
+      }
+    },
+    {
+      "id": "fb19e283-3edf-44aa-81c5-b196d8c98b16",
+      "type": "door",
+      "position": {
+        "x": 474,
+        "z": 339
+      },
+      "rotation": 0,
+      "size": {
+        "w": 28,
+        "d": 28
+      }
+    },
+    {
+      "id": "15bb59d9-db8f-4940-9b8d-ce49f2eb8a59",
+      "type": "door",
+      "position": {
+        "x": 508,
+        "z": 295
+      },
+      "rotation": 180,
+      "size": {
+        "w": 22,
+        "d": 22
+      }
+    },
+    {
+      "id": "6edc395b-225f-4cab-b63f-d6410ee7c541",
+      "type": "door",
+      "position": {
+        "x": 420,
+        "z": 295
+      },
+      "rotation": 180,
+      "size": {
+        "w": 19,
+        "d": 19
+      }
+    },
+    {
+      "id": "79b2a2c1-f5fc-4e1b-9f84-034d56d2d18d",
+      "type": "bed",
+      "position": {
+        "x": 401,
+        "z": 329
+      },
+      "rotation": 0,
+      "size": {
+        "w": 38,
+        "d": 41
+      }
+    },
+    {
+      "id": "710d4b2a-17b2-493b-a7a0-689f6a169763",
+      "type": "sofa",
+      "position": {
+        "x": 368,
+        "z": 237
+      },
+      "rotation": 0,
+      "size": {
+        "w": 22,
+        "d": 61
+      }
+    },
+    {
+      "id": "6a3034f8-694a-4e0d-91a0-b7a65f219af2",
+      "type": "chair",
+      "position": {
+        "x": 423,
+        "z": 256
+      },
+      "rotation": 0,
+      "size": {
+        "w": 17,
+        "d": 17
+      }
+    },
+    {
+      "id": "78440d70-d335-4f93-8c30-a46189263564",
+      "type": "chair",
+      "position": {
+        "x": 394,
+        "z": 264
+      },
+      "rotation": 0,
+      "size": {
+        "w": 17,
+        "d": 17
+      }
+    },
+    {
+      "id": "f83a3cf8-c6d0-45c4-b8d6-ccb6bd100d3e",
+      "type": "nightstand",
+      "position": {
+        "x": 501,
+        "z": 322
+      },
+      "rotation": 0,
+      "size": {
+        "w": 15,
+        "d": 20
+      }
+    },
+    {
+      "id": "05808e6d-f533-46a3-962d-1cdd846454c8",
+      "type": "sink",
+      "position": {
+        "x": 511,
+        "z": 182
+      },
+      "rotation": 0,
+      "size": {
+        "w": 21,
+        "d": 17
+      }
+    },
+    {
+      "id": "bdc0cda9-b2a4-40a4-93d0-ab01f40e9dc1",
+      "type": "bathtub",
+      "position": {
+        "x": 547,
+        "z": 343
+      },
+      "rotation": 0,
+      "size": {
+        "w": 38,
+        "d": 15
+      }
+    },
+    {
+      "id": "ce4be9af-9553-4808-808a-d30dbef66694",
+      "type": "toilet",
+      "position": {
+        "x": 546,
+        "z": 295
+      },
+      "rotation": 0,
+      "size": {
+        "w": 11,
+        "d": 17
+      }
+    },
+    {
+      "id": "fcc2822c-379a-4183-b36a-6081818fd7ec",
+      "type": "nightstand",
+      "position": {
+        "x": 558,
+        "z": 324
+      },
+      "rotation": 180,
+      "size": {
+        "w": 16,
+        "d": 18
+      }
+    },
+    {
+      "id": "79358c51-03b7-4ed7-ab0b-1fe86e4c657c",
+      "type": "table",
+      "position": {
+        "x": 474,
+        "z": 222
+      },
+      "rotation": 0,
+      "size": {
+        "w": 38,
+        "d": 56
+      }
+    }
+  ]
+}

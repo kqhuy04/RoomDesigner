@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "The image features a dark gray industrial-style cabinet with a sturdy construction. It has a flat top surface, which appears to be a countertop or workbench, with a small raised lip at the back. The left side of the cabinet is equipped with four drawers, each featuring a sleek, curved handle. The right side consists of two doors, each with a vertical bar handle. The entire unit is supported by five cylindrical metal legs, giving it a practical and robust appearance. The material looks like metal, possibly stainless steel or painted steel, suitable for heavy-duty use. The background is a dark, textured surface, creating a minimalist and somewhat stark environment.",
+    "color": [
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "garage",
+        "workshop",
+        "laboratory",
+        "utility room"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 0.913,
+        "height": 0.419,
+        "length": 0.35,
+        "unit": "meters"
+    }
+}

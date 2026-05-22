@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "A contemporary armchair with a sleek, modern design. It features a plush, deep seat and backrest, upholstered in a striking, high-gloss blue material that gives it a luxurious feel. The armchair has wide, supportive armrests and a slightly reclined posture, suggesting comfort and relaxation. The frame appears to be a dark metal, with subtle wooden accents visible on the short, angled legs that provide a sturdy base. A single matching throw pillow is placed on the seat, adding an extra touch of comfort. The overall aesthetic is one of sophisticated modernism, suitable for a stylish living space.",
+    "color": [
+        "blue",
+        "dark gray",
+        "black",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.999,
+        "height": 0.776,
+        "length": 0.824,
+        "unit": "meters"
+    }
+}

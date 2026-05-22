@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a black, ergonomic office chair with a high back and an adjustable headrest. It features armrests, a padded seat, and a five-star base with wheels for mobility. The chair appears to be made of durable materials suitable for long hours of use, designed to provide comfort and support. Its sleek, modern design makes it a functional addition to any workspace.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 60.974,
+        "height": 8.031,
+        "length": 41.719,
+        "unit": "meters"
+    }
+}

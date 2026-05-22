@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "This is a vintage-style television with a wood-grain casing and a prominent screen. The screen appears to be dark and possibly reflective, showing some light glinting off its surface. The television has a set of control buttons and knobs on the right side, including labeled controls for brightness, contrast, color, and volume, along with channel and power buttons. The brand name \"HYPER TECH\" is visible on the front. The overall design evokes a sense of nostalgia, reminiscent of older electronic devices.",
+    "color": [
+        "brown",
+        "gray",
+        "black",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "plastic",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 4.031,
+        "height": 2.532,
+        "length": 3.577,
+        "unit": "meters"
+    }
+}

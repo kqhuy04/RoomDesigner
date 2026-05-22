@@ -1,0 +1,23 @@
+{
+    "object": "television",
+    "description": "This is a vintage-style television with a wooden casing and rabbit ear antennas. The screen is black, indicating it is either off or an older model without a display active. Below the screen, there are two small buttons, likely for power and channel selection. The overall design evokes a sense of nostalgia for older electronic devices, suggesting it could be a decorative piece or a functional prop for a retro-themed setting.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.229,
+        "height": 0.24,
+        "length": 0.87,
+        "unit": "meters"
+    }
+}

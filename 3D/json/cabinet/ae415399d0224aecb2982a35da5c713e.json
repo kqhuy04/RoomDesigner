@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a wooden display cabinet with two shelves and a drawer at the bottom. The cabinet is designed to showcase a collection of items, with each item placed on a pedestal. The top shelf holds three items, while the bottom shelf also holds three items. The drawer has two brass knobs. The overall design has a rustic and somewhat aged appearance, suggesting it might be part of an older or themed collection, possibly related to gaming or fantasy due to the nature of the displayed items.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage, decorative",
+    "mood": "somber, antique",
+    "dimensions": {
+        "width": 2.2,
+        "height": 3.4,
+        "length": 1.181,
+        "unit": "meters"
+    }
+}

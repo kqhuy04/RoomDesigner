@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "This is a white, multi-tiered chandelier designed to be hung from the ceiling. It features a central chain connecting to a circular frame, from which six arms extend downwards and outwards. Each arm supports a cylindrical lampshade with a decorative, open-weave pattern. The central frame also has intricate detailing, suggesting an ornate and classic design. The overall aesthetic is delicate and elegant, with a focus on intricate craftsmanship.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.832,
+        "height": 0.925,
+        "length": 0.739,
+        "unit": "meters"
+    }
+}

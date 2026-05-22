@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "A white metal garment rack with a simple, functional design. It features a horizontal bar at the top for hanging clothes and a lower shelf with multiple horizontal bars for additional storage, possibly for shoes or folded items. The rack is supported by two vertical poles that extend downwards and curve to form the base. The base is equipped with four wheels, two on each side, allowing for easy mobility. The overall construction is lightweight and appears to be made of hollow metal tubes. The clean lines and white color contribute to a minimalist and modern aesthetic, making it suitable for various spaces where clothing organization is needed.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "laundry room",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.119,
+        "height": 1.251,
+        "length": 0.358,
+        "unit": "meters"
+    }
+}

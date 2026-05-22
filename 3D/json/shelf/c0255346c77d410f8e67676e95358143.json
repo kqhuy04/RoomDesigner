@@ -1,0 +1,30 @@
+{
+    "object": "shelf",
+    "description": "This image features a 3D model of a two-tiered bookshelf, designed in a distinctive pixelated or voxel art style, strongly reminiscent of the Minecraft aesthetic. The main structure of the bookshelf is crafted from light brown, blocky wooden textures, showing a simplified wood grain pattern. Each of the two shelves is filled with a colorful collection of books, depicted as rectangular blocks of varying heights. The books come in a vibrant spectrum of colors, including various shades of green, red, blue, and orange, which stand out against the more neutral tone of the wood. The overall design is cubic and robust, reflecting its digital game-asset nature. The object is presented against a plain, light grey background, highlighting its simple yet charming appearance.",
+    "color": [
+        "light brown",
+        "green",
+        "red",
+        "blue",
+        "orange",
+        "dark green",
+        "teal"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study",
+        "kidsroom",
+        "gamingroom"
+    ],
+    "style": "pixel art",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.0,
+        "height": 1.0,
+        "length": 1.0,
+        "unit": "meters"
+    }
+}

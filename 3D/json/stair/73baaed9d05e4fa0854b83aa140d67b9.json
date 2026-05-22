@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a contemporary L-shaped staircase with white risers and stringers, featuring natural wood treads for a warm contrast. The handrail is a light wood, complemented by sleek black metal balusters arranged in a vertical pattern. The design is clean and modern, suitable for indoor use. The staircase appears to be part of a larger interior structure, with a shadow cast on a tiled floor, suggesting it's a functional element within a building designed for connecting different levels. The overall aesthetic is understated and functional, focusing on a balance of materials and a simple color palette.",
+    "color": [
+        "white",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "loft",
+        "basement"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 2.469,
+        "height": 1.083,
+        "length": 2.664,
+        "unit": "meters"
+    }
+}

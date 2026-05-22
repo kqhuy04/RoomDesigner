@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "This is a 3D model preview of a classic-style nightstand or end table, crafted from rich, dark reddish-brown wood with a visible grain. The piece features a rectangular top with subtly rounded edges. Below the top, there are two functional drawers, each adorned with elegant, curved brass-colored pull handles. The nightstand is supported by four sturdy legs, each featuring a tapered design with carved or turned detailing, giving it a refined and traditional appearance. The entire piece has a polished finish, reflecting light softly and highlighting the wood's texture.",
+    "color": [
+        "brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.573,
+        "height": 0.76,
+        "length": 0.579,
+        "unit": "meters"
+    }
+}

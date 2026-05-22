@@ -1,0 +1,32 @@
+{
+    "object": "sofa",
+    "description": "This is a modern living room furniture set. The centerpiece is a sleek, black-framed sofa with plush white and beige cushions, accented by vibrant pink fabric. Complementing the sofa is a low-profile black coffee table with two open laptops, suggesting a contemporary and tech-friendly space. To the side, a small ottoman is covered in a striking pink faux fur. The set is placed on a tiled floor with a dark gray background, and a tall, textured wooden planter adds a natural element. The overall aesthetic is chic and functional, ideal for a stylish urban dwelling or a modern apartment.",
+    "color": [
+        "black",
+        "white",
+        "beige",
+        "pink",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "chic",
+    "dimensions": {
+        "width": 3.923,
+        "height": 1.831,
+        "length": 2.362,
+        "unit": "meters"
+    }
+}

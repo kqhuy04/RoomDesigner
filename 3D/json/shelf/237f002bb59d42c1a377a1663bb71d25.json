@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a multi-tiered display shelf designed for retail or home use. It features a rustic aesthetic, combining wooden planks for the back panel and shelves with a metal frame. The shelves are angled slightly upwards to prevent items from falling. A prominent red sign is mounted at the top, suitable for branding or product information. The overall construction suggests durability and a focus on showcasing products effectively. The combination of wood and metal provides a sturdy structure, while the design elements evoke a natural and organic feel.",
+    "color": [
+        "wood",
+        "blue",
+        "red"
+    ],
+    "appropriate_room": [
+        "store",
+        "livingroom",
+        "bedroom",
+        "kitchen"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.926,
+        "height": 2.884,
+        "length": 0.664,
+        "unit": "meters"
+    }
+}

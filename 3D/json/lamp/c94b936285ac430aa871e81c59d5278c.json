@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a contemporary round chandelier featuring a sleek, minimalist design. It is suspended from the ceiling by a white chain connected to a circular canopy. The main body consists of a cylindrical white metal framework with an intricate open-grid structure. Around the lower outer edge of the frame, there are multiple rectangular panels with faceted surfaces, suggesting they are made of glass or clear acrylic. Inside the frame, several light bulb sockets are visible, arranged in a circular pattern to provide ambient illumination. The overall aesthetic is clean and geometric.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "living room",
+        "foyer",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "sleek",
+    "dimensions": {
+        "width": 0.778,
+        "height": 0.864,
+        "length": 0.778,
+        "unit": "meters"
+    }
+}

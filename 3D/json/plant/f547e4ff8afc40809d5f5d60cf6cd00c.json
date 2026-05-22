@@ -1,0 +1,23 @@
+{
+    "object": "plant",
+    "description": "This is a white, circular planter with a cutout design featuring Roman numerals. The Roman numerals are integrated into the body of the planter, creating an open, airy aesthetic. The planter has a distinct rim at the top and a slightly wider base, giving it a stable and elegant silhouette. The overall design is modern and somewhat minimalist, with the cutouts serving as a primary decorative element. The absence of color and texture suggests a clean, sophisticated appearance, making it suitable for a variety of indoor or outdoor settings where a touch of classic design is desired.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": "ceramic",
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.894,
+        "height": 0.245,
+        "length": 0.894,
+        "unit": "meters"
+    }
+}

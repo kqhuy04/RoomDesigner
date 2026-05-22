@@ -1,0 +1,264 @@
+{
+  "objects": [
+    {
+      "id": "a250a3d4-d2b8-4e89-9ec1-7a1f87460c71",
+      "type": "wall",
+      "position": {
+        "x": 240,
+        "z": 272
+      },
+      "rotation": 0,
+      "size": {
+        "w": 10,
+        "d": 3
+      }
+    },
+    {
+      "id": "5bc37e9e-521a-48f1-8eb9-ada12f8412fd",
+      "type": "wall",
+      "position": {
+        "x": 215,
+        "z": 177
+      },
+      "rotation": 0,
+      "size": {
+        "w": 60,
+        "d": 3
+      }
+    },
+    {
+      "id": "90dd3fc3-4bb0-44ab-9e35-4e6475f79556",
+      "type": "wall",
+      "position": {
+        "x": 350,
+        "z": 115
+      },
+      "rotation": 90,
+      "size": {
+        "w": 7,
+        "d": 3
+      }
+    },
+    {
+      "id": "88fe4dab-f6c3-4adb-a3ab-d607fa6f1c11",
+      "type": "wall",
+      "position": {
+        "x": 353,
+        "z": 114
+      },
+      "rotation": 90,
+      "size": {
+        "w": 5,
+        "d": 4
+      }
+    },
+    {
+      "id": "9cf4adb1-c034-4944-b039-ff6dee03329c",
+      "type": "wall",
+      "position": {
+        "x": 214,
+        "z": 112
+      },
+      "rotation": 0,
+      "size": {
+        "w": 65,
+        "d": 3
+      }
+    },
+    {
+      "id": "e6000d61-2197-4ea9-bd0a-7ff890f83924",
+      "type": "wall",
+      "position": {
+        "x": 455,
+        "z": 244
+      },
+      "rotation": 90,
+      "size": {
+        "w": 60,
+        "d": 9
+      }
+    },
+    {
+      "id": "bf0c931f-b137-4a3f-a614-000295483769",
+      "type": "wall",
+      "position": {
+        "x": 330,
+        "z": 266
+      },
+      "rotation": 90,
+      "size": {
+        "w": 50,
+        "d": 3
+      }
+    },
+    {
+      "id": "28f0ccee-f2ce-4847-a376-7235cdef5f1b",
+      "type": "wall",
+      "position": {
+        "x": 455,
+        "z": 308
+      },
+      "rotation": 90,
+      "size": {
+        "w": 10,
+        "d": 9
+      }
+    },
+    {
+      "id": "e9c77483-45b1-49fd-bb70-c3ecf0425771",
+      "type": "wall",
+      "position": {
+        "x": 201,
+        "z": 318
+      },
+      "rotation": 0,
+      "size": {
+        "w": 24,
+        "d": 9
+      }
+    },
+    {
+      "id": "e10bd493-4599-4ecf-9a17-6f1ab255bc5d",
+      "type": "wall",
+      "position": {
+        "x": 186,
+        "z": 218
+      },
+      "rotation": 90,
+      "size": {
+        "w": 210,
+        "d": 9
+      }
+    },
+    {
+      "id": "228b4249-482b-4993-a5d0-a3c378e7ba8b",
+      "type": "wall",
+      "position": {
+        "x": 346,
+        "z": 318
+      },
+      "rotation": 0,
+      "size": {
+        "w": 228,
+        "d": 9
+      }
+    },
+    {
+      "id": "5c838067-70c4-425c-83f4-57a010442c32",
+      "type": "wall",
+      "position": {
+        "x": 394,
+        "z": 242
+      },
+      "rotation": 0,
+      "size": {
+        "w": 130,
+        "d": 3
+      }
+    },
+    {
+      "id": "2caf96b8-a3da-47af-950d-fc61b7d52107",
+      "type": "wall",
+      "position": {
+        "x": 330,
+        "z": 314
+      },
+      "rotation": 90,
+      "size": {
+        "w": 10,
+        "d": 3
+      }
+    },
+    {
+      "id": "527c33af-7aa2-4f76-be5c-ee393450441d",
+      "type": "wall",
+      "position": {
+        "x": 405,
+        "z": 166
+      },
+      "rotation": 90,
+      "size": {
+        "w": 146,
+        "d": 9
+      }
+    },
+    {
+      "id": "c6636c19-a575-428e-bf69-d524593e1d9f",
+      "type": "wall",
+      "position": {
+        "x": 319,
+        "z": 112
+      },
+      "rotation": 0,
+      "size": {
+        "w": 75,
+        "d": 3
+      }
+    },
+    {
+      "id": "82f5ca01-fdcd-4df8-9328-b3eebfec67ba",
+      "type": "wall",
+      "position": {
+        "x": 243,
+        "z": 225
+      },
+      "rotation": 90,
+      "size": {
+        "w": 93,
+        "d": 3
+      }
+    },
+    {
+      "id": "5d029ad8-f429-4730-aa03-25bc9365d6be",
+      "type": "wall",
+      "position": {
+        "x": 201,
+        "z": 272
+      },
+      "rotation": 0,
+      "size": {
+        "w": 29,
+        "d": 3
+      }
+    },
+    {
+      "id": "9f2b06fb-ec76-4c82-8882-33ab94369591",
+      "type": "window",
+      "position": {
+        "x": 455,
+        "z": 288
+      },
+      "rotation": 90,
+      "size": {
+        "w": 30,
+        "d": 9
+      }
+    },
+    {
+      "id": "06e6a1c3-d3ee-4070-a2a0-752ad083ea00",
+      "type": "door",
+      "position": {
+        "x": 338,
+        "z": 300
+      },
+      "rotation": 270,
+      "size": {
+        "w": 18,
+        "d": 18
+      }
+    },
+    {
+      "id": "912da3a1-ad0f-4bc2-b632-6927bbbba2b3",
+      "type": "door",
+      "position": {
+        "x": 222,
+        "z": 307
+      },
+      "rotation": 0,
+      "size": {
+        "w": 18,
+        "d": 18
+      }
+    }
+  ]
+}

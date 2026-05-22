@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a single armchair with a worn, textured appearance. The upholstery appears to be a rough fabric, possibly linen or a similar natural material, in shades of brown and beige, suggesting age or a rustic aesthetic. The chair has a boxy, sturdy build with padded arms and a high back. The texture of the fabric creates a visual impression of roughness and perhaps a slightly aged or distressed look. The overall design is functional and comfortable, likely intended for a cozy seating area.",
+    "color": [
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "rustic",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.997,
+        "height": 1.062,
+        "length": 0.886,
+        "unit": "meters"
+    }
+}

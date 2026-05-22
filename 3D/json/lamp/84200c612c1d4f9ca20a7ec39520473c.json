@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "This is a unique chandelier with a circular design, suspended by thin purple cables from a purple cylindrical fixture. The main body of the chandelier is a large ring composed of numerous vertical, light green elements that are arranged in a dense, undulating pattern, creating a textured and organic appearance. The base beneath the green elements appears to be a light, sandy color. The overall design suggests a modern and artistic lighting fixture, possibly inspired by natural forms.",
+    "color": [
+        "purple",
+        "light green",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.617,
+        "height": 0.505,
+        "length": 0.617,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "light",
+    "description": "This is a 3D model of an industrial-style pendant light fixture. It features a robust, cylindrical design with a heavily ribbed heat sink made of metal, likely aluminum, for efficient heat dissipation. At the top, there are connection points for mounting and wiring, including a loop for suspension and a threaded conduit fitting. The lower section has a protective cage made of bent metal rods, designed to shield the light source within from damage. The overall aesthetic is utilitarian and durable, suggesting suitability for environments where resilience and functionality are prioritized. The clean, unadorned surfaces and metallic finish point towards a modern or industrial design context.",
+    "color": [
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "garage",
+        "workshop",
+        "basement",
+        "industrial kitchen",
+        "loft apartment"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "aluminum"
+    ],
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 0.197,
+        "height": 0.29,
+        "length": 0.194,
+        "unit": "meters"
+    }
+}

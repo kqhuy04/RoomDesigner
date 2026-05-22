@@ -1,0 +1,30 @@
+{
+    "object": "light",
+    "description": "A modern pendant light fixture featuring three heart-shaped frames suspended from a circular white ceiling plate. Each heart encloses a light bulb with a colored accent at the top. The frames have a metallic finish, with colors ranging from a deep purple to a vibrant pink and a subtle bronze. The bulbs themselves are clear, suggesting an Edison-style bulb, and cast a soft glow. The design is elegant and whimsical, suitable for adding a touch of romance or playful charm to a room. The overall aesthetic is contemporary with a playful nod to love themes.",
+    "color": [
+        "white",
+        "purple",
+        "pink",
+        "bronze",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "nursery",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "whimsical",
+    "dimensions": {
+        "width": 0.419,
+        "height": 1.125,
+        "length": 0.457,
+        "unit": "meters"
+    }
+}

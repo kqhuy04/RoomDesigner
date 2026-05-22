@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model preview of a two-seater sofa. The sofa is upholstered in a rich, dark brown material that appears to have a textured, slightly worn finish, possibly mimicking distressed leather or a robust fabric. It features two distinct, gently curved back cushions and two individual seat cushions. The armrests are elegantly shaped, curving outwards and downwards at the front, contributing to its classic or traditional aesthetic. The overall design is sturdy and gives off a comfortable and inviting impression.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "familyroom"
+    ],
+    "style": "traditional",
+    "material": "upholstered",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.542,
+        "height": 0.561,
+        "length": 0.487,
+        "unit": "meters"
+    }
+}

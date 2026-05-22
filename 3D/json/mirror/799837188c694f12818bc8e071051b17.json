@@ -1,0 +1,30 @@
+{
+    "object": "mirror",
+    "description": "A convex security mirror mounted on a pole. The mirror is hemispherical and made of a highly reflective material, likely polished metal or glass. It is housed within a sturdy, light-colored frame, possibly plastic or wood, with an orange outer rim that provides protection and aesthetic appeal. The pole is slender and gray, suggesting it's made of metal. The mirror's convex shape is designed to provide a wide-angle view, making it ideal for increasing visibility in blind spots or high-traffic areas, such as in warehouses, parking lots, or retail stores. The reflection in the mirror shows a brightly lit indoor environment with shelving units and some red signage, indicating its typical placement in a commercial or industrial setting.",
+    "color": [
+        "silver",
+        "gray",
+        "orange",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "warehouse",
+        "garage",
+        "retail store",
+        "parking lot"
+    ],
+    "style": "functional",
+    "material": [
+        "metal",
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "practical",
+    "dimensions": {
+        "width": 0.799,
+        "height": 2.331,
+        "length": 0.336,
+        "unit": "meters"
+    }
+}

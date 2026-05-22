@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "A set of two wooden dressers with contrasting legs. The dresser on the left is shorter and wider, featuring two drawers with dark brown handles. It is supported by four light wood legs that angle outwards. The dresser on the right is taller and narrower, with three drawers, each also equipped with dark brown handles. This dresser stands on three dark brown, cylindrical legs that are angled. Both dressers have a natural wood grain finish, giving them a modern and minimalist aesthetic.",
+    "color": [
+        "brown",
+        "wood grain"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.728,
+        "height": 0.09,
+        "length": 0.058,
+        "unit": "meters"
+    }
+}

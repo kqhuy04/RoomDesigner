@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model preview of a dresser. It appears to be a mid-century modern style dresser with a light wood finish and multiple drawers. The drawers are arranged in two columns, with four drawers in each column, totaling eight drawers. The handles of the drawers are not clearly visible in this low-resolution preview but seem to be simple and integrated into the drawer fronts. The overall design is clean and rectangular, suggesting a functional piece of furniture for storage. The dresser is presented against a dark, solid background, which helps to highlight its form.",
+    "color": [
+        "tan",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "dressing room"
+    ],
+    "style": "mid-century modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.179,
+        "height": 1.259,
+        "length": 0.683,
+        "unit": "meters"
+    }
+}

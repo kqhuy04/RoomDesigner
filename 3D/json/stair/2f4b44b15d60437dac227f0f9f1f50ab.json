@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a rendered 3D model of an indoor staircase. The staircase features a combination of white and black elements. The steps themselves are black, with white risers, creating a striking contrast. The balustrade and handrail are predominantly white, with vertical spindles forming a classic railing. A prominent white newel post with decorative detailing is visible at the base of the stairs. The landing area at the top of the visible stairs is finished with a light wood-like flooring and a curved white base. The overall design suggests a modern yet somewhat traditional aesthetic, suitable for an interior architectural visualization.",
+    "color": [
+        "white",
+        "black",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "interior",
+        "foyer",
+        "landing"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 3.094,
+        "height": 2.822,
+        "length": 2.347,
+        "unit": "meters"
+    }
+}

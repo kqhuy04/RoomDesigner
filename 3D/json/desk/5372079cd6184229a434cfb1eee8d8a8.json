@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "A modern L-shaped desk with an integrated shelving unit. The desk features a dark grey surface with a contrasting orange trim along the edges. The shelving unit is also dark grey and comprises multiple open compartments of varying sizes, providing ample storage and display space. One leg of the desk is a distinct orange cylindrical support, adding a pop of color and a contemporary touch. The overall design is functional and minimalist, suitable for a home office, gaming setup, or study area.",
+    "color": [
+        "dark grey",
+        "orange"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom",
+        "gameroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "particle board"
+    ],
+    "usage": "functional, storage",
+    "mood": "minimalist, functional",
+    "dimensions": {
+        "width": 1.42,
+        "height": 1.465,
+        "length": 0.92,
+        "unit": "meters"
+    }
+}

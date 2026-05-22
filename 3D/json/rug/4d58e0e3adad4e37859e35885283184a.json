@@ -1,0 +1,25 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a woven pattern. The rug features a series of diagonal stripes in various warm colors, including deep red, orange, yellow, and black. Some of the stripes have intricate geometric patterns woven into them, adding texture and visual interest. The rug appears to be made of natural fibers, possibly wool or cotton, and has a slightly textured surface. It is presented from a slightly elevated angle, showcasing its length and the detailed craftsmanship of its design.",
+    "color": [
+        "red",
+        "orange",
+        "yellow",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "ethnic",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.14,
+        "height": 0.065,
+        "length": 1.857,
+        "unit": "meters"
+    }
+}

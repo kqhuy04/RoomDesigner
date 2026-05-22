@@ -1,0 +1,30 @@
+{
+    "object": "desk",
+    "description": "This is a dark wooden desk with multiple drawers. It has a vintage feel and appears to be a functional piece of furniture. On top of the desk, there are two framed pictures, one larger than the other. The larger frame contains an image of a cat with its mouth open, rendered in a somewhat abstract style with orange and white colors. Below it, a smaller black and white photograph depicts a city skyline. A blue cloth or piece of fabric is draped over the right side of the desk.",
+    "color": [
+        "black",
+        "white",
+        "orange",
+        "brown",
+        "blue"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "vintage",
+    "material": [
+        "wood",
+        "fabric",
+        "glass"
+    ],
+    "usage": "functional, storage, decorative",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.395,
+        "height": 1.697,
+        "length": 1.06,
+        "unit": "meters"
+    }
+}

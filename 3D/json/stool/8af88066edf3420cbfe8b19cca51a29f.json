@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "A modern bar stool with a smooth, contoured seat and back, featuring a distinctive oval cutout in the seat. The seat is upholstered in a warm, tan-colored material, resembling leather or a high-quality fabric. Its sleek, minimalist design is supported by a slender, black metal frame with four tapered legs connected by a circular footrest. The stool's form is elegant and functional, designed for comfort and style in contemporary spaces. It is presented against a plain, neutral background, highlighting its clean lines and sophisticated silhouette. Beside the stool are two small, cube-shaped decorative items, one dark grey and the other a muted green, adding a subtle touch of color and scale.",
+    "color": [
+        "tan",
+        "black",
+        "grey",
+        "green"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "dining room",
+        "bar area",
+        "living room"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.77,
+        "height": 0.898,
+        "length": 0.486,
+        "unit": "meters"
+    }
+}

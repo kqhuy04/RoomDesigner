@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "A mid-century modern nightstand with a dark wood finish. It features two drawers with brass handles and tapered legs. On top, there is a lamp with a white shade and a brass base, as well as a small glass terrarium containing a succulent plant and pebbles. The overall design is clean and functional, fitting well into a bedroom or living space.",
+    "color": [
+        "brown",
+        "brass",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "living room",
+        "entryway"
+    ],
+    "style": "mid-century modern",
+    "material": "wood, metal, glass",
+    "usage": "storage, functional",
+    "mood": "warm, classic",
+    "dimensions": {
+        "width": 0.56,
+        "height": 0.989,
+        "length": 0.377,
+        "unit": "meters"
+    }
+}

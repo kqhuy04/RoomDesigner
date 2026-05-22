@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "A whimsical desk clock with a playful design. It features a blue top hat adorned with an ace of spades playing card, a brown band with a golden buckle, and a round clock face with red and green hands. The clock's body is made of brown wood, designed to resemble a stylized character with prominent, curled mint-green mustaches. It has small golden accents on the sides and base, and a pendulum hanging below. The overall aesthetic is charming and reminiscent of a circus performer or a magician's prop.",
+    "color": [
+        "blue",
+        "brown",
+        "white",
+        "red",
+        "green",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "nursery"
+    ],
+    "style": "whimsical",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.415,
+        "height": 1.982,
+        "length": 1.156,
+        "unit": "meters"
+    }
+}

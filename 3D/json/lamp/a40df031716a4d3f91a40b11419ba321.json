@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "This is a modern pendant lamp with a long, rectangular shade made of a textured, woven material. The shade appears to be a light color, possibly white or off-white, and has a subtle pattern. Two small, cylindrical spotlights are attached to the underside of the shade, directed downwards. The lamp is suspended by two thin, light-colored wires. One wire has a thicker, cylindrical component at its top, possibly a housing for the electrical connection or a decorative element. The overall design is minimalist and contemporary, likely intended to provide ambient and task lighting in a modern interior.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "fabric, metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.204,
+        "height": 0.704,
+        "length": 0.071,
+        "unit": "meters"
+    }
+}

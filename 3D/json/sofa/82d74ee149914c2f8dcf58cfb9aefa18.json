@@ -1,0 +1,24 @@
+{
+    "object": "sofa",
+    "description": "This is an antique, ornately decorated sofa. The frame and backrest are painted black with intricate gold scrolling patterns and a central gilded cartouche at the top. The seat and the lower part of the backrest are upholstered in a muted, textured green fabric, with hints of blue and gold in its sheen, suggesting it may have been a silk or damask. The sofa has a curved back and gracefully tapered legs, all finished with gilded accents. Its design evokes a sense of old-world luxury and craftsmanship, suitable for a formal or historical interior.",
+    "color": [
+        "green",
+        "black",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "antique",
+    "material": "wood, fabric",
+    "usage": "functional, decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.169,
+        "height": 1.594,
+        "length": 0.793,
+        "unit": "meters"
+    }
+}

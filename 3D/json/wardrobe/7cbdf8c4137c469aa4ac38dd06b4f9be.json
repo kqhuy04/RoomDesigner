@@ -1,0 +1,25 @@
+{
+    "object": "wardrobe",
+    "description": "This is a three-door wardrobe with a central section featuring glass doors and drawers. The wardrobe has a classic, somewhat ornate design with raised paneling on the solid doors and a framed appearance for the glass and drawer fronts. The central section has two glass-fronted cabinets at the top, separated by a vertical mullion, and below these are four drawers. The two outer doors are solid and rectangular with subtle paneling. The handles appear as simple, vertical lines. The entire unit is rendered in a uniform, light, creamy color, suggesting a piece of furniture suitable for a bedroom or dressing room, offering both storage and a touch of elegance.",
+    "color": [
+        "cream"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.823,
+        "height": 1.771,
+        "length": 2.261,
+        "unit": "meters"
+    }
+}

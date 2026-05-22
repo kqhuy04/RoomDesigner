@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A minimalist wooden dining table with a rectangular top and four tapered legs. The table is made of light-colored wood, likely oak or ash, and features a clean, unfussy design. The tabletop has a subtle grain pattern, and the legs are angled outwards, giving it a light and airy feel. The table appears to be extendable, with a visible seam down the center of the tabletop. This design makes it a versatile piece for various dining spaces, easily accommodating different needs.",
+    "color": [
+        "light brown",
+        "wood tone"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "kitchen",
+        "living room"
+    ],
+    "style": "scandinavian",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.2,
+        "height": 0.72,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

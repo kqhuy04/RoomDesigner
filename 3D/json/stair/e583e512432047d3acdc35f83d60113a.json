@@ -1,0 +1,25 @@
+{
+    "object": "stair",
+    "description": "This 3D model preview displays a modern, minimalist staircase leading up to a raised platform. The stairs themselves are a bright yellow, creating a striking contrast with the surrounding muted gray tones. The platform has a sleek, angular design with a white edge, suggesting a contemporary architectural aesthetic. A grey wall forms the backdrop for the structure. The overall impression is one of clean lines and functional design, suitable for a modern home or an architectural visualization.",
+    "color": [
+        "yellow",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.17,
+        "height": 1.924,
+        "length": 2.89,
+        "unit": "meters"
+    }
+}

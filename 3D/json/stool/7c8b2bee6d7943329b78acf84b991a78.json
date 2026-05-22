@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "A plush, round ottoman with a tufted design. The upholstery features a diamond pattern created by deep button tufting, giving it a sophisticated and classic appearance. The color is a muted, deep blue that can complement various decor styles. Its compact size and cushioned top make it versatile for use as a footrest, extra seating, or even a small side table.",
+    "color": [
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.0,
+        "height": 1.921,
+        "length": 1.985,
+        "unit": "meters"
+    }
+}

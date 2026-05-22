@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "This is a modern hanging egg chair with a distinctive teardrop shape. It features a dark, possibly metal or wood, frame that curves upwards and supports the chair. The seat is plush and upholstered in a vibrant, quilted light blue fabric, providing a comfortable and inviting appearance. The interior of the egg shape is lined with a warm, reddish-brown material, creating a cozy contrast. The chair is suspended by a sturdy chain from the curved stand, allowing it to gently swing. The overall design is sleek and contemporary, making it a stylish addition to various indoor or outdoor spaces.",
+    "color": [
+        "blue",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.038,
+        "height": 1.659,
+        "length": 1.081,
+        "unit": "meters"
+    }
+}

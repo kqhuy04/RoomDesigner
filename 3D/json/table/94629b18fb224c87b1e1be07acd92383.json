@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "This 3D model depicts a rustic wooden picnic table with attached benches. The table and benches are constructed from weathered wood planks, showing visible grain and a slightly worn texture, suggesting outdoor use and age. The design is a classic A-frame structure, with the benches extending from the main table legs. The overall impression is one of simplicity and durability, often found in parks, backyards, or campgrounds. The lighting in the preview suggests an ambient outdoor setting.",
+    "color": [
+        "brown",
+        "tan",
+        "beige"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "outdoor area",
+        "backyard"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 2.378,
+        "height": 0.929,
+        "length": 2.407,
+        "unit": "meters"
+    }
+}

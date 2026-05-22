@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a futuristic egg-shaped chair with a sleek, glossy black exterior and a plush red interior. The chair is mounted on a circular black base and features a glowing cyan light at the connection point between the seat and the base, adding a modern, high-tech aesthetic. The interior of the chair is designed with a series of curved, padded sections, suggesting comfort and ergonomic support. The overall design is minimalist yet striking, evoking a sense of luxury and advanced technology. It appears to be a single-seater designed for relaxation or focused contemplation.",
+    "color": [
+        "black",
+        "red",
+        "cyan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "futuristic",
+    "material": [
+        "plastic",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.986,
+        "height": 0.258,
+        "length": 0.986,
+        "unit": "meters"
+    }
+}

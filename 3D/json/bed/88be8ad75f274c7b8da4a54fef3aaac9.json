@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This 3D model showcases a single bed with a mattress and a pillow. The mattress features a quilted pattern, suggesting comfort and support. The bed frame is made of wood, giving it a classic and sturdy appearance. The pillow is white and appears soft. The overall presentation is clean and minimalist, with the bed set against a dark, neutral background, which helps to highlight its features. The lighting is subtle, creating soft shadows and emphasizing the textures of the mattress and the wood grain. This bed would be suitable for a bedroom, dorm room, or guest room, providing a functional and comfortable sleeping solution.",
+    "color": [
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom",
+        "dormroom"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.876,
+        "height": 0.445,
+        "length": 0.981,
+        "unit": "meters"
+    }
+}

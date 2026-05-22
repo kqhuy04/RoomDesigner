@@ -1,0 +1,32 @@
+{
+    "object": "stool",
+    "description": "A small, round ottoman with a vibrant floral pattern. The fabric features a beige background adorned with colorful flowers and green stems. The design includes large, stylized flowers in shades of pink, yellow, red, and blue, with some black accents. It stands on three tapered wooden legs, giving it a slightly retro feel. The overall look is playful and eye-catching, making it a great accent piece for various spaces.",
+    "color": [
+        "beige",
+        "pink",
+        "yellow",
+        "red",
+        "blue",
+        "green",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "nursery",
+        "hallway"
+    ],
+    "style": "eclectic",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.137,
+        "height": 1.657,
+        "length": 2.137,
+        "unit": "meters"
+    }
+}

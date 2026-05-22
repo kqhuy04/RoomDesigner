@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "This is a vintage-style vanity table and stool set, rendered in a grayscale palette. The table features a multi-tiered top with an oval mirror at the center, flanked by decorative curved elements. Below the mirror, there are two small drawers. The main surface of the table is spacious, supported by elegantly curved legs that give it a classic, ornate feel. The accompanying stool is rectangular with a slightly padded top, also resting on similarly styled curved legs. The overall aesthetic suggests a piece of furniture designed for personal grooming and adornment, evoking a sense of old-world charm and sophistication.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.639,
+        "height": 0.762,
+        "length": 0.606,
+        "unit": "meters"
+    }
+}

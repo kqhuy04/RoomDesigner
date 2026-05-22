@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a simple, rectangular two-door cabinet made of light brown wood, showcasing a visible wood grain texture. It features two long, slender vertical handles, one on each door. The cabinet has clean lines and a minimalist aesthetic, with a subtle top edge design. The lighting highlights the top surface, suggesting a practical and modern piece of furniture designed for storage.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bedroom",
+        "livingroom",
+        "office",
+        "utilityroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.901,
+        "height": 0.7,
+        "length": 0.37,
+        "unit": "meters"
+    }
+}

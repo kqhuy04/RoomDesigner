@@ -1,0 +1,28 @@
+{
+    "object": "sofa",
+    "description": "A modern sectional sofa in a light beige or cream color, featuring a contemporary design with clean lines and plush cushioning. It appears to be upholstered in a textured fabric, possibly a linen blend or a durable synthetic. The sofa is configured in an L-shape, with one section longer than the other, offering ample seating space. Several throw pillows are scattered across the sofa, some matching the upholstery and others in a complementary brown or taupe hue. The sofa rests on slim, dark-colored legs, contributing to its minimalist aesthetic. The seating cushions and backrests are generously padded, suggesting a high level of comfort. The tufted design on the chaise lounge section adds a touch of sophistication.",
+    "color": [
+        "beige",
+        "cream",
+        "brown",
+        "taupe"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "familyroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable, contemporary, relaxed",
+    "dimensions": {
+        "width": 2.949,
+        "height": 0.968,
+        "length": 2.206,
+        "unit": "meters"
+    }
+}

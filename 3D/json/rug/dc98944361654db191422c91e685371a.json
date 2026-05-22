@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular area rug featuring an intricate traditional design. The dominant color is off-white or cream, serving as the background for elaborate patterns. A large oval-shaped central medallion in shades of blue and beige/brown is the focal point, surrounded by delicate floral motifs and arabesques. The main field is bordered by multiple layers of intricate patterns in similar blue and beige tones, with the outermost border featuring a deep blue hue. Fringes are visible on the shorter ends. The overall design suggests a classic Persian or Oriental style, adding elegance and warmth to a space.",
+    "color": [
+        "cream",
+        "blue",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 4.17,
+        "height": 0.025,
+        "length": 3.098,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "wardrobe",
+    "description": "This is a tall, rectangular wardrobe designed with a modern aesthetic. It features a sturdy light brown wooden or wood-look frame, visible on its sides and as trim accents. The front panels are a contrasting light grey or off-white with a subtle textured finish. The wardrobe is divided into functional compartments, including at least two hinged doors on the left, indicated by sleek dark grey bar handles. To the right, there appears to be a vertical panel, possibly a full-length mirror or a glossy white door, followed by two stacked drawers, each fitted with matching dark grey horizontal bar handles. The clean lines and neutral color palette contribute to a minimalist and versatile piece of furniture suitable for contemporary interior designs. It is designed for efficient storage.",
+    "color": [
+        "light brown",
+        "light grey",
+        "dark grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "laminate",
+        "metal",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.06,
+        "height": 2.08,
+        "length": 0.54,
+        "unit": "meters"
+    }
+}

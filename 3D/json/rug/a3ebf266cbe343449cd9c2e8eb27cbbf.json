@@ -1,0 +1,28 @@
+{
+    "object": "rug",
+    "description": "Two rectangular rugs are placed on a plain gray surface. The rug on the left is dark gray or black with a repeating pattern of white diamond shapes. The rug on the right is a light, off-white color with a textured, woven appearance, suggesting a natural fiber or a similar material. Both rugs appear to be flat and of a similar size, likely intended for indoor use to add comfort and aesthetic appeal to a living space or entryway.",
+    "color": [
+        "black",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "entryway"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "textile"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 2.451,
+        "height": 0.025,
+        "length": 2.781,
+        "unit": "meters"
+    }
+}

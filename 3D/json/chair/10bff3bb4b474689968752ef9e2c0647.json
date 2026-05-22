@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a stylized chair with a modernist design, reminiscent of the work of Gerrit Rietveld. The chair features a strong geometric structure composed of intersecting planes and lines. The main body of the chair is constructed from dark, rectangular elements, likely wood, forming the frame, legs, and armrests. These are accented with small, bright yellow connectors at the joints. The seat is a flat, rectangular plane in a vibrant blue, and the backrest is an elongated, inclined plane in a rich red. The contrasting primary colors and the sharp, angular form give the chair a distinct abstract and artistic quality, making it as much a sculptural piece as a functional seating object.",
+    "color": [
+        "black",
+        "red",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "gallery"
+    ],
+    "style": "modernist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.757,
+        "height": 0.762,
+        "length": 1.757,
+        "unit": "meters"
+    }
+}

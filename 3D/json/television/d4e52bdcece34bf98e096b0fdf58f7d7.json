@@ -1,0 +1,25 @@
+{
+    "object": "television",
+    "description": "This 3D model preview features a vintage-style cathode-ray tube (CRT) television, presented head-on. The television exhibits a classic, bulky design with a dark, rectangular screen that appears to be off. Its casing is a dark, matte gray, suggesting a durable, utilitarian construction often seen in older electronic devices. The lines are simple and robust, characteristic of electronics from the late 20th century. The object stands out against a highly blurred background of muted greens, blues, and yellows, which provides a soft focus without distracting from the main subject.",
+    "color": [
+        "dark gray",
+        "black",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 3.648,
+        "height": 3.144,
+        "length": 3.733,
+        "unit": "meters"
+    }
+}

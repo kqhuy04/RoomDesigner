@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A modern, minimalist white chandelier with five arms extending from a central cylindrical base. Each arm terminates in a bulb socket designed to hold a bare bulb, creating a contemporary and industrial aesthetic. The design emphasizes clean lines and a simple, functional form, making it a versatile lighting fixture for various interior spaces. The arms are angled outwards, providing a wide spread of light. The overall appearance is sleek and uncluttered, suitable for environments where subtle yet impactful lighting is desired.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.7,
+        "height": 0.244,
+        "length": 0.615,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a modern wooden stool with a circular top and four tapered legs. The top has a slightly raised edge and is constructed from what appears to be joined wooden planks, displaying a natural wood grain. The legs are thickest at the top where they connect to the underside of the seat, and gradually taper down to a narrower profile at the floor. The legs are angled outwards slightly, providing stability. The construction suggests a minimalist and functional design, with clean lines and a focus on the natural beauty of the wood. The overall shape is simple and elegant, making it a versatile piece of furniture.",
+    "color": [
+        "wood",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.32,
+        "height": 0.4,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

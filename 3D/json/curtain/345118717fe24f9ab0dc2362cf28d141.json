@@ -1,0 +1,22 @@
+{
+    "object": "curtain",
+    "description": "A minimalist white curtain tie-back, shaped like a folded fan or a bouquet of long, slender rods. The tie-back is cinched around a bundle of vertically aligned, ribbed sections, resembling a pleated fabric. The overall form is sleek and modern, with subtle shadows defining the folds and curves. The tie-back itself appears as a simple band or loop holding the 'curtain' sections together near the bottom. This item is likely intended to be a decorative accessory for curtains, providing a clean and unobtrusive way to hold them open.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.192,
+        "height": 5.824,
+        "length": 0.669,
+        "unit": "meters"
+    }
+}

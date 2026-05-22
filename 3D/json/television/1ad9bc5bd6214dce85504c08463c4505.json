@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "This is a modern, flat-screen television with a sleek, minimalist design. The screen is large and dark, suggesting it is either off or displaying a dark image. It features a thin bezel and a slim profile, mounted on a simple, rectangular stand. Along the bottom edge, there are subtle controls and a small red indicator light, hinting at its functionality. The overall aesthetic is clean and sophisticated, designed to blend seamlessly into contemporary living spaces. The dark screen and understated frame contribute to a modern and unobtrusive presence.",
+    "color": [
+        "black",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.85,
+        "height": 0.577,
+        "length": 0.141,
+        "unit": "meters"
+    }
+}

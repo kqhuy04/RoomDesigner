@@ -1,0 +1,25 @@
+{
+    "object": "wardrobe",
+    "description": "This is a uniquely designed wardrobe with a distinctive, almost floral or botanical silhouette. The structure is primarily made of wood, showcasing a natural grain pattern and a warm, light brown color. It features an open design with a hanging rod on one side and shelves on the other, suggesting it's meant for displaying or storing clothes and accessories. The base has two drawers with intricate, textured fronts that resemble dried foliage or organic matter, adding a touch of natural artistry. The overall aesthetic is elegant and organic, with a flowing, curved top that tapers upwards, resembling a stylized vase or a blooming flower.",
+    "color": [
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressingroom"
+    ],
+    "style": "organic",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "natural",
+    "dimensions": {
+        "width": 1.316,
+        "height": 2.097,
+        "length": 0.718,
+        "unit": "meters"
+    }
+}

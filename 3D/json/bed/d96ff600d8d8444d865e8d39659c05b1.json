@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a bed with a simple yet elegant wooden frame, featuring a gently arched headboard and a matching footboard. The bed is adorned with bedding that includes a crisp white sheet or pillow area at the head and a dark blue blanket or duvet covering the rest of the mattress. Positioned to the right of the bed is a tall, slender bedside lamp with a minimalist design, featuring a white cylindrical shade and a matching base. The wooden elements of the bed frame display a natural grain texture, adding warmth to the overall presentation. The setup is clean, functional, and presented against a plain light grey background, highlighting the bed and its accessory.",
+    "color": [
+        "brown",
+        "dark blue",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.642,
+        "height": 0.695,
+        "length": 1.687,
+        "unit": "meters"
+    }
+}

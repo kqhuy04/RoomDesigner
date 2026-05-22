@@ -1,0 +1,24 @@
+{
+    "object": "wardrobe",
+    "description": "A two-door wooden wardrobe with a light brown wood grain texture. The doors are framed and have simple, vertical silver handles. The wardrobe has a rectangular shape with a slightly wider top than bottom, giving it a subtle trapezoidal appearance. It is presented against a plain light gray background, emphasizing its form and texture. The wood grain shows variations in tone and some subtle imperfections, suggesting a natural or distressed finish.",
+    "color": [
+        "brown",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "storage room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 2.791,
+        "height": 3.431,
+        "length": 0.995,
+        "unit": "meters"
+    }
+}

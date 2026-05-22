@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a simple, monochromatic bedroom set in a minimalist style. It includes a bed with a headboard and bedding, a small bedside table with a rounded top, and a tall, narrow bookshelf unit. The bed is adorned with pillows and a draped comforter, suggesting a cozy and inviting space. To the right of the bed, a compact sofa with two cushions and a low coffee table are positioned, creating a small seating area. The overall aesthetic is clean and uncluttered, emphasizing functionality and a sense of calm. The wall art, a small abstract sculpture, adds a subtle artistic touch without disrupting the minimalist theme. The lighting in the scene is soft, casting gentle shadows that highlight the forms of the furniture.",
+    "color": [
+        "white",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "studio apartment"
+    ],
+    "style": "minimalist",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.247,
+        "height": 2.124,
+        "length": 3.894,
+        "unit": "meters"
+    }
+}

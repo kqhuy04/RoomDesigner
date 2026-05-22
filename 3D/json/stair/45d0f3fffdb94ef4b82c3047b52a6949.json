@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "A modern, multi-level spiral staircase enclosed in glass and topped with a white canopy. Each level features a square wooden platform with a curved edge, supported by white columns. The spiral stairs themselves are made of wood and metal, creating a sleek and open design. The structure is set on a large, light-wood plank floor, suggesting an outdoor or architectural element. The transparent glass walls allow for unobstructed views, making it feel light and airy. This design emphasizes clean lines and a minimalist aesthetic.",
+    "color": [
+        "white",
+        "wood",
+        "glass",
+        "gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "hallway",
+        "patio",
+        "architectural"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.548,
+        "height": 2.424,
+        "length": 2.644,
+        "unit": "meters"
+    }
+}

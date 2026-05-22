@@ -1,0 +1,24 @@
+{
+    "object": "rack",
+    "description": "This is a tall, narrow wooden display rack designed for showcasing items like brochures, magazines, or small products. It features a series of horizontal pockets or shelves stacked vertically along its length. The top of the rack has a gently curved header, and the entire structure stands on two horizontal base supports, providing stability. The warm wood grain and simple, functional design suggest it's intended for commercial or informational spaces.",
+    "color": [
+        "tan",
+        "brown"
+    ],
+    "appropriate_room": [
+        "office",
+        "lobby",
+        "retail store",
+        "waiting room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage, display",
+    "mood": "functional, minimalist",
+    "dimensions": {
+        "width": 0.402,
+        "height": 1.594,
+        "length": 0.518,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "This is a modern pendant light fixture featuring a linear white bar from which three identical spherical lamps hang. Each lamp has a unique, layered design, resembling a blooming flower or a series of unfolding petals. The lamps are suspended by thin white wires, creating a sense of lightness and elegance. The overall aesthetic is minimalist and contemporary, suitable for a variety of interior design styles. The clean lines and simple color palette make it a versatile lighting solution that can add a touch of sophistication to a space without overpowering the existing decor.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.856,
+        "height": 1.192,
+        "length": 0.191,
+        "unit": "meters"
+    }
+}

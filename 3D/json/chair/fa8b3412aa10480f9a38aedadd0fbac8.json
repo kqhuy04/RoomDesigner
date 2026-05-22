@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a sleek, modern office chair upholstered in black faux leather. It features a comfortable, padded seat and backrest with a quilted design, providing both support and a professional aesthetic. The chair is supported by a sturdy black metal base with five caster wheels, allowing for easy mobility. The armrests are also padded and integrated into the chair's frame, which has a silver-toned, brushed metal finish. A lever under the seat allows for height adjustment, making it a versatile and functional piece of furniture suitable for any workspace.",
+    "color": [
+        "black",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "faux leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.56,
+        "height": 1.179,
+        "length": 0.571,
+        "unit": "meters"
+    }
+}

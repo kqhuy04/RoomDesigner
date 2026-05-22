@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist set consisting of a long, narrow bar table with a light wood grain finish and dark navy blue, angular legs. Accompanying the table are two bar stools with white, curved seats and slender black metal legs and footrests. The design is sleek and modern, with clean lines and a simple color palette. The table is designed for standing or perching, making it ideal for casual social gatherings or as a workspace. The stools complement the table with their understated elegance.",
+    "color": [
+        "tan",
+        "navy blue",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "dining room",
+        "bar area",
+        "living room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.0,
+        "height": 1.178,
+        "length": 1.505,
+        "unit": "meters"
+    }
+}

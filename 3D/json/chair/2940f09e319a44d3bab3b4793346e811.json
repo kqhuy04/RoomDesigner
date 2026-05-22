@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a single armchair with wooden legs and armrests, upholstered in a textured, deep red fabric. The fabric features a subtle, repeating geometric pattern that adds visual interest. The chair has a slightly reclined back and a comfortable seat, suggesting it is designed for relaxation or conversation. The wooden components appear to be stained a medium brown, providing a warm contrast to the fabric. The overall design is somewhat traditional, fitting for a lounge area or a study.",
+    "color": [
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 1.173,
+        "height": 1.441,
+        "length": 1.11,
+        "unit": "meters"
+    }
+}

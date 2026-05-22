@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A modern bathroom vanity set featuring a rectangular white sink integrated into a grey cabinet with two doors and silver knobs. Above the sink, a tall, rectangular mirror is mounted, reflecting the clean lines of the sink and faucet. The faucet itself is a sleek, minimalist design in a metallic finish. The overall aesthetic is minimalist and functional, designed for a contemporary bathroom space. The cabinet provides storage beneath the sink, and the mirror offers essential functionality for grooming and preparation.",
+    "color": [
+        "grey",
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "ceramic",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.846,
+        "height": 2.393,
+        "length": 1.0,
+        "unit": "meters"
+    }
+}

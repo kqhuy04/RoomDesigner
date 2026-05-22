@@ -1,0 +1,24 @@
+{
+    "object": "desk",
+    "description": "This is a 3D model preview of a functional wooden desk, rendered against a plain light grey background. The desk showcases a light, warm wood finish with prominent grain patterns, imparting a natural and clean aesthetic. On the left side, it features an open knee space, designed for comfortable seating and ample legroom. The right side of the desk integrates a storage unit comprising at least two drawers, each fitted with a subtle, horizontal integrated handle that preserves the desk's sleek and uncluttered appearance. The desktop surface is clean and appears to be composed of two closely aligned panels. Its straightforward and unembellished design strongly suggests a modern or minimalist style, making it a versatile piece for various contemporary interior spaces. The overall impression conveyed is one of simplicity, warmth, and practicality.",
+    "color": [
+        "light brown",
+        "yellowish brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "home office",
+        "study room",
+        "kids room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.9,
+        "height": 0.701,
+        "length": 0.501,
+        "unit": "meters"
+    }
+}

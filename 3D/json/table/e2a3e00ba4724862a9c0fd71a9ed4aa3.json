@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "A white table lamp with a conical lampshade. The base is a square pedestal with a decorative metal cage structure above it, featuring a spherical element within the cage. The stem of the lamp also has a decorative, open metalwork design, tapering towards the lampshade. The overall design is elegant and somewhat ornate, suitable for adding a touch of sophistication to a room. The monochromatic color scheme makes it versatile for various interior designs.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.317,
+        "height": 0.655,
+        "length": 0.317,
+        "unit": "meters"
+    }
+}

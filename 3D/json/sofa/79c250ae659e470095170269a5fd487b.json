@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a modern two-seater sofa with a minimalist design. It features a light-colored upholstered seat and back cushions, providing a comfortable seating experience. The frame and armrests are made of light-colored wood, adding a natural and warm element to its aesthetic. The sofa's clean lines and simple form make it versatile and suitable for various contemporary interior designs. The two separate back cushions suggest a contemporary and functional approach to seating comfort. Its compact size makes it ideal for smaller living spaces or as an accent piece in a larger room.",
+    "color": [
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.884,
+        "height": 0.975,
+        "length": 1.082,
+        "unit": "meters"
+    }
+}

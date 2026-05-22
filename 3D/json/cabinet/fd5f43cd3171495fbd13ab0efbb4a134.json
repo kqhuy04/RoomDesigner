@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow dresser with five drawers. The dresser is made of light-colored wood with a visible grain pattern. The top surface is flat and slightly wider than the body of the dresser. Each drawer face has a distinct wood grain pattern, showcasing the natural beauty of the material. The dresser stands on four small, rectangular feet. The overall design is simple and functional, emphasizing the natural wood texture.",
+    "color": [
+        "light brown",
+        "tan",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.404,
+        "height": 0.717,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A blue foldable camping chair with a mesh back panel for breathability. It features black armrests and a sturdy black metal frame with criss-crossing legs for stability. The chair has the 'OL Outdoor Life' logo on the top of the backrest. It is designed for portability and comfort, making it ideal for outdoor activities like camping, picnics, or sporting events. The compact folding design allows for easy storage and transportation.",
+    "color": [
+        "blue",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "patio",
+        "camping"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 2.887,
+        "height": 3.562,
+        "length": 3.32,
+        "unit": "meters"
+    }
+}

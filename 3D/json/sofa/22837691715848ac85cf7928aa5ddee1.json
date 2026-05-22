@@ -1,0 +1,27 @@
+{
+    "object": "sofa",
+    "description": "This is a classic three-seater sofa upholstered in rich, brown leather. The design features deep button tufting on the backrests and seat cushions, giving it a luxurious and traditional appearance. The arms are rounded and well-padded, with decorative wooden accents featuring an ornate, carved design and metallic detailing. The base of the sofa is a dark wood with carved detailing and rests on turned wooden legs. The overall aesthetic suggests a sense of comfort, elegance, and timeless style, suitable for a formal living room or study.",
+    "color": [
+        "brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "lounge"
+    ],
+    "style": "traditional",
+    "material": [
+        "leather",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 4.122,
+        "height": 2.056,
+        "length": 2.013,
+        "unit": "meters"
+    }
+}

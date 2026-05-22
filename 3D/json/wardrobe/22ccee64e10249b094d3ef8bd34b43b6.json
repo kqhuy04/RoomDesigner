@@ -1,0 +1,26 @@
+{
+    "object": "wardrobe",
+    "description": "This is a stylized, freestanding wardrobe with a unique, curved silhouette. The main body is a deep, rich wood tone with visible grain, accented by distressed, bluish-green trim along the edges and base. It features an open top section with a reflective surface, an upper shelf, and a section with several coat hangers. Below this, there's a small drawer and a cabinet door with a simple handle. The lower section has a cubby with three rolled-up items, possibly towels or blankets. The overall design has a slightly whimsical, almost cartoonish feel, suggesting it could be part of a themed environment or a playful piece of furniture.",
+    "color": [
+        "brown",
+        "blue",
+        "purple",
+        "gray",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "entryway"
+    ],
+    "style": "whimsical",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.851,
+        "height": 2.92,
+        "length": 1.109,
+        "unit": "meters"
+    }
+}

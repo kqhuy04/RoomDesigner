@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "A modern flat-screen television is displayed against a gradient gray background. The screen showcases a vibrant, close-up image of bright orange flower petals, possibly from a chrysanthemum or dahlia. The television has a slim black bezel and rests on two thin black legs. A small red indicator light is visible on the bottom center of the frame, and a white cable is plugged into the right side of the TV, extending downwards. The overall presentation is clean and contemporary, emphasizing the visual content on the screen.",
+    "color": [
+        "black",
+        "orange",
+        "gray",
+        "white",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "home office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.676,
+        "height": 1.893,
+        "length": 0.81,
+        "unit": "meters"
+    }
+}

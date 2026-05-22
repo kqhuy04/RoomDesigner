@@ -1,0 +1,27 @@
+{
+    "object": "television",
+    "description": "This 3D model showcases a vintage-style CRT television, colored in light gray or white, set against a bright, gradient purple background. The TV screen displays a pattern of white and black static, suggesting a lack of signal or a retro aesthetic. Perched on top of the television is a brown potted plant with lush green leaves, which elegantly trails down the right side of the screen, adding a touch of nature to the electronic device. The television features front-facing speaker grilles and a control panel with various buttons and indicators. Brand names like 'Trinitron' and 'SONY' are subtly visible on the TV's frame. The overall presentation combines classic technology with a clean, digital art style, evoking a sense of nostalgia blended with modern visual appeal.",
+    "color": [
+        "white",
+        "gray",
+        "green",
+        "brown",
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room",
+        "media room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 3.106,
+        "height": 3.374,
+        "length": 2.94,
+        "unit": "meters"
+    }
+}

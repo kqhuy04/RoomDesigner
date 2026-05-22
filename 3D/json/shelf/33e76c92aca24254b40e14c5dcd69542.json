@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "A modern, modular bookshelf with an asymmetrical, stepped design. It features multiple open compartments of varying sizes arranged in a staggered, vertical progression. The structure is entirely white, creating a clean and minimalist aesthetic. The design suggests a contemporary approach to storage and display, suitable for organizing books, decorative items, or other household objects. The open shelving allows for easy access and visibility of contents, while the stepped arrangement adds a unique visual element that can serve as a design feature in a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.718,
+        "height": 0.76,
+        "length": 0.189,
+        "unit": "meters"
+    }
+}

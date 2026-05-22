@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "This is a minimalist nightstand with two drawers. The drawers have sleek, horizontal handles. The nightstand has a simple, boxy design and stands on four short legs, two of which are darker than the others. The top surface is flat and appears to be a single piece. The overall aesthetic is clean and functional, with a neutral color palette that would fit into various bedroom decors. The design is uncluttered, emphasizing practicality and a modern sensibility.",
+    "color": [
+        "light gray",
+        "gray",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.609,
+        "height": 1.571,
+        "length": 2.092,
+        "unit": "meters"
+    }
+}

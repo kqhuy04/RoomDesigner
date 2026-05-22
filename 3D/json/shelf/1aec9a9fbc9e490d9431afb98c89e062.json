@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, ornate bookshelf made of dark, polished wood, likely mahogany, with a rich, swirling grain. It features multiple shelves filled with an assortment of books, each appearing to have aged, leather-bound covers in various colors, including deep reds, browns, greens, and blues. The top of the bookshelf is adorned with an intricate, metallic gold decorative trim. Below the shelves, the bookshelf has two cabinet doors, also featuring the same polished wood and decorative trim, with simple brass handles. The overall impression is one of antique luxury and a well-curated library, suggesting a place for storing and displaying treasured books.",
+    "color": [
+        "brown",
+        "gold",
+        "red",
+        "green",
+        "blue"
+    ],
+    "appropriate_room": [
+        "study",
+        "library",
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": "wood, metal",
+    "usage": "storage, decorative",
+    "mood": "classic, sophisticated",
+    "dimensions": {
+        "width": 0.296,
+        "height": 0.531,
+        "length": 0.118,
+        "unit": "meters"
+    }
+}

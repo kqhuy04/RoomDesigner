@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A modern, minimalist swing with a clean, geometric design. The frame is constructed from slender, angular white metal supports that meet at the top, forming an inverted 'A' shape. Two thin white ropes suspend a simple white rectangular seat from the horizontal crossbar. The entire structure is designed to be free-standing, suggesting it could be placed in an indoor or outdoor setting, perhaps in a garden, patio, or even a spacious contemporary living area. Its stark white color and absence of ornamentation lend it a sophisticated and uncluttered aesthetic, fitting seamlessly into environments that favor simplicity and clean lines.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "livingroom",
+        "outdoor"
+    ],
+    "style": "minimalist",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "cool",
+    "dimensions": {
+        "width": 2.839,
+        "height": 3.101,
+        "length": 2.014,
+        "unit": "meters"
+    }
+}

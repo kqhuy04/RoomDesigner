@@ -1,0 +1,23 @@
+{
+    "object": "sofa",
+    "description": "A bright red, plush sofa designed with a distinct heart-shaped backrest, creating a playful and inviting aesthetic. The sofa features two generously padded seat cushions and rounded armrests, also in the same vibrant red. The legs of the sofa are a contrasting warm brown, adding a touch of natural warmth to the overall design. This piece appears to be a modern interpretation of classic sofa styles, with its exaggerated curves and bold color choice, suggesting a whimsical or romantic theme. It's designed for comfort and visual appeal, likely intended to be a statement piece in a room.",
+    "color": [
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.063,
+        "height": 1.105,
+        "length": 1.012,
+        "unit": "meters"
+    }
+}

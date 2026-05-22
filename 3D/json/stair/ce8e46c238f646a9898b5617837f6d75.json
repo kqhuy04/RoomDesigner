@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a minimalist and conceptual architectural structure. It features a prominent golden, multi-tiered staircase-like element, both below and on top of a central white, irregularly shaped platform that resembles a bridge or walkway. Above the platform, there's a smaller, golden cage-like structure that also contains golden steps. The entire central arrangement is framed by two tall, grey, U-shaped walls behind it, creating a sense of enclosure or a gateway. The structure is set on a large, flat grey base, simulating ground. The design evokes a modern, abstract art piece or a functional, yet symbolic, architectural pathway.",
+    "color": [
+        "grey",
+        "white",
+        "gold"
+    ],
+    "appropriate_room": [
+        "gallery",
+        "museum",
+        "public_space"
+    ],
+    "style": "minimalist",
+    "material": [
+        "concrete",
+        "metal",
+        "composite"
+    ],
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.615,
+        "height": 1.746,
+        "length": 3.322,
+        "unit": "meters"
+    }
+}

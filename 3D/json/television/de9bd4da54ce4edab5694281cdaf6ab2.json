@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "A modern, flat-panel television set, depicted as a 3D model. The television features a dark gray, rectangular screen with a thin, black bezel. It is supported by two slender, light-colored metallic feet that extend from the bottom corners, giving it a stable base. The overall design is minimalist and sleek, characteristic of contemporary electronics. The object is rendered against a textured, gradient gray background, which could represent a concrete wall and floor, giving it a somewhat industrial or modern studio feel. Subtle black outlines on the edges of the TV and its stand give it a stylized, almost cel-shaded appearance, highlighting its contours.",
+    "color": [
+        "black",
+        "dark gray",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "media room"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.279,
+        "height": 0.912,
+        "length": 1.6,
+        "unit": "meters"
+    }
+}

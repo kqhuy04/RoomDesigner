@@ -1,0 +1,23 @@
+{
+    "object": "rug",
+    "description": "This is a plush, rectangular rug with a slightly elongated trapezoidal shape, suggesting it might fit well in hallways or as an accent piece. The texture appears soft and dense, characteristic of a shag or deep-pile rug, inviting a sense of comfort and warmth. Its neutral, light gray color makes it versatile, allowing it to blend seamlessly with various decor styles without overpowering the space. The simple design and the uniform texture contribute to a minimalist and contemporary aesthetic. The rug is shown isolated against a plain, light gray background, emphasizing its form and texture.",
+    "color": [
+        "light gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "synthetic fiber",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.233,
+        "height": 0.035,
+        "length": 1.295,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "This is a vintage Belvedere television set, characterized by its warm, wooden casing and a prominent, curved screen. The television features two control knobs on the front, positioned on either side of the brand name 'Belvedere' inscribed in a stylized script. The screen itself is a pale, muted green, suggesting it is either off or displaying a static image. The overall design evokes a sense of nostalgia and mid-20th century home entertainment. The wood grain is visible, adding to its classic appeal.",
+    "color": [
+        "brown",
+        "green",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.519,
+        "height": 0.419,
+        "length": 0.518,
+        "unit": "meters"
+    }
+}

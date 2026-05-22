@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow wooden dresser with five drawers. The dresser has a light wood grain pattern, with visible texture suggesting it is made of natural wood. Each drawer has a horizontal line indentation indicating its boundary. The top surface is flat and slightly wider than the body of the dresser. The dresser stands on four small, block-like legs. The overall design is simple and functional, with clean lines and a natural aesthetic.",
+    "color": [
+        "light brown",
+        "tan",
+        "orange"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.404,
+        "height": 0.717,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "A minimalist desk setup featuring a sleek, dark red tabletop supported by a slender black metal frame. On the desk, a retro-style white computer monitor and keyboard are accompanied by a black desk lamp and a coffee mug, suggesting a workspace. To the right, a pair of black headphones rests, hinting at audio or creative use. A simple, matching red stool with a black metal base is positioned in front of the desk. The overall aesthetic is clean and functional, with a slightly vintage computer adding a touch of nostalgia.",
+    "color": [
+        "red",
+        "black",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.47,
+        "height": 2.017,
+        "length": 2.586,
+        "unit": "meters"
+    }
+}

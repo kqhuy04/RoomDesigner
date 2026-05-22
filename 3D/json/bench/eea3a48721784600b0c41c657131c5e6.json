@@ -1,0 +1,24 @@
+{
+    "object": "bench",
+    "description": "A simple wooden bench with a backrest, presented in a front-facing view against a plain, light grey background. The bench has a solid seat and back made of horizontally oriented wooden planks, with visible grain patterns suggesting a natural wood finish. It is supported by four legs, two at the front and two at the back, constructed from thicker wooden beams. The legs are angled slightly inwards for stability. The overall design is minimalist and functional, emphasizing the natural beauty of the wood.",
+    "color": [
+        "brown",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "hallway",
+        "garden",
+        "patio"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 1.3,
+        "height": 0.689,
+        "length": 0.443,
+        "unit": "meters"
+    }
+}

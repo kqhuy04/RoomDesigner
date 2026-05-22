@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a 3D model of a tall wooden stool, presented with a low-poly aesthetic. It features a sturdy, rectangular top in a light tan wood tone. Below the main top, there's a smaller, recessed shelf or support structure, also in a lighter brown, with a subtly curved bottom edge for decorative detail. The stool is supported by four robust, dark brown legs that are connected by two horizontal crossbars in varying shades of brown, acting as footrests. The design is simple, functional, and evokes a rustic or natural wooden feel.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar area",
+        "dining room"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.539,
+        "height": 2.753,
+        "length": 1.539,
+        "unit": "meters"
+    }
+}

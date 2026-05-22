@@ -1,0 +1,28 @@
+{
+    "object": "mirror",
+    "description": "This is a pixelated 3D model of an ornate framed mirror. The frame is golden, featuring detailed curves and embellishments, particularly at the corners and mid-sections, giving it a classic or baroque aesthetic. The mirror's reflective surface is rendered with light blue and white diagonal pixel lines, suggesting a shimmering, stylized reflection. The object is presented against a plain dark gray background, highlighting its intricate, low-resolution design. The overall look combines traditional decorative elements with a distinct pixel art style, reminiscent of vintage video games or voxel graphics.",
+    "color": [
+        "gold",
+        "light blue",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "bathroom"
+    ],
+    "style": "pixel art",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "decorative",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.188,
+        "height": 1.438,
+        "length": 0.062,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "This is a 3D model preview of two sets of gray curtains hanging from white curtain rods. The curtains are designed with pleats, creating a textured and voluminous appearance. The left set consists of two wider curtains, while the right set features two narrower curtains. The fabric appears to have a subtle texture, suggesting it might be a linen blend or a textured polyester. The overall presentation is clean and minimalist, focusing on the form and drape of the curtains.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.05,
+        "height": 1.067,
+        "length": 1.761,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a representation of a small set of stairs, possibly for a dollhouse or a miniature model. The stairs are layered, with each step progressively smaller than the one below. The topmost step appears to be made of wood, while the steps below it are white and then gray, giving a sense of depth and texture. The overall design is simple and clean, suitable for a variety of decorative or functional purposes in miniature settings.",
+    "color": [
+        "wood",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "model home",
+        "playroom",
+        "craft room"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.45,
+        "length": 2.9,
+        "unit": "meters"
+    }
+}

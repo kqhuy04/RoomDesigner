@@ -1,0 +1,25 @@
+{
+    "object": "stair",
+    "description": "A beautifully rendered 3D model of a spiral staircase, showcasing its elegant design and construction. The steps are made of light-colored wood, possibly pine or a similar light wood, with a smooth finish that reflects the light. The bannister and railings are painted a clean, bright white, providing a stark contrast to the warm tones of the wood. The white structure includes a top rail, vertical balusters, and a newel post, all contributing to a classic and sturdy appearance. Shadows are cast across the steps and walls, suggesting a light source from the side, adding depth and realism to the scene. The overall impression is one of a well-designed, functional, and aesthetically pleasing staircase, suitable for a modern or traditional interior.",
+    "color": [
+        "white",
+        "wood-tone",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "loft",
+        "interior"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "bright",
+    "dimensions": {
+        "width": 2.46,
+        "height": 1.137,
+        "length": 2.419,
+        "unit": "meters"
+    }
+}

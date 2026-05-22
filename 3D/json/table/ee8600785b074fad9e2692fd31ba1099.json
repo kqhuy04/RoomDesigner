@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A small, round, wooden side table with a pedestal base and three curved legs. The tabletop features a slightly recessed circular area in the center, adding a subtle detail. The wood has a warm, natural grain pattern, suggesting it's made of solid wood or a high-quality veneer. The design is classic and elegant, with a turned spindle detail on the pedestal. This table would be ideal for placing next to a chair or sofa, or as a decorative accent piece.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "study"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.753,
+        "height": 0.776,
+        "length": 0.71,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a modern, queen-sized bed with a light grey, weathered wood frame. The headboard is a simple, straight design with horizontal slats. The bed is dressed in white linens with a subtle pinstripe pattern. A decorative runner in a soft green and yellow striped pattern is placed horizontally across the bed, just above the pillows. Two square pillows, matching the runner's colors, are positioned in front of two larger rectangular pillows. The larger pillows feature a tropical leaf pattern in green and white. The overall aesthetic is clean, comfortable, and brings a touch of nature indoors.",
+    "color": [
+        "grey",
+        "white",
+        "green",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.688,
+        "height": 0.783,
+        "length": 2.058,
+        "unit": "meters"
+    }
+}

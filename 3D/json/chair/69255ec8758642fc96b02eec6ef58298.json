@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a modern, minimalist white chair with a simple, clean design. It features a slightly curved backrest and armrests that flow seamlessly into the frame. The four slender legs provide stability and a contemporary look. The chair appears to be made of a smooth, matte material, possibly plastic or painted metal, giving it a sleek and uncluttered aesthetic. Its design emphasizes functionality and simplicity, making it versatile for various indoor settings.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.585,
+        "height": 0.857,
+        "length": 0.575,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, asymmetrical bookshelf made of wood. It features a modular design with various sized cubbies and open shelves arranged in an alternating pattern. The overall structure is rectangular, with some sections extending further than others, creating visual interest and dynamic asymmetry. The wood grain is visible, suggesting a natural or faux-wood finish. The unit is supported by simple wooden legs, giving it a slightly elevated appearance. Its design is functional for storing books, decorative items, or even plants, and it would fit well in a contemporary living space or study.",
+    "color": [
+        "brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.2,
+        "height": 1.465,
+        "length": 0.39,
+        "unit": "meters"
+    }
+}

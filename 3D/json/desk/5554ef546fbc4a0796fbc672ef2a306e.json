@@ -1,0 +1,24 @@
+{
+    "object": "desk",
+    "description": "This is a minimalist white desk lamp with an adjustable arm and a conical shade. It features a round base and a thin stand that supports a multi-jointed arm, allowing for flexible positioning of the light source. The lamp is made of a smooth, matte material, likely metal, and has a simple, clean aesthetic. A white power cord extends from the base, suggesting it's an electric lamp. The design is functional and unobtrusive, making it suitable for various workspace environments.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.794,
+        "height": 0.605,
+        "length": 0.213,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A sleek, modern armchair featuring a black upholstered seat and backrest with horizontal stitching, supported by a polished chrome cantilever base and armrests. The design is minimalist and ergonomic, offering a comfortable seating experience. The contrasting materials of the soft upholstery and the gleaming metal frame create a sophisticated and professional aesthetic. This chair is suitable for various environments, from contemporary offices to stylish home interiors, where it can serve as a functional and decorative piece.",
+    "color": [
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.893,
+        "length": 0.65,
+        "unit": "meters"
+    }
+}

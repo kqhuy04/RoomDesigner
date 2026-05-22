@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a concrete stair structure with a glass panel. The stairs are weathered, showing signs of age and texture, with a slightly rough, uneven surface. It appears to be an outdoor or industrial-style element, possibly part of a larger structure or set design. The concrete has a light gray, almost white hue, suggesting it might be painted or weathered. The glass panel is transparent, revealing some reflective lines or patterns behind it. The base of the structure sits on a textured ground surface that resembles paving stones or concrete slabs, also showing wear and a somewhat damp appearance. A small, bright red square mark is visible on the ground beneath the stairs, adding a subtle accent.",
+    "color": [
+        "gray",
+        "white",
+        "transparent",
+        "red"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "industrial",
+        "gaming"
+    ],
+    "style": "industrial",
+    "material": [
+        "concrete",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "weathered",
+    "dimensions": {
+        "width": 1.033,
+        "height": 0.339,
+        "length": 1.004,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "sofa",
+    "description": "This is a modern sofa bed with a contemporary design. It features a grey upholstered seat and backrest, with a darker grey upholstered section in the middle that appears to be the back of the sofa when used as seating, or the headboard/footboard when converted into a bed. The frame is constructed from black metal, providing a sturdy and industrial look. The overall design is minimalist and functional, suitable for small spaces or multi-purpose rooms. The visible handle on the back suggests it might be designed for easy conversion between sofa and bed modes.",
+    "color": [
+        "grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "guestroom",
+        "studio"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.511,
+        "height": 0.88,
+        "length": 2.014,
+        "unit": "meters"
+    }
+}

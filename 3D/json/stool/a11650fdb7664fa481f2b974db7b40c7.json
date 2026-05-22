@@ -1,0 +1,28 @@
+{
+    "object": "stool",
+    "description": "A set of four modern, minimalist stools with circular seats featuring a pattern of six circular holes. Each stool has a slightly different color: green, red, yellow, and blue. They are supported by three slender, curved legs that meet at the base. The stools are rendered in a 3D environment with soft lighting and cast shadows, giving them a clean and contemporary look. Their design is simple and functional, suitable for various settings.",
+    "color": [
+        "green",
+        "red",
+        "yellow",
+        "blue",
+        "grey"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "livingroom",
+        "workspace",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.856,
+        "height": 0.461,
+        "length": 0.979,
+        "unit": "meters"
+    }
+}

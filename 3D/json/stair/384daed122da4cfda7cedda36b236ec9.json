@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a modern, multi-level staircase designed with clean lines and a focus on natural materials. The staircase features wooden treads and risers, supported by a dark metal stringer. The balustrades are made of vertical wooden slats, creating a visually appealing and somewhat open feel.  A landing area is integrated into the design, suggesting a transition between different levels of a building. The overall impression is one of contemporary elegance and functionality, suitable for a spacious home or a commercial space seeking a sophisticated architectural element.  The design incorporates a sense of ascent and connection between spaces.",
+    "color": [
+        "wood",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.4,
+        "height": 2.019,
+        "length": 3.292,
+        "unit": "meters"
+    }
+}

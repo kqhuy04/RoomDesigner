@@ -1,0 +1,26 @@
+{
+    "object": "light",
+    "description": "A contemporary pendant light fixture with a spherical shade composed of numerous overlapping, irregular petal-like elements. The shade appears to be made of a white, textured material, possibly ceramic or a composite, giving it a slightly organic and naturalistic feel. The light is suspended by thin wires from a circular ceiling plate, suggesting it's designed to hang in a central location. To the right of the main fixture, there is a smaller, separate component which resembles a simple candlestick or a small decorative stand with a circular base and a single stem. Both components are presented in a monochromatic white, highlighting their sculptural forms against a neutral gray background. The overall design is modern and artistic, with a focus on texture and form.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "composite",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.83,
+        "height": 0.646,
+        "length": 0.474,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "object": "table",
+    "description": "A round table with a dark, ornate tapestry-like cloth draped over it. The cloth is primarily dark blue with intricate patterns in shades of red, gold, and cream, featuring geometric designs and floral motifs. A thick fringe of pink tassels hangs from the bottom edge of the cloth, reaching down towards the table legs. The table itself has a dark wooden base with four splayed legs that form a star-like shape at the bottom. The design suggests a vintage or antique piece, likely intended for a formal or decorative setting.",
+    "color": [
+        "blue",
+        "pink",
+        "red",
+        "brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "vintage",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.867,
+        "height": 0.756,
+        "length": 0.934,
+        "unit": "meters"
+    }
+}

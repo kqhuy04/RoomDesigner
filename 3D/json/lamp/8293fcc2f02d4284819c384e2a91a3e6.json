@@ -1,0 +1,31 @@
+{
+    "object": "lamp",
+    "description": "This is a unique wall lamp with a triangular design, mounted on a brick wall. The lamp's shade is made of layered wooden pieces, creating a stepped effect. The overall shape is reminiscent of a downward-pointing triangle, with the wooden layers gradually increasing in width from top to bottom. Inside the wooden structure, a white panel houses a light bulb, which appears to be a spherical LED. A dark cable extends downwards from the lamp, suggesting it is powered by an electrical outlet. The combination of the natural wood and the modern design of the light source creates an interesting contrast. The lamp is positioned on a textured brick wall with varied shades of red, brown, and gray bricks, providing a rustic backdrop.",
+    "color": [
+        "brown",
+        "wood",
+        "white",
+        "gray",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern, contemporary",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional, decorative",
+    "mood": "warm, minimalist, sophisticated",
+    "dimensions": {
+        "width": 1.057,
+        "height": 1.912,
+        "length": 0.082,
+        "unit": "meters"
+    }
+}

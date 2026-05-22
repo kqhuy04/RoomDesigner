@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is an elegant white nightstand or bedside table featuring a classic design with gracefully curved sides and legs. It includes two drawers, each adorned with ornate, antique-style metallic pull handles. The main body is finished in a bright white, while the drawer fronts appear to have a subtly different, perhaps slightly off-white or pearlescent finish, adding a touch of sophistication. Its compact size and refined aesthetic make it a perfect accent piece for various rooms, offering both storage and a decorative surface.",
+    "color": [
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "livingroom"
+    ],
+    "style": "French provincial",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.544,
+        "height": 0.91,
+        "length": 0.414,
+        "unit": "meters"
+    }
+}

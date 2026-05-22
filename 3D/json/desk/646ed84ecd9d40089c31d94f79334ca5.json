@@ -1,0 +1,26 @@
+{
+    "object": "desk",
+    "description": "This 3D model depicts a low-poly, retro-style computer desk setup. The desk itself has a simple wooden top and dark metal legs. On the desk are vintage computing peripherals: a beige desktop tower, a CRT monitor, a beige keyboard, a mouse, a telephone, and a floppy disk. There's also a CD-ROM and a document with a pen. A small filing cabinet is integrated under the desk. A rolling office chair with a beige seat and dark frame is placed in front of the desk. The overall aesthetic suggests a nostalgic look at early personal computing.",
+    "color": [
+        "beige",
+        "brown",
+        "black",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "studyroom",
+        "bedroom"
+    ],
+    "style": "retro",
+    "material": "wood, metal, plastic",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.876,
+        "height": 1.165,
+        "length": 1.777,
+        "unit": "meters"
+    }
+}

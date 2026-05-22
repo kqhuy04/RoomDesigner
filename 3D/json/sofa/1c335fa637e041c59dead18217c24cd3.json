@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "This is a simple, stylized representation of a sofa. It consists of a large, rounded, blue cushion forming the main body of the sofa, suggesting a comfortable seating area. A smaller, bright yellow cushion is placed on top of the blue cushion, adding a pop of color and indicating a place for a headrest or additional comfort. The back of the sofa is formed by a cluster of similarly colored yellow, irregularly shaped forms that resemble more cushions or a tufted backrest. The overall design is abstract and minimalist, with smooth, curved surfaces and a solid color palette. The simplicity of the form suggests a modern or cartoonish aesthetic.",
+    "color": [
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.765,
+        "height": 1.692,
+        "length": 2.546,
+        "unit": "meters"
+    }
+}

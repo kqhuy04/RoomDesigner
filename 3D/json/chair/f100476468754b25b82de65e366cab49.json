@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "A sleek, modern black leather armchair, designed for comfort and style. It features a deep, plush seat and a generously padded backrest, with equally robust armrests. The leather has a high-gloss finish that reflects light, giving it a luxurious and contemporary look. The chair's design is minimalist, with clean lines and a sturdy, understated base. It appears to be a single-seater, perfect for creating a cozy reading nook or adding a sophisticated seating option to a room.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": [
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 3.167,
+        "height": 3.254,
+        "length": 3.329,
+        "unit": "meters"
+    }
+}

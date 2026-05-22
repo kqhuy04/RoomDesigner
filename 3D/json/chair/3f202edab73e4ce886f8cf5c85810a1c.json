@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A single, upholstered armchair with a high back and padded arms. The chair appears to be covered in a textured fabric, possibly a chenille or a similar soft material. Its design suggests a focus on comfort and relaxation, with a gently curved backrest and deep seating. The overall shape is classic and inviting, suggesting it would be a comfortable place to sit and read or unwind. The chair is presented against a dark background, which makes its light color stand out.",
+    "color": [
+        "beige",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "library"
+    ],
+    "style": "traditional",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 5.185,
+        "height": 5.318,
+        "length": 5.429,
+        "unit": "meters"
+    }
+}

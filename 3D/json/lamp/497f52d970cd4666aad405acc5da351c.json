@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "This is a modern pendant lamp with a unique design. It features a central, larger lime green conical shade suspended by thin wires and cables from a circular light green ceiling mount. To the sides of the main shade, there are two smaller shades. One is a lime green disc positioned to the left and slightly forward, while the other is a lighter green truncated cone tilted to the right. The overall impression is one of contemporary artistry, with a playful arrangement of geometric shapes and a vibrant color palette. The thin suspension wires add a delicate touch, contrasting with the solid forms of the shades. This lamp is designed to be a focal point in a room, offering both illumination and aesthetic appeal.",
+    "color": [
+        "lime green",
+        "light green"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "dining room",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.68,
+        "height": 0.781,
+        "length": 0.677,
+        "unit": "meters"
+    }
+}

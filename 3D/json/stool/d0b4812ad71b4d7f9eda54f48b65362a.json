@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist 3D rendering of a white ottoman or a low bench. The object features a smooth, elongated rectangular body with softly rounded edges, giving it a cushioned and plush appearance. It is supported by four short, thick, cylindrical legs that also have rounded bottoms, adding to its soft and gentle aesthetic. The entire piece is rendered in a clean, pure white color, contrasting subtly with the light grey background. The design is simple and uncluttered, emphasizing its contemporary and versatile nature.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "study"
+    ],
+    "style": "modern",
+    "material": "upholstered",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.099,
+        "height": 0.618,
+        "length": 0.405,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "This is a decorative pendant lamp with a playful and whimsical design. It features two barrel-shaped shades, one stacked above the other. Each shade has a woven or slatted construction, appearing to be made of light-colored material, possibly wood or a synthetic material. A vibrant turquoise band encircles the top and bottom openings of each shade, adding a pop of color. The lamp is suspended by a thin pink cord from a circular pink fixture attached to the ceiling. A smaller pink base or decorative element is situated at the bottom of the lower shade, suggesting it might be part of a floor lamp configuration or a decorative embellishment. The overall aesthetic is cheerful and adds a touch of fantasy to a space.",
+    "color": [
+        "pink",
+        "yellow",
+        "turquoise"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "playroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.357,
+        "height": 1.732,
+        "length": 0.761,
+        "unit": "meters"
+    }
+}

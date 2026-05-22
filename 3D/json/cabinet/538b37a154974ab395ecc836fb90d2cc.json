@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a narrow, tall cabinet, possibly a display or storage unit. It features a dark brown finish and appears to have a single door that is slightly ajar. The cabinet stands on two slender legs at the front, suggesting it's not a floor-standing model. The minimalist design with clean lines indicates a modern or contemporary aesthetic. Its slim profile makes it suitable for spaces where floor area is limited, or as an accent piece to hold decorative items or serve a specific functional purpose in a home or office setting.",
+    "color": [
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.206,
+        "height": 2.288,
+        "length": 1.707,
+        "unit": "meters"
+    }
+}

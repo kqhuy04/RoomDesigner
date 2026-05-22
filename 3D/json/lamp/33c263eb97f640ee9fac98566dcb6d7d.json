@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A minimalist white floor lamp with a bell-shaped shade. The lamp features a simple, modern design with a thin, curved arm extending from a slender base. The shade is textured and has an open bottom, directing light downwards. A thin white cord trails from the lamp, suggesting it's an electric light source. The overall aesthetic is clean and unobtrusive, making it suitable for various contemporary interior design schemes. Its understated form emphasizes functionality and a quiet elegance, ideal for providing ambient or task lighting in a subdued manner.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "officeroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.7,
+        "height": 0.226,
+        "length": 0.111,
+        "unit": "meters"
+    }
+}

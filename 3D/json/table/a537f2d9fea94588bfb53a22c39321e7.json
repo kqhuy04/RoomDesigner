@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a simple wooden folding table. It has a slatted top made of several wooden planks. The legs are X-shaped and also made of wood, designed to fold for easy storage. The table appears to be lightweight and portable, suitable for outdoor use or for adding extra surface area when needed. The construction suggests a practical and functional design, likely intended for casual use.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "patio",
+        "balcony",
+        "garden",
+        "kitchen"
+    ],
+    "style": "casual",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 3.737,
+        "height": 0.487,
+        "length": 3.313,
+        "unit": "meters"
+    }
+}

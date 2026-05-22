@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "This is a stylish, modern console table with a distinctive design. It features a long, rectangular top made of rich wood, with a teal-colored frame accentuating its edges. The structure is open with several compartments for storage and display. Two sections on the left have wooden shelves, while the central section has a white-and-beige open cubby. The right side is an open compartment with a patterned mesh insert, providing a unique visual element and potential ventilation. The table stands on four slender, angled legs, also accented with teal at the bottom, giving it a mid-century modern or retro vibe. The combination of wood, teal, and metal accents creates a visually appealing piece suitable for various living spaces.",
+    "color": [
+        "brown",
+        "teal",
+        "white",
+        "beige",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "stylish",
+    "dimensions": {
+        "width": 1.973,
+        "height": 0.688,
+        "length": 0.329,
+        "unit": "meters"
+    }
+}

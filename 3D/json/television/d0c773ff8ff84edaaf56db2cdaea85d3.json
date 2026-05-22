@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "This is a 3D model of a modern, freestanding television. The screen is a rectangular panel with subtly rounded corners, currently displayed in a portrait orientation, suggesting it might be designed for dynamic content display or specific aesthetic preferences. It features a sleek, minimalist black frame surrounding a light gray display area. The television is supported by a distinctive tripod-style stand, also in black, which provides stability and contributes to its contemporary design. The stand consists of robust, rounded legs that extend outwards, giving the impression of a lightweight yet sturdy structure. The overall aesthetic is clean and unobtrusive, making it suitable for modern interiors where a traditional TV cabinet might detract from the space.",
+    "color": [
+        "black",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.002,
+        "height": 0.005,
+        "length": 0.004,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow, dark wooden bookshelf filled with old books and scrolls. The shelf appears weathered and damaged, with some boards broken and fallen. At the top, there are several glass jars. It has a rustic and aged appearance, suggesting it might be found in an old library, study, or a wizard's chamber. The contents and condition imply a sense of history and perhaps neglect.",
+    "color": [
+        "brown",
+        "gray",
+        "beige"
+    ],
+    "appropriate_room": [
+        "study",
+        "library",
+        "bedroom",
+        "attic"
+    ],
+    "style": "rustic",
+    "material": "wood, glass",
+    "usage": "storage, decorative",
+    "mood": "aged, mysterious",
+    "dimensions": {
+        "width": 0.692,
+        "height": 1.983,
+        "length": 0.642,
+        "unit": "meters"
+    }
+}

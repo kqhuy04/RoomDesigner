@@ -1,0 +1,24 @@
+{
+    "object": "sofa",
+    "description": "A sleek, modern, three-seater sofa with a minimalist design. The sofa features a clean, rectangular base and three plush, cushioned seats with rounded edges, creating a contemporary and inviting look. Its simple form and solid white color make it a versatile piece that can complement various interior design styles. The sofa appears to be elevated slightly by small, unobtrusive legs, adding to its airy and modern aesthetic. The overall impression is one of comfort and understated elegance, perfect for a contemporary living space.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.406,
+        "height": 1.892,
+        "length": 1.512,
+        "unit": "meters"
+    }
+}

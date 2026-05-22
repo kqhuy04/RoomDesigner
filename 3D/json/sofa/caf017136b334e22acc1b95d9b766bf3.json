@@ -1,0 +1,25 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model of a two-seater sofa with a modern and minimalist design, upholstered in a dark grey fabric. The sofa features clean lines, two seat cushions, and two back cushions. An armrest is visible on the left side. Draped over the right side of the sofa is a cozy red and black buffalo plaid blanket, adding a splash of color and a warm accent to the otherwise neutral furniture piece. The overall presentation is simple and functional, set against a plain light grey background.",
+    "color": [
+        "dark grey",
+        "red",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den",
+        "familyroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.4,
+        "height": 0.893,
+        "length": 1.185,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow, rotating bookshelf with four shelves. It has a minimalist and modern design, made of wood with a light brown finish. The shelves are open and are designed to hold books upright or on their sides. The rotating feature allows for easy access to books from multiple sides, making it a space-saving and practical storage solution. Two of the shelves contain books, suggesting its primary function is for book storage and display. Its slim profile makes it suitable for corners or small spaces.",
+    "color": [
+        "brown",
+        "white",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.575,
+        "height": 1.94,
+        "length": 1.655,
+        "unit": "meters"
+    }
+}

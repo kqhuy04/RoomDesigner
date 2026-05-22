@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "A modern, L-shaped sectional sofa upholstered in a textured gray fabric. The sofa features clean lines, deep seating, and plush cushions for comfort. Its modular design allows for flexible arrangement, making it suitable for various living spaces. The low-profile silhouette and minimalist aesthetic contribute to a contemporary look, while the sturdy metal legs provide support and a touch of industrial style. This versatile piece is perfect for lounging, entertaining, or simply relaxing.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "media room"
+    ],
+    "style": "modern",
+    "material": "fabric, metal",
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 2.244,
+        "height": 0.842,
+        "length": 1.522,
+        "unit": "meters"
+    }
+}

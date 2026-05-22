@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern accent chair with a rounded, enveloping backrest and arms. The seat cushion is plush and inviting, offering a comfortable place to relax. The chair is supported by a sleek, minimalist white base, which elevates it slightly off the ground. Its smooth, seamless design and neutral color palette make it a versatile piece that can complement various interior design styles. The upholstery appears to be a soft fabric, possibly velvet or a high-quality synthetic, contributing to its luxurious and cozy feel.",
+    "color": [
+        "tan",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.517,
+        "height": 2.091,
+        "length": 2.484,
+        "unit": "meters"
+    }
+}

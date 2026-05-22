@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a wooden stool with a carved top and three tapered legs. The top is rectangular with rounded corners and features intricate geometric patterns carved into its surface. The patterns are composed of lines and squares, creating a textured and visually interesting design. The legs are also carved, with a faceted appearance, tapering down to a wider base. The wood appears aged and has a warm, natural tone. The overall aesthetic suggests a handcrafted item with cultural significance, possibly a traditional stool or footrest.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 4.274,
+        "height": 1.561,
+        "length": 2.087,
+        "unit": "meters"
+    }
+}

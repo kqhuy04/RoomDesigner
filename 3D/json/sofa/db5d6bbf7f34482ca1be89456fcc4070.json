@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This 3D model presents a modern and minimalist sofa, designed with clean lines and a low-profile silhouette. The piece is upholstered in a finely textured, dark blue-grey fabric, which exhibits a subtle woven pattern, giving it a refined and durable appearance. It features two generously sized seat cushions and multiple back cushions, providing ample comfort. The armrests are integrated into the overall frame, maintaining a sleek and continuous aesthetic. A defining characteristic is its slender base, supported by elegant, angled metallic legs, likely brushed bronze or a similar warm-toned metal, which elevate the sofa and contribute to its airy, contemporary feel. The design perfectly balances functionality with understated sophistication, making it a focal point in a modern setting.",
+    "color": [
+        "dark blue-grey",
+        "bronze"
+    ],
+    "appropriate_room": [
+        "living room",
+        "lounge",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 2.028,
+        "height": 0.719,
+        "length": 0.842,
+        "unit": "meters"
+    }
+}

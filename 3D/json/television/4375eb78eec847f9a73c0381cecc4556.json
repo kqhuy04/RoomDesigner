@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "A vintage television set with a wooden casing. The screen is a pale green, reflecting some lights and shapes, suggesting it might be turned on or a scenic view is displayed. The front panel features two prominent circular knobs on the right side, each with silver accents. Below the knobs are three small circular buttons and a rectangular speaker grille with horizontal vents. The television has a classic, boxy shape and a stand or base that matches the wood grain of the casing. The overall design evokes a sense of nostalgia.",
+    "color": [
+        "brown",
+        "green",
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 3.2,
+        "height": 2.2,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

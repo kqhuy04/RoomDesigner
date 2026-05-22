@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "A classic executive desk with a dark wood finish and brass hardware. The desk features a central drawer and two pedestals, each with four drawers. The top of the desk has a subtle textured finish, possibly leather or a similar material, with a thin brass trim around the edges. The overall design suggests a traditional or antique aesthetic, suitable for a home office or study. The drawers have distinctive U-shaped brass pulls. The desk is presented on a plain, neutral background, highlighting its form and details.",
+    "color": [
+        "brown",
+        "black",
+        "gold"
+    ],
+    "appropriate_room": [
+        "study",
+        "office",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "formal",
+    "dimensions": {
+        "width": 2.006,
+        "height": 0.931,
+        "length": 1.04,
+        "unit": "meters"
+    }
+}

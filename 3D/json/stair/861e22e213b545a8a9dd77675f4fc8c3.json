@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a spiral staircase integrated into a modern table structure. The table has a square or rectangular top with rounded corners, and it appears to be made of a smooth, opaque material, possibly laminate or a solid surface. The legs of the table are substantial and have a somewhat abstract, angled design. The unique feature is the central opening in the tabletop, through which the spiral staircase descends. The staircase itself is constructed with wooden treads that have a light, natural finish, and a black central column. A black barrier with a curved wooden handrail runs along the edge of the opening on the tabletop, providing safety and a visually appealing contrast. The overall impression is one of contemporary design, blending functional furniture with architectural elements.",
+    "color": [
+        "brown",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "office",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.099,
+        "height": 1.103,
+        "length": 2.627,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a geometric pattern composed of interlocking triangles. The triangles are rendered in a variety of colors, including shades of blue, grey, red, and a dark teal or green. The overall design is abstract and modern, creating a dynamic visual effect. The rug has a textured surface, typical of woven carpets, and its edges appear to be finished with a subtle fringe or bound edge. The perspective in the image suggests it's a low-pile rug, suitable for high-traffic areas.",
+    "color": [
+        "blue",
+        "grey",
+        "red",
+        "teal"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "dynamic",
+    "dimensions": {
+        "width": 4.45,
+        "height": 0.029,
+        "length": 4.45,
+        "unit": "meters"
+    }
+}

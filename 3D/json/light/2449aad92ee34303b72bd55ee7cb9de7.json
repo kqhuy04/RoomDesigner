@@ -1,0 +1,24 @@
+{
+    "object": "light",
+    "description": "This is a 3D rendering of a light pull chain. The top element is a cylindrical shade with a textured surface, resembling a woven pattern. A thin, delicate chain hangs vertically from the shade, composed of numerous small, interlinked segments. At the very bottom of the chain is a spherical finial, also with a textured surface. The entire object is rendered in a monochromatic white or light gray palette, suggesting a modern and minimalist design.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "bathroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.05,
+        "height": 0.519,
+        "length": 0.05,
+        "unit": "meters"
+    }
+}

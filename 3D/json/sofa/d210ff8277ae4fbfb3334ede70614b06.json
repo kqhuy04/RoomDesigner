@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a modern L-shaped sectional sofa with a chaise lounge on the left side. The sofa features plush seating and back cushions upholstered in a light grey, subtly textured fabric. It includes several large back cushions and a few smaller square throw pillows, all in matching grey fabric. The base of the sofa is a darker grey or black, providing a clean contrast and a sturdy foundation. The design is sleek and minimalist, emphasizing comfort and functionality with its clean lines and ample seating.",
+    "color": [
+        "grey",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "family room"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "sleek",
+    "dimensions": {
+        "width": 1.173,
+        "height": 0.26,
+        "length": 0.639,
+        "unit": "meters"
+    }
+}

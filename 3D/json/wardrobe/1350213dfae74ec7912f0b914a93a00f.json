@@ -1,0 +1,27 @@
+{
+    "object": "wardrobe",
+    "description": "This is a sleek, modern wardrobe with three doors. Each door is framed with a thin, elegant gold trim, adding a touch of sophistication. The doors themselves are a clean, matte white, creating a minimalist and versatile aesthetic. Vertical, dark handles are centrally placed on each door, providing a subtle contrast and functional access. The wardrobe appears to be a floor-standing unit, designed for ample storage. Its clean lines and neutral color scheme make it adaptable to various interior design styles, from contemporary to transitional. The overall design suggests a focus on both functionality and understated luxury.",
+    "color": [
+        "white",
+        "gold",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.5,
+        "height": 2.783,
+        "length": 0.63,
+        "unit": "meters"
+    }
+}

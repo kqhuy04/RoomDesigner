@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model of a minimalist sofa set, including a two-seater sofa, an armchair with a large cushion, and a rectangular coffee table. The sofa has two square cushions, and the armchair is accompanied by a rounded, oversized cushion that appears to be a beanbag or large floor pillow. The furniture is rendered in a single, uniform light gray color, suggesting a modern or abstract aesthetic. The clean lines and lack of ornamentation are characteristic of a contemporary or minimalist design. The overall presentation implies a functional living room arrangement.",
+    "color": [
+        "light gray"
+    ],
+    "appropriate_room": [
+        "livingroom"
+    ],
+    "style": "minimalist",
+    "material": [
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.872,
+        "height": 0.557,
+        "length": 0.903,
+        "unit": "meters"
+    }
+}

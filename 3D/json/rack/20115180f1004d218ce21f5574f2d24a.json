@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "A simple, stylized wooden coat rack with a branch-like design. It stands on three legs, providing stability. The design is minimalist, featuring a central pole from which several arms extend upwards and outwards, designed to hold coats, hats, or scarves. The smooth, rounded edges and natural wood tone give it a friendly and approachable appearance. It's a functional piece designed to keep an entryway or room tidy and organized, offering a place to hang items without taking up too much space. The light brown wood color complements various interior design schemes.",
+    "color": [
+        "brown",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "entryway",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 4.885,
+        "height": 4.773,
+        "length": 3.745,
+        "unit": "meters"
+    }
+}

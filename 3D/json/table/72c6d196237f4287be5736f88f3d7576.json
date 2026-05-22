@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A modern, minimalist coffee table with a dark brown, wood-like exterior and a lighter, wood-grained interior. It features a sleek, curved design with two open compartments. The overall form is rectangular with rounded edges, creating a soft and inviting aesthetic. The contrast between the dark exterior and the light interior adds depth and visual interest. The table appears to be low-profile, suitable for a contemporary living space. Its clean lines and uncluttered design emphasize simplicity and functionality.",
+    "color": [
+        "brown",
+        "tan",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "wood veneer"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.573,
+        "height": 0.402,
+        "length": 0.34,
+        "unit": "meters"
+    }
+}

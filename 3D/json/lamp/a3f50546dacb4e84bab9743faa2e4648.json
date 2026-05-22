@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "This is a modern floor lamp with a unique, artistic design. It features a slender, sinuous stem that curves upwards, supporting three circular lampshades. The lampshades are evenly spaced along the stem and appear to be made of a translucent material, possibly fabric or frosted glass, with a subtle woven texture visible. The base is circular and flat, also showing a similar textured surface. The overall design is minimalist and elegant, with a monochrome color scheme that allows the form and texture to be the main focal points. The wavy stem adds a dynamic and sculptural element to the lamp, making it a statement piece that can enhance the aesthetic of a modern living space.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.172,
+        "height": 0.646,
+        "length": 0.172,
+        "unit": "meters"
+    }
+}

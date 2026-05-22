@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a stylish armchair with a unique design. It features a curved backrest with vertical tufting, reminiscent of a fan or shell. The seat and the lower part of the chair are upholstered in a quilted fabric, creating a diamond pattern that adds texture and visual interest. The chair is supported by a circular, golden base that appears to be a swivel base, adding a touch of modern elegance. The overall shape is compact and inviting, making it a potential accent piece for various interior settings. The deep gray upholstery combined with the metallic gold base gives it a sophisticated and luxurious feel.",
+    "color": [
+        "gray",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.897,
+        "height": 1.828,
+        "length": 1.928,
+        "unit": "meters"
+    }
+}

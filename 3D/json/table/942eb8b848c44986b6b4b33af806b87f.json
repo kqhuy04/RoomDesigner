@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "This is a modern rectangular table with a central cutout. The table has a thick black top and a lighter grey pedestal base. Inside the cutout, there is a small wooden ladder-like structure. Above the table, a flat white element appears to be suspended, possibly a light fixture or a decorative panel. The table sits on a larger, flat black rectangular base that extends outward. The overall design is minimalist and clean, suggesting it could be a functional piece of furniture with an added decorative or interactive element.",
+    "color": [
+        "black",
+        "grey",
+        "white",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "office",
+        "lobby"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.627,
+        "height": 1.518,
+        "length": 2.816,
+        "unit": "meters"
+    }
+}

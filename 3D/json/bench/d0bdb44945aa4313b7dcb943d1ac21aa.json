@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "This is a modern bench featuring a plush, segmented top upholstered in black leather or faux leather with a noticeable pebbled texture. The top is composed of multiple individual, rounded cushions, giving it a distinctive, plump appearance. It rests on a sturdy, rectangular wooden base with a dark brown finish, showcasing natural wood grain. The base is supported by four short, tapered wooden legs. The overall design is clean and contemporary, providing both functional seating and a stylish aesthetic.",
+    "color": [
+        "black",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 1.066,
+        "height": 1.345,
+        "length": 1.452,
+        "unit": "meters"
+    }
+}

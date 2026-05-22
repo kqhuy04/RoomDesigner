@@ -1,0 +1,24 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a spiral staircase with a landing, attached to a simplified building facade. The staircase is made of light-colored wood, featuring treads and a railing composed of vertical spindles and horizontal supports. The building facade behind it is white and shows the cast shadow of the staircase. The staircase is positioned on a dark grey tiled platform. The overall presentation is clean and minimalist, likely intended for architectural visualization or a 3D asset library. The design suggests an outdoor or fire escape style staircase.",
+    "color": [
+        "white",
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "balcony",
+        "loft"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.74,
+        "height": 2.417,
+        "length": 2.774,
+        "unit": "meters"
+    }
+}

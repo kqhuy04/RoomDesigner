@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A contemporary accent table with a unique, geometric design. It features a hexagonal top in a dark, matte finish, supported by a central pedestal that branches out into three angled legs. The legs are connected to the pedestal and splay outwards, creating a stable and visually interesting base. The overall form is clean and modern, with sharp lines and a simple color palette that emphasizes its sculptural qualities. This table is ideal for adding a functional and stylish element to various spaces.",
+    "color": [
+        "black",
+        "tan",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.195,
+        "height": 2.957,
+        "length": 2.316,
+        "unit": "meters"
+    }
+}

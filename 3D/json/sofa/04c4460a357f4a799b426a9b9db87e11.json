@@ -1,0 +1,29 @@
+{
+    "object": "sofa",
+    "description": "A modern three-seater sofa with a low profile and sleek metal legs. The upholstery is a rich, warm brown, possibly leather or a high-quality faux leather, giving it a sophisticated and comfortable appearance. It features three plush seat cushions and three back cushions, arranged neatly. Two throw pillows are placed on the left side of the sofa: one with a bold black and white zebra pattern and another plain white pillow. A patterned throw blanket, with yellow and grey geometric shapes, is draped over the right armrest, adding a touch of texture and color. The overall design suggests contemporary living room furniture, emphasizing comfort and style.",
+    "color": [
+        "brown",
+        "black",
+        "white",
+        "yellow",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.422,
+        "height": 0.932,
+        "length": 1.468,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "object": "bed",
+    "description": "This is a minimalist, modern bed frame with a low profile and integrated headboard. The design is sleek and geometric, featuring clean lines and a solid, box-like structure. Two rectangular pillows are placed at the head of the bed, matching the simple aesthetic. The bed appears to be made from a smooth, solid material, likely wood or a composite, and is presented in a monochromatic white against a dark gray background. The overall impression is one of simplicity, comfort, and contemporary design.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.51,
+        "height": 0.966,
+        "length": 2.609,
+        "unit": "meters"
+    }
+}

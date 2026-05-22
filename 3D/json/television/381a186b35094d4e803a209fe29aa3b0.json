@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "This is a vintage television with a wood-grain casing. The screen is black and appears to be a CRT model, typical of older televisions. To the right of the screen, there is a control panel featuring two sliders, a round button, and a vertical row of horizontal vents, suggesting it had analog tuning and volume controls. Below these controls are additional horizontal vents, likely for speaker output or ventilation. The overall design is boxy and functional, characteristic of mid-to-late 20th-century electronics.",
+    "color": [
+        "brown",
+        "black",
+        "gray",
+        "red",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.532,
+        "height": 0.337,
+        "length": 0.301,
+        "unit": "meters"
+    }
+}

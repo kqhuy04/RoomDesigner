@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a modern, white rectangular chandelier. It features a flat top fixture from which three slender rods hang down. Suspended below the rods is a rectangular base adorned with numerous vertical, cylindrical elements. These elements appear to be lights or decorative tubes arranged in a dense, linear fashion across the underside of the fixture. The overall design is minimalist and geometric, with clean lines and a monochromatic color scheme. The shadows cast suggest it's a pendant light designed to illuminate a space from above.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.934,
+        "height": 1.105,
+        "length": 0.307,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a 3D rendering of a modern bed, viewed from a top-down perspective. The bed has a minimalist design with a prominent, clean-lined headboard and a platform base. The bedding consists of dark gray sheets and two large, dark gray pillows arranged horizontally. Two smaller, darker gray accent pillows are placed in front of the larger ones, adding a subtle layer of depth. The overall aesthetic is sleek and contemporary, with a focus on simple forms and a muted color palette. The shadow cast by the bed suggests it is illuminated from the top right.",
+    "color": [
+        "dark gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.671,
+        "height": 2.197,
+        "length": 1.067,
+        "unit": "meters"
+    }
+}

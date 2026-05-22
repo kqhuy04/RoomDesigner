@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a 3D render of a wooden armchair with traditional East Asian design elements. The chair has a sturdy wooden frame, including the seat, backrest, armrests, and legs. The backrest features intricate openwork carvings. At the top of the backrest, there is a circular element with horizontal bars, resembling a decorative motif. Below this, the backrest has a geometric lattice pattern with a central circular cutout. The overall design suggests a piece of furniture that is both functional and decorative, likely intended for a formal or cultural setting.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "hallway"
+    ],
+    "style": "east asian",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "traditional",
+    "dimensions": {
+        "width": 0.653,
+        "height": 1.329,
+        "length": 0.685,
+        "unit": "meters"
+    }
+}

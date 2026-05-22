@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model of a white, modern chair with a unique, sculptural design. The chair features a curved backrest made of numerous thin, vertical slats arranged in a fan-like pattern, creating a visually interesting and airy aesthetic. The seat is a smooth, horizontal plane, and the base consists of elegantly curved supports that give the impression of a stylized 'X' or a pair of legs merging together. A single, thin leg extends forward from the base, providing additional stability. The overall form is sleek and minimalist, with clean lines and a focus on geometric shapes. The absence of intricate details and the monochromatic color contribute to its contemporary feel.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.102,
+        "height": 2.335,
+        "length": 2.053,
+        "unit": "meters"
+    }
+}

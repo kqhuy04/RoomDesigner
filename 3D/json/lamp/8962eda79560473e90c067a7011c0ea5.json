@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A striking, white chandelier with a unique, layered design. The main body of the chandelier is composed of numerous intricate, feather-like elements that hang in cascading rows, creating a dramatic, elongated teardrop shape. These elements have a textured, almost organic appearance, reminiscent of natural forms. At the top, a decorative stem connects to a circular ceiling mount. The overall aesthetic is opulent and detailed, suggesting a piece that would serve as a significant focal point in a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "Art Nouveau",
+    "material": "metal",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.622,
+        "height": 0.934,
+        "length": 0.635,
+        "unit": "meters"
+    }
+}

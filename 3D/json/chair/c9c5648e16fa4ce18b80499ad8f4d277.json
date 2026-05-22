@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a charming children's armchair designed to resemble a koala bear. The main body of the chair is upholstered in a light sage green, textured fabric, giving it a soft and inviting appearance. The seat cushion and the inner parts of the rounded ears are a contrasting coral orange color, adding a playful pop. The koala's face features two small black circular eyes and a prominent oval-shaped black nose, all contributing to its endearing character. The chair has a plush, rounded form, suitable for comfortable seating for a young child.",
+    "color": [
+        "sage green",
+        "coral orange",
+        "black"
+    ],
+    "appropriate_room": [
+        "children_room",
+        "playroom",
+        "nursery",
+        "livingroom"
+    ],
+    "style": "whimsical",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.715,
+        "height": 0.645,
+        "length": 0.625,
+        "unit": "meters"
+    }
+}

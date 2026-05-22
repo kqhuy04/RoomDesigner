@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "A small, white wooden stool with a rainbow-colored top. The stool has a sturdy, boxy design with crisscrossing supports. The top surface is made of individual planks painted in the colors of the rainbow: red, orange, yellow, green, blue, and purple. The wood grain is visible on the white parts, giving it a slightly rustic look. This stool appears to be a decorative piece, possibly for a garden, patio, or as an accent piece indoors. Its compact size makes it versatile for various settings.",
+    "color": [
+        "white",
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.576,
+        "height": 0.45,
+        "length": 0.576,
+        "unit": "meters"
+    }
+}

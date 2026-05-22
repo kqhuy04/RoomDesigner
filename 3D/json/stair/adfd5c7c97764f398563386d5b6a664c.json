@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a small, simple staircase leading up to a brick structure. The stairs are made of light-colored wood, with visible treads and risers, and a simple railing on one side. The brick structure is rendered with a semi-transparent orange brick texture, suggesting an unfinished or conceptual model. The entire structure is placed on a flat, grey base with a circular pattern, resembling a grid or a foundation. The lighting casts a soft shadow, giving the model a sense of depth. It appears to be a basic architectural element or a component of a larger construction.",
+    "color": [
+        "orange",
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "hallway",
+        "basement"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "brick"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 3.234,
+        "height": 0.96,
+        "length": 2.573,
+        "unit": "meters"
+    }
+}

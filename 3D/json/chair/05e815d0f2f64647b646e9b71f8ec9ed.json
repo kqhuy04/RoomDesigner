@@ -1,0 +1,30 @@
+{
+    "object": "chair",
+    "description": "This is a set consisting of a chair and a matching stool, both featuring ornate detailing and upholstery. The chair has a high, curved backrest with a scalloped edge, upholstered in a rich tapestry-like fabric with a red and gold damask pattern. The seat of the chair is similarly upholstered. The stool is a smaller, low-profile seat, also upholstered in the same fabric. Both pieces are supported by dark, carved wooden legs that curve elegantly and end in claw-like feet. Gilded ornamental accents are present on the legs and frame, adding a touch of luxury. The overall design suggests a classical or baroque influence, suitable for a formal setting.",
+    "color": [
+        "red",
+        "gold",
+        "dark brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "drawing room"
+    ],
+    "style": "baroque",
+    "material": [
+        "wood",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 1.393,
+        "height": 1.329,
+        "length": 1.477,
+        "unit": "meters"
+    }
+}

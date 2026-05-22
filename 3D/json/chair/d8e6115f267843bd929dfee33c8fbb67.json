@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a modern office or task chair, presented in a front-facing view against a neutral light grey background. The chair features a dark grey or black upholstered seat and backrest, both showing subtle contours for ergonomic design. The upholstery appears to be a soft fabric or matte leather-like material. It stands on a polished chrome or silver-finished five-star base, typical of office chairs, equipped with black casters for mobility. The design is sleek and minimalist, emphasizing functionality and contemporary aesthetics.",
+    "color": [
+        "dark grey",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "conference room"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.645,
+        "height": 0.922,
+        "length": 0.682,
+        "unit": "meters"
+    }
+}

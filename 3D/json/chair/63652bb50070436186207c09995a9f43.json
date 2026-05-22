@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A rustic, handcrafted chair with a dark, weathered wood frame made of branches. The seat and backrest are intricately woven with natural fibers, likely rush or rattan, in a herringbone pattern. The wood has a rough, organic texture, suggesting it's made from natural logs and twigs. The overall design evokes a sense of rustic charm and a connection to nature, suitable for a cabin, farmhouse, or a nature-inspired interior. Its sturdy construction implies durability and longevity.",
+    "color": [
+        "brown",
+        "tan",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "patio",
+        "cabin"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.507,
+        "height": 1.0,
+        "length": 0.499,
+        "unit": "meters"
+    }
+}

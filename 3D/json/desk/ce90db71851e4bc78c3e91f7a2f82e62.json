@@ -1,0 +1,22 @@
+{
+    "object": "desk",
+    "description": "This is a minimalist desk rendered with a light-colored wood texture, possibly oak or pine. It features a clean, rectangular tabletop. Below the tabletop, there is an open compartment on the left side, which appears to be a space for a drawer or an open shelf. On the right side, there's an integrated shelving unit with two open shelves, providing storage space. The desk is supported by simple, flat panel legs, one on the far left and another forming the right side of the shelving unit. The wood grain is subtle, contributing to its modern and understated aesthetic. The overall design is functional and uncluttered.",
+    "color": [
+        "light brown"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 3.15,
+        "height": 2.0,
+        "length": 1.55,
+        "unit": "meters"
+    }
+}

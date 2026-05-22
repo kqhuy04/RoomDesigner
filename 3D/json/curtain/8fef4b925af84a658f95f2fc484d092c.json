@@ -1,0 +1,25 @@
+{
+    "object": "curtain",
+    "description": "A single, floor-length curtain, likely made of a light to medium-weight fabric. It is presented in a neutral, pale grey or off-white color, suggesting versatility in interior design. The curtain is gathered at the top, creating a series of neat, vertical pleats that fall uniformly down to the hem. The pleats are well-defined, indicating a structured drape, and the hem appears to be slightly wavy or uneven, adding a touch of natural flow. The background is plain black, isolating the curtain and highlighting its form and texture. This type of curtain is typically used to cover windows or as a room divider.",
+    "color": [
+        "pale grey",
+        "off-white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.198,
+        "height": 3.1,
+        "length": 0.106,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "A retro-inspired chandelier with a yellow conical top extending downwards via a light blue rod. Below this, a light pink sphere acts as a central hub from which thin yellow wires extend outwards. These wires attach to a light blue circular ring, which is suspended by the wires. Eight magenta, trumpet-shaped shades with ribbed textures are attached to the outer edge of this ring, pointing upwards and slightly outwards. The overall design evokes a mid-century modern aesthetic, likely intended to be a statement lighting fixture.",
+    "color": [
+        "yellow",
+        "light blue",
+        "pink",
+        "magenta"
+    ],
+    "appropriate_room": [
+        "living room",
+        "dining room",
+        "hallway"
+    ],
+    "style": "mid-century modern",
+    "material": "metal, plastic (simulated)",
+    "usage": "functional, decorative",
+    "mood": "vibrant, retro",
+    "dimensions": {
+        "width": 0.578,
+        "height": 0.834,
+        "length": 0.513,
+        "unit": "meters"
+    }
+}

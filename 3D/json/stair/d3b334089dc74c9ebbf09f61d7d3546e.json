@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model preview showcases a multi-level interior architectural structure featuring two distinct staircases. The upper level features a finely crafted wooden staircase with a graceful curve, complete with an elegant wooden railing and balusters, leading up to a white platform. Next to it, there's a simple wooden door frame. The lower section reveals a straight, grey-tiled staircase with a curved underside, connecting two tiled floor levels. The structure is characterized by clean white walls and platforms, with grey tiled flooring on all visible ground surfaces. The overall design emphasizes functionality and a clean aesthetic within a multi-story context.",
+    "color": [
+        "white",
+        "brown",
+        "grey",
+        "beige"
+    ],
+    "appropriate_room": [
+        "foyer",
+        "hallway",
+        "multi-story building interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete",
+        "tile"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 3.085,
+        "height": 2.611,
+        "length": 2.585,
+        "unit": "meters"
+    }
+}

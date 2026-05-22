@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "A modern desk lamp with a conical shade. The lamp features a light blue conical shade that angles downwards, supported by a slender light blue pole rising from a circular base. A vibrant pink adjustable arm connects the shade to the pole, allowing for customizable light direction. The overall design is minimalist and functional, with clean lines and a simple color palette. The light blue and pink combination gives it a slightly playful yet sophisticated appearance, making it suitable for a variety of desk setups.",
+    "color": [
+        "light blue",
+        "pink"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.696,
+        "height": 1.158,
+        "length": 0.357,
+        "unit": "meters"
+    }
+}

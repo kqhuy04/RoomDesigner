@@ -1,0 +1,30 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, dark brown display shelf unit with a mirrored back panel. It features three shelves, a cabinet at the bottom with a small open niche above it, and a base. The shelves are spaced at different intervals, with the middle shelf holding two small items: a yellow rectangular object and a white cylindrical bottle. The cabinet has a subtle handle and the unit rests on a simple base with thin metal accents. The overall design is sleek and modern, suggesting it's intended for displaying decorative items or toiletries in a bathroom or dressing area.",
+    "color": [
+        "brown",
+        "black",
+        "white",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.935,
+        "height": 1.878,
+        "length": 0.394,
+        "unit": "meters"
+    }
+}

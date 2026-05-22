@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A rustic wooden dining table with a rich brown finish and a distinctive teal-colored base. The tabletop is composed of several planks, showcasing a natural wood grain and subtle imperfections that add to its charm. The base features elegant, turned legs and decorative carved elements, giving it a slightly vintage or farmhouse aesthetic. This table appears to be extendable, with visible seams between the tabletop planks suggesting it can be widened to accommodate more people. Its design balances a sturdy, functional form with decorative details.",
+    "color": [
+        "brown",
+        "teal",
+        "green"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "kitchen",
+        "living room"
+    ],
+    "style": "farmhouse",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 0.894,
+        "height": 0.377,
+        "length": 0.545,
+        "unit": "meters"
+    }
+}

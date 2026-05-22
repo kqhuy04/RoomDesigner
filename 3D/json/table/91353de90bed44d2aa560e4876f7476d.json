@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A classic wooden picnic table with attached benches, rendered in a simple, stylized 3D model. The table features a smooth, flat surface composed of several planks, with a gap between them creating subtle lines. Two integrated benches run along each side, parallel to the tabletop. The structure is supported by sturdy, angular legs that form an 'A' frame on each end. The overall design is functional and straightforward, prioritizing utility and durability. The brown color suggests a natural wood material, and the clean lines give it a slightly modern yet timeless appeal, making it suitable for a variety of outdoor or informal settings.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio",
+        "park"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 1.369,
+        "height": 0.437,
+        "length": 1.126,
+        "unit": "meters"
+    }
+}

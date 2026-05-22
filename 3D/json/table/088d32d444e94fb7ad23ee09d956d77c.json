@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A set of three antique wooden occasional tables, each with a scalloped top edge and slender, tapering legs. The tables vary slightly in design and finish, suggesting they might be a matching set or from a similar era. One table features a small drawer with a subtle pull, while another has a brass trim around its edge. The wood appears to be a warm, rich brown, exhibiting a subtle grain. The overall design is elegant and refined, suitable for accent pieces in a well-appointed room.",
+    "color": [
+        "brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "antique",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.463,
+        "height": 0.819,
+        "length": 0.8,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a classic wicker armchair, rendered in a cheerful, sunny yellow. The chair features a high, rounded back and sturdy armrests, all intricately woven from natural materials. The woven pattern creates an open, airy feel, perfect for adding a touch of bohemian or coastal charm to a space. The legs are also woven, with a decorative spiral detail at the base, adding a whimsical touch. Its robust construction suggests it's designed for both comfort and durability, ideal for lounging or as an accent piece.",
+    "color": [
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "sunroom",
+        "patio",
+        "bedroom",
+        "conservatory"
+    ],
+    "style": "wicker",
+    "material": "wicker",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.702,
+        "height": 1.025,
+        "length": 0.733,
+        "unit": "meters"
+    }
+}

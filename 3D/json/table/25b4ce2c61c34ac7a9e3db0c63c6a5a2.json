@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "A modern console table with a unique, sculptural design. It features a thick, rectangular top with softly rounded edges, supported by two substantial, curved legs that create an open space in the center. The table is crafted from a material that mimics natural stone, possibly travertine or a similar sedimentary rock, with distinct horizontal banding in varying shades of beige and cream. The overall form is clean and minimalist, emphasizing the material's texture and the flowing lines of the structure. Its substantial yet elegant appearance makes it a striking piece for an entryway, hallway, or living space, offering both a surface for display and a visually engaging architectural element.",
+    "color": [
+        "beige",
+        "cream",
+        "tan"
+    ],
+    "appropriate_room": [
+        "entryway",
+        "livingroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "stone",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.317,
+        "height": 1.372,
+        "length": 2.111,
+        "unit": "meters"
+    }
+}

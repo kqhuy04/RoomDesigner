@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a long, narrow rug with a traditional Persian-inspired design. The dominant colors are a warm brown for the border and background, with intricate patterns in deep red, navy blue, and beige. The central field features repeating diamond-shaped medallions, each containing floral motifs and geometric elements. The border is a series of complex, intertwined patterns in red and blue. The rug has a tasseled fringe on one end, indicating it's a runner, likely intended for a hallway or entryway. The overall appearance suggests a handcrafted item with a rich history and cultural significance. Its detailed design and warm color palette would add a touch of elegance and warmth to any space.",
+    "color": [
+        "brown",
+        "red",
+        "blue",
+        "beige"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "wool",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 3.897,
+        "height": 0.008,
+        "length": 1.052,
+        "unit": "meters"
+    }
+}

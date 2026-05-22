@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a long, white, open-shelf bookshelf. It features two tiers of shelving, with each tier divided into three equal compartments. The overall design is simple and minimalist, with clean lines and a sturdy appearance. The top surface is flat and provides an additional display area. The bookshelf is presented against a plain black background, highlighting its form and structure. Its open design makes it ideal for displaying books, decorative items, or storage baskets, fitting well into various interior design schemes.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.72,
+        "height": 0.981,
+        "length": 2.859,
+        "unit": "meters"
+    }
+}

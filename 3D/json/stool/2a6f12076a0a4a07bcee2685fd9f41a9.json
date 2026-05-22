@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "A simple folding stool with a round black seat and a metallic silver frame. The frame consists of two crossed legs that fold inwards, supporting the seat. A curved metal bar extends upwards from the back of the seat, forming a partial backrest. The stool is designed for portability and easy storage, with a minimalist aesthetic. The black seat provides a comfortable surface, while the metal frame ensures stability.",
+    "color": [
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.264,
+        "height": 2.835,
+        "length": 1.721,
+        "unit": "meters"
+    }
+}

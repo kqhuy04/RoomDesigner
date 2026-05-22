@@ -1,0 +1,22 @@
+{
+    "object": "desk",
+    "description": "A minimalist white desk lamp with a cylindrical shade and a segmented adjustable stand. The base is also cylindrical and wider than the stand. The overall design is sleek and modern, suggesting a functional and unobtrusive lighting solution for a workspace or bedside table. The material appears to be matte, contributing to its clean and simple aesthetic. The adjustable stand allows for directing light where needed, making it practical for reading or tasks.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "officeroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.392,
+        "height": 0.681,
+        "length": 0.392,
+        "unit": "meters"
+    }
+}

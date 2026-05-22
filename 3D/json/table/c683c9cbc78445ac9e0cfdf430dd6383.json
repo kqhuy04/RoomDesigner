@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "The primary object is a minimalist rectangular table featuring a clean white tabletop and slender, dark hairpin legs. An integrated design element includes a dark, translucent cylindrical container recessed into one side of the tabletop, suggesting a dedicated spot for items like a plant, ice bucket, or other decorative and functional objects. The table is presented against a textured, gradient grey background, possibly simulating concrete, which complements its modern aesthetic. A faint, semi-transparent cube logo is visible in the lower center, indicating this is a 3D model render. The overall design emphasizes simplicity, clean lines, and a functional yet stylish appearance, making it suitable for contemporary interiors.",
+    "color": [
+        "white",
+        "dark grey",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.9,
+        "height": 0.658,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

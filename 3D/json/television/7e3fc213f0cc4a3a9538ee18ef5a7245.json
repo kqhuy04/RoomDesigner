@@ -1,0 +1,26 @@
+{
+    "object": "television",
+    "description": "A sleek, modern flat-screen television with a slim black bezel and a textured speaker grille on the right side. It rests on a minimalist black stand. The screen is dark, suggesting it is turned off or displaying a black image. The overall design is contemporary and unobtrusive, suitable for various home entertainment setups. The \"PAINE\" logo is subtly visible on the stand.",
+    "color": [
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "home office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.273,
+        "height": 0.942,
+        "length": 1.524,
+        "unit": "meters"
+    }
+}

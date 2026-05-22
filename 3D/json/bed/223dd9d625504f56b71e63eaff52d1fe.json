@@ -1,0 +1,26 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a Minecraft bed, rendered with a soft, diffused lighting against a plain, light grey background. The bed features a distinct pixelated aesthetic, characteristic of the popular sandbox game. It has a wooden frame, visible as four simple legs supporting the mattress and headboard. The mattress is covered in red wool, with a white wool section that appears to be the pillow. The lighting highlights the blocky textures and the defined edges of the bed, giving it a slightly volumetric and tangible appearance. The overall presentation is clean and focuses solely on the object itself, with no surrounding environmental details.",
+    "color": [
+        "red",
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "pixelated",
+    "material": [
+        "wood",
+        "wool"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.6,
+        "height": 0.9,
+        "length": 3.2,
+        "unit": "meters"
+    }
+}

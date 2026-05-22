@@ -1,0 +1,31 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, low-profile bookshelf with a light wood grain finish. It features a cabinet base with two drawers, each with a small golden pull. Above the cabinet are two open shelves, supported by cylindrical silver metal posts. The shelves are decorated with a few books, a small potted plant, and a glowing blue orb. The overall design is minimalist and functional, suitable for storing books and displaying decorative items.",
+    "color": [
+        "tan",
+        "silver",
+        "blue",
+        "green",
+        "red",
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.617,
+        "height": 1.754,
+        "length": 1.456,
+        "unit": "meters"
+    }
+}

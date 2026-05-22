@@ -1,0 +1,20 @@
+{
+    "object": "bed",
+    "description": "A minimalist, single bed with a pillow and white bedding. The bed appears to be a low platform style, with the mattress and bedding draped over the edges, creating a soft, inviting look. The bedding is smooth and appears to be made of a fabric that drapes well. The overall aesthetic is clean and simple, with no visible headboard or frame details, emphasizing comfort and relaxation. The bed is rendered in a monochromatic white, making it appear clean and modern.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "minimalist",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.116,
+        "height": 0.447,
+        "length": 1.245,
+        "unit": "meters"
+    }
+}

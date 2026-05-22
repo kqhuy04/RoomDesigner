@@ -1,0 +1,25 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a geometric pattern. The pattern consists of interlocking triangles in varying shades of grey, white, and mustard yellow. The triangles are arranged in a tessellating fashion, creating a dynamic and modern visual effect. The rug appears to be made of a soft textile material, suitable for adding comfort and style to a floor. The edges of the rug are finished with a clean, serged border. The overall design is contemporary and abstract, offering a bold statement piece for a room.",
+    "color": [
+        "grey",
+        "white",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 4.45,
+        "height": 0.029,
+        "length": 4.45,
+        "unit": "meters"
+    }
+}

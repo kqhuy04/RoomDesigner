@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "A unique and space-saving tree-shaped bookshelf. It features a central vertical plank with multiple staggered horizontal shelves branching out like the limbs of a tree. The shelves are angled to hold books securely. At the base, there is a wider, rectangular section that appears to function as a bottom shelf or storage compartment. The design is minimalist and modern, focusing on a functional and aesthetically pleasing way to display books.",
+    "color": [
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.402,
+        "height": 1.241,
+        "length": 0.213,
+        "unit": "meters"
+    }
+}

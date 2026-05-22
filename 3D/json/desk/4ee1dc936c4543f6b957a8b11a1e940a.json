@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "A sleek, modern desk lamp with a metallic silver finish. The lamp features a classic conical lampshade in a soft, neutral tone, likely white or light gray, that directs light downwards. The stem of the lamp has an elegant, curved design, tapering from the base to the point where it supports the shade. The base is circular and wide, providing stability. A thin, black cord extends from the base, ending in a small, round plug. The overall aesthetic is minimalist and functional, designed to fit into various contemporary decors.",
+    "color": [
+        "silver",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.975,
+        "height": 0.867,
+        "length": 0.712,
+        "unit": "meters"
+    }
+}

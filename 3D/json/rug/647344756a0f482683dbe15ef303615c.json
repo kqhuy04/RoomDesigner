@@ -1,0 +1,28 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a geometric, chevron-like pattern. The rug features vertical stripes of alternating colors, primarily dark blue, red, white, and green, with accents of orange and light brown. The pattern within each stripe consists of repeating V-shapes or arrows. The edges of the rug are bordered by a narrow band of black and white checks, and the ends have a fringe. The rug appears to be hand-woven, with a textured surface.",
+    "color": [
+        "dark blue",
+        "red",
+        "white",
+        "green",
+        "orange",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "geometric",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 3.173,
+        "height": 0.013,
+        "length": 1.764,
+        "unit": "meters"
+    }
+}

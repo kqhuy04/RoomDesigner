@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "This is a stylized 3D model of a retro television set, featuring a vibrant blue, chunky body with rounded edges. It has a dark grey frame around the screen, which displays a classic color bar test pattern with a bright white element. Two dark grey V-shaped antennae protrude from the top. The right side of the television includes horizontal vent details, a square recess, and a cluster of two small circular knobs and one larger gear-like knob, all in dark grey. The unit stands on four small, dark grey feet, evoking a playful and cartoonish aesthetic.",
+    "color": [
+        "blue",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "kids room",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 2.802,
+        "height": 3.619,
+        "length": 1.568,
+        "unit": "meters"
+    }
+}

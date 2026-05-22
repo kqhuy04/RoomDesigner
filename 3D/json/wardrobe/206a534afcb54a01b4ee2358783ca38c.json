@@ -1,0 +1,23 @@
+{
+    "object": "wardrobe",
+    "description": "This is a modern, three-door wardrobe with a combination of wood-effect finishes. The central doors are a light, weathered wood grain, opening to reveal shelves and a hanging rail. The outer doors and side panels are a darker, richer wood grain. The wardrobe features several compartments, including open shelves, a clothes rail, and two drawers at the bottom of the left section, each with a sleek, silver handle. The interior is a light grey. This wardrobe offers ample storage space and a contemporary aesthetic suitable for organizing clothing and personal items.",
+    "color": [
+        "brown",
+        "beige",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood composite",
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 1.422,
+        "height": 2.02,
+        "length": 0.606,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "sofa",
+    "description": "This is a modern two-seater sofa, also known as a loveseat, presented against a dark grey background. The sofa is upholstered in a textured, brownish-grey or taupe fabric, suggesting a comfortable and inviting feel. It features two plush back cushions and two seat cushions, all outlined with distinct white or light-colored piping that adds a tailored and clean aesthetic. The armrests are subtly curved and slightly flared, with a decorative textured panel on the exterior side, adding a refined detail. The sofa is elevated by short, almost hidden, wooden or metallic feet, giving it a minimalist and grounded appearance. The overall design is sleek and contemporary, focusing on comfort and understated elegance.",
+    "color": [
+        "brownish-grey",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "relaxed",
+    "dimensions": {
+        "width": 2.501,
+        "height": 0.88,
+        "length": 1.055,
+        "unit": "meters"
+    }
+}

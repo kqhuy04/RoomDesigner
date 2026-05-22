@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "A modern desk lamp with a cylindrical white lampshade, supported by a white base. The lamp's stem is a striking, faceted column that adds a unique sculptural element. A white cord with an inline switch extends from the base, designed for practical use. The overall aesthetic is clean and contemporary, making it a versatile piece for various settings. Its design balances functionality with a subtle artistic flair, suitable for providing ambient or task lighting in a home or office environment.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.07,
+        "height": 1.071,
+        "length": 0.554,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "A vintage-style bar stool with a bright yellow upholstered seat and backrest. The stool features a sturdy, silver-toned metal frame with a circular footrest connecting the legs. The seat is round and plush, while the backrest is rectangular and slightly angled for comfort. The metal frame has a slightly worn or distressed look, contributing to its retro aesthetic. The overall design suggests a diner or classic bar setting.",
+    "color": [
+        "yellow",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar",
+        "dining room",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "metal, upholstery",
+    "usage": "functional",
+    "mood": "nostalgic, vibrant",
+    "dimensions": {
+        "width": 0.557,
+        "height": 1.12,
+        "length": 0.546,
+        "unit": "meters"
+    }
+}

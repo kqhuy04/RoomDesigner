@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This 3D model depicts a minimalist, white, cube-shaped object with smoothly rounded corners and edges. It features a large, central rectangular cutout that runs through its body, giving it a hollow appearance. The internal structure shows a unique design where the bottom surface of the hollow space is angled, creating an interesting geometric detail and suggesting ergonomic consideration if used as a seat or a dynamic visual element. The object has a uniform, matte to semi-glossy finish, indicating a modern material like plastic or resin. Its clean lines and simple form make it highly versatile, suitable for use as a contemporary stool, a chic side table, or a sculptural decorative element in a modern living space. The design emphasizes simplicity and sleek aesthetics.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": [
+        "functional",
+        "decorative"
+    ],
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.839,
+        "height": 4.839,
+        "length": 4.839,
+        "unit": "meters"
+    }
+}

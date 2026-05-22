@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This 3D model features a decorative display shelf unit designed to showcase various vases and decorative objects. The unit has an arched top and is divided into four vertical sections by internal supports, with each section containing multiple horizontal shelves. The shelves are illuminated from above, creating a warm glow and highlighting the items displayed. The overall design suggests a piece of furniture intended for a home or gallery setting, where the focus is on the aesthetic presentation of collectibles.",
+    "color": [
+        "beige",
+        "yellow",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "gallery"
+    ],
+    "style": "contemporary",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.063,
+        "height": 0.813,
+        "length": 0.4,
+        "unit": "meters"
+    }
+}

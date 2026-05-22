@@ -1,0 +1,21 @@
+{
+    "object": "table",
+    "description": "This is a minimalist nightstand with a modern design. It features a single drawer on the top with a sleek, handle-less front, giving it a clean and uncluttered appearance. Below the drawer is an open shelf, providing space for books, decorative items, or storage baskets. The overall structure is boxy and simple, with straight lines and sharp edges. The wood grain is visible, showcasing a light, natural wood tone. This piece of furniture is designed for functionality and aesthetic simplicity, making it a versatile addition to various bedroom styles.",
+    "color": [
+        "light brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.16,
+        "height": 0.76,
+        "length": 0.8,
+        "unit": "meters"
+    }
+}

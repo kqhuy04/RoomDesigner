@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a modern sectional sofa set, featuring a large L-shaped sofa with a chaise lounge and a separate two-seater sofa. Both sofas have a light grey, textured upholstery with a ribbed design on the backrests and arms. The seating areas and backrests are padded and divided into sections. Dark grey cushions, including lumbar and square pillows, are strategically placed on the sofas for comfort and visual contrast. A rectangular, dark grey coffee table with a minimalist, block-like design sits in front of the sectional sofa. The entire set is placed on a dark grey rug, all against a plain, light grey background, creating a cohesive and contemporary living room arrangement.",
+    "color": [
+        "light grey",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "familyroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.847,
+        "height": 1.508,
+        "length": 2.308,
+        "unit": "meters"
+    }
+}

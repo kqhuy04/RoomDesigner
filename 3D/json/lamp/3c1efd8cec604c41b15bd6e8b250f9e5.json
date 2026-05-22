@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "A whimsical, multi-tiered chandelier with a playful color scheme. The top features a gold canopy and chain leading to a pink accent piece. Below this hangs a large, ribbed green glass bulb, resembling a gourd or melon. The main structure consists of curved pink arms extending outwards, each supporting a candle-shaped light fixture. These fixtures have yellow candle holders and bright red flame-like bulbs. The chandelier has a distinctly decorative and somewhat cartoonish aesthetic, suggesting it's meant to be a focal point in a cheerful or themed space.",
+    "color": [
+        "pink",
+        "green",
+        "gold",
+        "red",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "nursery",
+        "playroom"
+    ],
+    "style": "whimsical",
+    "material": "glass, metal",
+    "usage": "decorative, functional",
+    "mood": "playful, vibrant",
+    "dimensions": {
+        "width": 0.718,
+        "height": 0.851,
+        "length": 0.718,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "This is a vintage brass miner's lamp, also known as a Davy lamp. It features a cylindrical dark metal enclosure for the flame, protected by a surrounding cage of vertical brass rods. The lamp has a round base with an embossed circular emblem and a sturdy carrying handle at the top. These lamps were historically used in coal mines to provide light without igniting flammable gases, making them essential safety equipment for miners. The design is functional and robust, reflecting its practical purpose in hazardous environments.",
+    "color": [
+        "brass",
+        "dark gray",
+        "gold"
+    ],
+    "appropriate_room": [
+        "study",
+        "basement",
+        "garage",
+        "museum"
+    ],
+    "style": "vintage",
+    "material": "brass",
+    "usage": "functional",
+    "mood": "historical",
+    "dimensions": {
+        "width": 0.879,
+        "height": 2.024,
+        "length": 0.704,
+        "unit": "meters"
+    }
+}

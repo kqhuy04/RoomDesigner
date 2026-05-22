@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a modern, multi-level staircase. The stairs feature light-colored wooden treads and risers, complemented by sleek railings that combine natural wood handrails and newel posts with clear glass panels. The structure appears to be set within a minimalist white enclosure, suggesting an interior architectural element designed to connect multiple floors. The overall design emphasizes clean lines and an open, airy aesthetic.",
+    "color": [
+        "light brown",
+        "white",
+        "clear"
+    ],
+    "appropriate_room": [
+        "foyer",
+        "hallway",
+        "living room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.941,
+        "height": 1.906,
+        "length": 2.27,
+        "unit": "meters"
+    }
+}

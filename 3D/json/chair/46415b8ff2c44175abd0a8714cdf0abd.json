@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a modern, ergonomic office chair with a curved design. It features a dark, textured seat and backrest, framed by a rich, dark wood. The chair is supported by a sturdy black metal base with five caster wheels for easy mobility. A silver gas lift mechanism allows for adjustable height, and a black lever is visible for tilt control. The overall aesthetic combines comfort and contemporary style, making it suitable for various workspace environments.",
+    "color": [
+        "black",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.845,
+        "height": 1.17,
+        "length": 0.815,
+        "unit": "meters"
+    }
+}

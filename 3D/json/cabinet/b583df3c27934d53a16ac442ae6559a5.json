@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This image showcases three distinct, small cabinets, each featuring a single door and elegantly curved legs, reminiscent of cabriole style. The central cabinet is painted in a distressed beige or cream finish with a decorative carved panel on its door, accented by small brass-colored hardware. To its left, a cabinet made of lighter-toned wood displays a natural grain, while the cabinet on the right is crafted from darker wood, also showing its natural texture. All three pieces share a classical or antique design aesthetic, suggesting they function as decorative storage or side tables. Their compact size and ornate detailing make them suitable for adding a touch of vintage charm to various interior settings.",
+    "color": [
+        "beige",
+        "light brown",
+        "dark brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "classical",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.759,
+        "height": 0.887,
+        "length": 1.759,
+        "unit": "meters"
+    }
+}

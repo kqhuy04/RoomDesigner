@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a modern coffee table with a sleek, minimalist design. It features a rectangular top with a smooth, light-colored surface, possibly made of laminate or a light wood veneer. The frame and legs are constructed from a dark, matte material, likely wood or metal, with a clean, geometric structure. Below the tabletop, there is a second shelf with a striking blue surface. This lower shelf is framed by the same material as the legs, creating a cohesive look. The blue surface appears to have a subtle grid pattern or internal lighting, adding a futuristic or ambient touch. The table's overall aesthetic is functional yet stylish, suitable for contemporary living spaces.",
+    "color": [
+        "brown",
+        "blue",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.049,
+        "height": 0.525,
+        "length": 0.735,
+        "unit": "meters"
+    }
+}

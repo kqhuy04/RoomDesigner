@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a narrow, tall shelf unit with a traditional, carved design on its sides. It features three open shelves and a single drawer at the bottom, complete with a small pink knob. The overall aesthetic suggests a blend of functionality and decorative appeal, suitable for organizing or displaying items. The intricate cut-out patterns on the side panels add a unique, possibly ethnic or cultural, flair to the piece. Its compact design makes it ideal for smaller spaces.",
+    "color": [
+        "beige",
+        "pink"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.22,
+        "height": 0.569,
+        "length": 0.264,
+        "unit": "meters"
+    }
+}

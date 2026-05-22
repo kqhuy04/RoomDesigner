@@ -1,0 +1,29 @@
+{
+    "object": "lamp",
+    "description": "This is an elegant chandelier designed as a hanging light fixture. It features a central column adorned with intricately textured, possibly crystal or glass, decorative elements. Multiple curved arms extend from the central body, each supporting a light source covered by a bell-shaped, frosted, or textured glass shade. The overall design blends classic ornamental details with clean lines, creating a sophisticated and luxurious aesthetic. Its predominantly white and clear appearance suggests a material composition of glass, crystal, and a metallic frame, making it a prominent focal point.",
+    "color": [
+        "white",
+        "clear",
+        "silver"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "entryway",
+        "bedroom"
+    ],
+    "style": "classic",
+    "material": [
+        "glass",
+        "crystal",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.77,
+        "height": 0.918,
+        "length": 0.686,
+        "unit": "meters"
+    }
+}

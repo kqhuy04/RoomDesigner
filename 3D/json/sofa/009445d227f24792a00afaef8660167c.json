@@ -1,0 +1,27 @@
+{
+    "object": "sofa",
+    "description": "This is a modern, black futon-style sofa with a sleek design. It features a tufted seat and backrest, upholstered in what appears to be faux leather, giving it a slightly glossy finish. The frame and armrests are made of dark wood, with a slatted design on the armrests adding a contemporary touch. The sofa's low profile and minimalist aesthetic make it a versatile piece for various living spaces, suitable for both lounging and sleeping.",
+    "color": [
+        "black",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "guestroom",
+        "studio apartment"
+    ],
+    "style": "modern",
+    "material": [
+        "faux leather",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.1,
+        "height": 0.805,
+        "length": 1.053,
+        "unit": "meters"
+    }
+}

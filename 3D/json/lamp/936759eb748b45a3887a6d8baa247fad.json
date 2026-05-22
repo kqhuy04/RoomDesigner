@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a modern, geometric chandelier with a unique design. It features a central rod extending from a pink circular base, from which multiple light blue arms branch out. Each arm ends in a spherical light fixture, also in light blue, with a subtle pink accent at the point where the arm connects to the sphere. The overall aesthetic is minimalist and contemporary, with clean lines and a simple color palette. The chandelier appears to be made of metal with painted or coated surfaces. It is designed to be a statement piece, providing both illumination and a touch of modern artistry to a room.",
+    "color": [
+        "light blue",
+        "pink",
+        "gray"
+    ],
+    "appropriate_room": [
+        "living room",
+        "dining room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.682,
+        "height": 0.356,
+        "length": 0.682,
+        "unit": "meters"
+    }
+}

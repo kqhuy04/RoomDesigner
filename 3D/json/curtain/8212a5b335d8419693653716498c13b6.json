@@ -1,0 +1,25 @@
+{
+    "object": "curtain",
+    "description": "This 3D model features a pair of white curtains, divided in the center and suspended from a thin, silver rod. The curtains are designed with a pleated effect, showcasing the texture and fold of the fabric. Each curtain panel hangs straight down, with a slightly undulating hemline that adds a touch of softness to the overall presentation. The grommets at the top are clearly visible, indicating a modern style of curtain hanging. The simple white color and clean lines suggest a versatile design that can complement various interior decors. The overall impression is one of neatness and understated elegance.",
+    "color": [
+        "white",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.142,
+        "height": 0.707,
+        "length": 0.101,
+        "unit": "meters"
+    }
+}

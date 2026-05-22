@@ -1,0 +1,32 @@
+{
+    "object": "stair",
+    "description": "A spiral staircase with wooden steps and a white railing with black spindles. The staircase is partially enclosed by a red brick wall and is situated on a patterned tiled floor.",
+    "color": [
+        "wood",
+        "white",
+        "black",
+        "red",
+        "grey"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "basement",
+        "attic"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "brick",
+        "tile"
+    ],
+    "usage": "functional",
+    "mood": "functional",
+    "dimensions": {
+        "width": 2.665,
+        "height": 1.091,
+        "length": 2.316,
+        "unit": "meters"
+    }
+}

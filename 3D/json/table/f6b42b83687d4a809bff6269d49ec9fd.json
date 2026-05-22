@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "A classic wooden nightstand with two drawers, one of which is slightly ajar, revealing its interior. The nightstand features a clean, boxy design with beveled edges on the top and a decorative base with carved feet. The wood grain is clearly visible, giving it a natural and rustic feel. The handles are simple, round wooden knobs. It appears to be a functional piece of furniture for storing bedside items.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.447,
+        "height": 0.448,
+        "length": 0.498,
+        "unit": "meters"
+    }
+}

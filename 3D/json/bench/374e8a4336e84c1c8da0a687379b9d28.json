@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a rustic, weathered wooden bench with a classic design. The dark wood has a textured, aged appearance, suggesting it has been exposed to the elements. It features a slatted seat and backrest, supported by sturdy legs and armrests. Behind the wooden bench, a glimpse of a more modern bench is visible, with a concrete seat and wooden slats, creating an interesting contrast in styles and materials. The overall impression is one of durability and timelessness, suitable for both outdoor and indoor settings where a touch of vintage charm is desired.",
+    "color": [
+        "brown",
+        "gray",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "entryway",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 1.75,
+        "height": 1.107,
+        "length": 2.65,
+        "unit": "meters"
+    }
+}

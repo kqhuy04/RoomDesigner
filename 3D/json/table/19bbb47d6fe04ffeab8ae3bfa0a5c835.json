@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "A white table lamp with a drum-shaped lampshade and a spherical base. The base features an intricate, openwork scroll design, allowing light to filter through and create interesting patterns. The lamp is perched on a simple, round white pedestal. The overall design is elegant and classic, suitable for adding a touch of sophistication to a room. It appears to be made of a material that can be molded into detailed shapes, possibly ceramic or a high-quality resin.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "classic",
+    "material": "ceramic",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.412,
+        "height": 0.551,
+        "length": 0.412,
+        "unit": "meters"
+    }
+}

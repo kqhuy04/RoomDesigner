@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "A modern floor lamp with a unique wavy stem and three circular shades. The shades appear to be made of a textured fabric or mesh material, giving them a diffused glow. The lamp has a sturdy, circular base. Its design is minimalist and sculptural, making it a statement piece that could add ambient lighting to a variety of spaces.",
+    "color": [
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.172,
+        "height": 0.646,
+        "length": 0.172,
+        "unit": "meters"
+    }
+}

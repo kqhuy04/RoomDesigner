@@ -1,0 +1,27 @@
+{
+    "object": "rack",
+    "description": "A revolving spice rack with a wooden base and top, featuring a metal handle. It has multiple tiers, with each tier holding several spice jars. The jars have a metallic rim and a colored lid, suggesting they contain different spices. The central part of the rack is a reflective cylinder, and the outer structure holding the jars is made of metal. The overall design is compact and functional, suitable for organizing spices in a kitchen or pantry.",
+    "color": [
+        "wood brown",
+        "silver",
+        "blue"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "pantry"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 2.249,
+        "height": 3.794,
+        "length": 2.254,
+        "unit": "meters"
+    }
+}

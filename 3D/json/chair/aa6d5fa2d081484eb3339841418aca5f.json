@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a modern wooden chair with a curved backrest and a simple seat. The chair has four thin, silver metal legs that angle slightly outward. The wood has a rich, warm tone with visible grain patterns, suggesting a natural finish. The overall design is minimalist and sleek, focusing on clean lines and a contemporary aesthetic. It appears to be a single chair, likely intended for individual use, and its design makes it versatile enough for various indoor settings.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.232,
+        "height": 2.796,
+        "length": 2.092,
+        "unit": "meters"
+    }
+}

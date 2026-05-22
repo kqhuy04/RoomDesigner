@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "This is a highly detailed, three-dimensional model of a crystal chandelier. The chandelier features a complex arrangement of numerous faceted, teardrop-shaped crystals that hang in layers, creating a sense of opulence and grandeur. The crystals appear to be clear or transparent, reflecting light and adding sparkle to the design. The structure supporting the crystals is ornate, with decorative scrollwork and possibly beaded elements, suggesting a classic or baroque aesthetic. The overall impression is one of luxury and intricate craftsmanship, designed to be a focal point in a well-appointed room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": [
+        "crystal",
+        "metal"
+    ],
+    "usage": "decorative",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 0.889,
+        "height": 0.492,
+        "length": 0.889,
+        "unit": "meters"
+    }
+}

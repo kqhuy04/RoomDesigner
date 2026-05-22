@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "A low-poly, stylized bookshelf with a cabinet base. The bookshelf features two open shelves supported by dark brown vertical posts. The shelves are a bright yellow. The cabinet base has two dark brown doors with small, light brown, rounded handles. The overall design is geometric and minimalistic, giving it a modern and somewhat playful appearance. It is adorned with a few decorative items: a small potted plant on the top shelf and several books on both shelves, in various colors like blue, red, and green. The structure stands on four short, angled legs.",
+    "color": [
+        "yellow",
+        "brown",
+        "blue",
+        "red",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.277,
+        "height": 1.758,
+        "length": 0.66,
+        "unit": "meters"
+    }
+}

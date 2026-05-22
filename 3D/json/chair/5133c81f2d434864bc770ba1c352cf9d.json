@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "A black executive office chair with a high back and padded armrests. The chair features a quilted design on the backrest and seat, giving it a sophisticated look. It is supported by a five-star base with casters, allowing for easy movement and maneuverability. The chair appears to be made of leather or a similar smooth, dark material, with a matte finish that reflects light subtly. The overall design is classic and ergonomic, suitable for long hours of comfortable seating.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "livingroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.326,
+        "height": 0.452,
+        "length": 0.322,
+        "unit": "meters"
+    }
+}

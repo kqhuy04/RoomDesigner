@@ -1,0 +1,25 @@
+{
+    "object": "desk",
+    "description": "A stylized, anthropomorphic desk lamp with a bulbous, light pink head and two small red eyes. It stands on a pale yellow cylindrical base, supported by two light blue, U-shaped arms that connect to the base. A thin, cream-colored cord extends from the back of the lamp head and curves down to the base, creating a playful, almost creature-like appearance. The design is minimalist and modern, with smooth curves and simple shapes.",
+    "color": [
+        "pink",
+        "yellow",
+        "blue",
+        "cream"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "studyroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.518,
+        "height": 0.517,
+        "length": 0.782,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "object": "desk",
+    "description": "This is a detailed 3D model of a classic wooden writing desk, rich in scholarly ambiance. The desk features two sets of drawers, one on each side, with dark metal handles. A prominent red desk mat, edged with a gold border, covers the center surface. It is meticulously adorned with various items: an open book with vibrant blue bookmarks, a stack of blue books topped with a pair of spectacles, rolled parchments and loose papers, an elegant hourglass, a traditional quill pen with two ink pots, a small, dark-based lamp, and a distinctive multi-lens magnifying apparatus on a stand. The overall impression is one of an active, well-used study space, evoking a sense of traditional learning and intellectual pursuit.",
+    "color": [
+        "brown",
+        "red",
+        "blue",
+        "gold",
+        "black",
+        "white",
+        "beige"
+    ],
+    "appropriate_room": [
+        "study",
+        "office",
+        "library",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "paper",
+        "glass",
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "scholarly",
+    "dimensions": {
+        "width": 1.044,
+        "height": 1.407,
+        "length": 1.527,
+        "unit": "meters"
+    }
+}

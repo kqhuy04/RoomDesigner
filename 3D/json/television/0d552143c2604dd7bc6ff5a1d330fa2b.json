@@ -1,0 +1,25 @@
+{
+    "object": "television",
+    "description": "A modern tv stand with a minimalist design. It features a brown wooden top and a light grey body. The front of the stand has two open shelving sections on either side of a central rectangular compartment with a textured, lighter grey panel. The overall aesthetic is clean and functional, suitable for organizing media devices and accessories. The design emphasizes a combination of natural wood tones and a neutral color palette, making it versatile for various interior styles. The stand appears to be of a moderate size, designed to hold a television and related components.",
+    "color": [
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "composite"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.285,
+        "height": 0.743,
+        "length": 0.674,
+        "unit": "meters"
+    }
+}

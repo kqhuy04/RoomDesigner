@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "This is a single bar stool with a comfortable-looking seat and a sturdy base. The seat appears to be upholstered, possibly in leather or a similar material, offering a plush feel. The base is likely made of metal or wood, providing stability and support. The stool's design suggests it's intended for use at a bar counter, kitchen island, or high table. Its form is classic and functional, prioritizing both comfort and durability. The overall aesthetic leans towards a modern or contemporary style, but it could also fit into a more rustic or industrial setting depending on the specific materials and finishes used.",
+    "color": [
+        "brown",
+        "black",
+        "tan"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar",
+        "dining room",
+        "living room"
+    ],
+    "style": "modern",
+    "material": "wood, metal, upholstery",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.524,
+        "height": 2.21,
+        "length": 3.048,
+        "unit": "meters"
+    }
+}

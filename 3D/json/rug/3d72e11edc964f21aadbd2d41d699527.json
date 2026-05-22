@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a rich, intricate design. The central medallion is a complex floral pattern in shades of red and yellow, set against a dark background. Surrounding the medallion are multiple borders, also featuring floral motifs and geometric patterns in red, yellow, and black. The main field of the rug is a repeated diamond or octagonal pattern filled with smaller floral elements and geometric bands. The outer edge of the rug has a deep burgundy border, and the fringed ends are visible along one side in white. The overall impression is one of traditional craftsmanship and ornate beauty.",
+    "color": [
+        "red",
+        "yellow",
+        "black",
+        "burgundy",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.251,
+        "height": 0.016,
+        "length": 2.056,
+        "unit": "meters"
+    }
+}

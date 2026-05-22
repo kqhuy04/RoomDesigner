@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "A simple wooden nightstand with a single drawer and an open shelf below. The drawer has a cut-out handle. The open shelf contains two stacked items that appear to be folded blankets or towels. A lamp with a cylindrical lampshade sits on top of the nightstand. The overall design is functional and minimalist, with clean lines and a warm wood finish.",
+    "color": [
+        "brown",
+        "tan",
+        "white",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guest room",
+        "living room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.526,
+        "height": 1.176,
+        "length": 0.545,
+        "unit": "meters"
+    }
+}

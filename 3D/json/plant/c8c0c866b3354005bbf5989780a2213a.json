@@ -1,0 +1,26 @@
+{
+    "object": "plant",
+    "description": "This is a rectangular planter box, ideal for displaying small plants, herbs, or succulents. It features a dark, textured top surface, likely representing soil, contrasting with clean, light-colored sides. The design is simple and modern, making it versatile for various interior and exterior decor styles. Its elongated shape suggests it could be placed on a windowsill, shelf, or table.",
+    "color": [
+        "dark grey",
+        "light grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "kitchen",
+        "balcony",
+        "garden",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.538,
+        "height": 0.632,
+        "length": 1.124,
+        "unit": "meters"
+    }
+}

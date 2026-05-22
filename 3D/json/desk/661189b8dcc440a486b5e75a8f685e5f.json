@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "This 3D model depicts a modern desk with a clean, minimalist design. It features a smooth, light-colored wooden surface supported by a unique, curved white structure. Underneath the main desk surface, there's a tiered element with dark brown horizontal slats, creating a subtle contrast and visual interest. Rising from the center of the desk is a thin, vertical white element, possibly a lamp or a decorative stand. The entire structure is placed on a larger, light-toned wooden platform, suggesting it's part of a larger scene or a standalone display. The overall aesthetic is sleek and functional, suitable for a contemporary office or study space.",
+    "color": [
+        "white",
+        "wood",
+        "brown"
+    ],
+    "appropriate_room": [
+        "office",
+        "studyroom",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.142,
+        "height": 1.248,
+        "length": 2.499,
+        "unit": "meters"
+    }
+}

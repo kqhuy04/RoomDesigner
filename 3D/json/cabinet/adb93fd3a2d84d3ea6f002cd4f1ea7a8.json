@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "A weathered, rusty metal cabinet with a wooden top. One drawer is partially open, revealing its interior. The cabinet appears old and has a distressed finish with prominent rust marks and scratches, suggesting it might be an industrial or vintage piece. The drawer slides out smoothly on visible runners, hinting at its functionality. The wooden top has a natural grain pattern, contrasting with the rough texture of the metal body. This cabinet could be used for storage in a workshop, garage, or a stylized living space.",
+    "color": [
+        "brown",
+        "white",
+        "gray",
+        "orange"
+    ],
+    "appropriate_room": [
+        "garage",
+        "workshop",
+        "utility room",
+        "basement"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.57,
+        "height": 0.695,
+        "length": 1.104,
+        "unit": "meters"
+    }
+}

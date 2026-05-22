@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a white, modern, modular bookshelf. It features a grid of 25 cubbies, arranged in a 5x5 configuration. The cubbies are open on one side, creating a visually dynamic and airy appearance. The overall design is minimalist and functional, suitable for organizing books, decorative items, or storage bins. Its clean lines and neutral color make it versatile for various decor styles. The individual cubbies are deep enough to hold a good number of items, and the unit's structure suggests it could be a standalone piece or part of a larger storage system.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.392,
+        "height": 1.825,
+        "length": 1.826,
+        "unit": "meters"
+    }
+}

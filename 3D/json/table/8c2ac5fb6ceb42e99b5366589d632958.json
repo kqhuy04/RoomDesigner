@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a mid-century modern inspired vanity table crafted from rich, warm-toned wood, likely walnut or teak. It features a sleek, rectangular tabletop with a subtle drawer integrated into the front. To the right of the drawer, a distinct rectangular compartment juts out, offering additional storage. The table is supported by four tapered, angled legs, characteristic of the era's design. Rising from the back of the tabletop is a tall, narrow panel, possibly a mirror or a decorative element, split vertically into two sections. The wood grain is prominent, adding to its natural beauty and retro charm. This piece combines functionality with elegant, minimalist aesthetics.",
+    "color": [
+        "brown",
+        "wood"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "mid-century modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.708,
+        "height": 1.257,
+        "length": 0.396,
+        "unit": "meters"
+    }
+}

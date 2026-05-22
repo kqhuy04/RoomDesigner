@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "A single, floor-length curtain, rendered in a vibrant teal color. The fabric is depicted with deep, vertical pleats, suggesting a gathered or pleated heading. The curtain drapes naturally, with subtle folds and waves that give it a sense of volume and texture. The bottom edge exhibits a soft, undulating hemline, indicating the fluidity of the material. The overall presentation is clean and minimalist, focusing solely on the form and color of the curtain against a neutral gray background. This design suggests a modern aesthetic, suitable for a variety of interior design schemes.",
+    "color": [
+        "teal"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.181,
+        "height": 3.076,
+        "length": 0.103,
+        "unit": "meters"
+    }
+}

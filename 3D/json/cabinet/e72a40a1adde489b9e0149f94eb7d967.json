@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern, compact dresser with a dark wood grain top and base, and three drawers with a light, creamy yellow front. Each drawer features a sleek, curved silver handle. The overall design is minimalist and functional, with clean lines and a simple silhouette. The textured background suggests a studio or digital environment rather than a specific room.",
+    "color": [
+        "brown",
+        "yellow",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "closet"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.475,
+        "height": 0.63,
+        "length": 0.52,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a single, plush movie theater seat designed for comfort and convenience. It features a vibrant red upholstered seat and backrest, likely made of fabric with a slight sheen to mimic the look of theater seating. The armrests are a contrasting dark gray or black, offering a sleek look. Integrated into the armrests are practical black cup holders, a common feature in modern cinema seating. The chair is supported by sturdy metal legs with a polished or brushed metal finish, giving it a stable and durable appearance. The overall design suggests a focus on audience experience, with a blend of comfort, style, and functionality typical of premium seating in entertainment venues.",
+    "color": [
+        "red",
+        "black",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "home theater",
+        "living room",
+        "entertainment room"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 1.366,
+        "height": 1.774,
+        "length": 1.23,
+        "unit": "meters"
+    }
+}

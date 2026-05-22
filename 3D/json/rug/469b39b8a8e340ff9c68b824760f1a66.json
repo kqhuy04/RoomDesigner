@@ -1,0 +1,29 @@
+{
+    "object": "rug",
+    "description": "This is a 3D rendering of a rectangular rug with an abstract geometric design. The rug features a complex arrangement of overlapping shapes and lines in various colors, including shades of green, yellow, blue, red, and pink. Some areas have speckled or textured patterns. The overall impression is dynamic and visually engaging, reminiscent of modernist art movements. The rug is presented at an angle, showcasing its texture and depth.",
+    "color": [
+        "green",
+        "yellow",
+        "blue",
+        "red",
+        "pink",
+        "purple",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.0,
+        "height": 0.02,
+        "length": 1.5,
+        "unit": "meters"
+    }
+}

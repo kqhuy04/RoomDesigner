@@ -1,0 +1,25 @@
+{
+    "object": "lamp",
+    "description": "This is a modern white chandelier with multiple arms extending from a central rod. Each arm holds a conical lampshade, giving the fixture a dynamic and airy appearance. The design is minimalist and sculptural, with clean lines and a monochromatic finish. The lampshades are arranged in a circular pattern, suggesting a radial distribution of light. The overall effect is contemporary and sophisticated, suitable for various interior design schemes.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.989,
+        "height": 0.661,
+        "length": 1.124,
+        "unit": "meters"
+    }
+}

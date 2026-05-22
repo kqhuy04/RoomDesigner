@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "A sleek and modern three-seater sofa with a two-tone design. The base and arms are upholstered in a matte black material, providing a sturdy and contemporary frame. The seat and back cushions are covered in a rich, warm brown leather, offering a comfortable and luxurious feel. Each seat and back cushion is distinct, suggesting a modular or well-defined seating arrangement. Accent pillows in the same brown leather are placed on the outer arms, enhancing the comfort and aesthetic appeal. The overall design is clean and geometric, fitting well into contemporary interior design schemes.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "reception area"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 2.002,
+        "height": 0.951,
+        "length": 0.939,
+        "unit": "meters"
+    }
+}

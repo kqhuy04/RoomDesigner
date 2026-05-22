@@ -1,0 +1,26 @@
+{
+    "object": "television",
+    "description": "A vintage CRT television displaying the iconic 'Super Mario Bros.' title screen. The television has a black plastic casing with a rounded screen and a set of physical buttons on the right side, labeled 1 through 6, likely for channel selection. Below these buttons are controls for brightness, contrast, and possibly power. The screen exhibits the characteristic scanlines of older display technology, adding to its retro aesthetic. The game's graphical elements are clearly visible, showing the title logo, score, and player status, along with a familiar landscape of brick blocks and green hills.",
+    "color": [
+        "black",
+        "white",
+        "orange",
+        "green",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.0,
+        "height": 1.575,
+        "length": 1.348,
+        "unit": "meters"
+    }
+}

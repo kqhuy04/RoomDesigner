@@ -1,0 +1,24 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a wooden staircase that appears to be part of a multi-level structure, possibly a house or a boat. The staircase is a spiral or winding design, constructed from dark brown wood. It features a sturdy railing with vertical balusters and a smooth handrail. The steps are also made of wood, with a visible grain pattern suggesting a natural finish. The staircase is positioned against a white wall and is casting shadows on a light brown wooden floor. Above the staircase, there's a curved white structure, possibly a balcony or an upper floor edge, also with wooden flooring on top. The overall impression is of a functional and aesthetically pleasing architectural element, likely designed for interior use.",
+    "color": [
+        "brown",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "loft"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 2.329,
+        "height": 1.775,
+        "length": 2.583,
+        "unit": "meters"
+    }
+}

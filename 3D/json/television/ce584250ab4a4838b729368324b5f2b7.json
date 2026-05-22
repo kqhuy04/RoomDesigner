@@ -1,0 +1,27 @@
+{
+    "object": "television",
+    "description": "This is a 3D rendering of a flat-screen television with a dark, possibly black, frame. The screen itself is dark, appearing to be off or displaying a very dark image, with subtle reflections, including a reddish-brown gradient visible on the upper right side. The television is angled slightly to the left, giving it a dynamic appearance against a plain light grey background. The design is sleek and minimalist, focusing on clean lines and a modern aesthetic, characteristic of contemporary display devices.",
+    "color": [
+        "black",
+        "dark red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "sleek",
+    "dimensions": {
+        "width": 3.023,
+        "height": 2.049,
+        "length": 0.137,
+        "unit": "meters"
+    }
+}

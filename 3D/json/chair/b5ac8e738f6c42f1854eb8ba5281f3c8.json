@@ -1,0 +1,33 @@
+{
+    "object": "chair",
+    "description": "This 3D rendered image features a stylized figure peacefully sleeping in a portable hammock. The hammock itself is crafted from a light pink, possibly woven fabric, suspended by red ropes from a dark, sturdy metal frame. The figure is covered by a dark blanket with a subtle geometric pattern. On the figure's head is a dark green cap and a distinct sleep mask adorned with the European Union flag's blue and yellow stars. Above the sleeping figure, three bright blue 'Z' symbols float, universally denoting sleep. The minimalist dark background emphasizes the central object and its theme of relaxation and rest.",
+    "color": [
+        "dark grey",
+        "pink",
+        "red",
+        "dark green",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "balcony",
+        "patio",
+        "garden"
+    ],
+    "style": "stylized",
+    "material": [
+        "fabric",
+        "metal",
+        "rope"
+    ],
+    "usage": "functional",
+    "mood": "peaceful",
+    "dimensions": {
+        "width": 1.076,
+        "height": 0.89,
+        "length": 2.642,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "A rectangular ottoman with a tufted cushion on top. The base is upholstered in a light-colored, textured fabric and supported by four dark wooden legs with a classic turned design. The cushion has a slightly lighter shade than the base and features deep button tufting, creating a plush and inviting appearance. The piping around the edges of both the base and the cushion adds a refined touch. The dark wood legs provide a contrast to the lighter upholstery, lending an air of traditional elegance.",
+    "color": [
+        "beige",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "traditional",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.683,
+        "height": 0.368,
+        "length": 0.417,
+        "unit": "meters"
+    }
+}

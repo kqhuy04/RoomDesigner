@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a faded, distressed pattern. The main colors are a pale cream or off-white, with accents of muted blue, rust red, and a sandy brown. The design appears to be an abstract interpretation of traditional Persian or Oriental motifs, featuring floral or stylized botanical elements and geometric borders. The texture suggests it's woven, possibly from wool or a blend, with visible fiber direction creating a subtle striated effect. The edges have a fringe, indicating a hand-knotted or hand-tufted construction. The overall impression is one of vintage charm and understated elegance, suitable for adding warmth and character to a room.",
+    "color": [
+        "cream",
+        "blue",
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.8,
+        "height": 0.01,
+        "length": 1.244,
+        "unit": "meters"
+    }
+}

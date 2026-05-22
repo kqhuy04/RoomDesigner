@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, wooden corner shelf unit designed to fit snugly into a room's corner. It features an open shelving section with multiple shelves; the upper shelves are horizontal, while the lower ones are angled, creating a distinctive visual appeal. Below the open shelves, there is an enclosed cabinet section with two doors, also angled, providing hidden storage. The unit is crafted from light to medium brown wood with a visible grain, suggesting a natural and warm aesthetic. It stands against a plain light gray background, casting a shadow to its right.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.049,
+        "height": 3.0,
+        "length": 1.319,
+        "unit": "meters"
+    }
+}

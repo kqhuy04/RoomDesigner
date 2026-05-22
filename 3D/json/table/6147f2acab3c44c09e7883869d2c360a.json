@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A modern, minimalist table with a sleek design. The tabletop is a thin, rectangular surface with a slightly reflective, translucent quality, possibly made of glass or a high-gloss composite. It is supported by a unique leg structure. One side features a solid, wide panel that tapers slightly towards the bottom, giving a sense of stability and visual weight. The other side has two slender, angled legs that provide a contrasting airy feel. The overall construction suggests a contemporary aesthetic, suitable for various functional or decorative purposes in a modern interior.",
+    "color": [
+        "white",
+        "light blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "office",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.325,
+        "height": 2.08,
+        "length": 3.29,
+        "unit": "meters"
+    }
+}

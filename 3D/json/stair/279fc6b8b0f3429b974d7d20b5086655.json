@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "This is a modern indoor staircase with a sleek design. The treads are made of light-colored wood, offering a warm contrast to the dark structure of the staircase. The handrail is a simple wooden beam, and the side features a translucent glass panel that extends upwards, creating a contemporary and open feel. The overall construction suggests a focus on clean lines and minimalistic aesthetics, integrating seamlessly into a modern interior. The staircase is illuminated by ambient light, highlighting its geometric form and materials.",
+    "color": [
+        "black",
+        "wood",
+        "grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "bedroom",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.032,
+        "height": 1.82,
+        "length": 2.949,
+        "unit": "meters"
+    }
+}

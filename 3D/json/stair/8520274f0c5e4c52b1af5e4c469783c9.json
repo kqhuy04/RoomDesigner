@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a modern, multi-level staircase with a sleek, minimalist design. The staircase features clean lines and a combination of wood and white elements. It appears to be an indoor or outdoor feature, possibly part of a building's architecture or a standalone structure. The main staircase ascends from a lower wooden platform to an upper level, which is also a wooden platform with a white railing. A secondary, narrower staircase is visible to the side, winding down and offering a glimpse of the structure's interior. The overall impression is one of contemporary elegance and functional design, suitable for various architectural styles.",
+    "color": [
+        "white",
+        "wood",
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor space",
+        "balcony",
+        "modern house"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.865,
+        "height": 1.618,
+        "length": 2.286,
+        "unit": "meters"
+    }
+}

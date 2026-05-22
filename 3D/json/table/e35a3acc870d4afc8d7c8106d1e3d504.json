@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "A checkered tablecloth laid over a table, showing a detailed grid pattern with various labels and symbols on each segment. The tablecloth has folds and drapes, indicating it's made of a fabric material. The colors transition across the surface, creating a visually complex and organized appearance. The labels are alphanumeric, suggesting a grid system for organization or design. The edges of the tablecloth hang down the sides of the table, adding to its texture and form.",
+    "color": [
+        "red",
+        "green",
+        "blue",
+        "purple",
+        "yellow",
+        "orange",
+        "maroon",
+        "brown"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "kitchen",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "decorative",
+    "mood": "organized",
+    "dimensions": {
+        "width": 2.011,
+        "height": 0.386,
+        "length": 2.049,
+        "unit": "meters"
+    }
+}

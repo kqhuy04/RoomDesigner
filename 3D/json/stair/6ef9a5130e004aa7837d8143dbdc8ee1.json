@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a modern spiral staircase enclosed within a minimalist glass casing. The staircase itself is made of dark, sleek material, possibly metal or a composite, featuring a central support column and evenly spaced treads. The treads are angled to form a continuous spiral upwards. The glass enclosure is transparent, allowing a clear view of the staircase's structure and the shadows it casts. The base of the structure rests on a tiled platform, creating a sense of a defined space. The overall aesthetic is clean, functional, and contemporary, suggesting a space-saving and visually appealing architectural element.",
+    "color": [
+        "black",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "loft",
+        "modern_interior"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.499,
+        "height": 1.122,
+        "length": 2.356,
+        "unit": "meters"
+    }
+}

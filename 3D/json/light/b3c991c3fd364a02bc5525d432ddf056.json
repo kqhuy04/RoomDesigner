@@ -1,0 +1,30 @@
+{
+    "object": "light",
+    "description": "This is a minimalist pendant light featuring a simple, cylindrical ceiling mount in a pale yellow-green hue. A thin, reddish-brown rod extends downwards from the mount, transitioning into a longer, slender off-white or very light green rod. The light culminates in a smooth, spherical lampshade in a vibrant magenta color. The design is clean and contemporary, with no visible complex details or textures, suggesting a modern aesthetic.",
+    "color": [
+        "pale yellow-green",
+        "brown",
+        "off-white",
+        "magenta"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "kitchen",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.298,
+        "height": 1.285,
+        "length": 0.298,
+        "unit": "meters"
+    }
+}

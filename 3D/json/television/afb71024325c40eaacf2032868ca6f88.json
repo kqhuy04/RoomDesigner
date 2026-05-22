@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a vintage television set, likely from the mid-20th century. It features a wooden cabinet with rounded edges and a glossy finish. The screen is round and appears to have a magnifying lens in front of it, enhancing the viewing experience. The television is placed on a patterned tablecloth, adding to the retro aesthetic. The image on the screen is in black and white, showing a person, probably from an old broadcast. The knobs on the front suggest manual controls, and the overall design evokes a sense of nostalgia for early television technology.",
+    "color": [
+        "brown",
+        "beige",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "decorative",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.254,
+        "height": 1.515,
+        "length": 1.089,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "bed",
+    "description": "This 3D model depicts a modern bed complete with a headboard and an integrated bedside table. The headboard is crafted from light-toned wood and features two horizontal rectangular accents in a lighter grey. An attached floating bedside table extends from the left side, matching the wood finish and incorporating two white drawer fronts. The bed is adorned with a sophisticated bedding set, starting with two large pillows at the head, showcasing a subtle white and grey plaid pattern. Below these are two smaller, more decorative pillows featuring an abstract design with prominent orange, brown, and white shapes. A folded throw blanket with a bold orange, pale green, and white diamond-patterned design lies across the upper half of the bed. The main duvet or comforter, covering the majority of the mattress, presents a delicate plaid pattern in shades of white and pale purple. The overall design emphasizes clean lines, natural wood tones, and a balanced color palette, creating a contemporary and inviting bedroom piece.",
+    "color": [
+        "brown",
+        "white",
+        "orange",
+        "grey",
+        "pale green",
+        "pale purple"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.492,
+        "height": 1.128,
+        "length": 2.212,
+        "unit": "meters"
+    }
+}

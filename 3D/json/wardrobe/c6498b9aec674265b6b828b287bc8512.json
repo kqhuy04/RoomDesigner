@@ -1,0 +1,25 @@
+{
+    "object": "wardrobe",
+    "description": "This 3D model displays a tall, rectangular wooden wardrobe, set against a simple light grey backdrop. The wardrobe exhibits a functional and clean design, primarily crafted from light brown wood with a distinct vertical grain texture visible across its surfaces. The upper portion features two sizable cabinet doors, each fitted with sleek, dark grey metallic handles. The right door also includes a small keyhole, indicating a potential locking mechanism for securing its contents. Beneath these doors, the wardrobe integrates two full-width drawers, each adorned with subtle, circular pull handles. The doors and drawer fronts incorporate raised panel detailing, contributing to its classic aesthetic. This piece of furniture appears sturdy and practical, ideal for organizing and storing clothing and other personal belongings.",
+    "color": [
+        "light brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.99,
+        "height": 3.402,
+        "length": 1.034,
+        "unit": "meters"
+    }
+}

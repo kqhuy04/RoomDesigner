@@ -1,0 +1,23 @@
+{
+    "object": "stair",
+    "description": "This is a simple, modern staircase. It appears to be made of a solid material and is entirely white. The staircase has six steps, each of which is rectangular and relatively wide. There is a railing along one side of the staircase, made up of vertical balusters and a top handrail. At the top of the staircase, there is a small landing with a white stool and a triangular structure that could be part of a roof or awning. The overall design is minimalist and functional, suggesting it could be an outdoor or indoor staircase, perhaps leading to a deck, balcony, or an upper level.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "balcony",
+        "deck",
+        "indoor"
+    ],
+    "style": "modern",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.369,
+        "height": 2.97,
+        "length": 4.502,
+        "unit": "meters"
+    }
+}

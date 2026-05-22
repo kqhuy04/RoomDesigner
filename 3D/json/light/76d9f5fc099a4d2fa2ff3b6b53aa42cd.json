@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "This is a minimalist pendant light with a distinctive design. It features a cylindrical shade with a ribbed texture, resembling stacked rings. Above the shade, a series of tiered, bulbous elements create a decorative stem, tapering upwards towards a simple, circular ceiling mount. The entire fixture is rendered in a clean, monochromatic white, highlighting its form and intricate detailing. The slender cord suspends the light, giving it an elegant and airy appearance. This design would complement a variety of interior styles, offering both illumination and a subtle artistic touch.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.214,
+        "height": 1.018,
+        "length": 0.214,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "object": "table",
+    "description": "A pink, low-poly vanity set with a large, faceted mirror. The vanity itself is designed with clean, geometric lines, featuring drawers on either side and a central open space. Each drawer has a small, silver square handle. The mirror has an irregular, almost crystal-like shape and reflects a textured, sparkling pattern, suggesting lights or stars. The overall aesthetic is minimalist with a touch of abstract glamour.",
+    "color": [
+        "pink",
+        "silver",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": [
+        "functional",
+        "storage",
+        "decorative"
+    ],
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.556,
+        "height": 0.996,
+        "length": 0.89,
+        "unit": "meters"
+    }
+}

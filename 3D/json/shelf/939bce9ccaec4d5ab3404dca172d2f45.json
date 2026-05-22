@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a three-tiered wooden bookshelf filled with various books. The bookshelf has a dark, rich wood finish, giving it a classic and sturdy appearance. Each shelf is packed with books, some standing upright, others leaning, and a few stacked horizontally. The books display a variety of colorful covers, some featuring artwork and titles like 'SANDBOXED', 'A.D.A.M.', 'DAWN OF EVE', 'THE MINA MARZ INCIDENT', and 'VORTEX VICTORS'. The arrangement suggests a personal library or a display of published works. The overall impression is one of organized clutter, hinting at a love for reading.",
+    "color": [
+        "brown",
+        "red",
+        "blue",
+        "green",
+        "purple",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "office"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.219,
+        "height": 2.008,
+        "length": 0.447,
+        "unit": "meters"
+    }
+}

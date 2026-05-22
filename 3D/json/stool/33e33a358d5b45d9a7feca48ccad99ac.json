@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a vintage, carved wooden stool with three legs. The seat is roughly circular and features an intricate criss-cross pattern with parallel lines carved into the surface, bordered by a decorative scalloped edge. The three legs are tapered and also show signs of carving and wear. The wood has a rich, dark brown color with a visible grain, suggesting it is aged and has been well-used. The stool appears sturdy and functional, likely used as seating or a small surface. The overall aesthetic suggests an ethnic or tribal influence, common in handcrafted furniture from certain regions.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "ethnic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.536,
+        "height": 1.927,
+        "length": 2.218,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "desk",
+    "description": "This is a modern L-shaped desk with a minimalist design. The tabletop is white and appears to be a smooth, solid material, possibly laminate or a composite. The frame is constructed from thin, black metal tubing, forming a simple yet sturdy base. The desk is designed to fit into a corner, offering a generous workspace. One section extends straight, while the other angles off to form the L-shape. The overall aesthetic is clean and functional, suitable for a home office or study space.",
+    "color": [
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "study",
+        "office",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "laminate"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.401,
+        "height": 0.771,
+        "length": 1.401,
+        "unit": "meters"
+    }
+}

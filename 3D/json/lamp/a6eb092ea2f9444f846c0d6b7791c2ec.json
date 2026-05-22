@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A contemporary pendant lamp featuring a unique, layered shade design. The shade is constructed from multiple vertical, white panels that create a visually interesting, rippled effect. At the top of the shade, small white elements protrude, adding a subtle detail. Suspended within the shade is a single, bulbous light source, hinting at the illumination it provides. The overall aesthetic is minimalist and modern, with clean lines and a monochromatic color scheme. This lamp is designed to be a statement piece, offering both functional lighting and a sculptural element to a space.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.31,
+        "height": 3.165,
+        "length": 1.425,
+        "unit": "meters"
+    }
+}

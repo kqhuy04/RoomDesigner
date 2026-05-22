@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "A minimalist wooden stool with a circular top and four tapered legs. The wood grain is visible, suggesting a natural and slightly rustic aesthetic. The legs are angled inwards, meeting at a central point beneath the tabletop, creating a stable yet visually light structure. The design is simple and functional, suitable for various uses where a compact seating or surface option is needed.",
+    "color": [
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.32,
+        "height": 0.4,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

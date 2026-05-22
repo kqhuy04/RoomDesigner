@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "A dark wood bookshelf with multiple shelves filled with colorful books. The books vary in size and color, with some arranged neatly and others at angles. The bookshelf itself has a sleek, modern design with clean lines and a polished finish, suggesting it could be a focal point in a study or living area. The overall impression is one of organization and a touch of playful color.",
+    "color": [
+        "brown",
+        "green",
+        "blue",
+        "red",
+        "yellow",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom",
+        "library"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "organized",
+    "dimensions": {
+        "width": 0.859,
+        "height": 1.296,
+        "length": 0.46,
+        "unit": "meters"
+    }
+}

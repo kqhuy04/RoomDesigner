@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "A tall, narrow wooden bookshelf with four shelves. The bookshelf features a sturdy frame with vertical slats on the sides and a gently curved base. The top of the bookshelf has a decorative molding. The wood appears to be a light to medium brown with visible grain, suggesting it is made from a natural material like oak or pine. The design is simple and functional, ideal for storing books or displaying decorative items. The overall aesthetic is reminiscent of Craftsman or Mission style furniture, emphasizing natural materials and honest construction.",
+    "color": [
+        "brown",
+        "tan",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "craftsman",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.787,
+        "height": 1.251,
+        "length": 0.387,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "A whimsical and ornate chandelier with a central green stem branching out into eight arms. Each arm supports a small, textured lampshade in a warm, golden-orange hue. The arms are adorned with decorative swirls in light purple and pale blue, with small teardrop-shaped blue elements hanging from some of the decorative swirls. The central stem extends upwards to a yellow canopy and a coiled yellow cord, suggesting it's designed to hang from a ceiling. The overall aesthetic is playful and somewhat antique, with a touch of fantasy.",
+    "color": [
+        "yellow",
+        "green",
+        "orange",
+        "purple",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "ornate",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.885,
+        "height": 0.812,
+        "length": 0.885,
+        "unit": "meters"
+    }
+}

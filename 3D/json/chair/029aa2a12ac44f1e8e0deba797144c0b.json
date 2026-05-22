@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a modern, minimalist white chair with a sleek, almost liquid-like finish. It features a gently curved backrest with a distinctive horizontal cutout, and a comfortable-looking seat that appears to be slightly padded. The chair stands on four slender, cylindrical legs that taper slightly towards the bottom. The overall design is simple and elegant, focusing on smooth lines and a unified material. The high-gloss surface reflects light, adding to its contemporary aesthetic. It appears to be made of a single molded material, giving it a seamless and integrated look.",
+    "color": [
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.556,
+        "height": 1.293,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

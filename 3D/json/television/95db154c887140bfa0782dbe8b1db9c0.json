@@ -1,0 +1,23 @@
+{
+    "object": "television",
+    "description": "This is a modern, flat-screen television with a minimalist design. It features a sleek, slim bezel and a simple, rectangular stand. The screen itself is a uniform grey, suggesting it is either turned off or displaying a neutral image. The overall aesthetic is clean and unobtrusive, making it suitable for various interior design styles. Its understated form emphasizes functionality and visual appeal, blending seamlessly into a contemporary living space.",
+    "color": [
+        "grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.26,
+        "height": 2.515,
+        "length": 1.323,
+        "unit": "meters"
+    }
+}

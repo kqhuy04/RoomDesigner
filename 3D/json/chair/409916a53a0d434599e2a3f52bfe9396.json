@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "A sleek and modern lounge chair with a high back and a uniquely curved seat, designed for ultimate comfort and style. The chair features a swivel base, allowing for easy rotation and a dynamic seating experience. The upholstery appears to be a rich, smooth leather in a warm, inviting brown hue. The contrasting darker material on the lower part of the seat adds a subtle yet sophisticated detail. The base is constructed from dark, possibly black metal, with splayed legs that provide stability. This chair is a statement piece, perfect for adding a touch of contemporary elegance to any living space or lounge area.",
+    "color": [
+        "brown",
+        "tan",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom",
+        "office"
+    ],
+    "style": "contemporary",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 0.983,
+        "height": 1.123,
+        "length": 0.944,
+        "unit": "meters"
+    }
+}

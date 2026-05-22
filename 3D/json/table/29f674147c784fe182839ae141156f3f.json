@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A dark brown, round pedestal table with a classic design. The tabletop is smooth and circular, showcasing a subtle wood grain. It's supported by a central pedestal that features decorative turned elements, resembling stacked spheres, before transitioning into a sturdy base with four gracefully curved legs. The legs splay outwards, providing stability and a traditional aesthetic. The overall construction appears to be made of wood, with a rich, dark finish that suggests a classic or antique style. The table casts a soft shadow on the white background, indicating it is a 3D rendering.",
+    "color": [
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "traditional",
+    "dimensions": {
+        "width": 1.399,
+        "height": 1.005,
+        "length": 1.399,
+        "unit": "meters"
+    }
+}

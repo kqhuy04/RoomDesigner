@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is a rectangular wooden table with four straight legs. The tabletop has a visible wood grain pattern, suggesting it is made of solid wood or a high-quality wood veneer. The legs are simple, square posts that are slightly tapered towards the bottom. The table has a clean, minimalist design, with no visible drawers or decorative elements, making it versatile for various uses and settings. Its construction appears sturdy and functional, suitable for dining, working, or display purposes. The overall aesthetic is classic and understated.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "kitchen",
+        "livingroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.2,
+        "height": 0.44,
+        "length": 0.35,
+        "unit": "meters"
+    }
+}

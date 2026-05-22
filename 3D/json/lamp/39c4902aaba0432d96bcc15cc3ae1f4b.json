@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A modern, linear chandelier with a white finish. It features a rectangular canopy from which two thin wires descend to support a horizontal bar. Attached to this bar are numerous vertical rods of varying lengths, creating a dynamic, almost sculptural effect. The design is minimalist and contemporary, likely intended to be a statement piece in a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.9,
+        "height": 0.616,
+        "length": 0.361,
+        "unit": "meters"
+    }
+}

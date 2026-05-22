@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a simple, blocky table with a green top and brown base. The design is reminiscent of a pixelated aesthetic, possibly from a video game. It has a flat, rectangular surface with slight undulations on the top, suggesting it's made of segmented pieces. The base is a solid brown block that supports the tabletop, with two rectangular legs extending downwards. The overall appearance is very geometric and straightforward, lacking intricate details or embellishments. It seems functional for placing items on, but its stylized design might also lend itself to a decorative purpose in a themed setting.",
+    "color": [
+        "green",
+        "brown",
+        "blue"
+    ],
+    "appropriate_room": [
+        "game room",
+        "bedroom",
+        "living room"
+    ],
+    "style": "pixelated",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.6,
+        "height": 1.022,
+        "length": 1.6,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "rug",
+    "description": "This is a highly detailed Persian rug with intricate patterns and a rich color palette. The central field of the rug features a dense arrangement of flora and fauna, including a variety of animals like lions, tigers, deer, and birds, intertwined with stylized trees and floral motifs. The border is equally elaborate, with multiple bands of repeating patterns, often featuring floral designs and possibly script. The overall impression is one of opulence and masterful craftsmanship, with each element meticulously woven to create a vibrant and narrative tapestry. The detail suggests a storytelling or symbolic aspect to the design, common in traditional Persian rug-making.",
+    "color": [
+        "cream",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 3.611,
+        "height": 0.006,
+        "length": 2.621,
+        "unit": "meters"
+    }
+}

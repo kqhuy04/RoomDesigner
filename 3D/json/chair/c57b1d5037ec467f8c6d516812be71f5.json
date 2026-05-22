@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern wooden chair with a minimalist design, presented against a plain light grey background. The chair features a curved backrest and seat, both crafted from light-toned wood with a visible natural grain. The backrest is attached to the frame with four distinct dark, circular fasteners, arranged in two pairs, which add a subtle detail. The legs are slender and slightly tapered, giving the chair an elegant and understated profile. The overall aesthetic is clean and functional, emphasizing natural materials and simple, flowing lines, making it suitable for various contemporary interior settings.",
+    "color": [
+        "light wood",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "office",
+        "bedroom"
+    ],
+    "style": "modern minimalist",
+    "material": [
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.591,
+        "height": 4.112,
+        "length": 2.514,
+        "unit": "meters"
+    }
+}

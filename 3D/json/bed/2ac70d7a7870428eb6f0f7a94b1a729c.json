@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "This is a minimalist wooden bed frame with a simple headboard. The frame is constructed from light-colored wood, likely beech or a similar hardwood, featuring a slatted base for mattress support. Metal brackets are visible at the corners, indicating a sturdy construction. The design is clean and modern, emphasizing natural materials and simple lines. The headboard is composed of horizontal wooden slats, adding a subtle textured detail. This bed frame is designed to be functional and durable, suitable for a contemporary bedroom setting.",
+    "color": [
+        "wood brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.883,
+        "height": 0.824,
+        "length": 2.238,
+        "unit": "meters"
+    }
+}

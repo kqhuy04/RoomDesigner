@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This 3D model displays a rustic bench crafted from natural materials. The seat is constructed from several parallel wooden planks, showcasing the natural grain and texture of the wood. These planks are supported by a rough, grey stone block, which appears to be partially covered in soil or dirt. The stone itself has some faint blue markings, possibly remnants of paint or natural discoloration. The entire structure is placed on a base of dirt and gravel, giving the impression of being outdoors or in a natural setting. The bench has a simple, utilitarian design, suggesting it's meant for practical use rather than elaborate decoration.",
+    "color": [
+        "brown",
+        "grey",
+        "blue",
+        "beige"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "stone"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 1.565,
+        "height": 0.592,
+        "length": 2.06,
+        "unit": "meters"
+    }
+}

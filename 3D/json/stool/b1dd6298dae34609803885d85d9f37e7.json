@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "This is a simple, lightweight folding stool designed for portability and temporary seating. It features an X-shaped tubular metal frame that allows it to collapse for easy storage and transport. The seat is made from a durable fabric, likely canvas or a similar heavy-duty textile, in a muted olive green or brownish-green hue. The metal frame appears to be painted a faded teal or greenish-blue, showing signs of wear and minor imperfections, suggesting a utilitarian or rustic aesthetic. The stool's design is purely functional, making it suitable for outdoor activities like camping, fishing, or gardening, as well as practical uses in a workshop or garage where space-saving is beneficial. Its overall appearance conveys a practical, rugged, and casual mood.",
+    "color": [
+        "dark green",
+        "teal"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "camping",
+        "workshop",
+        "garage",
+        "balcony"
+    ],
+    "style": "functional",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "practical",
+    "dimensions": {
+        "width": 0.378,
+        "height": 0.368,
+        "length": 0.369,
+        "unit": "meters"
+    }
+}

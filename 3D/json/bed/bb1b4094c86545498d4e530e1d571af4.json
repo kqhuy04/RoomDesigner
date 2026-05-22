@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a modern platform bed featuring a dark wood finish with a prominent wood grain texture. The bed frame is low-profile, giving it a minimalist look, and includes an integrated headboard that extends horizontally. The headboard has two horizontal silver-toned decorative strips, adding a touch of contemporary flair. A single floating nightstand with a drawer and a metal handle is attached to the right side of the headboard. The bed is furnished with a white mattress and white pillows, covered by a light gray throw blanket draped across the foot of the bed. The overall design emphasizes clean lines and functional elegance.",
+    "color": [
+        "dark gray",
+        "white",
+        "light gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.957,
+        "height": 0.315,
+        "length": 0.806,
+        "unit": "meters"
+    }
+}

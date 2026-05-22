@@ -1,0 +1,23 @@
+{
+    "object": "bench",
+    "description": "This is a wooden bench swing designed for outdoor use. It features a slatted seat and backrest, providing comfortable seating. A unique element is the integrated wooden shelf with circular cutouts, likely designed to hold drinks. The swing has armrests and appears to be constructed from durable wood, suitable for patios, gardens, or porches. The design is simple yet functional, blending well with natural surroundings.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "patio",
+        "garden"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "relaxing",
+    "dimensions": {
+        "width": 1.868,
+        "height": 0.874,
+        "length": 0.879,
+        "unit": "meters"
+    }
+}

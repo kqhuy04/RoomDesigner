@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a plush armchair with a rich, patterned fabric upholstery on the seat and back, contrasted with smooth, dark brown leather on the arms and base. The fabric features a complex floral design in muted tones of green, beige, brown, and hints of blue, suggesting a vintage or traditional aesthetic. The leather shows signs of wear, with some areas appearing slightly distressed or peeling, adding character and a lived-in feel. The overall construction appears sturdy, with a deep seat and supportive back, designed for comfort.",
+    "color": [
+        "brown",
+        "green",
+        "beige",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "fabric",
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.808,
+        "height": 0.716,
+        "length": 0.734,
+        "unit": "meters"
+    }
+}

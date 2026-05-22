@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "A minimalist shelf unit with a light wood grain finish for the shelves and a dark metal frame. It features two rectangular shelves, one above the other, supported by four slender, vertical metal posts. The base is a square wooden panel, and the top shelf is also a rectangular wooden panel. This design offers a clean and modern aesthetic, suitable for displaying items without overwhelming the space. The simplicity of its construction suggests a focus on functionality and a contemporary style, making it a versatile piece for various interior designs.",
+    "color": [
+        "wood",
+        "black",
+        "light grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.48,
+        "height": 0.73,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

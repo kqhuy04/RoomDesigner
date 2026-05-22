@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "A modern spiral staircase featuring light wood treads and black metal supports. The staircase is enclosed within a minimalist, cube-like structure with a dark gray base and a black, angular overhang at the top. A central black pole runs vertically through the opening of the staircase. The design is sleek and functional, emphasizing clean lines and a contemporary aesthetic. It appears to be an indoor staircase, possibly leading to a mezzanine or an upper level in a modern residential or commercial space. The surrounding dark platform suggests it's part of a larger architectural model or exhibit.",
+    "color": [
+        "black",
+        "wood",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "mezzanine",
+        "livingroom",
+        "modern_interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.416,
+        "height": 1.125,
+        "length": 2.379,
+        "unit": "meters"
+    }
+}

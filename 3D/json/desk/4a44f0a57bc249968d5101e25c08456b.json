@@ -1,0 +1,26 @@
+{
+    "object": "desk",
+    "description": "This is a modern wooden desk with metal accents. It features a smooth wooden top with a circular cable management hole. Below the top, there's a large wooden drawer with a sleek metal pull. The desk is supported by angled, polished metal legs that create a unique silhouette. A lower shelf, also made of horizontal metal bars, provides additional space for storage or display. The overall design is clean and functional, suggesting a contemporary aesthetic.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.828,
+        "height": 0.536,
+        "length": 0.456,
+        "unit": "meters"
+    }
+}

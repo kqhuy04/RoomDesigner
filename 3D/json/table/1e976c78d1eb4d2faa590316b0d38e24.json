@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a kotatsu table, a low wooden table frame covered by a heavy blanket or throw, upon which a tabletop is placed. Underneath the tabletop is a heat source, usually an electric heater attached to the frame. It is a common feature of Japanese homes during the winter months. The image shows a square table with a dark surface and two lighter rectangular inserts, covered by a deep red blanket draped over the sides. The table is placed on a light brown, textured mat.",
+    "color": [
+        "dark gray",
+        "beige",
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom"
+    ],
+    "style": "japan",
+    "material": [
+        "wood",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.323,
+        "height": 0.251,
+        "length": 1.315,
+        "unit": "meters"
+    }
+}

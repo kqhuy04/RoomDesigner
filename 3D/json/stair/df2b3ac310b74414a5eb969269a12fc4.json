@@ -1,0 +1,31 @@
+{
+    "object": "stair",
+    "description": "This 3D model presents a modern and minimalist staircase connecting two elevated platforms. The upper platform is a light-colored, possibly wooden, surface with rounded edges, featuring a small dark object on its left side. The staircase itself is enclosed by transparent panels, likely glass or acrylic, which provide an open and airy feel while showcasing the steps within. A white support structure is visible beneath the upper platform. The lower platform is a larger, light-toned surface with a subtle checkered pattern, resembling a parquet floor, upon which the transparent staircase structure appears to descend. The design emphasizes clean lines and transparency, creating a contemporary and sleek architectural element.",
+    "color": [
+        "light wood",
+        "white",
+        "clear",
+        "grey",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "office",
+        "lobby"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 2.324,
+        "height": 1.581,
+        "length": 2.624,
+        "unit": "meters"
+    }
+}

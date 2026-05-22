@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a vintage television with a rounded wooden casing and a dark bezel around the screen. The screen itself is a curved, grayish-green glass, reflecting its surroundings. Below the screen are several circular buttons and two knobs with gold accents. On the right side of the casing, there's a rectangular gold vent with vertical slats. The overall design suggests an older era of television technology, likely from the mid-20th century, and it appears to be a tabletop model.",
+    "color": [
+        "brown",
+        "gray",
+        "gold",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vintage",
+    "dimensions": {
+        "width": 0.445,
+        "height": 0.368,
+        "length": 0.451,
+        "unit": "meters"
+    }
+}

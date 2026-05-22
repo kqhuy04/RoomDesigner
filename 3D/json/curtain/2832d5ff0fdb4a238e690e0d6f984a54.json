@@ -1,0 +1,29 @@
+{
+    "object": "curtain",
+    "description": "This is a set of elegant curtains, featuring a layered design. The outer layer consists of dark, possibly black, sheer curtains with an intricate, embossed pattern that adds a touch of sophistication. These outer curtains are pulled back and secured with decorative yellow tie-backs, revealing a lighter, perhaps white or off-white, inner curtain. The inner curtain appears to be a lace or sheer fabric with a vertical striped pattern, possibly creating a soft, diffused light effect when closed. The entire ensemble is suspended from a simple, golden rod.",
+    "color": [
+        "black",
+        "white",
+        "yellow",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom"
+    ],
+    "style": "classic",
+    "material": [
+        "fabric",
+        "lace",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 4.269,
+        "height": 3.112,
+        "length": 0.644,
+        "unit": "meters"
+    }
+}

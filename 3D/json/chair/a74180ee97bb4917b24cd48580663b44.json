@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a simple school desk and chair set, commonly found in classrooms. The desk has a wooden top with a drawer and metal legs. The chair has a wooden seat and backrest with a similar metal frame. The materials appear to be wood and metal, giving it a durable and utilitarian look. The design is straightforward and functional, prioritizing practicality over aesthetics. It evokes a sense of nostalgia for school days and a simpler time.",
+    "color": [
+        "brown",
+        "silver",
+        "grey"
+    ],
+    "appropriate_room": [
+        "classroom",
+        "study",
+        "bedroom"
+    ],
+    "style": "school",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.463,
+        "height": 1.197,
+        "length": 1.484,
+        "unit": "meters"
+    }
+}

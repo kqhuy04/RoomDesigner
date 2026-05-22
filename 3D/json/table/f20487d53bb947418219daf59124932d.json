@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "A charming white table lamp featuring a conical lampshade atop a decorative base. The base is sculpted to depict a cherub holding a heart, sitting on an ornate pedestal. A thin white cord extends from the base, suggesting it is an electric lamp. The overall aesthetic is elegant and whimsical, suitable for adding a touch of romantic or classical decor to a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "classical",
+    "material": "resin",
+    "usage": "functional, decorative",
+    "mood": "elegant, romantic",
+    "dimensions": {
+        "width": 1.186,
+        "height": 1.194,
+        "length": 0.943,
+        "unit": "meters"
+    }
+}

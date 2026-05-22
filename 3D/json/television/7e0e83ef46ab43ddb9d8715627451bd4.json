@@ -1,0 +1,26 @@
+{
+    "object": "television",
+    "description": "A retro-style television with a vibrant yellow casing and a rounded screen. The screen displays a gradient of purple and green, suggesting it's either on or stylized for visual appeal. It features two extendable antennas, a prominent silver dome on top, and control knobs and indicator lights on the right side. The overall design evokes a sense of nostalgia and mid-20th century technology, with a slightly whimsical and modern interpretation.",
+    "color": [
+        "yellow",
+        "dark blue",
+        "purple",
+        "green",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.377,
+        "height": 1.591,
+        "length": 0.988,
+        "unit": "meters"
+    }
+}

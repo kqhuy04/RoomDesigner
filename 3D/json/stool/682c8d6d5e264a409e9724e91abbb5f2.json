@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a black folding bar stool, viewed from the side. It features a round, padded seat and a slightly curved backrest. The frame is constructed from thin metal tubes that cross in an 'X' shape for stability, typical of folding chairs. A horizontal footrest is integrated into the leg structure, providing comfort for the user. The minimalist design and dark color make it a versatile piece for various settings.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar",
+        "dining room",
+        "game room"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "faux leather"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.872,
+        "height": 3.895,
+        "length": 1.427,
+        "unit": "meters"
+    }
+}

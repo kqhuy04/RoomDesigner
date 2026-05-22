@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a round ottoman with a richly patterned rug on top, featuring a plush light blue pillow. The rug's design is intricate, with a dominant red base adorned with floral motifs in shades of yellow, cream, and black. A prominent border with ornate swirling patterns encircles the central floral design. The pillow, a soft light blue, adds a touch of comfort and contrast to the vibrant rug. The overall effect is cozy and inviting, suggesting a place for relaxation or as a decorative accent piece.",
+    "color": [
+        "red",
+        "blue",
+        "yellow",
+        "cream",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "traditional",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.311,
+        "height": 0.341,
+        "length": 2.312,
+        "unit": "meters"
+    }
+}

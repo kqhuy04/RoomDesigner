@@ -1,0 +1,25 @@
+{
+    "object": "bed",
+    "description": "This image displays a 3D model of a single bed, viewed from a high-angle perspective against a plain grey background. The bed features a sturdy wooden frame with carved headboard and footboard panels, exhibiting a classic or traditional design. The mattress appears to be a dark blue-grey, covered by a rumpled duvet with a dark base color and a modern geometric pattern in white or light grey. A large, beige-colored pillow is partially tucked under the duvet, and a smaller, dark teal or blue-green pillow rests near the headboard. The bedding has a casual, slightly disheveled look, suggesting recent use or an inviting comfort. The overall presentation highlights the textures and details of the wooden frame and soft bedding.",
+    "color": [
+        "brown",
+        "dark blue",
+        "beige",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guestroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.108,
+        "height": 0.81,
+        "length": 2.007,
+        "unit": "meters"
+    }
+}

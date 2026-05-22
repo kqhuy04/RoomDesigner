@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a rendered 3D model of a wooden coffee table. The table has a rectangular top with slightly rounded edges and two drawers with ornate brass handles. It stands on four turned legs, giving it a traditional and slightly elegant appearance. The wood grain is clearly visible, suggesting a natural material. The table is presented against a plain, solid brown background, with a distinct shadow cast to the left, indicating a light source from the right.",
+    "color": [
+        "orange",
+        "brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.774,
+        "height": 1.172,
+        "length": 1.368,
+        "unit": "meters"
+    }
+}

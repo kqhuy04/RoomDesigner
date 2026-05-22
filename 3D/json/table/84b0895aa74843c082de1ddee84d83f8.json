@@ -1,0 +1,27 @@
+{
+    "object": "table",
+    "description": "A modern rectangular table with a sleek, minimalist design. The tabletop is a clean white, offering a bright and airy feel, while the base features a dark, angular structure that provides a striking contrast. The base is constructed from angled supports that create an open and contemporary silhouette. This table is designed for functional use, serving as a central point for dining, work, or display. Its simple yet sophisticated aesthetic makes it a versatile piece that can complement various interior design schemes.",
+    "color": [
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "kitchen",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.549,
+        "height": 0.441,
+        "length": 1.599,
+        "unit": "meters"
+    }
+}

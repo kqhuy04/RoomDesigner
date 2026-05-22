@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "A vintage-style adjustable stool with a wooden seat and backrest. The metal frame has a dark, weathered finish with hints of rust, giving it an industrial or workshop aesthetic. The seat and backrest are made of light-colored wood with a visible grain. The stool features a central threaded mechanism for adjusting the height, controlled by two knobs on the side. A circular metal footrest connects the four legs, providing stability. This stool appears to be designed for functional use, likely in a workshop, bar, or studio setting where its adjustable height and durable construction would be beneficial.",
+    "color": [
+        "brown",
+        "black",
+        "gray",
+        "wood"
+    ],
+    "appropriate_room": [
+        "workshop",
+        "bar",
+        "studio",
+        "kitchen"
+    ],
+    "style": "industrial",
+    "material": "wood, metal",
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 0.406,
+        "height": 1.084,
+        "length": 0.433,
+        "unit": "meters"
+    }
+}

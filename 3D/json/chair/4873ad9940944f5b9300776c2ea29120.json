@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a futuristic, angular chair with a high, segmented backrest that resembles wings or a stylized crown. The seat is hexagonal and appears to be a single piece that flows into the backrest. The chair has four slender, tapered legs that end in small, rounded feet. The overall design is sleek and modern, with a metallic sheen that reflects its surroundings. Small hints of red are visible within the crevices of the backrest and near the seat, adding a subtle touch of contrast to the predominantly dark, reflective surface.",
+    "color": [
+        "black",
+        "grey",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "waiting room"
+    ],
+    "style": "futuristic",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "modern, dramatic",
+    "dimensions": {
+        "width": 0.789,
+        "height": 1.057,
+        "length": 0.607,
+        "unit": "meters"
+    }
+}

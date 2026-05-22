@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "A minimalist floor lamp with a spherical top and a flared base. The lamp has a slender, adjustable stem with a visible joint, suggesting it can be altered in height. The top features a convex dome that casts a subtle shadow downwards, and a wider, saucer-like element below it. The base is wide and decorative, with a scalloped edge, providing stability. The overall design is sleek and unobtrusive, suitable for modern interiors. The lack of intricate details emphasizes its clean lines and functional aesthetic. It appears to be made of a uniform material, contributing to its monochromatic and modern feel.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.375,
+        "height": 0.938,
+        "length": 0.375,
+        "unit": "meters"
+    }
+}

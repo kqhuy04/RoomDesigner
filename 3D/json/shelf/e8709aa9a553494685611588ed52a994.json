@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "A tall, slender bookshelf with a minimalist design. It features four open, rectangular shelves supported by two thin, vertical wooden frames. The shelves appear to be made of a light-colored, possibly wood-based material with a subtle grain texture. The overall structure is simple and airy, designed for vertical storage and display. The dark background accentuates the clean lines of the bookshelf.",
+    "color": [
+        "white",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.34,
+        "height": 1.761,
+        "length": 0.7,
+        "unit": "meters"
+    }
+}

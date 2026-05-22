@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a complex geometric pattern. The base color is a creamy off-white, and it is adorned with intricate designs in shades of coral pink, deep navy blue, and hints of yellow. The border features a repeating motif of stylized floral or leaf shapes in coral and blue, framed by thinner lines of contrasting colors. The central field of the rug is filled with a repeating arrangement of diamond shapes and smaller floral elements, all rendered in the same color palette. The edges of the rug are finished with a fringe of white or cream threads. The overall impression is one of traditional craftsmanship and detailed artistry.",
+    "color": [
+        "cream",
+        "coral pink",
+        "navy blue",
+        "yellow",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.989,
+        "height": 0.021,
+        "length": 2.648,
+        "unit": "meters"
+    }
+}

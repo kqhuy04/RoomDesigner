@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a minimalist floor lamp featuring two spherical light sources. Each light source is a white globe, set on a slender, curved arm. The two arms connect to a single, vertical, cylindrical base. The overall design is very sleek and modern, characterized by smooth surfaces and simple geometric shapes, predominantly in white with subtle grey shading that gives it a refined, architectural quality. The lamp is designed to provide ambient lighting while also serving as a contemporary decorative element.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.254,
+        "height": 0.585,
+        "length": 0.154,
+        "unit": "meters"
+    }
+}

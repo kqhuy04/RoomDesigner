@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a rustic, handcrafted wooden stool with a semi-circular seat and three sturdy legs. The wood appears to be aged, showing visible grain, knots, and a slightly rough texture, suggesting a traditional or primitive construction method. The seat has three circular inlays, possibly for decorative purposes or to reinforce the leg attachments. The overall design is simple and functional, conveying a sense of durability and natural beauty. It looks like it could be used in a variety of settings, from a kitchen to a workshop, or even as a decorative accent piece.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "livingroom",
+        "bedroom",
+        "workshop"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.547,
+        "height": 0.543,
+        "length": 0.36,
+        "unit": "meters"
+    }
+}

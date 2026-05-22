@@ -1,0 +1,31 @@
+{
+    "object": "sofa",
+    "description": "This is a modern sofa with a minimalist design. The base of the sofa appears to be made of wood, providing a natural and warm element. The seat is upholstered in a dark charcoal gray fabric, giving it a sleek and contemporary look.  The back of the sofa is defined by a substantial, light gray concrete-like structure, which adds an industrial or architectural touch.  It is adorned with three throw pillows in varying textures and patterns: one is a textured mustard yellow, another is a textured white or cream, and the third features a green leaf pattern, adding a touch of color and comfort.",
+    "color": [
+        "gray",
+        "charcoal",
+        "wood brown",
+        "mustard yellow",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "patio",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.287,
+        "height": 1.5,
+        "length": 3.222,
+        "unit": "meters"
+    }
+}

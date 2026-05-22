@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A minimalist white pendant light with a unique cage design. The fixture features a circular ceiling mount from which a thin wire suspends a decorative element. This element consists of a pointed, open cage made of thin white struts, enclosing a central, cylindrical light source. The cage's geometric pattern creates an interesting play of light and shadow when illuminated. The overall design is sleek and modern, suitable for various interior styles.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.081,
+        "height": 0.739,
+        "length": 0.081,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "A contemporary LED chandelier designed with a minimalist aesthetic. It features two interconnected or overlapping white rings that serve as the primary light sources, likely housing integrated LED strips. The sculptural form creates a dynamic visual interest. The fixture is suspended by thin cables from a simple, round ceiling canopy, enhancing its sleek and airy appearance. This design is both functional, providing ample ambient light, and highly decorative, acting as a modern art piece for a room's ceiling.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "foyer",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "acrylic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.554,
+        "height": 0.515,
+        "length": 0.533,
+        "unit": "meters"
+    }
+}

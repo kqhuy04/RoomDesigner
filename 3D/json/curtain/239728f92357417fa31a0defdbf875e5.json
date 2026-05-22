@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "This is a full-length, light-colored curtain designed with neat vertical pleats. The fabric appears to have a subtle texture, suggesting it's made of a material like linen or a textured cotton blend. The pleats are evenly spaced and create a sense of order and formality. The curtain is shown hanging from a rod or track at the top, with its hemline showing a gentle wave, indicating its weight and drape. The overall appearance is clean, simple, and functional, intended to cover a window or doorway.",
+    "color": [
+        "beige",
+        "off-white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "dining room"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.115,
+        "height": 0.966,
+        "length": 0.05,
+        "unit": "meters"
+    }
+}

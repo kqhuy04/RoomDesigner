@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "A compact, two-drawer nightstand crafted from dark wood with a prominent grain pattern. The drawers have small, round wooden knobs. The nightstand is supported by three tapered legs that angle outwards, giving it a mid-century modern or retro aesthetic. The design is simple and functional, ideal for holding bedside essentials like a lamp, book, or alarm clock. The rich wood tone adds warmth and a touch of elegance to the piece.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "mid-century modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.495,
+        "height": 0.8,
+        "length": 0.511,
+        "unit": "meters"
+    }
+}

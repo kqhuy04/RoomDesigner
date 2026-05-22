@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a single-seater, modern recliner chair upholstered in dark gray leather. It features a plush, segmented backrest designed for comfort and support, along with generously padded armrests. The chair has a clean, contemporary design with subtle stitching details along the edges. A subtle lever or handle is visible on the right side, suggesting its reclining functionality. The overall aesthetic is one of comfort and relaxation, making it suitable for personal use in a home entertainment setting or a cozy reading nook.",
+    "color": [
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "home theater"
+    ],
+    "style": "modern",
+    "material": "leather",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.047,
+        "height": 1.26,
+        "length": 1.042,
+        "unit": "meters"
+    }
+}

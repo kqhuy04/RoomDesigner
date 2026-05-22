@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A white, modern chandelier with multiple cylindrical shades arranged in a circular pattern. The chandelier is suspended by a thin wire from a ceiling mount. Each shade has a textured surface, suggesting a material like fabric or a matte finish. The design is minimalist and functional, providing ambient lighting. The overall aesthetic is clean and contemporary, suitable for various interior design styles that favor simplicity and elegance. Its multiple light sources would be ideal for illuminating larger spaces.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.756,
+        "height": 0.87,
+        "length": 0.727,
+        "unit": "meters"
+    }
+}

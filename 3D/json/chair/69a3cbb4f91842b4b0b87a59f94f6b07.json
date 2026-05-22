@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a minimalist, white armchair with a clean, modern design. It features a sturdy frame with thin arms and legs, providing a light and airy aesthetic. The seat and back are upholstered in a complementary white fabric, creating a seamless look. A single white throw pillow is placed on the seat, adding a touch of comfort and visual interest. The overall design emphasizes simplicity and elegance, making it a versatile piece for various interior settings.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.694,
+        "height": 0.847,
+        "length": 0.72,
+        "unit": "meters"
+    }
+}

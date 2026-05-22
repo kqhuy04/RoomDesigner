@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a minimalist rectangular table with a light-colored top and dark, A-frame style legs. The tabletop has a smooth, flat surface with slightly rounded edges. The legs are constructed from dark grey or black metal, forming two distinct trestle-like supports that provide stability. The design is very clean and uncluttered, emphasizing functionality and simplicity. It appears to be a modern piece suitable for various contemporary settings.",
+    "color": [
+        "light beige",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "livingroom",
+        "diningroom",
+        "studio"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 1.201,
+        "height": 0.734,
+        "length": 0.604,
+        "unit": "meters"
+    }
+}

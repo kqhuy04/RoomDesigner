@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This 3D model showcases a comfortable and stylish armchair paired with a matching ottoman, both upholstered in a muted light blue fabric with a visible texture. The armchair features a high back, wide armrests, and deep cushioning for optimal comfort, creating a cozy and inviting appearance. It is supported by four slender, tapered dark-colored legs, which are also replicated on the accompanying rectangular ottoman. The ottoman features subtle tufting on its top surface, complementing the armchair's soft design and offering additional relaxation for the user's feet. The overall design emphasizes modern comfort and a sleek aesthetic.",
+    "color": [
+        "blue",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "lounge area"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "relaxing",
+    "dimensions": {
+        "width": 1.822,
+        "height": 1.086,
+        "length": 0.854,
+        "unit": "meters"
+    }
+}

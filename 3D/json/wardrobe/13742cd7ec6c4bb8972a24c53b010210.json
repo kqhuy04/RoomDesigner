@@ -1,0 +1,26 @@
+{
+    "object": "wardrobe",
+    "description": "This is a whimsical, stylized wooden wardrobe presented in a warm, translucent orange hue. The wardrobe features two upper doors and two drawers below. Each drawer has an ornate, metallic handle. The top of the wardrobe is crowned with a decorative, arched pediment. On the left side, the pediment is adorned with a large, realistic-looking eye and two red gem-like accents on either side. The right side of the pediment features a clock face with Roman numerals and hands, also flanked by red gem-like accents. The overall design suggests a fantastical or surreal piece of furniture.",
+    "color": [
+        "orange",
+        "gold",
+        "blue",
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "playroom",
+        "fantasy room"
+    ],
+    "style": "fantasy",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "whimsical",
+    "dimensions": {
+        "width": 2.135,
+        "height": 1.869,
+        "length": 0.694,
+        "unit": "meters"
+    }
+}

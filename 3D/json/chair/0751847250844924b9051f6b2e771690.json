@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a vintage armchair with a wooden frame and upholstered seat and back. The upholstery features a repeating geometric pattern in shades of beige, green, and blue, creating a subtle yet eye-catching design. The wooden frame is simple and functional, with clean lines and a natural wood finish. The armchair appears to be a single-seater, designed for comfort and relaxation. Its design suggests it might be from the mid-20th century, embodying a classic and somewhat retro aesthetic.",
+    "color": [
+        "beige",
+        "green",
+        "blue",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.472,
+        "height": 0.627,
+        "length": 0.561,
+        "unit": "meters"
+    }
+}

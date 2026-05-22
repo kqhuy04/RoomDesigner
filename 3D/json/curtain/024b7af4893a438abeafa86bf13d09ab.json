@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "A single, floor-length curtain with a soft, beige-taupe color. The fabric is draped with elegant pleats, creating a sense of volume and texture. The top of the curtain features gathered fabric, indicating it's likely hung from a rod or track. The material appears to be smooth and substantial, allowing it to fall gracefully. The overall impression is one of simple elegance and light diffusion, suitable for enhancing privacy and controlling light in a room.",
+    "color": [
+        "beige",
+        "taupe"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.588,
+        "height": 3.033,
+        "length": 0.222,
+        "unit": "meters"
+    }
+}

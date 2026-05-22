@@ -1,0 +1,28 @@
+{
+    "object": "wardrobe",
+    "description": "This is a charming, stylized wooden wardrobe, appearing to be a miniature or toy version. It features two doors with golden spherical knobs and two drawers below, each with a ring-shaped pull. The top of the wardrobe is adorned with several items: a stack of colorful books, a round clock with Roman numerals, a playful pink piggy bank, and a conical lamp with a star pattern. The overall design is whimsical and evokes a sense of childhood or fantasy.",
+    "color": [
+        "brown",
+        "pink",
+        "blue",
+        "yellow",
+        "red",
+        "white",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "playroom",
+        "nursery"
+    ],
+    "style": "cartoon",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.738,
+        "height": 2.0,
+        "length": 0.944,
+        "unit": "meters"
+    }
+}

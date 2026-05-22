@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a set of four white wire-frame bar stools. Each stool features a round, open-weave backrest and a circular cushioned seat. The legs are slender and splayed outwards, providing stability. The overall design is minimalist and airy, with a contemporary aesthetic. The white color contributes to a clean and modern look, making them suitable for a variety of interior design schemes.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.498,
+        "height": 1.056,
+        "length": 0.513,
+        "unit": "meters"
+    }
+}

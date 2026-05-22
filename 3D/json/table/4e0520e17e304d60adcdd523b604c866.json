@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "A rectangular table covered with a white tablecloth featuring a vibrant polka dot pattern. The tablecloth has an irregular, slightly crumpled texture, suggesting it might be made of fabric. The table itself has dark, slender legs that are partially visible beneath the draped cloth. The overall impression is one of a playful or festive setting, possibly for a party or a casual gathering. The polka dots are in various bright colors, adding to the cheerful aesthetic. The table appears to be of a standard size, suitable for dining or as a surface for activities.",
+    "color": [
+        "white",
+        "red",
+        "blue",
+        "yellow",
+        "green",
+        "purple"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "livingroom",
+        "playroom"
+    ],
+    "style": "contemporary",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.899,
+        "height": 0.332,
+        "length": 0.577,
+        "unit": "meters"
+    }
+}

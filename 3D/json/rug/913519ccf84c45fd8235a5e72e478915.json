@@ -1,0 +1,22 @@
+{
+    "object": "rug",
+    "description": "This 3D model depicts a grey rug placed on a dark textured surface, possibly a floor. The rug is rectangular and has a draped, uneven surface, suggesting it's made of a soft, flexible material like fabric. The lighting highlights the folds and contours of the rug, creating subtle shadows and bright spots. There's a faint circular outline visible behind the rug, which might indicate a light source or a subtle design element in the scene. The overall presentation is minimalist and focused on the texture and form of the rug.",
+    "color": [
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.596,
+        "height": 0.038,
+        "length": 2.847,
+        "unit": "meters"
+    }
+}

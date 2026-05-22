@@ -1,0 +1,23 @@
+{
+    "object": "shelf",
+    "description": "This is a white, modular storage unit designed with a grid of 12 cubic compartments. The unit stands vertically and appears to be made of a solid material, likely particleboard or MDF, finished with a smooth laminate. Each compartment is open at the front, allowing for easy access to store items. The clean lines and minimalist design suggest it's intended for organization and display. The lighting in the rendering casts shadows within the compartments, highlighting their depth and the structure of the unit. It seems versatile enough to hold books, decorative items, or other household essentials.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "playroom"
+    ],
+    "style": "minimalist",
+    "material": "wood composite",
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.392,
+        "height": 1.471,
+        "length": 1.118,
+        "unit": "meters"
+    }
+}

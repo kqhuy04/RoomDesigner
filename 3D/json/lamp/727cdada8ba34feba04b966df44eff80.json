@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "This is a modern floor lamp with a minimalist design. The lamp features a slim, white stand that curves gracefully at the top, forming a loop from which the lampshade hangs. The lampshade itself is a striking, elongated cone shape, wider at the opening and tapering towards the stem. A spherical light source is partially visible within the shade. The lamp is supported by a simple, circular base. The overall aesthetic is clean, elegant, and contemporary, making it a versatile piece that would complement various interior styles.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.297,
+        "height": 0.586,
+        "length": 0.29,
+        "unit": "meters"
+    }
+}

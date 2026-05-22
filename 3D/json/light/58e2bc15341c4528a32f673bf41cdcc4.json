@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A modern white pendant light with a unique, artistic design. The light features a cylindrical ceiling mount with subtle horizontal detailing. From this mount, a thin wire suspends a tangled, sculptural cluster of white curved tubes. The tubes are arranged in a seemingly chaotic yet deliberate manner, creating a dynamic and eye-catching form. The overall effect is one of abstract art, providing both illumination and a striking visual centerpiece. This design would suit contemporary interiors seeking a statement lighting fixture.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "dining room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.621,
+        "height": 1.13,
+        "length": 0.605,
+        "unit": "meters"
+    }
+}

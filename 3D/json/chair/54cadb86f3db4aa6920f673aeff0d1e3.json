@@ -1,0 +1,32 @@
+{
+    "object": "chair",
+    "description": "This is a unique hanging chair designed in a circular shape, reminiscent of a modern art sculpture. The frame is a dark, possibly black or bronze, metal hoop, which supports a woven net-like seat in a warm orange-red hue. The net forms a gentle curve, providing a comfortable seating area. Two pillows, one light blue and one green, are placed within the seat, adding a touch of color and comfort. The chair is mounted on a rocking base, also made of dark metal, allowing for gentle motion. The overall design is contemporary and eye-catching, suggesting it's intended as a statement piece for relaxation and leisure.",
+    "color": [
+        "orange",
+        "red",
+        "blue",
+        "green",
+        "black",
+        "bronze"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "relaxed",
+    "dimensions": {
+        "width": 3.146,
+        "height": 3.229,
+        "length": 1.381,
+        "unit": "meters"
+    }
+}

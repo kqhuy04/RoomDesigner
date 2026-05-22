@@ -1,0 +1,27 @@
+{
+    "object": "light",
+    "description": "This is a black, cylindrical flashlight with a textured grip. It features a prominent orange switch or button on the side, designed for easy activation. The top of the flashlight has a wide, ribbed head, suggesting a powerful beam projection. The body of the flashlight is segmented with horizontal ridges, enhancing grip and durability. Near the base, there is a small label with text, indicating the brand 'Akari' and a model number. The overall design is functional and robust, suitable for outdoor use or emergency situations. The flashlight stands upright on a flat base.",
+    "color": [
+        "black",
+        "orange",
+        "gray"
+    ],
+    "appropriate_room": [
+        "garage",
+        "basement",
+        "outdoor"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "practical",
+    "dimensions": {
+        "width": 0.103,
+        "height": 0.245,
+        "length": 0.103,
+        "unit": "meters"
+    }
+}

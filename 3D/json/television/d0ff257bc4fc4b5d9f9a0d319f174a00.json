@@ -1,0 +1,31 @@
+{
+    "object": "television",
+    "description": "This is a 3D model of a vintage television set, likely from the 1960s or 70s. It features a dark, curved cathode ray tube (CRT) screen framed by a textured dark brown wooden bezel. The main body of the television is a light, possibly off-white or cream, casing, giving it a classic boxy silhouette. On the right side, there are two prominent circular control knobs with metallic details, presumably for tuning and volume, along with a speaker grille below them. A 'HITACHI' logo and 'PULL-ON VOLUME' text are visible, indicating the brand and a knob function. The overall design evokes a sense of nostalgia for classic electronics.",
+    "color": [
+        "brown",
+        "light gray",
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.017,
+        "height": 0.011,
+        "length": 0.012,
+        "unit": "meters"
+    }
+}

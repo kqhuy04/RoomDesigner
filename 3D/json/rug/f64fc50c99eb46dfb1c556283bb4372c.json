@@ -1,0 +1,30 @@
+{
+    "object": "rug",
+    "description": "A rectangular rug with a vibrant geometric pattern. The main body of the rug is a deep red, adorned with repeating hexagonal motifs. These motifs feature intricate designs in shades of blue, yellow, white, and brown, creating a complex and eye-catching visual. Surrounding the central pattern is a bold border. The inner border consists of a jagged, triangular design in yellow and black and white. Further out, there are thin striped bands in various colors, including red, green, and blue. The rug has tasseled edges in a natural, beige color, adding a soft textural element. The overall design is dense and detailed, suggesting a traditional craftsmanship.",
+    "color": [
+        "red",
+        "yellow",
+        "blue",
+        "white",
+        "black",
+        "brown",
+        "green",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "tribal",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 3.068,
+        "height": 0.011,
+        "length": 1.587,
+        "unit": "meters"
+    }
+}

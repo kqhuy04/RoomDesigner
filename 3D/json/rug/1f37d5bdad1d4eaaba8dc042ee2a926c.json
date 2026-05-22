@@ -1,0 +1,29 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a black background adorned with a vibrant floral pattern. The flowers are depicted in various shades of red, orange, pink, and blue, with green leaves and stems scattered throughout. The rug has a textured appearance, suggesting it is woven from natural fibers. Along the edges, there is a decorative border featuring smaller floral motifs and geometric patterns in earthy tones like brown and beige. The rug is finished with a fringe on one of the shorter ends, composed of loosely hanging threads in a light beige color. The overall design is rich and intricate, giving it a traditional or bohemian aesthetic.",
+    "color": [
+        "black",
+        "red",
+        "orange",
+        "pink",
+        "blue",
+        "green",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 4.239,
+        "height": 0.016,
+        "length": 2.076,
+        "unit": "meters"
+    }
+}

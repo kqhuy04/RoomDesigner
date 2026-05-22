@@ -1,0 +1,23 @@
+{
+    "object": "wardrobe",
+    "description": "A dark wood wardrobe with elegant detailing. It features two paneled doors with ornate, curved outlines, reminiscent of classic furniture design. The top of the wardrobe is adorned with a decorative molding, and it stands on four cabriole-style feet, adding a touch of sophistication. The wood grain is visible, suggesting a natural and rich material. The overall aesthetic evokes a sense of traditional craftsmanship and timeless elegance, making it a substantial and distinguished piece of furniture.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.332,
+        "height": 1.73,
+        "length": 0.805,
+        "unit": "meters"
+    }
+}

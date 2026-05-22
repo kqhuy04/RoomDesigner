@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a 3D model of a tufted ottoman. The ottoman appears to be upholstered, with a button-tufted top surface that creates a diamond pattern. The sides of the ottoman are also upholstered and seem to have a slightly rounded or padded appearance. The overall form is compact and cube-like, suggesting it is designed for seating or as a footrest. The lighting in the preview casts soft shadows, highlighting the texture and depth of the tufting. The model is rendered with a subtle grayish-blue hue and is set against a neutral, slightly blurred background, which helps to draw attention to the object itself.",
+    "color": [
+        "gray",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "contemporary",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.072,
+        "height": 1.017,
+        "length": 1.073,
+        "unit": "meters"
+    }
+}

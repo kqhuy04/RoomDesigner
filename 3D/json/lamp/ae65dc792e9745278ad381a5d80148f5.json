@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "The lamp features a minimalist and modern design. It consists of a cylindrical white lampshade atop a geometric wireframe base. The base is an open, cage-like structure formed by interconnected white lines that create a sort of egg shape. The overall aesthetic is clean, simple, and contemporary, making it a versatile piece that could fit into various interior styles. The combination of the solid lampshade and the airy wireframe provides a visually interesting contrast.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "metal, fabric",
+    "usage": "functional, decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.348,
+        "height": 0.621,
+        "length": 0.348,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "light",
+    "description": "This 3D model depicts a minimalist pendant light fixture designed for ceiling installation. It features a light blue cylindrical ceiling mount with vertical slotted details, from which a thin rod or cable extends downwards. At the end of this suspension, there's a central light blue cylindrical body that branches out to support three individual light heads. Each light head consists of a light purple-grey ring-like structure, possibly housing a light bulb, and is angled slightly outwards, suggesting multi-directional illumination. The overall design is clean and geometric, emphasizing functionality and modern aesthetics.",
+    "color": [
+        "light blue",
+        "white",
+        "light grey",
+        "pale yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "kitchen",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.7,
+        "height": 1.151,
+        "length": 0.639,
+        "unit": "meters"
+    }
+}

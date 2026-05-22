@@ -1,0 +1,26 @@
+{
+    "object": "shelf",
+    "description": "This is a minimalist shelving unit with a modern design, featuring two wooden shelves supported by sleek black metal rods. The shelves appear to be made of a rich, dark wood with a visible grain, suggesting a natural and possibly polished finish. The metal rods are uniformly spaced, providing a clean and organized look. The base of the unit is a solid wooden rectangle, mirroring the material and color of the shelves, which grounds the structure and adds stability. The overall aesthetic is simple and functional, making it suitable for displaying items or for light storage. The contrast between the warm wood tones and the stark black metal creates a sophisticated and contemporary feel.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.48,
+        "height": 0.73,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

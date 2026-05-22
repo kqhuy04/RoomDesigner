@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "This is a metal tire rack designed for storing multiple tires. It features a sturdy, multi-tiered construction with horizontal shelves to hold the tires in place. The rack is open on the sides, allowing for easy access to the tires. The frame is made of gray metal, providing a durable and practical storage solution. The tires themselves are black and appear to be standard automotive tires with visible tread patterns. The overall design is functional and industrial, prioritizing utility and space-saving storage for automotive parts.",
+    "color": [
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "garage",
+        "workshop",
+        "storage room"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.848,
+        "height": 2.611,
+        "length": 2.5,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "A modern, multi-level staircase with an open-riser design, featuring wooden treads and white risers. The staircase is integrated into a central structure that appears to be a residential or commercial building. The overall aesthetic is clean and minimalist, with a focus on light and airy spaces. The structure has a concrete exterior, and the staircases are designed to be visually appealing and functional. The surrounding platforms are made of wood, adding a natural element to the design. This staircase is designed to connect different levels of a building in a stylish and efficient manner.",
+    "color": [
+        "white",
+        "wood",
+        "gray",
+        "beige"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "lobby",
+        "interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.057,
+        "height": 2.63,
+        "length": 2.658,
+        "unit": "meters"
+    }
+}

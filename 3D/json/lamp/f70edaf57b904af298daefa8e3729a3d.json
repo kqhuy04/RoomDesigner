@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a minimalist white lamp. It features a cylindrical lampshade that appears to be made of a smooth, matte material. Below the lampshade, there is a distinctly shaped base that tapers to a rounded point, resembling a teardrop or a stylized bud. The entire structure is a clean, uniform white, suggesting a modern and unobtrusive design. The lamp is presented against a neutral gray background, which further emphasizes its minimalist aesthetic and clean lines. The shadow cast by the lamp is soft and diffused, contributing to the overall serene and uncluttered feel of the object.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.346,
+        "height": 0.511,
+        "length": 0.341,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a modern interior staircase with a wooden railing and balusters. The staircase appears to be a multi-level design, with a landing that includes a wooden floor and a continuation of the railing. The railing has a warm brown hue and features vertical balusters spaced evenly. Below the landing, another section of the staircase is visible, suggesting it connects different floors. The surrounding environment is rendered with minimalist gray walls and a light wood floor, emphasizing the architectural elements. The overall impression is clean and contemporary, with a focus on natural materials and functional design. The curved edge of the landing adds a touch of softness to the structure.",
+    "color": [
+        "brown",
+        "wood",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "mezzanine"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.624,
+        "height": 1.617,
+        "length": 2.509,
+        "unit": "meters"
+    }
+}

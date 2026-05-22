@@ -1,0 +1,20 @@
+{
+    "object": "table",
+    "description": "This is a minimalist white dressing table with a curved back panel and two drawers. It stands on four tapered legs, giving it an elegant and classic silhouette. The design is simple and clean, focusing on functionality with the two drawers for storage. The overall aesthetic is understated and refined, making it a versatile piece that can fit into various bedroom styles. The bright white color enhances its clean lines and contributes to a sense of spaciousness and light in a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.794,
+        "height": 1.041,
+        "length": 1.174,
+        "unit": "meters"
+    }
+}

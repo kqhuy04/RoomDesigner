@@ -1,0 +1,31 @@
+{
+    "object": "television",
+    "description": "A vintage, blue CRT television with a screen displaying a hazy landscape of a hill or mountain by the water during sunset. The television features a black bezel around the screen, a control panel with three small circular buttons, a vertical slider, and two larger circular dials. Below the controls, there's a speaker grille and a circular emblem with the text 'CAMSTEIN' embossed on it. An antenna extends from the top of the television. The overall aesthetic suggests a retro or early digital era.",
+    "color": [
+        "blue",
+        "black",
+        "gray",
+        "white",
+        "yellow",
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.532,
+        "height": 3.798,
+        "length": 3.035,
+        "unit": "meters"
+    }
+}

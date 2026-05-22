@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a uniquely designed wall lamp with a lampshade resembling a traditional drum shape. The base of the lamp is crafted to look like a cluster of stylized white branches, intricately tied together with what appears to be rope or cord, also in white. One of these branches extends outwards to the right, forming a part of the lamp's structure and potentially serving as a decorative element. The overall aesthetic is organic and artistic, with a clean, monochromatic finish. It suggests a blend of natural inspiration with modern design, suitable for creating a subtle yet distinctive lighting feature on a wall.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "contemporary",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.549,
+        "height": 0.568,
+        "length": 0.247,
+        "unit": "meters"
+    }
+}

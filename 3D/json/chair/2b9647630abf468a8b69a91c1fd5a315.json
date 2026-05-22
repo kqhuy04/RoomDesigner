@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a 3D rendering of a mid-century modern style armchair and ottoman set. The chair features a high back with a headrest, tufted upholstery on the seat and back, and integrated armrests. It's supported by a swivel base with four legs. The matching ottoman is rectangular with tufted upholstery and a similar base. The design evokes comfort and a touch of retro elegance, making it a focal point in a reading nook or a stylish living space.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.278,
+        "height": 0.366,
+        "length": 0.55,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a modern chandelier designed to resemble a blooming flower. It features multiple layered petals that create a dynamic and organic shape. The chandelier is suspended from the ceiling by a thin cord and a circular canopy. The overall design is sleek and sculptural, making it a striking statement piece for any room. The white finish gives it a clean and minimalist aesthetic, allowing the intricate form of the 'flower' to be the focal point. It's designed to provide ambient lighting while adding a touch of artistic flair.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional, decorative",
+    "mood": "minimalist, elegant",
+    "dimensions": {
+        "width": 0.635,
+        "height": 0.965,
+        "length": 0.624,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist white stool featuring a square-shaped seat and four sturdy, cylindrical legs. A distinctive U-shaped sling, made from a flexible material like fabric or leather, is suspended between two of the legs, serving as an integrated storage pocket. The design emphasizes clean lines, smooth surfaces, and a monochromatic aesthetic. The stool appears to be made from a solid material, possibly wood, painted in a uniform white finish, presenting a modern and functional piece of furniture.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.298,
+        "height": 0.45,
+        "length": 0.473,
+        "unit": "meters"
+    }
+}

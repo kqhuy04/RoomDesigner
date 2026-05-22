@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a modern, designer chair with a unique, sculptural form. The seat and backrest are molded into a flowing, organic shape, suggesting comfort and support. The chair features integrated armrests that curve gracefully from the back. Its base consists of four slender, splayed legs that provide stability while maintaining a light and airy aesthetic. The overall design is minimalist, emphasizing clean lines and a sleek silhouette, making it a striking piece that could serve as a focal point in a contemporary interior.",
+    "color": [
+        "black",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.937,
+        "height": 1.03,
+        "length": 0.981,
+        "unit": "meters"
+    }
+}

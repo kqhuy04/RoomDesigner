@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow bookshelf featuring a simple, rectangular design. It comprises five open shelves, providing ample storage space. The structure consists of two vertical side panels and five horizontal shelves, all appearing to be made from wood with a natural or light stained finish. The shelving units are evenly spaced, creating a functional and organized appearance. Its clean lines and unadorned aesthetic suggest a focus on utility and minimalist design.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office",
+        "hallway"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.001,
+        "height": 1.8,
+        "length": 0.3,
+        "unit": "meters"
+    }
+}

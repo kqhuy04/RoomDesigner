@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, slender, white cabinet with a minimalist design. It has a smooth, matte finish and stands upright on a subtle base. On the front face, there are two small, abstract, metallic elements that resemble stylized hooks or perhaps a decorative emblem. The cabinet's clean lines and simple form suggest it's designed for modern or contemporary spaces, offering discreet storage or display capabilities. Its neutral color makes it versatile for various interior decors.",
+    "color": [
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "plastic",
+    "usage": "storage",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.961,
+        "height": 1.741,
+        "length": 0.959,
+        "unit": "meters"
+    }
+}

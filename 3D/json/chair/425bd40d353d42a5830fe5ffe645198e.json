@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model preview of a chair seat. The seat is a soft white, with a rounded, slightly trapezoidal shape. It appears to be upholstered or made of a material that mimics fabric or a cushion. The edges are gently curved, suggesting a modern and comfortable design. The lighting in the preview highlights the subtle contours and creates a soft shadow underneath, giving it a sense of volume and presence. The overall impression is one of simplicity and clean lines, suitable for a contemporary setting.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.406,
+        "height": 0.051,
+        "length": 0.61,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "sofa",
+    "description": "This is a sleek and modern sofa featuring a distinct futuristic design. Upholstered in a glossy black material, likely leather or a high-quality faux leather, it presents a sophisticated and clean aesthetic. The most prominent feature is the integrated white LED-like lighting strips that outline the top edges of the backrest and armrests, giving the sofa a luminous, high-tech glow. It appears to be a three-seater, designed with clean lines and angular armrests, contributing to its contemporary silhouette. The sofa sits on subtle, possibly metallic, legs that blend with its refined appearance. Its striking visual elements make it a statement piece suitable for various modern interiors.",
+    "color": [
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "game_room",
+        "media_room"
+    ],
+    "style": "futuristic",
+    "material": [
+        "leather",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "cool",
+    "dimensions": {
+        "width": 2.499,
+        "height": 1.059,
+        "length": 1.211,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A plush armchair with a rich brown leather exterior and intricately textured fabric upholstery on the seat, armrests, and headrest. The design features elegant curved lines on the base, accented by decorative white studs and darker trim. A braided pattern adds a touch of sophistication to the front lower section. This armchair appears to be designed for comfort and style, suitable for a variety of interior settings.",
+    "color": [
+        "brown",
+        "tan",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "traditional",
+    "material": [
+        "leather",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.098,
+        "height": 0.712,
+        "length": 0.72,
+        "unit": "meters"
+    }
+}

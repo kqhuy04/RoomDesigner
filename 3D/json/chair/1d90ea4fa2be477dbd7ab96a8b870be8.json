@@ -1,0 +1,34 @@
+{
+    "object": "chair",
+    "description": "This collection features a diverse array of seating options, from sleek modern stools to elegantly designed chairs. The collection includes a minimalist teal stool with a unique, angular design, perfect for adding a pop of color and contemporary flair to any space. Adjacent to it stands a simple wooden stool, embodying rustic charm and practicality. Further in the composition, a light gray chair with thin metal legs offers a clean, airy aesthetic. Next, a striking bar stool crafted from rich, warm-toned wood showcases a classic design with a comfortable seat and backrest. Finally, a distinctly modern chair with a curved, light-colored seat and dark cushion, supported by wooden legs, provides a stylish and comfortable seating solution. Together, these pieces represent a blend of functionality and design, suitable for various indoor settings.",
+    "color": [
+        "teal",
+        "wood brown",
+        "gray",
+        "white",
+        "dark gray",
+        "blue"
+    ],
+    "appropriate_room": [
+        "living room",
+        "kitchen",
+        "dining room",
+        "bar",
+        "office"
+    ],
+    "style": "modern, minimalist, rustic",
+    "material": [
+        "plastic",
+        "wood",
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "diverse, contemporary, classic",
+    "dimensions": {
+        "width": 2.638,
+        "height": 1.471,
+        "length": 2.068,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with intricate geometric and floral patterns. The central field features a muted brown and purple-toned design with star-like motifs and angular lines. It is bordered by a vibrant band of yellow with repeating blue and red floral elements, followed by a wider blue border with more detailed floral and avian-inspired motifs in red, yellow, and white. The rug has a fringed edge on one of the shorter sides, with the fringe appearing in shades of light grey and muted blue. The overall impression is one of traditional craftsmanship and rich, earthy tones.",
+    "color": [
+        "brown",
+        "purple",
+        "blue",
+        "red",
+        "yellow",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.963,
+        "height": 0.008,
+        "length": 1.003,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is a 3D rendering of a vanity table. The table features a rectangular structure with a clear mirror mounted on top. The mirror is bordered by a series of light bulbs arranged around its perimeter, creating a well-lit area for makeup application or grooming. The table itself has a simple, minimalist design, with straight lines and a clean, unadorned surface. There are several circular indentations along the top surface of the table, potentially to hold makeup brushes or other beauty products. The color is a muted gray-white, giving the piece a neutral and versatile aesthetic.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "bathroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.575,
+        "height": 1.908,
+        "length": 1.174,
+        "unit": "meters"
+    }
+}

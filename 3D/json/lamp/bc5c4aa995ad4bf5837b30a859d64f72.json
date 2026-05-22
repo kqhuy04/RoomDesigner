@@ -1,0 +1,28 @@
+{
+    "object": "lamp",
+    "description": "This 3D model presents an elegant table lamp with a classic design. It features a conical lampshade characterized by distinct vertical pleats or ribs. The lampshade sits atop a gracefully twisted column, which forms the main stem of the lamp. The column connects to a wide, ornate base adorned with intricate sculpted details and supported by four decorative feet, suggesting a traditional or baroque aesthetic. The entire object is rendered in a clean, monochrome white or light grey, emphasizing its form and decorative elements. It is designed to be both functional as a light source and a decorative accent.",
+    "color": [
+        "white",
+        "light grey"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "resin",
+        "ceramic"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.398,
+        "height": 0.632,
+        "length": 0.398,
+        "unit": "meters"
+    }
+}

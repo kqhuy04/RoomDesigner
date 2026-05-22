@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern Acapulco chair designed for comfort and style. It features a distinctive oval-shaped woven seat made of dark cord material, creating a visually appealing pattern that radiates from the center. The chair is supported by a sleek, minimalist black metal frame with three legs that provide stability. The open design of the seat allows for breathability and a sense of lightness. This chair is ideal for adding a contemporary touch to various outdoor or indoor spaces, offering a comfortable seating option that combines both aesthetic appeal and functionality. Its unique silhouette makes it a statement piece, perfect for lounging or as a decorative accent.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "garden"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "cord"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.846,
+        "height": 0.923,
+        "length": 0.926,
+        "unit": "meters"
+    }
+}

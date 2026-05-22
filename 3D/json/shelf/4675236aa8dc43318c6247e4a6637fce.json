@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a simple, modern shelf with a clean, minimalist design. It appears to be made of a solid material with a smooth, matte finish. The shelf is rectangular in shape and has a subtle gradient in color, suggesting a natural material like wood or stone, or possibly a textured synthetic material. Its design is understated, focusing on form and function, making it a versatile piece for various interior styles. The shelf is presented in a way that emphasizes its clean lines and subtle texture, suitable for displaying items or as a standalone decorative element.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood, stone, or composite material",
+    "usage": "functional, decorative",
+    "mood": "minimalist, neutral",
+    "dimensions": {
+        "width": 2.478,
+        "height": 1.078,
+        "length": 0.124,
+        "unit": "meters"
+    }
+}

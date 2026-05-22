@@ -1,0 +1,22 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, modular shelf unit, primarily white, with an L-shaped configuration. It features a combination of open shelving and what appear to be closed cabinet sections along the vertical arm of the 'L'. The horizontal arm extends outwards with open shelf spaces, including one smaller, more cubical shelf unit integrated within it. The design is clean and geometric, suggesting a minimalist aesthetic. The unit is depicted against a plain, light gray background, highlighting its form and structure.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.0,
+        "height": 0.83,
+        "length": 1.1,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a patio umbrella with a built-in table. The umbrella features a large, octagonal canopy in a muted brown color, supported by a silver metal frame with numerous radiating spokes. The canopy edges are scalloped, giving it a classic umbrella shape. Below the canopy, a round, wooden table is attached to the central pole. The table has a natural wood grain texture and a simple, flat surface. The pole is made of silver metal and is anchored by a hexagonal, textured base, likely designed to provide stability. The overall impression is one of outdoor furniture designed for relaxation or dining in a patio or garden setting.",
+    "color": [
+        "brown",
+        "silver",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "patio",
+        "garden",
+        "balcony",
+        "outdoor space"
+    ],
+    "style": "outdoor",
+    "material": [
+        "fabric",
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "relaxed",
+    "dimensions": {
+        "width": 0.603,
+        "height": 0.372,
+        "length": 0.603,
+        "unit": "meters"
+    }
+}

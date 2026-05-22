@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "A single, flowing curtain hangs from a minimalist rod. The fabric is a pale, muted color, possibly a light gray or off-white, with a soft sheen that suggests a delicate material like silk or a high-quality synthetic blend. The curtain is gathered at the top, creating elegant vertical pleats that cascade down to pool slightly on the floor. The folds are soft and natural, indicating a lightweight and pliable fabric. The rod is a simple, slender metal bar, extending horizontally from the wall with small, discreet end caps. The overall presentation is clean, understated, and modern, focusing on the drape and texture of the fabric.",
+    "color": [
+        "light gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "dining room",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "serene",
+    "dimensions": {
+        "width": 0.893,
+        "height": 0.887,
+        "length": 0.204,
+        "unit": "meters"
+    }
+}

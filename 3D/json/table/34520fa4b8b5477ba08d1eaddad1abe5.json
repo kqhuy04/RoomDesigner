@@ -1,0 +1,21 @@
+{
+    "object": "table",
+    "description": "This is a rustic wooden nightstand with a single drawer and an open shelf below. The design features thick, chunky legs and posts, giving it a sturdy, handcrafted feel. The wood grain is pronounced, adding to its natural and somewhat primitive aesthetic. A simple round wooden knob serves as the drawer pull. On the lower shelf, a single book with a dark cover and light-colored pages is placed upright, leaning slightly. The overall impression is one of simple utility and a connection to natural materials, suggesting it might be found in a cozy cabin or a rustic-themed bedroom.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 3.762,
+        "height": 3.306,
+        "length": 3.319,
+        "unit": "meters"
+    }
+}

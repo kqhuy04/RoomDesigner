@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "This is a white lamp with a cylindrical lampshade atop a stylized rhino head base. The rhino head is rendered in a low-poly, geometric style, giving it a modern and abstract appearance. The base is circular, providing stability. The overall design is minimalist and striking, intended to be a functional piece of art rather than a traditional lamp. The stark white color enhances its sculptural quality and allows it to blend with various decor styles while still making a statement.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern, minimalist",
+    "material": "unknown (likely resin or ceramic)",
+    "usage": "functional, decorative",
+    "mood": "minimalist, artistic",
+    "dimensions": {
+        "width": 0.343,
+        "height": 0.716,
+        "length": 0.343,
+        "unit": "meters"
+    }
+}

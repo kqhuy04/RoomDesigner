@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a tall, narrow cabinet with a light wood finish. It features two doors on the upper section, one of which is slightly ajar, revealing an interior shelf. The cabinet has a single drawer at the bottom, which is partially pulled out. The drawer has a small, round, dark knob. A distinctive orange handle is attached to the right-hand upper door. The overall design appears to be simple and functional, suggesting it could be part of a modular furniture set or a standalone storage unit.",
+    "color": [
+        "light brown",
+        "orange",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "laundry room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.615,
+        "height": 1.228,
+        "length": 0.528,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "This is a 3D model of a classic adjustable desk lamp. The lamp has a matte gray finish and features a conical shade, two articulated arms, and a circular base. The design is functional and utilitarian, with visible joints and pivot points that suggest adjustability. A subtle watermark of a cube is present in the background, indicating this is likely a render from a 3D modeling or rendering software. The overall aesthetic is clean and modern, suitable for a workspace or study area.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "office",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.512,
+        "height": 1.292,
+        "length": 1.126,
+        "unit": "meters"
+    }
+}

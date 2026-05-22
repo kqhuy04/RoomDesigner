@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A white, woven table lamp with a cylindrical lampshade. The lampshade has a textured appearance, resembling tightly woven fibers. The base of the lamp is ornate and features a spindle-like design with bulbous sections and fluted details. The entire lamp is rendered in a monochromatic white, suggesting a clean and possibly minimalist aesthetic. It appears to be a decorative lighting fixture, designed to add ambient light and a touch of style to a room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.361,
+        "height": 0.723,
+        "length": 0.361,
+        "unit": "meters"
+    }
+}

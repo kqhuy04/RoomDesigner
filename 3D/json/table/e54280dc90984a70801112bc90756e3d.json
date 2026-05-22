@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a small, modern, light blue table with a simple, minimalist design. It features a rectangular top with slightly rounded corners, supported by four sturdy legs. The legs appear to be adjustable in height, indicated by the segmented design, which adds a practical and versatile element to the table. The overall aesthetic is clean and uncluttered, making it suitable for various settings where a functional and unobtrusive surface is needed. The material appears to be a smooth, solid plastic or composite, giving it a contemporary feel.",
+    "color": [
+        "light blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.471,
+        "height": 0.947,
+        "length": 1.281,
+        "unit": "meters"
+    }
+}

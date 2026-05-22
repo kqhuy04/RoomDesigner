@@ -1,0 +1,25 @@
+{
+    "object": "wardrobe",
+    "description": "This is a minimalist wardrobe with a clean, modern design. It features two large doors at the top, which appear to open to reveal storage space. Below these doors are two drawers, providing additional storage for clothing or other items. The wardrobe is supported by two angled wooden legs that add a touch of warmth and natural texture to the design. The overall aesthetic is simple and functional, with a focus on clean lines and smooth surfaces. The rounded corners on the top edges give it a softer, more inviting appearance. This piece would be a practical and stylish addition to a bedroom or dressing room.",
+    "color": [
+        "beige",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "particle board"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.213,
+        "height": 1.9,
+        "length": 0.617,
+        "unit": "meters"
+    }
+}

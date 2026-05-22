@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "A collapsible lounge chair with a green and blue striped fabric seat and back. The chair has a metal frame that folds for easy storage and transport. The armrests are black and appear to be made of a soft material. The chair is reclined, suggesting it's designed for relaxation, likely outdoors or in a casual setting. Its lightweight construction and foldable design make it ideal for patios, balconies, or even beach use.",
+    "color": [
+        "green",
+        "blue",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "patio",
+        "balcony",
+        "beach"
+    ],
+    "style": "casual",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "relaxed",
+    "dimensions": {
+        "width": 2.463,
+        "height": 1.908,
+        "length": 1.431,
+        "unit": "meters"
+    }
+}

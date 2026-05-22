@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model of a modern, minimalist sofa. It features a deep brown upholstered seat and backrest with a sleek, streamlined design. The sofa is supported by thin, metallic legs that give it a floating appearance. The overall aesthetic is clean and sophisticated, suggesting a contemporary interior design. The compact size and simple form make it suitable for various living spaces, from apartments to larger homes.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.606,
+        "height": 0.8,
+        "length": 1.22,
+        "unit": "meters"
+    }
+}

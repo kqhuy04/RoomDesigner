@@ -1,0 +1,28 @@
+{
+    "object": "rack",
+    "description": "This is a detailed 3D model of a tall, black server rack filled with multiple tiers of server units. Each server unit appears to have multiple components, possibly hard drives or other modules, with some featuring small blue or green indicator lights, suggesting they are active. The rack has a sleek, professional design, typical of data centers or IT infrastructure rooms. The overall impression is one of advanced technology and complex computing power, presented in a clean and organized manner. The subtle lighting effects on the server units add to the realistic representation of functional electronic equipment.",
+    "color": [
+        "black",
+        "gray",
+        "blue",
+        "green"
+    ],
+    "appropriate_room": [
+        "datacenter",
+        "office",
+        "workspace"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "techy",
+    "dimensions": {
+        "width": 0.186,
+        "height": 0.44,
+        "length": 0.1,
+        "unit": "meters"
+    }
+}

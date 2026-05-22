@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a multi-level, modern staircase enclosed within transparent glass structures. Each level features a light wooden platform that serves as a landing or floor, with curved edges adding a subtle softness. The stairs themselves are made of wood, likely a warm brown tone, and are accompanied by slender wooden railings and vertical slats that extend upwards, creating a visual screen or barrier on the upper levels. The transparent glass walls provide an open, airy feel while showcasing the internal wooden elements. The structure is illuminated by an unseen light source casting shadows, highlighting the layered design and material textures.",
+    "color": [
+        "light wood",
+        "brown",
+        "white",
+        "clear"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "lobby",
+        "atrium",
+        "commercial_space"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.387,
+        "height": 2.349,
+        "length": 2.689,
+        "unit": "meters"
+    }
+}

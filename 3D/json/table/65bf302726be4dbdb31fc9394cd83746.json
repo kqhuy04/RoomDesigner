@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A modern nightstand with a minimalist design. It features a light wood grain finish on the main body and a contrasting white drawer front. The drawer has a subtle, integrated handle. The nightstand is supported by three tapered wooden legs, giving it a mid-century modern aesthetic. The overall construction appears to be made of wood, with a smooth finish on the drawer. Its compact size makes it suitable for smaller spaces.",
+    "color": [
+        "light brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "living room",
+        "hallway"
+    ],
+    "style": "mid-century modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.45,
+        "height": 0.54,
+        "length": 0.32,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a simple, modern chair rendered in 3D. It features a clean design with a square seat and a slatted backrest. The four legs are straight and taper slightly towards the bottom. The overall aesthetic is minimalist and functional, suggesting it's designed for everyday use in various settings. The lighting in the preview gives it a slightly soft, diffused look. The background is blurred, focusing all attention on the chair itself.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "kitchen",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.959,
+        "height": 1.488,
+        "length": 0.805,
+        "unit": "meters"
+    }
+}

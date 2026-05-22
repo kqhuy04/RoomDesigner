@@ -1,0 +1,24 @@
+{
+    "object": "wardrobe",
+    "description": "This 3D model depicts a modern, tall wardrobe with two doors. The doors are a dark, rich brown, likely a wood veneer, with a subtle grain visible. They are fitted with two simple, brushed metal handles, positioned vertically. The frame and edges of the wardrobe are highlighted with a lighter, possibly silver or white trim, creating a clean contrast. The base of the wardrobe also features a similar lighter trim, giving it a slightly elevated appearance. The overall design is minimalist and functional, intended for storage. The dark color and clean lines suggest it would fit well in various contemporary bedroom or dressing room settings.",
+    "color": [
+        "dark brown",
+        "silver",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood veneer, metal",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.341,
+        "height": 1.964,
+        "length": 0.791,
+        "unit": "meters"
+    }
+}

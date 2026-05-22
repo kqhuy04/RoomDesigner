@@ -1,0 +1,26 @@
+{
+    "object": "wardrobe",
+    "description": "A simple, two-door wardrobe with a light brown wood grain finish. It has two sleek, silver handles centrally placed on each door. The wardrobe stands on a thin, dark base, suggesting a modern and minimalist design. The wood texture appears smooth and uniform, indicating it could be laminate or a well-finished solid wood. Its rectangular form and clean lines make it a versatile piece of furniture, suitable for various storage needs without being overly ornate. The overall appearance is functional and unfussy.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "storage room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 1.5,
+        "height": 2.165,
+        "length": 0.676,
+        "unit": "meters"
+    }
+}

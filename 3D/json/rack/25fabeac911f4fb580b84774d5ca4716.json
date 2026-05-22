@@ -1,0 +1,21 @@
+{
+    "object": "rack",
+    "description": "This is a two-tiered white wire dish rack. The top tier is designed to hold plates, with numerous vertical slots to keep them upright and separated. Below this, the second tier is a flat grid surface, suitable for holding bowls, cups, or other kitchenware. The rack is supported by two curved uprights on each side, giving it a simple yet functional design. The entire structure appears to be made of white-coated metal wire, suggesting durability and ease of cleaning. It is a practical item for organizing and drying dishes in a kitchen.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.456,
+        "height": 1.63,
+        "length": 1.247,
+        "unit": "meters"
+    }
+}

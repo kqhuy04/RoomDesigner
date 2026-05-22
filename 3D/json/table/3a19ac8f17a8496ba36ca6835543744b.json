@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "This is a contemporary coffee table with a sleek glass top and a unique wooden base. The glass top is rectangular with slightly rounded corners, providing a clear and spacious surface. The base consists of two V-shaped wooden structures, positioned in a way that appears both artistic and functional, offering stability to the table. The wood has a warm, natural tone, highlighting its grain and texture. The minimalist design and combination of materials make it a versatile piece that can complement various interior styles, adding a touch of modern elegance to a living space. Its low profile suggests it is intended for use in a lounge or seating area.",
+    "color": [
+        "transparent",
+        "brown",
+        "wood grain"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.053,
+        "height": 0.366,
+        "length": 0.888,
+        "unit": "meters"
+    }
+}

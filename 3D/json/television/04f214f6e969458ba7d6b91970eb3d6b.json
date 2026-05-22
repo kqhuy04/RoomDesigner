@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "This is a stylized, retro-inspired television with a vibrant orange casing and a grey screen. It features two silver antennae extending upwards from the top, suggesting an older model. The design is simple and somewhat boxy, giving it a playful and nostalgic feel. The smooth, rounded edges of the casing contribute to its cartoonish aesthetic. This television appears to be a 3D rendered model, presented against a neutral grey background.",
+    "color": [
+        "orange",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "playroom"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.371,
+        "height": 3.074,
+        "length": 1.796,
+        "unit": "meters"
+    }
+}

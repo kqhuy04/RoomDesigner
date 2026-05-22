@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "A single, floor-length curtain panel in a muted dusty rose or mauve color, presented against a plain light grey background. The fabric features a subtle, interwoven light-colored zig-zag pattern, adding a touch of texture without being overly distracting. The curtain is gathered at the top, creating elegant, uniform vertical pleats and folds that extend to the bottom hem, suggesting a functional yet aesthetically pleasing window treatment. The overall appearance is clean and understated, emphasizing simplicity and softness.",
+    "color": [
+        "dusty rose",
+        "light grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "home office"
+    ],
+    "style": "modern minimalist",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.134,
+        "height": 2.014,
+        "length": 0.117,
+        "unit": "meters"
+    }
+}

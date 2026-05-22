@@ -1,0 +1,25 @@
+{
+    "object": "plant",
+    "description": "A small, potted plant with dark green leaves and delicate blue flowers. The plant is depicted with a sense of natural growth, with leaves fanning out and flowers clustered together. It appears to be a flowering ornamental plant, likely chosen for its aesthetic appeal. The rendering suggests it's a relatively compact specimen, suitable for indoor display.",
+    "color": [
+        "green",
+        "blue",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "ceramic",
+    "usage": "decorative",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.929,
+        "height": 0.568,
+        "length": 1.208,
+        "unit": "meters"
+    }
+}

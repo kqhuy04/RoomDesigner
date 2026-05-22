@@ -1,0 +1,27 @@
+{
+    "object": "light",
+    "description": "This is a modern white pendant light featuring a spherical shade composed of numerous overlapping, irregularly shaped flat discs, giving it a unique textured and sculptural appearance. The light hangs from the ceiling by multiple thin suspension wires connected to a circular canopy. A separate, smaller circular component on a short stem is also visible, likely an additional part of the lighting system or a mounting element. The design is clean and contemporary, making it both a functional light source and a striking decorative piece.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway",
+        "kitchen"
+    ],
+    "style": "contemporary",
+    "material": [
+        "metal",
+        "acrylic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.83,
+        "height": 0.646,
+        "length": 0.474,
+        "unit": "meters"
+    }
+}

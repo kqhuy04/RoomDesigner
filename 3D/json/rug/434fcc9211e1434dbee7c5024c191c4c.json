@@ -1,0 +1,25 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a distressed, abstract pattern. The pattern features a mix of earthy tones, including rust brown, beige, and grey, giving it a weathered or antique appearance. The texture appears soft and woven, suitable for adding warmth and visual interest to a floor space. The edges of the rug are neatly finished with a thin dark border. Its abstract design allows it to complement a variety of decor styles.",
+    "color": [
+        "brown",
+        "beige",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "abstract",
+    "material": "textile",
+    "usage": "functional",
+    "mood": "earthy",
+    "dimensions": {
+        "width": 2.054,
+        "height": 0.023,
+        "length": 1.266,
+        "unit": "meters"
+    }
+}

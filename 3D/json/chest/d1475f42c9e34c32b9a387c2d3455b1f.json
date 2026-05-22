@@ -1,0 +1,26 @@
+{
+    "object": "chest",
+    "description": "This is a 3D rendered model of a stylized chest, likely intended as a treasure chest or storage trunk. It features a rounded lid with prominent decorative bands and rivets, suggesting a classic construction of wood and metal. A latch with a padlock secures the front, and a circular handle is visible on the left side. The chest is depicted in a uniform light gray color, giving it a clean, untextured, and somewhat minimalist or low-poly aesthetic. It is presented against a plain, warm yellow background, with soft shadows indicating a light source from the upper left.",
+    "color": [
+        "light gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study",
+        "game room"
+    ],
+    "style": "stylized",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.86,
+        "height": 0.573,
+        "length": 0.479,
+        "unit": "meters"
+    }
+}

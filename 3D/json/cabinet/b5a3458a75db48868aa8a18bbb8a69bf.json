@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow, free-standing cabinet with a light wood grain finish. The cabinet features two doors, each equipped with a sleek, silver-toned bar handle. The doors appear to be partially open, revealing multiple internal shelves of varying lengths and heights, creating diverse storage compartments. The top and bottom sections are enclosed, while the middle section shows a mix of full-width and shorter shelves. The design is clean and functional, suggesting a contemporary aesthetic.",
+    "color": [
+        "light brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "engineered wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.04,
+        "height": 2.372,
+        "length": 0.908,
+        "unit": "meters"
+    }
+}

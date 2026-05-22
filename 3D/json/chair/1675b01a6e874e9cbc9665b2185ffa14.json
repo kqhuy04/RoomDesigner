@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a set of three lounge chairs. The first two chairs are identical and in good condition. They feature a simple wooden frame with brown upholstered cushions for the seat and back. The third chair appears to be in a state of disrepair or is designed to look weathered. It has a similar wooden frame, but the cushion is torn and appears to be partially burnt, with visible 'flames' or glowing embers. Logs are also placed near or on this chair, further emphasizing a theme of fire or destruction.",
+    "color": [
+        "brown",
+        "wood",
+        "gray",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "patio",
+        "garden"
+    ],
+    "style": "casual",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 2.102,
+        "height": 0.373,
+        "length": 0.558,
+        "unit": "meters"
+    }
+}

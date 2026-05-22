@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a square ottoman with a plush black upholstered top and a sturdy wooden frame. The wood has a warm, natural finish, showcasing its grain patterns. The ottoman's design is simple and modern, featuring clean lines and tapered legs that add a touch of elegance. It appears to be a versatile piece of furniture, suitable for use as a footrest, extra seating, or even as a low coffee table. The contrast between the dark, soft upholstery and the rich, natural wood creates a sophisticated and inviting aesthetic. Its compact size makes it ideal for various living spaces.",
+    "color": [
+        "black",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.7,
+        "height": 0.355,
+        "length": 0.705,
+        "unit": "meters"
+    }
+}

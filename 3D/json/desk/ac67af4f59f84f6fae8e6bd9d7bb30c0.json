@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "This is a sleek and modern gaming desk designed for comfort and functionality. It features a curved front edge for ergonomic positioning and ample surface area for monitors, keyboards, and other gaming peripherals. The desk has a dark, matte finish with vibrant red trim, giving it a dynamic and aggressive aesthetic. The legs are uniquely shaped, providing a stable base while maintaining a visually interesting profile. There's also a horizontal support bar in the back and two large, recessed panels that add to its distinctive gaming look. This desk is built to enhance the gaming experience, offering a dedicated space for competitive play or long streaming sessions.",
+    "color": [
+        "black",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "gameroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal, wood",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 1.4,
+        "height": 0.753,
+        "length": 0.892,
+        "unit": "meters"
+    }
+}

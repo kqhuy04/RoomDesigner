@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a vintage or rustic-style wooden stool, featuring a distressed teal or light blue paint finish that reveals hints of the underlying natural wood, especially on the edges and worn areas. The stool has an octagonal seat top and a sturdy three-legged base with a central adjustable mechanism, suggesting it might be a workshop or artist's stool. Its aged appearance contributes to a charming, well-used aesthetic, making it suitable for spaces that appreciate antique or reclaimed furniture. The sturdy construction implies durability and practical use, while its distinctive color and texture add a decorative element to any room. It evokes a sense of history and handcrafted quality.",
+    "color": [
+        "teal",
+        "light blue",
+        "brown"
+    ],
+    "appropriate_room": [
+        "workshop",
+        "studio",
+        "kitchen",
+        "cafe",
+        "livingroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 0.791,
+        "height": 1.253,
+        "length": 0.791,
+        "unit": "meters"
+    }
+}

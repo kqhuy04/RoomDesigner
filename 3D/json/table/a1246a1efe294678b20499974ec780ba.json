@@ -1,0 +1,20 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a white nightstand with three drawers. Each drawer has a curved front and a small, spherical knob. The nightstand has a simple, modern design with clean lines. The top surface is flat, and the sides are straight. The nightstand stands on four tapered legs, two visible at the front and likely two at the back. The overall aesthetic is minimalist and functional, suitable for a bedroom setting.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.619,
+        "height": 1.57,
+        "length": 1.373,
+        "unit": "meters"
+    }
+}

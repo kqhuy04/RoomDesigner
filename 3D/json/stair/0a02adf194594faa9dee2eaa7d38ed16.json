@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a modern, two-tiered staircase design, likely part of a larger architectural structure. The lower section features a set of wooden steps leading upwards, enclosed by glass panels and a metal railing. The upper tier extends outwards, also with a glass enclosure and railing, beneath a distinctive, angled roof. The base of the structure sits on a textured, light brown platform, suggesting it is integrated into a flooring or landscape element. The overall aesthetic is sleek and contemporary, with clean lines and a focus on transparency and light.",
+    "color": [
+        "wood",
+        "glass",
+        "metal",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "modern building"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.581,
+        "height": 1.708,
+        "length": 2.748,
+        "unit": "meters"
+    }
+}

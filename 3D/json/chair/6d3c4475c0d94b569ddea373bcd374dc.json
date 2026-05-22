@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a plush, white lounge chair with a matching ottoman. The chair features a high back with two cushioned sections, both adorned with button tufting. It has padded armrests and a generously sized seat cushion, also with button tufting. The ottoman mirrors the chair's design with its own tufted cushion and a distinctive five-pronged base. The entire set appears to be upholstered in a smooth, possibly leather or high-quality faux leather material, giving it a luxurious and comfortable feel. The overall aesthetic is modern and sophisticated, designed for ultimate relaxation.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.812,
+        "height": 0.843,
+        "length": 1.506,
+        "unit": "meters"
+    }
+}

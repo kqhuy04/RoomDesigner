@@ -1,0 +1,27 @@
+{
+    "object": "bench",
+    "description": "This is a park bench, featuring a sturdy construction with concrete supports and wooden slats for the seat and backrest. The seat is made of several planks of wood, finished with a warm brown stain, and attached to the concrete base. The backrest consists of three horizontal wooden slats, also stained brown, with a gray top slat, secured to the concrete supports with visible bolts. The concrete sides have a slightly curved design, adding to the bench's aesthetic appeal. The overall design provides a durable and comfortable seating option for outdoor public spaces.",
+    "color": [
+        "brown",
+        "gray",
+        "concrete"
+    ],
+    "appropriate_room": [
+        "park",
+        "garden",
+        "patio"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "peaceful",
+    "dimensions": {
+        "width": 2.399,
+        "height": 1.168,
+        "length": 0.964,
+        "unit": "meters"
+    }
+}

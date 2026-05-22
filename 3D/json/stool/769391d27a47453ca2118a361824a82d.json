@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a rectangular ottoman with a rounded top. It appears to be upholstered in a dark gray fabric with a subtle sheen, suggesting it could be faux leather or a similar material. The top surface has a seam running around its perimeter, creating a subtle visual separation between the top and the sides. The base of the ottoman is also rectangular and houses four short, dark-colored feet, likely made of wood, that are slightly tapered. The overall design is clean and contemporary, suitable for adding extra seating or as a footrest in a variety of living spaces. Its simple form and neutral color make it versatile and easy to integrate into different decor schemes.",
+    "color": [
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.054,
+        "height": 1.456,
+        "length": 2.027,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "This is a simple white desk with a computer monitor, keyboard, and mouse. There are also two small black figurines on the desk, one resembling a dog and the other a cat. The desk has a minimalist design with thin metal legs, and it appears to be placed in a room with a textured white wall. The overall impression is one of a functional workspace, possibly in a bedroom or study.",
+    "color": [
+        "white",
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 5.377,
+        "height": 5.377,
+        "length": 5.377,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "A rectangular rug with a traditional design. The central area is a warm, golden yellow with a subtle, textured pattern that mimics wood grain or a brushed fabric. It is bordered by an intricate pattern featuring a deep red inner band and a wider outer band with a repeating motif in cream, red, and black. The outermost edge of the rug appears to be a dark border, possibly black or dark brown. The rug is shown from a slightly elevated, angled perspective, resting on a plain, neutral background. The overall impression is one of classic elegance and warmth, suggesting it would be a focal point in a room.",
+    "color": [
+        "gold",
+        "yellow",
+        "red",
+        "cream",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.603,
+        "height": 0.006,
+        "length": 1.92,
+        "unit": "meters"
+    }
+}

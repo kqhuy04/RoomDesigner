@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "A minimalist pink desk with a light blue glass top. It features a set of three drawers on the right side, with the bottom two drawers partially open, revealing a light green interior. The desk has a simple, modern design with clean lines and a single leg on the left side and a pedestal with drawers on the right. The overall aesthetic is uncluttered and functional, suggesting a space for work or study.",
+    "color": [
+        "pink",
+        "blue",
+        "green",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "office",
+        "studio"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.791,
+        "height": 2.038,
+        "length": 1.777,
+        "unit": "meters"
+    }
+}

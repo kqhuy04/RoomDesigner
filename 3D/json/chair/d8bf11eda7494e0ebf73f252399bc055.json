@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a classic wingback armchair upholstered in a vibrant red and off-white plaid fabric. The chair features a tall, supportive back with distinctive winged sides, and gently curved armrests, providing an inviting and comfortable appearance. It has a removable seat cushion and is supported by four short, dark block feet. The plaid pattern is composed of broad red bands crossed by narrower off-white stripes, giving it a cozy and traditional aesthetic.",
+    "color": [
+        "red",
+        "cream",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "den"
+    ],
+    "style": "traditional",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.643,
+        "height": 2.027,
+        "length": 1.594,
+        "unit": "meters"
+    }
+}

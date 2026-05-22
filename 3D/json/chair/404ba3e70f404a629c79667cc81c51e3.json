@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "A dark blue upholstered wingback armchair with a high back and padded arms. The chair features button tufting on the backrest and a comfortable seat. It is supported by four short, dark wooden legs. The overall design is classic and sophisticated, offering a cozy and inviting place to relax. The fabric appears to have a subtle texture, adding depth to its appearance. This chair is ideal for reading, lounging, or as a statement piece in a room.",
+    "color": [
+        "blue",
+        "dark blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "library"
+    ],
+    "style": "traditional",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "cozy, elegant",
+    "dimensions": {
+        "width": 1.021,
+        "height": 1.006,
+        "length": 1.066,
+        "unit": "meters"
+    }
+}

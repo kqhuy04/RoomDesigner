@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A modern, minimalist nightstand featuring two drawers with grooved fronts. The body of the nightstand is primarily white with subtle red and blue accents visible on the top rear edge and a red panel on the side, adding a touch of color. The drawers are extended, showcasing their sleek design and the internal shelving. The base of the nightstand has a metallic trim. Its clean lines and neutral color palette make it a versatile piece for contemporary bedroom decor.",
+    "color": [
+        "white",
+        "red",
+        "blue",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.5,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

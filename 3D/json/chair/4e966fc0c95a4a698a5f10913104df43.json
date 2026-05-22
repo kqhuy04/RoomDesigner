@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a contemporary chair with a minimalist design. It features a circular, cushioned seat and a curved backrest, both upholstered in a textured, off-white fabric. The chair is supported by four slender, chrome-plated metal legs that taper slightly towards the floor. The overall aesthetic is sleek and modern, making it a versatile piece that can complement various interior design styles. Its compact size suggests it could be used as an accent chair in a living room, a stylish addition to a vanity area, or even as seating in a small dining space.",
+    "color": [
+        "white",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.553,
+        "height": 0.74,
+        "length": 0.572,
+        "unit": "meters"
+    }
+}

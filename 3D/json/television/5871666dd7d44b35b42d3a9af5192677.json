@@ -1,0 +1,23 @@
+{
+    "object": "television",
+    "description": "A stylized, heart-shaped television with a bright blue screen and two red antennae protruding from the top. The television has a glossy red casing that forms the heart shape, with a small, rectangular base. The overall design is playful and retro, resembling a cartoonish representation of a television set. The blue screen appears to be lit, suggesting it's either on or has a glowing quality. The object is presented in a somewhat blurred, indoor environment with patterned flooring and architectural elements in the background, suggesting it might be a prop or a decorative item.",
+    "color": [
+        "red",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.967,
+        "height": 1.395,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

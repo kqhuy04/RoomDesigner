@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a modern, minimalist staircase with a square opening at the top, designed to lead to an upper level or roof. The staircase itself is crafted from light-colored wood, featuring sturdy treads and risers, complemented by a simple wooden railing for safety. The surrounding structure is made of concrete or a similar material, forming a support base and a distinct frame around the opening. The staircase is positioned on a dark gray tiled platform, suggesting an outdoor or semi-outdoor setting. The overall design is clean and functional, with a focus on geometric shapes and understated aesthetics. It appears to be a standalone structure, possibly an access point to a rooftop or an elevated platform in an architectural context.",
+    "color": [
+        "light brown",
+        "gray",
+        "white",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "rooftop",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.85,
+        "height": 1.1,
+        "length": 2.301,
+        "unit": "meters"
+    }
+}

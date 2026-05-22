@@ -1,0 +1,29 @@
+{
+    "object": "curtain",
+    "description": "This 3D model depicts a pair of closed red curtains hanging from a metal rod. The curtains are made of a fabric that appears to have a slight sheen, with visible vertical pleats that create a sense of depth and texture. The rod is supported by two metal brackets attached to an unseen surface, likely a wall. The overall presentation is simple and highlights the form and color of the curtains, suggesting a theatrical or formal setting. The background is a solid, dark gray, which effectively contrasts with the vibrant red of the fabric and draws the viewer's attention to the main subject.",
+    "color": [
+        "red",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "theater",
+        "stage",
+        "event hall",
+        "bedroom",
+        "living room"
+    ],
+    "style": "classic",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "decorative",
+    "mood": "dramatic",
+    "dimensions": {
+        "width": 0.181,
+        "height": 1.874,
+        "length": 1.483,
+        "unit": "meters"
+    }
+}

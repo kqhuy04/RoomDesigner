@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A classic white pendant light featuring a cylindrical ceiling mount with a decorative cord that descends to an elongated, ribbed bell-shaped shade. The shade has a distinctive fluted design, narrowing at the top and bottom, creating an elegant and somewhat organic form. The overall aesthetic is clean and minimalist, suitable for various interior design schemes. The ribbed texture adds a subtle visual interest and potential for light diffusion. This type of fixture is commonly used to provide ambient or task lighting in dining areas, kitchens, or living spaces.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.143,
+        "height": 0.718,
+        "length": 0.143,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This image displays a modern staircase with a minimalist design. The stairs themselves are constructed from light-colored wood, featuring clean lines and a sleek appearance. They are supported by a black metal frame, which adds a striking contrast to the warm wood tones. The staircase appears to be a prominent architectural feature, designed to seamlessly integrate into an open-plan living space. A black metal railing runs along the side of the stairs and the adjacent balcony, providing safety and complementing the overall aesthetic. The surrounding environment features light wood flooring and pale walls, contributing to a bright and airy atmosphere.",
+    "color": [
+        "black",
+        "light brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "loft",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.927,
+        "height": 1.036,
+        "length": 3.353,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a striped pattern. The stripes run diagonally across the rug, alternating between various shades of red, orange, black, white, and dark green. There are also thin, intricate patterns woven between some of the stripes, resembling 'X' shapes and small dots. The rug has a fringe along the shorter edges, made up of light green threads. The overall design suggests a handmade textile with a traditional or ethnic aesthetic. The colors are rich and warm, and the striped pattern provides a sense of movement and visual interest. The rug appears to be made of woven fabric, likely wool or a similar natural fiber, given the texture suggested by the fringe and the woven patterns.",
+    "color": [
+        "red",
+        "orange",
+        "black",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.053,
+        "height": 0.005,
+        "length": 0.675,
+        "unit": "meters"
+    }
+}

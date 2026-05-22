@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A modern, minimalist white chandelier designed to resemble a dandelion seed head. It features a central circular base from which numerous thin, curved arms radiate outwards. Each arm terminates in a short, cylindrical rod, suggesting candle holders or minimalistic light sockets. The overall design is airy and delicate, with a strong sense of symmetry and radial balance. It hangs from a slender central stem connected to a small, cylindrical ceiling mount. The object is rendered in a monochromatic white, emphasizing its form and structure against a neutral background.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.844,
+        "height": 0.957,
+        "length": 0.844,
+        "unit": "meters"
+    }
+}

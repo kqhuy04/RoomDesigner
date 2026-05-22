@@ -1,0 +1,27 @@
+{
+    "object": "mirror",
+    "description": "This is an ornate, antique-style mirror with a heavy, gilded frame. The frame is richly decorated with swirling patterns, floral motifs, and a series of grotesque, skull-like faces interspersed with small, star-like emblems. Two light bulbs, resembling Edison bulbs, hang from delicate chains attached to the upper frame, casting a warm glow. The mirror itself reflects a dimly lit interior, possibly a church or grand hall with architectural elements like columns and balconies. The overall aesthetic is dark, theatrical, and somewhat macabre, suggesting a piece intended to make a statement.",
+    "color": [
+        "gold",
+        "bronze",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "gothic",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "decorative",
+    "mood": "dramatic",
+    "dimensions": {
+        "width": 1.079,
+        "height": 0.816,
+        "length": 0.111,
+        "unit": "meters"
+    }
+}

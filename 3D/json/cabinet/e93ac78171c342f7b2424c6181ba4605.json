@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A vintage wooden dresser with two drawers. The wood has a rich, dark brown finish with visible grain patterns and some signs of wear, suggesting age and use. Each drawer is adorned with an ornate, dark metal handle in a classic, curved design. The dresser has a slightly tiered top and features a decorative, scalloped base with elegant, curved legs. The overall aesthetic evokes a sense of traditional craftsmanship and antique charm. The lighting in the scene highlights the texture of the wood and the subtle imperfections that contribute to its character.",
+    "color": [
+        "brown",
+        "dark brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.715,
+        "height": 0.693,
+        "length": 0.442,
+        "unit": "meters"
+    }
+}

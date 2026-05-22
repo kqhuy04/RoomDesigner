@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A striking polygonal side table with a marble-like finish. The tabletop is an octagonal shape, featuring intricate, swirling patterns in shades of grey and beige, mimicking natural stone. It rests on a single, intricately faceted pedestal that tapers downwards, culminating in a hexagonal base. The design has an almost sculptural quality, blending geometric precision with organic texture. Its compact size suggests it would be ideal as an accent piece, perhaps for holding a lamp, a drink, or decorative items in a living space or entryway.",
+    "color": [
+        "gray",
+        "beige",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "stone, marble",
+    "usage": "functional, decorative",
+    "mood": "elegant, sophisticated",
+    "dimensions": {
+        "width": 1.49,
+        "height": 1.111,
+        "length": 1.49,
+        "unit": "meters"
+    }
+}

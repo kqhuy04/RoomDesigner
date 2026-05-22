@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A modern, minimalist dresser with six drawers, arranged in two columns of three. Each drawer has a simple, horizontal, white handle. The dresser is dark gray and stands on short, light-colored legs. The overall design is clean and functional, with a smooth, matte finish. The rounded corners add a subtle touch of softness to the otherwise geometric form. It appears to be a standalone piece of furniture designed for storage.",
+    "color": [
+        "dark gray",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.444,
+        "height": 0.819,
+        "length": 1.417,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "object": "light",
+    "description": "This is a futuristic, circular light fixture with a central tower. It features a dense arrangement of bright, white circular lights radiating outwards from a tall, slender, and segmented central column. The central column has a sleek, angular design with contrasting dark and light panels, suggesting a high-tech or sci-fi aesthetic. The base of the fixture is multifaceted and dark, with geometric shapes that anchor the entire structure. The overall impression is one of advanced technology, illumination, and a commanding presence. It appears to be designed for creating a dramatic and modern ambiance.",
+    "color": [
+        "white",
+        "black",
+        "gray",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "foyer",
+        "modern_interior"
+    ],
+    "style": "futuristic",
+    "material": [
+        "metal",
+        "plastic",
+        "glass"
+    ],
+    "usage": "decorative",
+    "mood": "futuristic",
+    "dimensions": {
+        "width": 0.711,
+        "height": 0.147,
+        "length": 0.711,
+        "unit": "meters"
+    }
+}

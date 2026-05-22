@@ -1,0 +1,25 @@
+{
+    "object": "mirror",
+    "description": "A rectangular mirror with a clean, white frame. The frame appears to have a subtle textured finish, possibly painted wood or a composite material. The mirror itself is reflective and shows a bright, diffused light source, indicating it's intended to bounce light around a space. Its simple, unadorned design suggests versatility, allowing it to blend into various decor styles. The proportions are such that it could be used in different areas, from a hallway to a bedroom or bathroom.",
+    "color": [
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": "wood, glass",
+    "usage": "functional, decorative",
+    "mood": "bright, clean, minimalist",
+    "dimensions": {
+        "width": 1.0,
+        "height": 1.7,
+        "length": 0.03,
+        "unit": "meters"
+    }
+}

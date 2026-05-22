@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "A stylish mid-century modern armchair and ottoman set. The armchair features a high backrest with button tufting and a supportive headrest, complemented by wide armrests. It sits on a swivel base with a central column and three splayed legs, providing stability and a dynamic look. The accompanying ottoman is perfectly proportioned to offer a comfortable footrest. Both pieces are upholstered in a warm, tan-colored leather that exhibits a slight sheen, suggesting quality and comfort. The set is placed on a few planks of rustic wooden flooring, which contrasts with the smooth upholstery and the dark, minimalist background. This design evokes a sense of sophisticated relaxation and timeless elegance.",
+    "color": [
+        "tan",
+        "brown",
+        "black",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": "leather, metal, wood",
+    "usage": "functional",
+    "mood": "elegant, sophisticated, comfortable",
+    "dimensions": {
+        "width": 0.68,
+        "height": 0.562,
+        "length": 1.087,
+        "unit": "meters"
+    }
+}

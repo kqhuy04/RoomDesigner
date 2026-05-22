@@ -1,0 +1,29 @@
+{
+    "object": "stool",
+    "description": "This is a decorative stool with a red cushioned seat and ornate wooden legs. The seat is round and upholstered in a vibrant red fabric, detailed with a band of silver studs around its edge. Beneath the seat, the wooden frame is carved with elegant curves and scrollwork, featuring a ring connecting the legs for added stability and visual interest. The wood has a rich, warm brown finish that complements the bright red upholstery. The design suggests a touch of vintage or classical influence, making it a statement piece that could be used as a seat or purely for aesthetic purposes.",
+    "color": [
+        "red",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "dressingroom",
+        "hallway"
+    ],
+    "style": "vintage",
+    "material": [
+        "wood",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.484,
+        "height": 0.577,
+        "length": 0.486,
+        "unit": "meters"
+    }
+}

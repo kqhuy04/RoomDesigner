@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "A polka-dot hanging chair, designed for comfort and relaxation. The chair features a white fabric with prominent black polka dots, creating a playful and classic look. It hangs from a single point, suggesting it's meant to swing freely. The shape is designed to cradle the user, offering a sense of being enveloped. This type of chair is often used as a statement piece or a cozy nook for reading or unwinding. Its design is simple yet eye-catching, making it suitable for various indoor or outdoor settings depending on the material's weather resistance.",
+    "color": [
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kids room",
+        "patio"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.779,
+        "height": 2.469,
+        "length": 0.671,
+        "unit": "meters"
+    }
+}

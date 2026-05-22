@@ -1,0 +1,25 @@
+{
+    "object": "wardrobe",
+    "description": "This is a tall, dark brown wooden wardrobe featuring a functional design. It consists of four vertical doors in the upper section, each equipped with a subtle, dark rectangular handle, blending seamlessly with the wood tone. Below the main doors, there are two spacious drawers, each adorned with a distinct geometric pattern formed by two triangular inlays, adding a modern aesthetic. The top surface of the wardrobe holds three small, colorful storage boxes in yellow, dark grey, and red, providing additional organizational space and a pop of color against the dark wood. This piece is designed for efficient storage while maintaining a clean and contemporary appearance, suitable for a well-organized living space.",
+    "color": [
+        "dark brown",
+        "yellow",
+        "dark grey",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "entryway"
+    ],
+    "style": "contemporary",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "organized",
+    "dimensions": {
+        "width": 0.52,
+        "height": 2.224,
+        "length": 1.6,
+        "unit": "meters"
+    }
+}

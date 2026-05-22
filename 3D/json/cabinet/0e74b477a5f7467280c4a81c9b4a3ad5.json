@@ -1,0 +1,30 @@
+{
+    "object": "cabinet",
+    "description": "A retro-style arcade cabinet with a dark, metallic finish and vibrant red and blue accents. The side panel features a striking, stylized illustration of a robotic wolf or canine head with glowing red eyes against a fiery, orange background. The top marquee displays the game title 'CYBER SXINE' in a futuristic font. The screen shows a menu with options like 'PLAY', 'SETTINGS', and 'EXIT' in a glowing red font, with a hint of digital noise or static. A red joystick and buttons are prominently placed on the control panel, ready for gameplay. The overall design evokes a sense of nostalgia for classic arcade games with a modern, cyberpunk aesthetic.",
+    "color": [
+        "red",
+        "black",
+        "gray",
+        "blue",
+        "orange"
+    ],
+    "appropriate_room": [
+        "game room",
+        "basement",
+        "living room"
+    ],
+    "style": "retro",
+    "material": [
+        "metal",
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "energetic",
+    "dimensions": {
+        "width": 0.276,
+        "height": 0.578,
+        "length": 0.257,
+        "unit": "meters"
+    }
+}

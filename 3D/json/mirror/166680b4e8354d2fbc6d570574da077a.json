@@ -1,0 +1,29 @@
+{
+    "object": "mirror",
+    "description": "A full-length mirror with a subtle trapezoidal frame. The frame is crafted from a light-colored wood, giving it a natural and minimalist aesthetic. The mirror itself is large, offering a clear reflection, and it is designed to be freestanding, likely leaning against a wall or supported by a stand. The background reflected in the mirror is slightly blurred, showing hints of a contemporary interior with gray walls and colorful art pieces, suggesting it's placed in a modern living space or gallery.",
+    "color": [
+        "brown",
+        "gray",
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.7,
+        "height": 1.8,
+        "length": 0.04,
+        "unit": "meters"
+    }
+}

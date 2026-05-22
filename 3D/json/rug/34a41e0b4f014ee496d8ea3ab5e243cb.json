@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a square Persian rug with intricate floral and geometric patterns. The central medallion is a deep blue surrounded by radiating golden-yellow patterns resembling paisley or leaves, outlined in a light blue and white intricate design. The border of the rug features elaborate motifs in deep reds, blues, and creams, adding a rich and traditional feel. The rug has fringed edges in white. The overall design evokes a sense of luxury and traditional craftsmanship, typical of high-quality hand-knotted carpets. Its detailed artistry makes it a focal point for any room.",
+    "color": [
+        "yellow",
+        "blue",
+        "white",
+        "red",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.881,
+        "height": 0.021,
+        "length": 2.616,
+        "unit": "meters"
+    }
+}

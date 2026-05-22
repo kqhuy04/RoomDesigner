@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a metal frame for an arcade cabinet, painted a light blue. The frame is tall and has a distinct shape, wider at the top where a screen would be housed, and tapering down to a base with casters for mobility. It features a skeletal structure with horizontal and vertical supports, creating openings for components like screens, controls, and internal mechanisms. The design suggests a vintage or retro arcade game console. The frame appears to be made of welded metal components, indicating a sturdy construction designed to house the electronics and provide structural integrity for a gaming machine.",
+    "color": [
+        "blue",
+        "black"
+    ],
+    "appropriate_room": [
+        "game room",
+        "basement",
+        "entertainment room"
+    ],
+    "style": "retro",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.588,
+        "height": 2.174,
+        "length": 0.813,
+        "unit": "meters"
+    }
+}

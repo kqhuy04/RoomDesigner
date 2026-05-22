@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A classic wooden bookshelf filled with various books. The bookshelf has four shelves, each populated with a mix of hardcover and paperback books. The wood appears to be a warm, medium-toned shade, giving it a traditional and sturdy appearance. The books themselves display a range of colors and spine designs, suggesting a diverse collection. This piece of furniture is designed for functionality, providing ample space for storing and displaying books, and its aesthetic would fit well in a variety of home or office settings.",
+    "color": [
+        "brown",
+        "multicolor"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "library"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.211,
+        "height": 1.15,
+        "length": 0.617,
+        "unit": "meters"
+    }
+}

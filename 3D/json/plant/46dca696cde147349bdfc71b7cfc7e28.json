@@ -1,0 +1,24 @@
+{
+    "object": "plant",
+    "description": "This 3D model preview shows a decorative planter. It appears to be a tiered or multi-level design, with a wider, bowl-like top section and a more intricate, possibly fluted or ribbed base. A small, irregular piece of material, perhaps a fragment or embellishment, is attached to the lower part of the base. The overall form suggests it's designed to hold plants or act as a decorative accent piece.",
+    "color": [
+        "white",
+        "off-white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "patio"
+    ],
+    "style": "ornate",
+    "material": "ceramic",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.539,
+        "height": 0.449,
+        "length": 0.539,
+        "unit": "meters"
+    }
+}

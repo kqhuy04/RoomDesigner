@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a plush, comfortable armchair with a rounded, enveloping silhouette. The chair features thick, inviting upholstery in a rich, warm brown tone, reminiscent of smooth leather or high-quality fabric. Its design is characterized by its generous cushioning, particularly in the back and armrests, which curve gracefully outwards. The base of the chair is sleek and low-profile, with subtle feet that elevate it slightly from the ground. A gentle shadow is cast beneath the chair, indicating it's well-lit from above, highlighting its rounded form and smooth finish. The overall impression is one of cozy indulgence and classic comfort.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "classic",
+    "material": "upholstery",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.997,
+        "height": 0.975,
+        "length": 0.99,
+        "unit": "meters"
+    }
+}

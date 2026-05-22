@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a wooden dressing table featuring a detachable mirror with a decorative, arched frame. The table has three drawers, with the bottom one partially open, revealing a dark, textured interior. A patterned rug or cloth, predominantly in shades of blue and beige, is casually draped over the tabletop, partially covering a lighter, possibly marble or painted, surface. The mirror's surface shows a distressed or cracked pattern, adding to an aged aesthetic. The drawer pulls are diamond-shaped, complementing the overall classic design of the piece.",
+    "color": [
+        "brown",
+        "gray",
+        "blue",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "vintage",
+    "material": [
+        "wood",
+        "glass",
+        "textile"
+    ],
+    "usage": "functional",
+    "mood": "vintage",
+    "dimensions": {
+        "width": 0.505,
+        "height": 0.843,
+        "length": 0.381,
+        "unit": "meters"
+    }
+}

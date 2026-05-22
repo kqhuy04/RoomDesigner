@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "A high-backed, egg-shaped chair with a swivel base. The chair is upholstered in a textured, light brown fabric and features a dark trim around its edges. It comes with two attached cushions: one small rectangular cushion at the top and a larger, more substantial cushion for the seat. The base of the chair is a smooth, white, tulip-shaped pedestal, giving it a modern and sculptural appearance. The overall design is sleek and contemporary, offering a comfortable and stylish seating option.",
+    "color": [
+        "tan",
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.93,
+        "height": 1.285,
+        "length": 0.799,
+        "unit": "meters"
+    }
+}

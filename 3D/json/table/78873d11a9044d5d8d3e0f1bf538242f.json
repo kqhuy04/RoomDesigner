@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A vintage-style wooden nightstand with a distressed white-washed finish and natural wood accents. It features a top surface and two drawers, each with a circular brass pull. The wood grain is prominent, adding to its rustic charm. The edges are slightly rounded, and the base has a subtle carved detail. The overall impression is one of weathered elegance, suitable for a bedroom or as a side table in a living space. Its design suggests a blend of antique and country aesthetics.",
+    "color": [
+        "white",
+        "brown",
+        "tan",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 1.164,
+        "height": 1.953,
+        "length": 1.726,
+        "unit": "meters"
+    }
+}

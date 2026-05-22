@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a staircase. It appears to be a spiral staircase design, with wooden steps that curve upwards. The staircase is enclosed by a transparent glass structure, giving it a modern and sleek appearance. The base of the structure is a large, flat surface tiled with a geometric pattern, suggesting it might be part of a larger architectural model or display. The staircase itself has visible railings and a central support structure, characteristic of its design. The overall impression is of a functional element integrated into a contemporary design.",
+    "color": [
+        "wood",
+        "transparent",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "foyer",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.484,
+        "height": 1.95,
+        "length": 3.054,
+        "unit": "meters"
+    }
+}

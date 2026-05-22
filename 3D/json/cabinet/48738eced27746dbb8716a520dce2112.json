@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow wooden cabinet with two doors, each featuring a paneled design and a small window with four green squares. The cabinet has a pitched roof with an overhang and is supported by two legs at the front. It is adorned with black metal hardware, including decorative hinges and handles. The wood grain is visible, suggesting a natural finish. The overall design hints at a craftsman or Arts and Crafts style, suitable for storage or display.",
+    "color": [
+        "brown",
+        "green",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "craftsman",
+    "material": "wood, metal, glass",
+    "usage": "storage",
+    "mood": "traditional",
+    "dimensions": {
+        "width": 1.122,
+        "height": 1.346,
+        "length": 0.733,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A simple, minimalist white table with a square top and four legs. The legs appear to be rectangular in shape and are attached to the underside of the tabletop. There is a curved apron connecting the legs just below the tabletop, adding a subtle detail to the otherwise straightforward design. The table is rendered in a uniform white color, giving it a clean and modern appearance. Its design suggests it could be used as a side table, a small desk, or a display surface. The overall impression is one of simplicity and functionality, suitable for various settings.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.651,
+        "height": 0.785,
+        "length": 0.876,
+        "unit": "meters"
+    }
+}

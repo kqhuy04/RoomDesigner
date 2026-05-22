@@ -1,0 +1,28 @@
+{
+    "object": "stool",
+    "description": "A black adjustable stool with a round seat and a metal base with wheels. The seat appears to be upholstered and the base is made of sturdy metal with a circular footrest. The height of the stool can be adjusted using a screw mechanism visible on the central column. The stool is designed for mobility due to the presence of casters on its base, making it suitable for various tasks and environments where frequent repositioning is needed. Its simple yet functional design suggests practicality and durability.",
+    "color": [
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "studio",
+        "workshop",
+        "beauty salon",
+        "kitchen"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal",
+        "upholstery"
+    ],
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 0.463,
+        "height": 0.537,
+        "length": 0.449,
+        "unit": "meters"
+    }
+}

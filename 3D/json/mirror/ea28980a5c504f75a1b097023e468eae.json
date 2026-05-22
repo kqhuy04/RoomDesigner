@@ -1,0 +1,25 @@
+{
+    "object": "mirror",
+    "description": "A tall, rectangular full-length mirror with an ornate wooden frame. The frame is a rich, warm brown and features decorative elements at the top and bottom corners, appearing to be golden embellishments. The mirror itself is sleek and reflective, capturing a bright light source from above, which casts a dramatic shadow on the grey background. The design suggests it's intended to be a statement piece, both functional for viewing one's reflection and decorative for enhancing a room's aesthetic. Its slender profile makes it suitable for various spaces where a full-length view is desired.",
+    "color": [
+        "brown",
+        "gold",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "dressing room",
+        "living room"
+    ],
+    "style": "classic",
+    "material": "wood, glass, metal",
+    "usage": "functional, decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.902,
+        "height": 2.27,
+        "length": 0.07,
+        "unit": "meters"
+    }
+}

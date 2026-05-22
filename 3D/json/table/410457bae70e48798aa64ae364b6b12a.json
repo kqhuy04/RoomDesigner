@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This 3D model preview shows a simple, rectangular table with four legs. The tabletop appears to be flat and a light yellow color, suggesting it could be made of wood or a laminate material. The legs are visible but not intricately detailed. The table is positioned in what looks like a room with blue walls in the background, and there's a hint of red furniture or an object to the left. The overall impression is of a functional piece of furniture suitable for various settings.",
+    "color": [
+        "yellow",
+        "blue",
+        "red"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "livingroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 1.228,
+        "height": 0.425,
+        "length": 1.131,
+        "unit": "meters"
+    }
+}

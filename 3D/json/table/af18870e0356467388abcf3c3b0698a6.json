@@ -1,0 +1,41 @@
+{
+    "object": "table",
+    "description": "This is a sleek and practical coffee table featuring a rectangular design with a two-tiered structure. The main surfaces, including the expansive tabletop and the robust, straight legs, showcase a beautiful light, natural wood grain in tones of beige and light brown, imparting a warm and inviting aesthetic. A distinctive lower shelf provides additional storage or display space, finished in a subtly lighter, almost whitewashed wood tone that complements the primary color scheme while adding visual interest. The clean lines and simple construction emphasize a modern and minimalist approach, making it a versatile piece for contemporary living spaces. Its sturdy build suggests durability and everyday functionality.",
+    "color": [
+        "light wood",
+        "beige",
+        "off-white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "hallway"
+    ],
+    "style": [
+        "modern",
+        "minimalist",
+        "scandinavian",
+        "contemporary"
+    ],
+    "material": [
+        "wood",
+        "MDF"
+    ],
+    "usage": [
+        "functional",
+        "storage",
+        "display"
+    ],
+    "mood": [
+        "warm",
+        "natural",
+        "calm",
+        "minimalist"
+    ],
+    "dimensions": {
+        "width": 1.1,
+        "height": 0.505,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

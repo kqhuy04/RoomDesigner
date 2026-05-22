@@ -1,0 +1,29 @@
+{
+    "object": "sofa",
+    "description": "A contemporary three-seater sofa featuring a plush, textured grey fabric upholstery. The sofa has a clean, modern silhouette with generously padded seat and back cushions, all trimmed with a subtle white piping that adds definition. Two accent pillows are placed on the sofa, one with a delicate leaf pattern in grey and white, and another plain light grey one. The sofa is supported by elegant, subtly ornate silver-colored legs that give it a sophisticated lift. A warm, wood-toned accent band is visible along the base between the legs, adding a touch of natural warmth to the overall design. This sofa is designed for comfort and style, fitting seamlessly into a variety of living spaces.",
+    "color": [
+        "grey",
+        "white",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "receptionroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 3.61,
+        "height": 1.697,
+        "length": 2.33,
+        "unit": "meters"
+    }
+}

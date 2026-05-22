@@ -1,0 +1,31 @@
+{
+    "object": "television",
+    "description": "This is a vintage VTR Component TV from the MCS Series by JCPenney, featuring a cream-white rectangular casing with a prominent array of gold-colored rotary knobs and smaller toggle switches. A small, square screen on the left side emits a bright blue and orange glow, displaying what appears to be a waveform or diagnostic pattern. Labels for controls like 'Volume', 'UHF', 'VHF', 'Contrast', 'Brightness', 'Record Mode', and 'Wave Form' are clearly visible, indicating its functionality as a sophisticated video processing and display unit. The design elements, including the font and knob styles, strongly suggest a retro electronic aesthetic from the 1970s or 80s.",
+    "color": [
+        "off-white",
+        "gold",
+        "blue",
+        "orange",
+        "black"
+    ],
+    "appropriate_room": [
+        "living room",
+        "media room",
+        "study",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "metal",
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.141,
+        "length": 0.309,
+        "unit": "meters"
+    }
+}

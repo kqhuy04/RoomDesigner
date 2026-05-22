@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a narrow, tall cabinet, appearing to be wall-mounted or a floor-standing unit with a minimalist design. It features a dark wood grain finish on its main body, which has a slight taper towards the top. A thin black trim runs along the bottom edge of the cabinet, and beneath that, a slender, silver-colored metal support or leg is visible, angling downwards and slightly outwards. The overall impression is one of sleek, modern functionality, suitable for spaces where vertical storage is needed without occupying a large footprint.",
+    "color": [
+        "dark brown",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "hallway",
+        "kitchen",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.324,
+        "height": 1.184,
+        "length": 0.351,
+        "unit": "meters"
+    }
+}

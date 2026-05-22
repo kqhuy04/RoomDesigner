@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a low-profile bed with a dark grey frame. The headboard is slightly curved and has decorative vertical slats on the sides. The bed is made with dark grey linens and features two white pillows at the head. The overall design is simple and modern, with clean lines.",
+    "color": [
+        "dark grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.074,
+        "height": 0.36,
+        "length": 0.489,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "A vintage wooden desk set up as a workstation, featuring a reel-to-reel tape recorder, a vintage computer monitor and keyboard, a desk lamp, file holders, a potted cactus, and various papers and office supplies. A black office chair with a document on its seat is positioned in front of the desk. The overall impression is one of a retro, perhaps clandestine or research-oriented workspace, with a sense of focused activity.",
+    "color": [
+        "brown",
+        "black",
+        "beige",
+        "grey"
+    ],
+    "appropriate_room": [
+        "study",
+        "office"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "focused",
+    "dimensions": {
+        "width": 1.716,
+        "height": 2.18,
+        "length": 2.887,
+        "unit": "meters"
+    }
+}

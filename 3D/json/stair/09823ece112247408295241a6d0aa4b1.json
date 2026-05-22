@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is an exterior staircase leading up to an entrance. The stairs are made of rough-hewn stone or concrete, showing signs of wear and weathering. The steps are wide and appear to be in multiple tiers. To the right of the stairs, there is a metal railing. The entrance area features a weathered wooden door with some graffiti on it, and a covered porch area supported by columns. The overall impression is one of age and disrepair, suggesting it is part of an older building, possibly abandoned or neglected.",
+    "color": [
+        "gray",
+        "brown",
+        "red"
+    ],
+    "appropriate_room": [
+        "exterior"
+    ],
+    "style": "rustic",
+    "material": [
+        "concrete",
+        "stone",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "worn",
+    "dimensions": {
+        "width": 1.074,
+        "height": 0.591,
+        "length": 0.743,
+        "unit": "meters"
+    }
+}

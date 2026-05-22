@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model render of a single-seater armchair. The armchair is predominantly a deep, rich blue color, likely upholstered in fabric or a similar material. It features a modern or contemporary design with clean lines and slightly geometric forms, particularly in the armrests. The backrest and seat appear to be well-cushioned and segmented. A distinctive design element is a subtle, thin, golden-colored trim outlining a rectangular panel on the outer side of each armrest, adding a touch of elegance and visual interest. The overall structure looks robust and comfortable.",
+    "color": [
+        "blue",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom",
+        "study"
+    ],
+    "style": "contemporary",
+    "material": "upholstery",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.159,
+        "height": 1.408,
+        "length": 1.007,
+        "unit": "meters"
+    }
+}

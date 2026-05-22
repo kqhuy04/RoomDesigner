@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a modern flush-mount chandelier with a cascading design of clear crystal-like pendants. The central fixture is circular and appears to be made of white metal or plastic, providing a clean base for the decorative elements. Drooping from the central disc are numerous faceted pendants that vary in shape and size, mimicking the sparkle and brilliance of real crystals. The overall effect is one of elegance and glamour, designed to add a touch of sophistication and light to a room. The arrangement of the pendants creates a somewhat dense, downward-sweeping silhouette, giving the impression of a miniature waterfall of light.",
+    "color": [
+        "white",
+        "clear"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "crystal",
+        "metal"
+    ],
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.786,
+        "height": 0.46,
+        "length": 0.786,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "A modern and minimalist staircase design that appears to be part of an architectural model. The staircase features wooden steps that spiral upwards within a transparent glass enclosure. The structure is elevated on a white base, suggesting it's a standalone feature or part of a larger conceptual design. The clean lines and material contrast between wood and glass give it a sleek and contemporary aesthetic. It seems designed to maximize light and visual openness, characteristic of modern architectural principles. The overall impression is one of elegance and functional simplicity, suitable for a variety of interior spaces that embrace a modern or minimalist design theme.",
+    "color": [
+        "white",
+        "brown",
+        "gray",
+        "transparent"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.408,
+        "height": 1.976,
+        "length": 2.845,
+        "unit": "meters"
+    }
+}

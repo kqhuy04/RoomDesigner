@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a sleek, modern flat-screen television presented from a slight angle. It features a dark, unlit screen encased in a slim, glossy black bezel. At the bottom center of the frame, there's a small, circular power button or indicator light, which glows red, suggesting the TV is in standby mode or turned off. The design is minimalist with clean lines, emphasizing a contemporary aesthetic suitable for modern living spaces. The surface of the screen appears slightly reflective.",
+    "color": [
+        "black",
+        "dark grey",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "media room",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sleek",
+    "dimensions": {
+        "width": 0.62,
+        "height": 0.35,
+        "length": 0.023,
+        "unit": "meters"
+    }
+}

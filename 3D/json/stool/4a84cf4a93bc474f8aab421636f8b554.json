@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "This is a modern, minimalist bar stool with a saddle-shaped seat and four tapered legs. The stool is made of wood and has a matte black finish, giving it a sleek and sophisticated appearance. The legs are connected by a circular stretcher bar, providing stability and support. Its clean lines and simple design make it a versatile piece that can complement a variety of interior design styles, from contemporary to Scandinavian. The stool is designed for both functionality and aesthetics, offering a comfortable seating option for kitchen islands, home bars, or even as an accent piece in a living area.",
+    "color": [
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.612,
+        "height": 0.592,
+        "length": 0.467,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a modern, multi-level staircase designed for a compact living space. It features clean lines, glass railings, and wooden steps, creating a sense of openness and light. The staircase appears to be integrated into a small architectural structure, possibly a tower or a unique room addition, with wooden platforms at different levels. The design emphasizes verticality and offers a sleek, contemporary aesthetic. The contrasting materials of wood and glass provide visual interest and a sophisticated feel. It's designed to be a functional element that also enhances the overall architectural design of the space it occupies.",
+    "color": [
+        "brown",
+        "white",
+        "transparent",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.868,
+        "height": 1.893,
+        "length": 2.474,
+        "unit": "meters"
+    }
+}

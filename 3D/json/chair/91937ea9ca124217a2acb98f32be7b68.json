@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This 3D model preview displays a single, minimalist chair. The chair has a clean, modern design with a simple seat and backrest. The legs are thin and appear to be made of metal, providing a stable base. The seat and backrest seem to be upholstered, suggesting comfort, but the specific material is not clearly discernible. The overall aesthetic is sleek and understated, fitting well into contemporary interior design schemes. Its compact size makes it suitable for various spaces where efficient use of room is a consideration.",
+    "color": [
+        "grey",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal, fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.14,
+        "height": 2.0,
+        "length": 1.221,
+        "unit": "meters"
+    }
+}

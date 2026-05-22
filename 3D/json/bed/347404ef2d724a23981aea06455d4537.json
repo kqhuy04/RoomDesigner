@@ -1,0 +1,25 @@
+{
+    "object": "bed",
+    "description": "This is a simple, utilitarian bed frame with a rusted metal finish. It features a slatted metal mattress support and a curved metal headboard and footboard. Four chains with metal restraints are attached to the mattress support, suggesting a function related to confinement or restraint. A single, plain, light blue pillow rests at the head of the bed. The overall aesthetic is stark and functional, likely designed for institutional or survivalist settings rather than comfort.",
+    "color": [
+        "brown",
+        "blue",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "industrial",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "grim",
+    "dimensions": {
+        "width": 6.08,
+        "height": 2.098,
+        "length": 2.947,
+        "unit": "meters"
+    }
+}

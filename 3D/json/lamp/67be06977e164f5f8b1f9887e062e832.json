@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a modern chandelier with a unique design. It features a central circular base from which five curved arms extend outwards. Each arm terminates in a spherical bulb holder, which is encircled by a thin, circular ring. The overall structure has a somewhat organic or atomic appearance, with the rings adding a contemporary, abstract element. The object is rendered in a single, warm, matte orange-yellow color, suggesting a metallic or possibly ceramic material. It appears to be suspended from a central point, typical of ceiling light fixtures.",
+    "color": [
+        "orange-yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "contemporary",
+    "dimensions": {
+        "width": 0.582,
+        "height": 0.42,
+        "length": 0.168,
+        "unit": "meters"
+    }
+}

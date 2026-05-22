@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a terracotta oil lamp, likely of Roman origin, featuring a decorative relief on its discus. The relief depicts a figure, possibly a god or hero, in dynamic pose, surrounded by flowing drapery or natural elements. The lamp has a typical shape with a rounded body, a nozzle for the wick, and a handle. The central discus is deeply molded, creating a striking visual effect. The terracotta material gives it a warm, earthy tone. There is a dark, reflective surface in the oil reservoir, indicating it may have held oil. The overall craftsmanship suggests it was an object of both utility and artistic expression in its time.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "ancient roman",
+    "material": "terracotta",
+    "usage": "functional",
+    "mood": "historical",
+    "dimensions": {
+        "width": 0.114,
+        "height": 0.026,
+        "length": 0.085,
+        "unit": "meters"
+    }
+}

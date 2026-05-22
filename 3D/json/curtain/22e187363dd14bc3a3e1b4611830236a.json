@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "This is a modern shower curtain with a radial geometric pattern. The pattern features a vibrant burst of abstract shapes radiating from the center, creating a dynamic and eye-catching effect. The colors include shades of deep blue, teal, light blue, brown, and white, which are arranged in a way that evokes movement and energy. The curtain is made of a water-resistant material, typical for shower curtains, and is designed to hang from a shower rod, providing privacy and preventing water from splashing out of the shower or bathtub area. Its bold design makes it a focal point in a bathroom setting.",
+    "color": [
+        "blue",
+        "teal",
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.95,
+        "height": 2.158,
+        "length": 1.524,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "This is a rustic, weathered round table with a wooden top and a metal frame. The tabletop is composed of multiple weathered wooden planks arranged radially, giving it a distressed and aged appearance. The metal base consists of a circular rim that supports the tabletop, and three slender, curved legs that taper towards the floor. The metal shows signs of rust and peeling paint, contributing to its vintage and industrial aesthetic. The overall impression is one of a piece of furniture that has seen considerable use and time, ideal for an outdoor or a creatively styled indoor setting.",
+    "color": [
+        "brown",
+        "grey",
+        "blue",
+        "orange"
+    ],
+    "appropriate_room": [
+        "patio",
+        "garden",
+        "balcony",
+        "studio"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 3.047,
+        "height": 2.079,
+        "length": 3.047,
+        "unit": "meters"
+    }
+}

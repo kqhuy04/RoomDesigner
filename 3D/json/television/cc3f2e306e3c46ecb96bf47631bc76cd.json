@@ -1,0 +1,31 @@
+{
+    "object": "television",
+    "description": "This is a vintage-style television, characterized by its rounded wooden casing with visible grain, suggesting an aged or weathered appearance. It features a classic 'rabbit-ear' antenna on top, showing signs of rust and wear, consistent with the distressed look of the metal components around the screen and control knobs. The front panel is dark grey, housing a small, convex screen that emits a greenish glow, displaying what appears to be a radar-like pattern and the text 'РОСКОМНАДЗОР'. To the right of the screen are two circular control knobs and a speaker grille. A black power cord with a two-pronged plug extends from the back of the unit. The overall aesthetic is distinctly retro, possibly with an industrial or post-apocalyptic influence due to its aged condition.",
+    "color": [
+        "brown",
+        "dark gray",
+        "metallic",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "themed room",
+        "gameroom"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "metal",
+        "glass",
+        "plastic"
+    ],
+    "usage": "decorative",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.287,
+        "height": 2.525,
+        "length": 1.415,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a modular spiral staircase, designed for efficient use of space. It features wooden treads that curve upwards around a central support structure. The treads are supported by a white frame and appear to be attached to a central pole. The overall design suggests a modern and compact solution for multi-level access, possibly for lofts, mezzanines, or tight spaces. The staircase is shown in an upright position, implying it's a standalone unit or part of a larger architectural model. The repetition of the treads and the clear structural elements create a visually rhythmic pattern.",
+    "color": [
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "mezzanine"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.479,
+        "height": 3.051,
+        "length": 2.779,
+        "unit": "meters"
+    }
+}

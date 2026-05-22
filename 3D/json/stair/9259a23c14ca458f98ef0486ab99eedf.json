@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "This 3D model showcases a multi-level staircase with a distinct architectural design. The staircase is constructed with wooden steps and a brick-patterned wall that follows its curvature. A red railing guides the ascent, creating a visual flow. The lower portion of the staircase is partially visible, suggesting it extends further down, while the upper section leads to different levels of a building. The model sits on a patterned grey tiled floor, providing a context for its placement within a larger structure. The overall impression is one of functional elegance, designed to connect different floors of a building with a touch of visual interest.",
+    "color": [
+        "red",
+        "brown",
+        "grey",
+        "beige",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "entrance",
+        "interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "brick",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "architectural",
+    "dimensions": {
+        "width": 2.397,
+        "height": 2.723,
+        "length": 3.286,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This is a set of abstract, modern stairs with a sleek, minimalist design. The stairs are rendered in a deep, glossy blue, reflecting light and creating a sense of depth and sophistication. The form is geometric, composed of interlocking rectangular blocks that ascend in a staggered pattern. The overall impression is one of contemporary art or a architectural model rather than functional stairs, suggesting it could be a decorative element in a modern space or a symbolic representation of progress and elevation.",
+    "color": [
+        "blue",
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "glass"
+    ],
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.482,
+        "height": 0.512,
+        "length": 0.576,
+        "unit": "meters"
+    }
+}

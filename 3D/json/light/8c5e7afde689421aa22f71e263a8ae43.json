@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "This is a contemporary white pendant light featuring a circular design with a wavy, undulating pattern. The light is suspended from the ceiling by thin wires and a central rod, creating a sense of lightness and airiness. The minimalist aesthetic and clean lines suggest a modern or Scandinavian-inspired decor. It's designed to provide ambient or task lighting and would be a striking focal point in a variety of spaces.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.92,
+        "height": 1.0,
+        "length": 0.34,
+        "unit": "meters"
+    }
+}

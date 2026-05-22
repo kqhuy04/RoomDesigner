@@ -1,0 +1,26 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow wooden bookshelf with four shelves. Each shelf holds several books. The books are stylized with a simple design, featuring blue spines and white covers. Some books are upright, while others are leaning or placed horizontally. The bookshelf itself has decorative elements, including yellow square accents on the sides and a gold decorative piece at the bottom, resembling a knob or a finial. The top of the bookshelf has a decorative molding. The overall design suggests a whimsical or toy-like aesthetic, rather than a typical functional piece of furniture.",
+    "color": [
+        "brown",
+        "blue",
+        "white",
+        "yellow",
+        "gold"
+    ],
+    "appropriate_room": [
+        "playroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "cartoonish",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 2.651,
+        "height": 2.863,
+        "length": 1.81,
+        "unit": "meters"
+    }
+}

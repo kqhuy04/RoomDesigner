@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "A unique and artistic side table featuring a dark, speckled round tabletop supported by a sculptural base. The base is composed of stacked, interlocking golden elements with triangular dark inserts, creating an abstract, almost stone-like appearance. The overall design is contemporary and eye-catching, with a blend of geometric shapes and organic curves. The golden metallic finish adds a touch of luxury, while the dark inserts provide visual depth and contrast. This table would serve as a striking accent piece in various settings.",
+    "color": [
+        "black",
+        "gold",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": [
+        "metal",
+        "stone",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.445,
+        "height": 0.645,
+        "length": 0.444,
+        "unit": "meters"
+    }
+}

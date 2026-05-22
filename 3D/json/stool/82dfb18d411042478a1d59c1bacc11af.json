@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "A drum-shaped wooden stool with a textured, carved body and a smooth, polished wooden top. The bottom section is also wooden, featuring vertical planks that create a ribbed effect. The overall design is rustic and natural, emphasizing the wood grain and its warm tones. It appears to be a single piece of furniture, possibly handmade, with a somewhat aged or artisanal aesthetic. The reflection beneath suggests it's placed on a reflective surface, enhancing its visual presence.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.423,
+        "height": 0.558,
+        "length": 0.42,
+        "unit": "meters"
+    }
+}

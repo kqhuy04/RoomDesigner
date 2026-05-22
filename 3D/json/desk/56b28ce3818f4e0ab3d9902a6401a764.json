@@ -1,0 +1,26 @@
+{
+    "object": "desk",
+    "description": "This is a rustic, antique-style desk set, complete with a matching chair and a small stool. The desk itself is made of dark, weathered wood with intricate carvings around its edges and legs. Its surface has several shallow indentations, suggesting it might have been used for specific purposes, perhaps games or holding items. A vintage lantern with a greenish glass shade sits on the desk, casting a subtle glow. The chair is tall and ornate, featuring a carved backrest with circular and cross motifs. A small stool is placed beside the desk, topped with a blue cushion adorned with a gold, ornate pattern. The entire set rests on a distressed wooden platform, made of planks with uneven edges, enhancing the antique and worn aesthetic. A red rug with a gold patterned border is laid out on the wooden platform, beneath the desk and stool.",
+    "color": [
+        "brown",
+        "red",
+        "blue",
+        "gold",
+        "green"
+    ],
+    "appropriate_room": [
+        "study",
+        "library",
+        "bedroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "antique",
+    "dimensions": {
+        "width": 2.349,
+        "height": 1.18,
+        "length": 2.283,
+        "unit": "meters"
+    }
+}

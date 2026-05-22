@@ -1,0 +1,27 @@
+{
+    "object": "sofa",
+    "description": "A two-seater sofa with a textured blue upholstery. It features a modern design with clean lines and is accented with metallic gold trim along the edges of the arms and legs. The sofa comes with four throw pillows: two dark gray square pillows with a geometric pattern, and two rectangular dark gray pillows, one of which has a detailed gold feather design.",
+    "color": [
+        "blue",
+        "gold",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "reception area"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 2.323,
+        "height": 0.834,
+        "length": 1.181,
+        "unit": "meters"
+    }
+}

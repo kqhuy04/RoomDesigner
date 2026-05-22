@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A minimalist, open-concept shelf unit designed for versatile storage and display. It features a simple rectangular frame constructed from light-colored wood, with three horizontal shelves spaced evenly apart. The shelves themselves have a subtle texture and are slightly recessed within the frame, creating a clean and modern aesthetic. The unit's design is straightforward, emphasizing functionality and the natural beauty of the material. Its open nature allows for easy access to items and creates a sense of spaciousness, making it suitable for various decorative and storage needs.",
+    "color": [
+        "light brown",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.62,
+        "length": 0.305,
+        "unit": "meters"
+    }
+}

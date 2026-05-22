@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "A simple, modern stool with a square, light-yellow seat and four cylindrical, light-grey legs. The stool is positioned on a vibrant green surface, casting a distinct shadow. The background is blurred, suggesting an outdoor environment with trees and a distant desert landscape under a clear blue sky. The stool's design is minimalist and functional, with clean lines and a neutral color palette for the seat and legs, making it versatile for various settings.",
+    "color": [
+        "yellow",
+        "grey",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.0,
+        "height": 0.426,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

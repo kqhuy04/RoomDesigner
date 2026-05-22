@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model preview of a gaming chair. The chair has a high backrest with a headrest and a lumbar support pillow. It features upholstered armrests and a five-star base with casters for mobility. The design suggests ergonomic support and comfort, typical of chairs designed for extended use, such as gaming or office work. The material appears to be leather or a leather-like synthetic, with stitched details that add to its aesthetic. The overall form is sleek and modern, emphasizing a sporty or performance-oriented look.",
+    "color": [
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "office",
+        "living room",
+        "game room"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "cool",
+    "dimensions": {
+        "width": 0.713,
+        "height": 1.304,
+        "length": 0.705,
+        "unit": "meters"
+    }
+}

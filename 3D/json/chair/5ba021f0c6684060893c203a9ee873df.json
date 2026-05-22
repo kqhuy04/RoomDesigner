@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a uniquely designed chair with a distinctive spiral shape. The frame appears to be made of polished wood with a warm, natural tone, showcasing subtle grain patterns. Upholstered sections in a deep, textured blue fabric fill the spaces within the wooden structure, creating comfortable seating surfaces. The design suggests a modern, sculptural approach to furniture, blending organic curves with geometric precision. The interplay between the smooth wood and the textured fabric adds visual interest. It's a statement piece that would likely serve as both a functional seating option and an art object within a room.",
+    "color": [
+        "blue",
+        "brown",
+        "wood-tone"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "studio",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "artistic",
+    "dimensions": {
+        "width": 1.303,
+        "height": 1.101,
+        "length": 0.805,
+        "unit": "meters"
+    }
+}

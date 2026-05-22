@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "A tall, slender floor lamp with a flared, pleated lampshade. The stem of the lamp is a white, cylindrical column that widens slightly at the base. Attached to the stem is a decorative element resembling a chain of beads or oval shapes, hanging down towards the base. The base itself is a simple, circular disc. The overall design is minimalist and elegant, with a focus on clean lines and a uniform color palette.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.916,
+        "height": 4.64,
+        "length": 1.915,
+        "unit": "meters"
+    }
+}

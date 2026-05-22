@@ -1,0 +1,24 @@
+{
+    "object": "bed",
+    "description": "A minimalist twin-sized bed with a wooden frame, featuring a gently curved headboard and footboard. The bed is made of light-colored wood, giving it a natural and clean aesthetic. It is dressed with a purple checkered comforter and a white pillow, suggesting a cozy and functional setup. Adjacent to the bed is a small, modern white nightstand with a single drawer, also crafted with a clean, light wood trim. The overall design is simple and uncluttered, ideal for a bedroom with a contemporary or Scandinavian influence.",
+    "color": [
+        "brown",
+        "purple",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.624,
+        "height": 0.71,
+        "length": 2.085,
+        "unit": "meters"
+    }
+}

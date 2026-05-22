@@ -1,0 +1,27 @@
+{
+    "object": "table",
+    "description": "A two-tiered wooden nightstand with a drawer and a cabinet door. The top surface holds a few items, including what appears to be a book, a roll of toilet paper, and two black circular objects. The nightstand has a simple, functional design with a light wood grain texture and silver-toned handles on both the drawer and the cabinet. The overall appearance is utilitarian, suggesting it's meant for practical use in a bedroom or similar space. The cabinet section provides enclosed storage, while the drawer offers a convenient spot for smaller items.",
+    "color": [
+        "brown",
+        "gray",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guest room"
+    ],
+    "style": "contemporary",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.469,
+        "height": 0.85,
+        "length": 0.412,
+        "unit": "meters"
+    }
+}

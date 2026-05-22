@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "A modern, minimalist spiral staircase with a white railing and treads. It's integrated into a semi-enclosed structure with grey, textured walls and glass panels. The staircase ascends from a light wood-planked floor. Above, a white platform extends, also featuring a white railing, suggesting an upper level or landing. A small black framed picture with an 'X' symbol is mounted on the back wall. The overall design is clean and geometric, with a focus on functional elegance.",
+    "color": [
+        "white",
+        "grey",
+        "wood tone"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "modern house"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.58,
+        "height": 1.621,
+        "length": 2.43,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular Persian rug with intricate floral patterns and a central medallion. The dominant colors are cream, red, and blue, with accents of green and brown. The rug has a detailed border and fringed edges. Its complex design suggests a traditional or classic style, suitable for adding warmth and elegance to a room. The craftsmanship indicates it might be hand-knotted, a hallmark of quality Oriental rugs. The detailed motifs are typical of Persian carpet designs, often inspired by garden landscapes and calligraphy.",
+    "color": [
+        "cream",
+        "red",
+        "blue",
+        "green",
+        "brown"
+    ],
+    "appropriate_room": [
+        "living room",
+        "dining room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.885,
+        "height": 0.021,
+        "length": 2.617,
+        "unit": "meters"
+    }
+}

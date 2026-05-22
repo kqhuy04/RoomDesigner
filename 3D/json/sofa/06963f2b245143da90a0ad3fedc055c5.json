@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model of a minimalist white sofa with two grey blankets draped over it. The sofa has a simple, geometric design with clean lines and no visible embellishments. One blanket is spread across the main seating area, with its ends hanging down the sides. The other blanket is draped over the corner of the sofa, creating a more dynamic and casual look. The overall aesthetic is modern and uncluttered, focusing on form and texture. The lighting in the scene is soft, casting gentle shadows that highlight the contours of the fabric.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.048,
+        "height": 0.248,
+        "length": 3.048,
+        "unit": "meters"
+    }
+}

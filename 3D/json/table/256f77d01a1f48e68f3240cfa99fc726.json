@@ -1,0 +1,27 @@
+{
+    "object": "table",
+    "description": "A two-tiered white nightstand with a simple, modern design. The top surface is flat and square, providing space for items. Below it, a second shelf is positioned, creating an open storage area. The frame consists of four slender legs connected by the shelves. At the very top, placed on the surface of the nightstand, is a framed decorative object with a black and white geometric pattern, framed in light wood. This piece offers a blend of functional storage and decorative display.",
+    "color": [
+        "white",
+        "black",
+        "wood"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.46,
+        "height": 0.704,
+        "length": 0.36,
+        "unit": "meters"
+    }
+}

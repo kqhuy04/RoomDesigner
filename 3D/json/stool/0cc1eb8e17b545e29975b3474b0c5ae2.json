@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "A contemporary, drum-shaped stool with a textured white fabric upholstery that covers its entire cylindrical body. The stool tapers slightly inwards from its flat top surface towards a wider base, which is finished with a dark, solid band. The fabric appears to have a subtle, woven pattern, adding a tactile quality to the design. Its minimalist form and neutral color make it a versatile piece that can blend into various interior settings. The stool sits on a plain, neutral background, emphasizing its clean lines and simple silhouette.",
+    "color": [
+        "white",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "nursery"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.628,
+        "height": 0.597,
+        "length": 0.629,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "This is a modern, abstract wooden shelf with an asymmetrical design. It features two main rectangular frames, one larger and lower, the other smaller and higher, intersecting and offset. The larger frame is horizontal and open on three sides, with a solid bottom shelf. The smaller frame is vertical and open on three sides, with a solid top shelf. A dark grey panel with a subtle red gradient is integrated into the back of the smaller, vertical frame, creating a visually interesting focal point. The wood grain is prominent, suggesting a natural material like oak. The overall design is minimalist yet dynamic, with clean lines and a balanced composition.",
+    "color": [
+        "wood brown",
+        "grey",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood, glass",
+    "usage": "storage, decorative",
+    "mood": "minimalist, artistic",
+    "dimensions": {
+        "width": 0.78,
+        "height": 0.5,
+        "length": 0.14,
+        "unit": "meters"
+    }
+}

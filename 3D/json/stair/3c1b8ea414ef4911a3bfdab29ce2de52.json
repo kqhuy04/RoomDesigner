@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a contemporary staircase that appears to be part of a larger structure, possibly a building or tower. The staircase is designed to ascend within a somewhat enclosed space, with clear steps and a railing. It is integrated into a concrete-like structure that has multiple levels or platforms. The base of the structure sits on a light-colored, wood-grained platform. The overall design suggests a functional element for vertical movement, with a clean, modern aesthetic. The materials appear to be concrete, wood, and possibly glass for the railing.",
+    "color": [
+        "gray",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "outdoor",
+        "modern building"
+    ],
+    "style": "modern",
+    "material": [
+        "concrete",
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.08,
+        "height": 1.853,
+        "length": 2.179,
+        "unit": "meters"
+    }
+}

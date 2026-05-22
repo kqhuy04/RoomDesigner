@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a two-door wall-mounted cabinet. The cabinet has a modern design, featuring a light gray side panel and doors with a concrete-like texture. Each door is equipped with a sleek, minimalist silver handle. The cabinet appears to be designed for storage, suitable for kitchens, bathrooms, or even as an accent piece in a living area. The concrete texture on the doors adds a contemporary, industrial, or minimalist aesthetic, while the clean lines suggest it would complement a variety of decor styles. Its wall-mounting capability implies space-saving functionality.",
+    "color": [
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.002,
+        "height": 0.536,
+        "length": 0.375,
+        "unit": "meters"
+    }
+}

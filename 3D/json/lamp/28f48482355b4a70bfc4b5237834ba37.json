@@ -1,0 +1,28 @@
+{
+    "object": "lamp",
+    "description": "A modern chandelier with a striking geometric design. It features a central, ornate metal piece with intricate cutouts, resembling delicate lacework. Branching out from this central element are eight arms, each holding a cylindrical glass shade. The shades are semi-transparent, allowing a diffused light to emanate, creating an elegant and sophisticated ambiance. The overall construction suggests a contemporary aesthetic, blending intricate detailing with clean lines. It is designed to be a statement piece, providing both illumination and a significant visual focal point in a room.",
+    "color": [
+        "white",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.871,
+        "height": 0.97,
+        "length": 0.871,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a staircase, predominantly constructed with wooden steps. The staircase appears to be an exterior one, leading up to a brick structure. The surrounding area is tiled with a grey and white patterned design. The brick structure is rendered with a textured brick pattern, and there's a subtle orange translucent layer indicating possibly a room or interior space within the brick facade. A red line segment is superimposed on the brick structure, possibly indicating a measurement or architectural line. The staircase itself is simple, with visible treads and risers, and a light wooden color.",
+    "color": [
+        "brown",
+        "grey",
+        "white",
+        "red",
+        "orange"
+    ],
+    "appropriate_room": [
+        "exterior",
+        "garden",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 2.578,
+        "height": 2.666,
+        "length": 2.843,
+        "unit": "meters"
+    }
+}

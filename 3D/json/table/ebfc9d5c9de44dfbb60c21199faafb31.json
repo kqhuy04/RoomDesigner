@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A modern and minimalist table lamp with a conical white lampshade and a fluted, tapered base. The design is sleek and contemporary, with a focus on clean lines and simple forms. The base features vertical grooves that create a subtle textured effect and cast interesting shadows when lit. This lamp is designed to provide ambient or task lighting and would fit well in various interior settings, adding a touch of understated elegance.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.351,
+        "height": 0.652,
+        "length": 0.351,
+        "unit": "meters"
+    }
+}

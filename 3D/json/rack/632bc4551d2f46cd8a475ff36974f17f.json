@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "This is a three-hook rack, designed in a sleek, modern style. The rack features a long, flat base with three evenly spaced, curved hooks extending upwards. The hooks have a smooth, polished finish, and the overall design is minimalist and functional. The bright yellow color and glossy sheen give it a vibrant and contemporary feel, making it a visually appealing addition to any space. Its simple yet effective design allows for easy hanging of various items such as coats, bags, or keys, while its compact size makes it suitable for entryways, hallways, or even small apartments.",
+    "color": [
+        "yellow"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "bedroom",
+        "kitchen",
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.762,
+        "height": 0.172,
+        "length": 0.202,
+        "unit": "meters"
+    }
+}

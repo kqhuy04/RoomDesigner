@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a 3D rendering of a modern, freestanding shelf unit. It features a tall, narrow, rectangular frame with smooth, rounded edges, rendered in a solid red color. Inside the red frame, there are two distinct L-shaped shelves, colored in white. One L-shelf is positioned near the top, extending from the left interior side of the frame and turning right, while the other is located near the bottom, extending from the right interior side and turning left. This asymmetric arrangement provides unique compartments for display or storage. The overall design is sleek and geometric, set against a plain purple background.",
+    "color": [
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "painted wood",
+    "usage": "display",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.777,
+        "height": 2.306,
+        "length": 1.267,
+        "unit": "meters"
+    }
+}

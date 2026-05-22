@@ -1,0 +1,26 @@
+{
+    "object": "wardrobe",
+    "description": "This is a 3D model of a two-door wardrobe, rendered in a simple, stylized manner. The main body of the wardrobe is a warm, medium brown color, strongly suggesting a wooden construction or finish. It features two vertical doors, each adorned with a curved, silver-colored pull handle, implying they are made of metal. The top of the wardrobe has a subtly ornate, slightly curved decorative element, adding a touch of classic design. The piece stands on four simple, block-like feet, elevating it slightly from the ground. A soft shadow is cast on the dark grey background, indicating a light source from the front. The overall aesthetic is functional and understated.",
+    "color": [
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressingroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.077,
+        "height": 0.127,
+        "length": 0.052,
+        "unit": "meters"
+    }
+}

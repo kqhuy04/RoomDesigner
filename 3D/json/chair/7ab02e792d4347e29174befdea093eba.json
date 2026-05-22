@@ -1,0 +1,30 @@
+{
+    "object": "chair",
+    "description": "A pair of minimalist black armchairs with chrome frames and illuminated white seating. The chairs are positioned in a dark, abstract space with a floor designed to resemble swirling clouds or smoke in shades of deep blue, white, and gray. A tall, slender floor lamp with a circular light fixture stands between the chairs. The overall aesthetic is modern and artistic, suggesting a contemplative or avant-garde setting.",
+    "color": [
+        "black",
+        "white",
+        "chrome",
+        "blue",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "gallery",
+        "lounge",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.373,
+        "height": 0.564,
+        "length": 1.847,
+        "unit": "meters"
+    }
+}

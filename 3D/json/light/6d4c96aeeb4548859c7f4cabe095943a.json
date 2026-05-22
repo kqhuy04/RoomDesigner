@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A modern, cylindrical pendant light with a white, open-weave shade. The shade is constructed from numerous thin, vertical rods arranged closely together, creating a textured and airy effect. Inside the shade, a more solid, multi-tiered structure holds the light source, which is not visible in this rendering. The light is suspended from the ceiling by a slender, white cord and a circular white canopy. This fixture would provide diffused, ambient lighting and add a contemporary touch to a space.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.768,
+        "height": 1.085,
+        "length": 0.256,
+        "unit": "meters"
+    }
+}

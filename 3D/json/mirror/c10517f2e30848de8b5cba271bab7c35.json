@@ -1,0 +1,30 @@
+{
+    "object": "mirror",
+    "description": "This is a rectangular wall mirror with a classic and elegant design, presented vertically. The mirror features a substantial, golden-brown or tan frame that surrounds the reflective glass surface. The frame has a noticeable beveled inner edge, adding a subtle dimension and sophistication to its appearance. The mirror surface itself is clear and reflective, showing soft, diffused light, suggesting a smooth and functional reflection. The overall design is clean yet refined, making it a versatile piece for various interior settings.",
+    "color": [
+        "gold",
+        "tan",
+        "white",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "bathroom",
+        "hallway",
+        "livingroom",
+        "dressingroom"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.501,
+        "height": 0.701,
+        "length": 0.01,
+        "unit": "meters"
+    }
+}

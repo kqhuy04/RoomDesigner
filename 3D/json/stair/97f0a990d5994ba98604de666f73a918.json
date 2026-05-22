@@ -1,0 +1,23 @@
+{
+    "object": "stair",
+    "description": "A pair of tall, narrow, wooden stairs are presented against a black background. Each stair structure features a decorative arched top, reminiscent of architectural elements found in ancient or classical buildings. The left structure has an arched entryway at its base, while the right structure appears solid. Both structures are adorned with repetitive, grooved horizontal patterns that suggest steps or levels, and vertical detailing along the sides. Roman numerals are prominently displayed at the apex of each structure: 'XII' on the left and 'VIII' on the right, hinting at their potential use as part of a large-scale clock or monumental staircase.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "entryway",
+        "garden"
+    ],
+    "style": "classical",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "grand",
+    "dimensions": {
+        "width": 0.049,
+        "height": 1.419,
+        "length": 0.781,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "object": "wardrobe",
+    "description": "This is a modern, minimalist wardrobe with a light beige finish. It features a clean, rectangular design with two tall doors on the upper half and two drawers on the lower half. Each door and drawer is accented with a single, round, dark blue knob. The wardrobe stands on a flat base and casts a subtle shadow to its right, indicating it is lit from the left. The simple form and neutral color make it a versatile piece of furniture suitable for various bedroom styles.",
+    "color": [
+        "beige",
+        "dark blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.084,
+        "height": 0.095,
+        "length": 0.035,
+        "unit": "meters"
+    }
+}

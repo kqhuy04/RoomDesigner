@@ -1,0 +1,30 @@
+{
+    "object": "desk",
+    "description": "This is a modern, multi-functional piece of furniture that combines a desk with integrated storage. The tall cabinet section features a light wood grain finish with several compartments. The upper part has two large cabinet doors, below which are two open, dark-framed cubbies. The lower section of the cabinet has three drawers, also with a wood grain finish. Extending from the middle of the cabinet is a light wood desk surface, supported by a sleek, dark metal frame that forms a U-shape at the base. This design offers a compact solution for a workspace, potentially in a smaller living area or a home office, providing both a writing surface and ample storage.",
+    "color": [
+        "light brown",
+        "dark brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "home office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": [
+        "functional",
+        "storage"
+    ],
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.331,
+        "height": 2.021,
+        "length": 0.731,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "This is a modern vanity table with a built-in mirror. The table itself is a simple, rectangular structure with a flat top and a large open space underneath, supported by two thick legs. The mirror is framed and surrounded by numerous light bulbs, commonly known as Hollywood lights, which are designed to provide bright and even illumination for makeup application or grooming. The overall design is minimalist and functional, focusing on practicality for personal use.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.575,
+        "height": 1.908,
+        "length": 1.174,
+        "unit": "meters"
+    }
+}

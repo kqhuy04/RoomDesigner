@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is an area rug featuring a unique distressed and abstract design. The predominant background is a faded white or light grey, giving it a vintage, worn appearance. Rich, traditional oriental motifs, primarily in shades of red and deep blue with hints of yellow and other earthy tones, emerge through the distressed areas, creating a captivating contrast. The pattern appears as if fragmented or washed out in sections, blending classic elegance with a contemporary, artistic aesthetic. The edges are finished with a subtle border.",
+    "color": [
+        "white",
+        "grey",
+        "red",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "study"
+    ],
+    "style": "transitional",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "eclectic",
+    "dimensions": {
+        "width": 2.408,
+        "height": 0.014,
+        "length": 1.716,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This 3D model preview displays a sleek and modern table lamp. It features a simple, slightly conical lampshade, rendered in a bright white. The most striking element is its base, which is composed of two elegantly curved, intertwining arms that create an abstract, sculptural form before connecting to a flat, circular foot. The entire lamp is presented in a uniform white finish against a neutral gray background, emphasizing its clean lines and contemporary aesthetic. Its design is both functional as a light source and decorative as a piece of art.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.984,
+        "height": 3.661,
+        "length": 1.983,
+        "unit": "meters"
+    }
+}

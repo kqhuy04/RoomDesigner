@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a collection of four oriental rugs displayed in a 3D environment. The rugs are of varying sizes and patterns, with intricate floral and geometric designs. One rug is partially folded, revealing its textured underside. The color palettes include rich reds, deep blues, and earthy tones, typical of traditional Persian or Turkish carpets. The detailed patterns suggest a high level of craftsmanship. These rugs are designed to add warmth, texture, and a touch of elegance to any interior space.",
+    "color": [
+        "red",
+        "blue",
+        "beige",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "oriental",
+    "material": "textile",
+    "usage": "decorative",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.894,
+        "height": 0.016,
+        "length": 2.569,
+        "unit": "meters"
+    }
+}

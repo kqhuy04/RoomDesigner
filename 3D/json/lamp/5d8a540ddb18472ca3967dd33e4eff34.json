@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "A modern table lamp with a dual-layered cylindrical lampshade. The base of the lamp features an ornate, hollowed-out design with intersecting circular patterns, giving it a delicate and artistic appearance. The stem connecting the base to the shade is simple and smooth. The overall design is clean and monochromatic, emphasizing its sculptural form. This lamp would serve as both a light source and a statement decorative piece.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "metal"
+    ],
+    "usage": [
+        "functional",
+        "decorative"
+    ],
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.682,
+        "height": 4.905,
+        "length": 2.683,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This is a square, tufted ottoman with a leather finish. It features a contemporary design with a silver metal base and legs. The tufting creates a grid-like pattern on the top surface, giving it a classic yet modern aesthetic. The leather appears to have a slight sheen, suggesting a smooth texture. The overall construction looks sturdy and well-made, suitable for use as a footrest, extra seating, or even a makeshift coffee table.",
+    "color": [
+        "brown",
+        "tan",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "contemporary",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.876,
+        "height": 0.48,
+        "length": 0.873,
+        "unit": "meters"
+    }
+}

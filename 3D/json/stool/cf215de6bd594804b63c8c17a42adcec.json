@@ -1,0 +1,32 @@
+{
+    "object": "stool",
+    "description": "This is a modern bar stool featuring a unique and distinctive design. The backrest is shaped like the letter 'R', made from a light brown wood or wood-like material with an artistic, swirling dark brown grain pattern. The seat is round, glossy, and vibrantly red, offering a striking contrast. The stool is supported by a sleek, silver-grey metal pole, which appears to be adjustable, and stands on a broad, circular silver-grey metal base. The item is presented against a solid teal-green background, with a subtle shadow suggesting depth and lighting.",
+    "color": [
+        "orange",
+        "brown",
+        "red",
+        "silver",
+        "grey",
+        "teal"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar_area",
+        "game_room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.003,
+        "height": 0.008,
+        "length": 0.003,
+        "unit": "meters"
+    }
+}

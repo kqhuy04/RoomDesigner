@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a modern black office chair, viewed from the side. It features a sleek, ergonomic design with a padded seat and backrest, and adjustable armrests. The chair is mounted on a sturdy five-star base with wheels, allowing for easy mobility. The base is constructed from a durable metal, likely aluminum or steel, and the chair itself appears to be upholstered in a smooth, synthetic material such as faux leather or high-quality plastic. Its minimalist aesthetic and functional features make it suitable for a variety of professional or home office environments.",
+    "color": [
+        "black",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic",
+        "synthetic fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.54,
+        "height": 3.591,
+        "length": 2.793,
+        "unit": "meters"
+    }
+}

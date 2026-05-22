@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a striking, modern blue chair with a minimalist and abstract design. Its form is angular and geometric, featuring sharp lines and flat planes. The seat and backrest are seamlessly integrated, creating a unified structure. The base of the chair is particularly distinctive, with a sculptural, almost folded appearance that gives it a sense of lightness and dynamism. The bright blue color adds a vibrant and contemporary feel to the piece. It appears to be made of a solid, smooth material, likely plastic or a composite, suitable for both indoor and outdoor use due to its clean lines and lack of ornate details.",
+    "color": [
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.022,
+        "height": 1.146,
+        "length": 1.119,
+        "unit": "meters"
+    }
+}

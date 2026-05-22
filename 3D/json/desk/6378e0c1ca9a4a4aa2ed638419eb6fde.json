@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "This is a classic mid-century modern-style desk featuring a rectangular, off-white laminate top and a sturdy, blue metal base. The base is divided into two cabinet units, each with three drawers, separated by an open central space. The drawers have sleek, silver-toned bar handles. The desk sits on small, silver cylindrical feet, adding a subtle metallic accent. The overall design is functional and minimalist, evoking a sense of order and productivity. This desk would be a practical addition to an office or study area, offering ample storage for documents and supplies.",
+    "color": [
+        "white",
+        "blue",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "studyroom",
+        "bedroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "laminate",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.075,
+        "height": 0.933,
+        "length": 1.083,
+        "unit": "meters"
+    }
+}

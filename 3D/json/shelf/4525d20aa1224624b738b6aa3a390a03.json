@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A modern, open-backed bookshelf with a warm wood finish. It features a staggered, geometric design with multiple compartments of varying sizes, perfect for displaying books, decorative items, or plants. The clean lines and natural wood grain give it a contemporary yet inviting feel. Its open structure promotes air circulation and allows light to pass through, preventing it from feeling too bulky in a room. This versatile piece can serve as a functional storage unit and a stylish accent in various living spaces.",
+    "color": [
+        "brown",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.2,
+        "height": 1.059,
+        "length": 0.29,
+        "unit": "meters"
+    }
+}

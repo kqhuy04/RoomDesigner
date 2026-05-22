@@ -1,0 +1,28 @@
+{
+    "object": "sofa",
+    "description": "A large, sectional sofa with a chaise lounge. The sofa is upholstered in a light-colored fabric and features several throw pillows, including one with a deer head design and another with a geometric pattern. The sofa has a modern, minimalist design with clean lines and low-profile legs. It is positioned in front of a concrete wall with a shelf above it holding books and a framed picture. A wooden coffee table sits in front of the sofa, holding magazines, mugs, and a small vase with a plant.",
+    "color": [
+        "beige",
+        "white",
+        "grey",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.622,
+        "height": 0.25,
+        "length": 0.331,
+        "unit": "meters"
+    }
+}

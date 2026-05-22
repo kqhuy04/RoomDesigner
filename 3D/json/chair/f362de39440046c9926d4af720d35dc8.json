@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This 3D model depicts a unique chair creatively designed to resemble a shopping cart. The entire structure, including the seat, backrest, armrests, and frame with wheels, is rendered in a uniform bright red color. The design cleverly incorporates the characteristic wire-mesh construction of a shopping cart, giving it a distinctive industrial and utilitarian aesthetic. The chair maintains the familiar shape of a shopping cart, with a raised back, a seating area, and two cylindrical armrests. The lower part features the typical frame and wheels, implying mobility. It's an artistic reinterpretation of a common object, transforming a functional item into a piece of furniture that is both playful and conversation-starting.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "quirky",
+    "dimensions": {
+        "width": 0.051,
+        "height": 0.078,
+        "length": 0.053,
+        "unit": "meters"
+    }
+}

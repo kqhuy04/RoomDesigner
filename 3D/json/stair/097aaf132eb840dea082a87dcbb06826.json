@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a modern staircase with a glass enclosure and a wooden structure. The staircase is made of wood, with light-colored steps and handrails. It is enclosed by clear glass panels that create a sense of openness and allow light to pass through. The overall design is minimalist and sleek, with a focus on clean lines and simple forms. The staircase appears to be part of a larger architectural design, possibly within a contemporary building or exhibit. The base of the structure is a light wooden floor, and the entire installation is set against a dark, neutral background, highlighting the staircase itself.",
+    "color": [
+        "brown",
+        "white",
+        "grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "modern_home"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.341,
+        "height": 1.537,
+        "length": 2.682,
+        "unit": "meters"
+    }
+}

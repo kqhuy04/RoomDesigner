@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a modern vanity table with a sleek, minimalist design. The table features a white lacquered top with a thin red accent line. Below the top, the front has ribbed paneling, suggesting drawers or storage compartments, also in white with vertical silver trim. A separate, shorter white unit with similar ribbed detailing sits to the left, integrated into the overall design. The table is supported by two polished chrome legs that have a unique, angular shape, adding a contemporary flair. A circular, free-standing mirror with a chrome frame is positioned on the tabletop, completing the vanity set. The overall impression is one of clean lines and sophisticated functionality, perfect for a modern dressing area.",
+    "color": [
+        "white",
+        "silver",
+        "red",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.2,
+        "height": 1.064,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "mirror",
+    "description": "A tall, slender full-length mirror with a warm, wooden frame. The mirror is positioned at an angle, showcasing its reflective surface. The reflection appears to be of an outdoor scene, with dark, blurred foliage and bright sky, suggesting a natural environment. The wooden frame has a smooth finish and a natural wood grain, giving it a classic and elegant look. The mirror itself is clear and highly reflective, capturing the light and the surrounding environment. Its elongated shape makes it ideal for checking outfits or adding a sense of spaciousness to a room.",
+    "color": [
+        "brown",
+        "white",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "dressing room",
+        "entryway"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.4,
+        "height": 1.2,
+        "length": 0.03,
+        "unit": "meters"
+    }
+}

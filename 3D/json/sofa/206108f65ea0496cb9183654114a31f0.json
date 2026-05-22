@@ -1,0 +1,24 @@
+{
+    "object": "sofa",
+    "description": "This is a modern, low-profile sectional sofa with a textured, neutral-toned fabric upholstery. It features a contemporary design with clean lines and plush cushions. The sofa is arranged in an L-shape, offering ample seating space. Several throw pillows in a slightly darker shade of brown are arranged on the backrest, adding a touch of comfort and visual interest. The sectional is presented on a plain, dark grey background, highlighting its form and texture. The textured fabric appears to have a subtle ribbed or woven pattern, contributing to its sophisticated and inviting appearance.",
+    "color": [
+        "beige",
+        "tan",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "family room"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.585,
+        "height": 0.171,
+        "length": 0.782,
+        "unit": "meters"
+    }
+}

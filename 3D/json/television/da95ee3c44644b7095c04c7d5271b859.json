@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "This is a low-poly 3D model of a vintage television, likely a CRT (Cathode Ray Tube) type, rendered in a monochromatic light gray or off-white color. The television features classic 'rabbit ear' antennas extended upwards from its top surface, characteristic of older models. The screen is a blank, darker gray rectangle, suggesting it is powered off or displaying no content. On the right side of the TV's front panel, there are subtle indentations indicating control buttons, dials, and ventilation grilles. The overall design is simplistic and polygonal, emphasizing its 3D model nature against a plain, light gray background.",
+    "color": [
+        "light gray",
+        "off-white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den",
+        "game room"
+    ],
+    "style": "retro",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.026,
+        "height": 0.034,
+        "length": 0.017,
+        "unit": "meters"
+    }
+}

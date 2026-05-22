@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, slender corner storage cabinet with a modern and minimalist design. It features a light, whitewashed wood-grain finish. The left side has a full-length door with a sleek, vertical black handle for concealed storage. The right side is designed to fit into a corner, offering multiple open, triangular shelves for display or easy access. The cabinet stands on a slightly recessed base, giving it a clean, floating appearance. Its vertical orientation and corner design make it ideal for maximizing storage in smaller spaces.",
+    "color": [
+        "light grey",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "bathroom",
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "study"
+    ],
+    "style": "modern",
+    "material": "engineered wood",
+    "usage": "storage",
+    "mood": "clean",
+    "dimensions": {
+        "width": 0.554,
+        "height": 2.203,
+        "length": 0.256,
+        "unit": "meters"
+    }
+}

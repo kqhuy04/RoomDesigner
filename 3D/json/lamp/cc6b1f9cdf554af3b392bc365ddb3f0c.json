@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a 3D model preview of a contemporary or mid-century modern style chandelier. It features a central vertical rod extending from a ceiling mount, from which multiple white, slender arms branch out. Each arm terminates in a spherical white shade or light bulb, creating a geometric and somewhat atomic-inspired design. The overall aesthetic is minimalist and clean, with a uniform white color for all components, including the structure and the spherical lights. The design gives the impression of a stylish and sculptural lighting fixture.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "entryway",
+        "bedroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "metal",
+        "glass",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.831,
+        "height": 0.892,
+        "length": 0.831,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "object": "television",
+    "description": "This is a 3D rendered model of a vintage television set, likely from the mid-20th century. The television features a dark reddish-brown, boxy casing with rounded edges, enclosing a curved, glowing screen. The screen displays a blurry, colorful test pattern, reminiscent of broadcast signals or no signal on older TVs. To the right of the screen, there is a vertical control panel with a light silver or cream-colored finish. This panel includes a large circular black speaker grille at the top, and two smaller, black circular control knobs stacked vertically below it. The overall design evokes a strong sense of nostalgia and retro aesthetics.",
+    "color": [
+        "dark brown",
+        "black",
+        "silver",
+        "cream"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den",
+        "gameroom"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.92,
+        "height": 1.18,
+        "length": 1.025,
+        "unit": "meters"
+    }
+}

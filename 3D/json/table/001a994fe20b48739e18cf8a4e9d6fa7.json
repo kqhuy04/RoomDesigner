@@ -1,0 +1,30 @@
+{
+    "object": "table",
+    "description": "A billiard table with a blue felt surface, set within a dark wood frame. The table has six pockets, one at each corner and one on each side. On the felt, a triangular rack of billiard balls is arranged, consisting of red, yellow, and one black ball at the apex. A single white cue ball is also visible on the table, positioned away from the rack. The table is rendered in a 3D model, appearing to float against a white background, suggesting it's a digital asset for visualization or gaming.",
+    "color": [
+        "blue",
+        "brown",
+        "red",
+        "yellow",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "gameroom",
+        "basement",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "felt"
+    ],
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.2,
+        "height": 0.619,
+        "length": 2.2,
+        "unit": "meters"
+    }
+}

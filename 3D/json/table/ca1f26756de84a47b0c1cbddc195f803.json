@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a 3D model preview, rendered as a point cloud, depicting a nightstand within a domestic setting. The nightstand itself is a sturdy, rectangular piece of furniture, exhibiting clean, minimalist lines typical of modern design. It appears to feature a single, subtle drawer, indicated by a small, central knob, offering convenient storage. Resting on its top surface is a distinct decorative object, possibly an essential oil diffuser, which emits a soft, captivating glow in shades of vibrant green and tranquil blue. Partially visible to the left are elements suggesting bedding, rendered in soft yellow and purple hues, indicating the nightstand's placement beside a bed. The background reveals a window adorned with a curtain, which features an intricate floral pattern of red and white blossoms against a muted grey backdrop, adding a touch of classic charm. The point cloud rendering technique imparts a unique, textured, and slightly ethereal quality to the entire scene.",
+    "color": [
+        "brown",
+        "green",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.16,
+        "height": 2.344,
+        "length": 1.434,
+        "unit": "meters"
+    }
+}

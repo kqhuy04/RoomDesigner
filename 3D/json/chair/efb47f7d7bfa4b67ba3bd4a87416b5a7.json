@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A modern office chair with a sleek design. The seat and backrest are upholstered in a textured, light brown fabric, featuring vertical channel tufting on the back and horizontal tufting on the seat, creating a visually appealing segmented look. The chair has a chrome-finished five-star base equipped with casters for easy mobility. The minimalist aesthetic and functional design make it suitable for various contemporary office or home office environments. Its compact profile and swivel base offer practicality without compromising on style.",
+    "color": [
+        "brown",
+        "beige",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.645,
+        "height": 0.923,
+        "length": 0.675,
+        "unit": "meters"
+    }
+}

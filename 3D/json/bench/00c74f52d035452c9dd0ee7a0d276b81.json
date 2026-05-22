@@ -1,0 +1,25 @@
+{
+    "object": "bench",
+    "description": "This 3D model features a simple outdoor bench and a cylindrical trash can. The bench has a slatted design for both the seat and the backrest, supported by clean, angular legs. The trash can is a basic cylinder with an open top. Both objects are rendered in a monochromatic gray palette, suggesting a minimalist or modern aesthetic. The lighting and shading create a sense of depth and form, highlighting the geometric shapes of the objects. This set would be suitable for an outdoor setting like a park, a patio, or a public space.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "park",
+        "patio"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.007,
+        "height": 0.826,
+        "length": 0.579,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, and empty bookshelf with multiple shelves. It appears to be made of a dark, textured material, possibly wood or a composite, with a weathered or distressed finish. The lighting casts shadows on the shelves, giving it a somewhat somber and utilitarian feel. The design is very simple and functional, without any decorative elements. It's presented against a stark black background, emphasizing its form and structure.",
+    "color": [
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "study",
+        "library",
+        "office",
+        "living room"
+    ],
+    "style": "industrial",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.35,
+        "height": 1.9,
+        "length": 1.2,
+        "unit": "meters"
+    }
+}

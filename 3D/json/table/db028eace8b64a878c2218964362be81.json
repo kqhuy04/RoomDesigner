@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This 3D model depicts a simple, rectangular table constructed from wood. The table features a flat, rectangular tabletop and four sturdy, thick legs. The wood texture is visibly rough with a prominent grain, giving it a rustic and natural appearance. The overall color is a consistent dark brown, suggesting a natural wood finish. Its minimalist design and robust construction make it suitable for various functional or decorative purposes, potentially as a console table or a side table.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "bedroom",
+        "entryway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.532,
+        "length": 0.4,
+        "unit": "meters"
+    }
+}

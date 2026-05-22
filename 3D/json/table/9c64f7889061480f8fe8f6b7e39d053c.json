@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "A rectangular table with a light brown, matte surface. The table has four slender, metallic legs that are angled slightly outwards from the tabletop. The legs have a matte silver or gray finish and terminate in small, squared feet. The overall design is simple and functional, suggesting it could be used in various settings like a classroom, office, or dining area. The clean lines and neutral color palette give it a minimalist aesthetic.",
+    "color": [
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "classroom",
+        "diningroom",
+        "kitchen",
+        "studyroom"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.455,
+        "height": 0.424,
+        "length": 0.69,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "mirror",
+    "description": "This is a rectangular, full-length mirror with a decorative frame. The frame appears to be made of a textured, possibly aged material, with an organic, vine-like pattern. At each of the four corners of the frame, there is a small, stylized skull. The mirror itself has an unusual luminescence. The top half of the reflective surface emits a greenish glow, while the bottom half emanates an orange-yellow light, suggesting a mystical or otherworldly quality. The background is completely black, emphasizing the illuminated mirror.",
+    "color": [
+        "green",
+        "orange",
+        "yellow",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressingroom",
+        "hallway"
+    ],
+    "style": "gothic",
+    "material": "unknown (appears to be textured, possibly resin or sculpted material for frame)",
+    "usage": "functional, decorative",
+    "mood": "mysterious, spooky",
+    "dimensions": {
+        "width": 0.889,
+        "height": 1.821,
+        "length": 0.186,
+        "unit": "meters"
+    }
+}

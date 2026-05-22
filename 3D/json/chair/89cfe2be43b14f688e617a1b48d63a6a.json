@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A modern, tufted black leather lounge chair with a polished chrome frame. The chair features a distinctive 'X' shaped base and is upholstered in a glossy black material, creating a luxurious and contemporary aesthetic. The tufting on the seat and backrest adds a classic touch, while the sleek metal frame provides a modern contrast. Its design is inspired by iconic mid-century modern furniture.",
+    "color": [
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.981,
+        "height": 1.184,
+        "length": 1.157,
+        "unit": "meters"
+    }
+}

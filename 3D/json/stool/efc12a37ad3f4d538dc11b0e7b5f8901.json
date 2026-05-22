@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "This is a small, upholstered stool with a wooden frame. The seat is covered in a dark plaid fabric, featuring a pattern of dark grey, black, and white lines. The wooden legs are turned and have a light, natural wood finish, with a slightly distressed or aged appearance. The stool is sturdy and appears to be well-constructed, suitable for use as a footrest, extra seating, or even as a small side table in a variety of settings. Its classic design makes it versatile and able to complement different decor styles.",
+    "color": [
+        "dark grey",
+        "black",
+        "white",
+        "light wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway"
+    ],
+    "style": "traditional",
+    "material": "wood, fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.885,
+        "height": 1.085,
+        "length": 0.885,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "cabinet",
+    "description": "This is a compact cabinet featuring a dark gray main body with a contrasting reddish-brown top. The front of the cabinet has two vertical doors, each with a single, horizontal silver handle. Below the doors, there's a single silver handle suggesting a drawer or a panel. To the right of the main cabinet body, an open shelving unit is integrated. This unit contains three dark gray woven baskets, stacked vertically, with openings facing outward. Above the baskets, there's a narrow dark brown shelf, also oriented horizontally. The overall design is functional and appears to be made of wood with a laminate or painted finish.",
+    "color": [
+        "dark gray",
+        "reddish-brown",
+        "silver",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.947,
+        "height": 1.905,
+        "length": 1.016,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "sofa",
+    "description": "This is a two-seater sofa with a modern design. It features a neutral-toned, textured fabric upholstery that gives it a sophisticated look. The sofa has a plush appearance with comfortable-looking seat and back cushions. It sits on a low, dark gray base that gives it a contemporary edge. The clean lines and simple silhouette make it a versatile piece that can fit into various interior design schemes, offering a cozy and inviting seating option for a living room or lounge area.",
+    "color": [
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 3.139,
+        "height": 1.561,
+        "length": 1.073,
+        "unit": "meters"
+    }
+}

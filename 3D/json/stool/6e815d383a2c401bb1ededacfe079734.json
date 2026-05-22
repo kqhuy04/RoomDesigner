@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "A rustic, octagonal wooden stool with three tapered legs. The top of the stool has a noticeable crack, adding to its aged and handcrafted appearance. The design is simple and utilitarian, suggesting it's a functional piece of furniture for casual seating. The wood has a matte finish and appears to be a dark brown or greyish-brown color.",
+    "color": [
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen",
+        "entryway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.413,
+        "height": 0.324,
+        "length": 0.414,
+        "unit": "meters"
+    }
+}

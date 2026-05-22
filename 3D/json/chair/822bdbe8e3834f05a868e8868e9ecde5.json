@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a gaming chair designed for comfort and ergonomic support during extended gaming sessions. It features a high backrest with integrated headrest and lumbar support, padded armrests, and a contoured seat. The chair is upholstered in a combination of materials, likely PU leather and fabric, for durability and breathability. Its design incorporates bold color accents, often red or blue, against a black base, giving it a sporty and aggressive aesthetic. The chair is mounted on a sturdy five-star base with casters for easy mobility, and typically includes a gas lift for adjustable height. It is built to accommodate a wide range of body types and provides features like recline and tilt functions for personalized comfort.",
+    "color": [
+        "black",
+        "red"
+    ],
+    "appropriate_room": [
+        "gaming room",
+        "office",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "PU leather",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.811,
+        "height": 4.517,
+        "length": 2.519,
+        "unit": "meters"
+    }
+}

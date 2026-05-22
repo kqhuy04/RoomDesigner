@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "A tall, narrow wooden cabinet with a dark brown, distressed wood finish. It features an open section on the right side with a visible shelf and an inner wooden lining. To the left of the open section is a closed door with a brass ring pull. Below the main compartment are three drawers, each with a brass ring pull. The cabinet has a decorative arched top. The overall design suggests an antique or vintage piece, suitable for storage or display.",
+    "color": [
+        "brown",
+        "beige",
+        "brass"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "study"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.252,
+        "height": 0.572,
+        "length": 0.23,
+        "unit": "meters"
+    }
+}

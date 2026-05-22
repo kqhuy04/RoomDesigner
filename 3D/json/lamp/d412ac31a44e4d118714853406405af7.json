@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a classic, ornate chandelier, presented as a 3D model in a monochromatic white or very light grey. The fixture features a central decorative body from which multiple gracefully curved arms extend outwards. Each arm terminates in a candle-style light fixture, complete with a small circular bobeche (drip pan) below the 'candle'. The design appears to have multiple tiers of arms, suggesting a fixture with eight or more lights in total, arranged symmetrically around the central column. It is suspended from a ceiling cup by a chain link. The overall appearance is highly decorative and sculptural, evoking a sense of traditional elegance and grandeur.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "foyer",
+        "ballroom"
+    ],
+    "style": "classical",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.824,
+        "height": 0.995,
+        "length": 0.824,
+        "unit": "meters"
+    }
+}

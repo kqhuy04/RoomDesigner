@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "A modern staircase with a unique, rounded landing. The steps are made of wood, creating a warm contrast with the sleek white railing and the grey concrete wall behind it. The staircase appears to be an internal feature, possibly leading to a mezzanine or a higher floor. The design is minimalist and clean, with a focus on form and material. The shadow cast by the structure suggests it's lit from the side, adding a subtle depth to the composition.",
+    "color": [
+        "wood brown",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "modern house"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.71,
+        "height": 1.612,
+        "length": 2.343,
+        "unit": "meters"
+    }
+}

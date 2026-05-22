@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "A rectangular rug featuring a geometric pattern composed of interlocking triangles. The triangles are rendered in various shades of blue, grey, and red, creating a dynamic and modern aesthetic. The rug appears to have a low pile and a textured surface, suggesting it is made of fabric. The edges of the rug are finished with a subtle, lighter colored trim. The overall design is abstract and visually engaging, suitable for adding a touch of contemporary style to a space.",
+    "color": [
+        "blue",
+        "grey",
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 3.341,
+        "height": 0.029,
+        "length": 3.341,
+        "unit": "meters"
+    }
+}

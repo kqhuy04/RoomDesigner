@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist bar stool featuring a sleek and functional design. The stool consists of a dark brown, rectangular seat, likely made of wood or a wood-like material, providing a compact and comfortable perch. Supporting the seat is a robust frame constructed from four vertical black metal legs. These legs are connected by two horizontal black metal bars, strategically placed to serve as convenient footrests, enhancing user comfort. The overall aesthetic is clean and industrial, with sharp lines and a straightforward silhouette that emphasizes practicality. Its tall stature makes it ideal for pairing with kitchen islands, high tables, or bar counters, blending seamlessly into modern interior settings with its understated elegance. The contrasting materials of the dark seat and black frame give it a contemporary appeal.",
+    "color": [
+        "black",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar area",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.393,
+        "height": 1.019,
+        "length": 0.393,
+        "unit": "meters"
+    }
+}

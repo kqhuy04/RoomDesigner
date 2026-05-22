@@ -1,0 +1,21 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a green inflatable tube man, often referred to as an air dancer or sky dancer. It features a long, segmented body that is flexible and designed to sway and move with air currents. The figure has simple, cartoonish eyes and a smiling mouth drawn onto its head. Its limbs are also made of the same inflatable material, giving it a whimsical and energetic appearance. The design mimics the type of inflatable advertising characters commonly seen outside businesses to attract attention. The model is presented against a plain, light gray background, isolating the object for clear viewing.",
+    "color": [
+        "green"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "entertainment"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.009,
+        "height": 0.006,
+        "length": 0.003,
+        "unit": "meters"
+    }
+}

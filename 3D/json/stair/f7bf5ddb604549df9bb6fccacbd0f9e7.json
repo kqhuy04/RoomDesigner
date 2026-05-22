@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a three-tiered staircase tower with a central concrete structure and wooden platforms at each level. The staircase itself is a spiral design made of wood with metal railings. The tower is situated on a square wooden platform, which is then placed on a larger square floor. The overall structure is minimalist and functional, likely serving as an access point or viewing platform. The concrete has a rough texture, while the wood provides a warmer contrast. The design is simple and geometric, with clean lines.",
+    "color": [
+        "gray",
+        "brown",
+        "tan",
+        "black"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "park"
+    ],
+    "style": "modern",
+    "material": [
+        "concrete",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.499,
+        "height": 2.514,
+        "length": 2.487,
+        "unit": "meters"
+    }
+}

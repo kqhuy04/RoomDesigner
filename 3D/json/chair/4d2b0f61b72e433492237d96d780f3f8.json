@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A single, modern armchair with a sleek metal frame and comfortable upholstery. The chair features a dark metal base and legs, with curved metal tubing forming the armrests and back support. The seat and back are padded with a textured blue fabric, providing a plush feel. A vibrant coral-colored throw pillow with a quilted pattern rests on the seat, adding a pop of color and extra comfort. The design suggests a blend of industrial and contemporary aesthetics, making it a stylish addition to various living spaces.",
+    "color": [
+        "blue",
+        "coral",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 2.0,
+        "height": 1.744,
+        "length": 1.974,
+        "unit": "meters"
+    }
+}

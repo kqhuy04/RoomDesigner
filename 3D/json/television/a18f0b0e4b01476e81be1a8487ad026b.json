@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a stylized, blocky television that appears to be made of wood with dark gray speaker accents. The screen displays a scene from the game Minecraft, featuring a character holding a pickaxe, surrounded by blocky clouds and a blue sky. There are also smaller figures, possibly other characters or mobs, on the screen. The overall aesthetic is reminiscent of the early days of gaming or a retro design. The television has a sturdy, box-like base and appears to be a standalone unit, not wall-mounted. It evokes a sense of nostalgia and playful interaction with digital worlds.",
+    "color": [
+        "brown",
+        "gray",
+        "blue",
+        "green",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.016,
+        "height": 1.443,
+        "length": 1.69,
+        "unit": "meters"
+    }
+}

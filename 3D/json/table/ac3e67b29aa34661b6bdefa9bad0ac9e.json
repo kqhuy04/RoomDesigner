@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "A modern table with a dark, textured top and light wooden legs. The tabletop appears to be made of a material like granite or a similar composite, featuring a speckled black and grey pattern with subtle swirls. The edges of the tabletop are slightly rounded. The legs are simple, tapering wooden structures that provide a warm contrast to the dark surface. A small potted succulent sits centrally on the table, placed on a dark, textured coaster, adding a touch of life and color to the composition. The overall presentation is clean and minimalist, with a focus on the materials and form of the table.",
+    "color": [
+        "black",
+        "grey",
+        "white",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "stone composite"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.402,
+        "height": 0.513,
+        "length": 0.398,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "This is a 3D model of a multi-arm chandelier, presented in a clean, monochrome white finish. The fixture features a central, classically-shaped body with vertical fluting, from which eight gracefully curved arms extend. Each arm supports a cylindrical lampshade characterized by delicate pleats and a decorative rim at the top. The chandelier is suspended by a linked chain from a simple ceiling plate, embodying a traditional and elegant aesthetic. It's designed to provide ambient lighting and serve as a prominent decorative element.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "entryway",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.872,
+        "height": 1.074,
+        "length": 0.872,
+        "unit": "meters"
+    }
+}

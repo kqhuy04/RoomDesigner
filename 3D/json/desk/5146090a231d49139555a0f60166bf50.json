@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "This is a modular desk and shelving unit with a modern, functional design. The unit combines a desk area with an integrated wall of shelving and storage. The desk is L-shaped, offering ample workspace and is complemented by a set of drawers for organization. Above the desk, the shelving unit is divided into various compartments, some open and some with doors. The design incorporates different colored sections to create visual interest and delineate functional zones. It appears to be constructed from materials that mimic wood or laminate, suitable for a home office, study, or children's room.",
+    "color": [
+        "yellow",
+        "blue",
+        "white"
+    ],
+    "appropriate_room": [
+        "home office",
+        "study",
+        "bedroom",
+        "children's room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "laminate"
+    ],
+    "usage": "storage and workspace",
+    "mood": "organized, functional",
+    "dimensions": {
+        "width": 2.205,
+        "height": 2.78,
+        "length": 1.74,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a unique, modern spiral staircase integrated within a multi-level, abstract architectural structure. The staircase itself is crafted from warm, light-brown wood, featuring individual steps and railings that follow a gentle curve. The surrounding structure is primarily white, composed of smooth, rounded forms that create a sense of flow and movement. The design suggests an open, airy space, possibly a feature element in a contemporary building or a standalone sculptural piece. The shadow cast beneath the structure indicates it's designed to be viewed from above or at an angle, highlighting its form.",
+    "color": [
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "atrium",
+        "gallery",
+        "exterior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.804,
+        "height": 2.402,
+        "length": 2.469,
+        "unit": "meters"
+    }
+}

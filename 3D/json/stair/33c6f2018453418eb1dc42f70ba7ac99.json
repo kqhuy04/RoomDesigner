@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a multi-level staircase, likely designed for a building. The staircase features multiple flights of stairs with elegant curved landings. It has a sturdy wooden construction for the treads and risers, complemented by intricately designed metal balusters and wooden handrails. The model appears to be a digital rendering, possibly for architectural visualization or product display, showing three stacked sections of the staircase. Shadows are cast on a white platform, suggesting a presentation or simulation environment.",
+    "color": [
+        "brown",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "foyer",
+        "residential building",
+        "commercial building"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.139,
+        "height": 1.96,
+        "length": 2.519,
+        "unit": "meters"
+    }
+}

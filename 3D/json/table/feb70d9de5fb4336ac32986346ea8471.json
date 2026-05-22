@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a rectangular dining table with a light-colored wooden tabletop that has a visible wood grain pattern. The tabletop appears to be made of planks. The table is supported by a robust base constructed with two 'X'-shaped legs made of black metal. Connecting these legs is a dark brown, rectangular wooden beam, adding a rustic and sturdy aesthetic. The overall design suggests a blend of industrial and natural elements, suitable for various dining or working spaces.",
+    "color": [
+        "light brown",
+        "dark brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "kitchen",
+        "living room",
+        "office"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "rustic",
+    "dimensions": {
+        "width": 1.793,
+        "height": 0.771,
+        "length": 1.063,
+        "unit": "meters"
+    }
+}

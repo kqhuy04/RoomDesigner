@@ -1,0 +1,30 @@
+{
+    "object": "chair",
+    "description": "This is a zero gravity chair, designed for ultimate relaxation. It features a sturdy metal frame that allows it to recline to a near-flat position, mimicking the sensation of weightlessness. The seat and back are made of durable fabric panels in earthy tones of olive green and grey, connected with a lacing system for adjustable tension and comfort. The chair includes padded armrests for added comfort and a plush, grey sherpa blanket draped over the backrest, suggesting cozy use. It is presented on a natural wood slab, highlighting its outdoor or rustic appeal.",
+    "color": [
+        "green",
+        "grey",
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "deck"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "relaxed",
+    "dimensions": {
+        "width": 1.173,
+        "height": 1.211,
+        "length": 1.437,
+        "unit": "meters"
+    }
+}

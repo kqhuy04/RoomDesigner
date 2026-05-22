@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A stylish and modern lounge chair paired with a matching ottoman. The chair features a high, tufted backrest and integrated armrests, all upholstered in a vibrant orange material. Its design suggests comfort and a contemporary aesthetic. The chair is supported by a black, star-shaped base with four splayed legs, allowing for swivel functionality. The ottoman shares the same orange upholstery and a similar black star-shaped base, creating a cohesive set. The overall look is sleek and inviting, perfect for a relaxation space.",
+    "color": [
+        "orange",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.858,
+        "height": 1.046,
+        "length": 1.811,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "This is a flat-screen television displaying a vibrant landscape. The screen shows a bright blue sky filled with fluffy white clouds, and below it, rolling green hills dotted with a single, round green tree. The television itself has a thin, dark gray bezel and appears to be a modern, widescreen model. The overall image evokes a sense of nature and tranquility, making it a focal point for entertainment or ambiance.",
+    "color": [
+        "gray",
+        "blue",
+        "green",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.976,
+        "height": 0.607,
+        "length": 0.081,
+        "unit": "meters"
+    }
+}

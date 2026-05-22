@@ -1,0 +1,24 @@
+{
+    "object": "cabinet",
+    "description": "This is a tall, narrow cabinet with a unique angled design. It appears to be made of wood with a light gray, weathered wood grain finish. The cabinet has two visible doors that meet at an angle, suggesting it might be designed for a corner space or to create a visual interest. A single, simple handle is visible on the front of one of the doors. The overall impression is one of modern functionality with a touch of rustic style. Its slim profile and angular shape make it suitable for maximizing space in various settings.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.978,
+        "height": 2.203,
+        "length": 0.955,
+        "unit": "meters"
+    }
+}

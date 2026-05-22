@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "A minimalist white coat rack designed for freestanding placement. It features a tall, slender central pole supported by a stable, cross-shaped base with curved legs for added stability. Two curved arms extend horizontally from the central pole at different heights, providing convenient points to hang coats, hats, or scarves. The overall design is clean and unfussy, emphasizing functionality with a simple, modern aesthetic. Its monochromatic color and sleek form make it a versatile addition to various interior settings, allowing it to blend seamlessly without drawing excessive attention to itself while serving its purpose effectively.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "entryway",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.46,
+        "height": 1.545,
+        "length": 1.0,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This 3D model depicts a stylized swing set attached to a tree branch. The swing itself is made of two parallel planks, with a prominent heart shape carved into the front plank. The tree branch is rendered with a rough, textured appearance, suggesting bark or a weathered surface. The overall aesthetic is minimalist and symbolic, with a clean, geometric design for the swing contrasting with the organic form of the branch. The white color palette and simple forms contribute to a serene and possibly romantic or commemorative feel.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "garden",
+        "outdoor space",
+        "bedroom"
+    ],
+    "style": "minimalist",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.065,
+        "height": 0.934,
+        "length": 0.614,
+        "unit": "meters"
+    }
+}

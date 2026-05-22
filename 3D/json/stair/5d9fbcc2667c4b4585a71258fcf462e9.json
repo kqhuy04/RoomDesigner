@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a set of modern, minimalist stairs. The stairs appear to be made of a solid material, possibly concrete or metal, with a smooth, matte finish. The design is clean and geometric, with sharp edges and a lack of ornamentation. The stairs are viewed from a low angle, suggesting a descent into a space. The perspective indicates a sense of depth and scale, with the steps receding into the background. The overall impression is one of sleekness and functionality, suitable for contemporary architectural designs.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "basement",
+        "loft",
+        "modern house"
+    ],
+    "style": "modern",
+    "material": [
+        "concrete",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.632,
+        "height": 0.8,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

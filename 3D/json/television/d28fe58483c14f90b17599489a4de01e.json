@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a vintage or retro-futuristic style television, characterized by its distinctive rounded screen mounted on a boxy base. The base features a speaker grille, two control knobs on the left, and the brand name 'Radiation King' with a crown logo. The entire unit sits on four slender, angled legs with metallic feet. The object exhibits heavy signs of age and wear, with chipped and peeling teal-green paint revealing rusty brown metal underneath, suggesting a post-apocalyptic or heavily weathered aesthetic. The screen itself is dark, appearing off or broken, with a slight reddish tint from reflections. Its design is reminiscent of mid-20th-century electronics but with a unique, robust, and aged presentation, making it suitable as both a functional item (if operational) and a striking decorative piece.",
+    "color": [
+        "teal",
+        "brown",
+        "black",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "den",
+        "gameroom",
+        "themed_room"
+    ],
+    "style": "retro-futuristic",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.566,
+        "height": 1.063,
+        "length": 0.612,
+        "unit": "meters"
+    }
+}

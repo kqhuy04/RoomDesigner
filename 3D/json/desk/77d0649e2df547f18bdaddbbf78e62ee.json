@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "A white desk lamp with a conical, pleated lampshade. The lampshade is attached to a slender, adjustable arm, which extends from a vertical pole. The pole is supported by a circular, flat base. The overall design is minimalist and clean, making it suitable for various modern or contemporary settings. The lamp appears to be made of a matte material, possibly plastic or painted metal, and its simple form emphasizes functionality and understated elegance. The pleats on the lampshade add a subtle textural detail, while the adjustable arm allows for directional lighting, ideal for reading, working, or accent lighting.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "study",
+        "office",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.282,
+        "height": 0.52,
+        "length": 0.305,
+        "unit": "meters"
+    }
+}

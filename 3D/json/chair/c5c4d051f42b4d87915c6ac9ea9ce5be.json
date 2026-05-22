@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model preview of a stylish armchair featuring a modern, somewhat minimalist silhouette with clean lines. The chair is upholstered in a soft, light peachy-pink material that appears smooth and has a subtle sheen, suggesting either leather or a polished fabric. Its distinctive feature is the diamond-tufted backrest and inner armrests, which add a touch of classic elegance to the otherwise contemporary design. It has a plush, removable seat cushion and sturdy, small block feet, completing its luxurious and inviting appearance.",
+    "color": [
+        "light pink",
+        "peach"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge",
+        "office"
+    ],
+    "style": "contemporary",
+    "material": [
+        "leather",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 4.054,
+        "height": 2.711,
+        "length": 3.12,
+        "unit": "meters"
+    }
+}

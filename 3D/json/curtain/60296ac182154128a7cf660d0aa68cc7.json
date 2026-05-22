@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "A single, white curtain rod is presented against a plain grey background. The rod is simple and elongated, designed to hold curtains. It is supported by two decorative brackets, one on each end. These brackets have a classic, slightly ornate design, featuring a spherical knob at the top and a tapering stem that attaches to the wall. The overall aesthetic is clean and functional, suitable for various interior design schemes.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "classic",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.119,
+        "height": 0.232,
+        "length": 0.109,
+        "unit": "meters"
+    }
+}

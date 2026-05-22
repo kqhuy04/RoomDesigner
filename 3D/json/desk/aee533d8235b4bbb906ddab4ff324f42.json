@@ -1,0 +1,25 @@
+{
+    "object": "desk",
+    "description": "This is a sleek, modern desk sign or decorative object, rendered in a 3D preview. It features a dark, seemingly metallic or highly polished material with a mirror-like finish, reflecting blurred details of a room environment, including a laptop and various light sources. The object has an abstract, geometric form with multiple interconnected rectangular sections, creating a cantilevered and multi-layered appearance. A prominent feature is a cutout of the number '2' and a stylized '4' or 'W' (suggesting '24' or '2W') on its rightmost vertical face, revealing further reflections. There's also a rectangular opening on the left side and a solid white insert within a lower section. The overall design emphasizes clean lines and reflective surfaces.",
+    "color": [
+        "dark grey",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "livingroom",
+        "reception area"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "decorative",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.42,
+        "length": 1.575,
+        "unit": "meters"
+    }
+}

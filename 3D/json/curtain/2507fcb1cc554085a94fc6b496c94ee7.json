@@ -1,0 +1,26 @@
+{
+    "object": "curtain",
+    "description": "A digitally rendered model of a curtain with a pleated design. The curtain is a pale blue and pink, with a soft gradient effect. It appears to be hanging from a thin, white rod. The overall impression is one of simplicity and modernity. The background is a gradient of dark grey to a muted reddish-brown, suggesting a soft, ambient lighting environment. The curtain's texture seems smooth and possibly fabric-like, though rendered with a sleek, almost plastic finish. The pleats are evenly spaced and create a visually interesting pattern of light and shadow.",
+    "color": [
+        "blue",
+        "pink",
+        "white",
+        "grey",
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "home office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.577,
+        "height": 0.293,
+        "length": 0.039,
+        "unit": "meters"
+    }
+}

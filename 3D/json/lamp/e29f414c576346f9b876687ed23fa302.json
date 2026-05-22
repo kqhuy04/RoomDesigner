@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "A classic white chandelier, featuring a tiered design with multiple candle-shaped lights. The fixture is adorned with cascading crystal droplets that catch the light, adding a touch of elegance and sparkle. It hangs from a chain suspended from a decorative ceiling canopy. The overall aesthetic is ornate and somewhat traditional, making it a statement piece for any room.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "living room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "crystal"
+    ],
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.625,
+        "height": 0.932,
+        "length": 0.546,
+        "unit": "meters"
+    }
+}

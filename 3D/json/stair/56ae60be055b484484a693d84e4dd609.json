@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a contemporary outdoor staircase leading to a small, elevated platform. The staircase itself is constructed from light-colored wood, featuring a simple railing with vertical balusters for safety. The steps are wide and evenly spaced. The platform at the top also has a similar wooden railing. The structure appears to be designed for accessibility, providing a way to reach a higher level. The overall aesthetic is clean and functional, with a modern interpretation of classic outdoor architectural elements. The base of the staircase is set on a tiled floor, adding to the visual completeness of the scene.",
+    "color": [
+        "wood",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "exterior",
+        "garden",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.926,
+        "height": 1.091,
+        "length": 2.211,
+        "unit": "meters"
+    }
+}

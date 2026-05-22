@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "A collection of richly patterned rugs and cushions, arranged on a dark background. The rugs are intricately designed with floral motifs and geometric borders, featuring a blend of warm reds, blues, and golden threads. They have a textured, woven appearance and are adorned with fringes. Several square cushions are placed on top of the rugs, each covered in a distinct, elaborate fabric. The foremost cushion is particularly detailed, showcasing a dark, intricate pattern with hexagonal and geometric shapes. The overall presentation suggests a luxurious and traditional setting, possibly for relaxation or meditation.",
+    "color": [
+        "red",
+        "blue",
+        "gold",
+        "black",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "meditation room",
+        "lounge"
+    ],
+    "style": "oriental",
+    "material": "textile",
+    "usage": "decorative, seating",
+    "mood": "luxurious, traditional, warm",
+    "dimensions": {
+        "width": 0.982,
+        "height": 0.026,
+        "length": 0.754,
+        "unit": "meters"
+    }
+}

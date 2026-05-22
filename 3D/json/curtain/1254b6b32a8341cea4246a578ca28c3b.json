@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "This is a single, floor-length curtain with a subtle, repeating geometric pattern. The fabric appears to be of medium weight, hanging in soft, vertical folds that create a sense of elegance and movement. The color is a muted rose or dusty pink, giving it a gentle and sophisticated appearance. The texture is consistent throughout, suggesting a uniform material like polyester or a blend. The top edge is gathered, indicating it's designed to be hung on a rod or track. The bottom hem falls in gentle waves, adding to its graceful drape. This curtain would serve to filter light, provide privacy, and enhance the aesthetic of a room.",
+    "color": [
+        "pink"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom",
+        "nursery"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.045,
+        "height": 2.016,
+        "length": 0.16,
+        "unit": "meters"
+    }
+}

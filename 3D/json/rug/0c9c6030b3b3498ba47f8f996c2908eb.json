@@ -1,0 +1,28 @@
+{
+    "object": "rug",
+    "description": "This is a large, rectangular rug with a rich, intricate design. The dominant color is a deep crimson or burgundy, which serves as the background for elaborate floral patterns and a central medallion. The medallion is circular and features a lighter, creamy beige color with delicate blue and white detailing. Surrounding the central medallion is a dense field of floral motifs in shades of crimson, beige, and hints of muted orange and green. The rug has a decorative border that frames the central design, also incorporating floral elements and geometric patterns in complementary colors. The edges of the rug are finished with a fringe, appearing to be made of natural fibers like cotton or wool, adding a touch of texture and tradition. The overall impression is one of luxury, craftsmanship, and classic elegance.",
+    "color": [
+        "crimson",
+        "beige",
+        "blue",
+        "white",
+        "orange",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 2.049,
+        "height": 0.017,
+        "length": 3.208,
+        "unit": "meters"
+    }
+}

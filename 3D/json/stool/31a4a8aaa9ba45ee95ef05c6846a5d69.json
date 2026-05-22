@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "A square upholstered ottoman with a tufted top. The tufting creates four distinct indentations on the top surface, adding a classic touch. The sides of the ottoman are also upholstered and appear to be a single piece, creating a seamless look. The material has a subtle textured grain, resembling leather or a similar synthetic upholstery. It sits on a plain, light gray background, with soft lighting that highlights the contours and texture of the object.",
+    "color": [
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "closet"
+    ],
+    "style": "contemporary",
+    "material": "upholstery",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.404,
+        "height": 0.404,
+        "length": 0.404,
+        "unit": "meters"
+    }
+}

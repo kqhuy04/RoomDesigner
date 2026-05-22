@@ -1,0 +1,24 @@
+{
+    "object": "wardrobe",
+    "description": "A wooden wardrobe with multiple compartments and drawers. The wardrobe features a hanging rod for clothes, several open shelves, and a set of drawers. One door is partially open, revealing the interior. The wood has a rich, dark brown finish with a visible grain pattern. The overall design is functional and appears to offer ample storage space. The wardrobe is set against a textured wall and sits on a tiled floor.",
+    "color": [
+        "brown",
+        "tan",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.611,
+        "height": 1.024,
+        "length": 1.191,
+        "unit": "meters"
+    }
+}

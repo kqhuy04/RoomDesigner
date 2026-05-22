@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a vintage-style vanity stool with a plush, tufted purple seat and backrest. The frame and legs are made of ornate, scrolled metal, likely brass or a similar polished metal, adding an element of elegance and a touch of old-world charm. The circular seat is generously padded, and the oval backrest features a similar tufted design within an decorative metal frame. The base has four splayed legs that curve outwards, each ending in a small, cylindrical foot. This chair appears to be designed for a dressing table or vanity area, offering both comfort and a decorative statement.",
+    "color": [
+        "purple",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "bathroom"
+    ],
+    "style": "vintage",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.446,
+        "height": 0.952,
+        "length": 0.464,
+        "unit": "meters"
+    }
+}

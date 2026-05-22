@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A striking wingback armchair with a glossy, almost liquid-like black finish that reflects light, giving it a futuristic or avant-garde appearance. The chair has a high back with subtle tufting and rounded arms, classic features that contrast with its unusual material and sheen. The frame and legs are a vibrant blue, adding a bold pop of color and a playful touch to the otherwise dark and sleek design. This chair is clearly a statement piece, designed to draw attention and add a unique character to any space.",
+    "color": [
+        "black",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "bold",
+    "dimensions": {
+        "width": 0.468,
+        "height": 0.543,
+        "length": 0.476,
+        "unit": "meters"
+    }
+}

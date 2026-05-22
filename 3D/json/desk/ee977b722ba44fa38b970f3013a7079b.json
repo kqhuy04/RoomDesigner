@@ -1,0 +1,25 @@
+{
+    "object": "desk",
+    "description": "This is a modern desk lamp with a unique geometric lampshade. The lampshade is shaped like a polyhedron, composed of many triangular panels connected by dark brown lines. The lampshade emits a warm, yellow light, suggesting it's illuminated. The lamp stands on a dark brown, hexagonal base, which has a circular indentation with a power symbol, indicating it's touch-sensitive or has a button for operation. A thin, dark brown stem connects the base to the lampshade. The overall design is sleek, minimalist, and contemporary, making it suitable for various modern interior settings.",
+    "color": [
+        "yellow",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.976,
+        "height": 2.72,
+        "length": 1.898,
+        "unit": "meters"
+    }
+}

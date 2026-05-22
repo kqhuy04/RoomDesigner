@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "A modern, white table lamp with a cylindrical lampshade and a sculpted base. The lampshade is a simple, clean cylinder. The base features an intricate, textured design with repeating diamond shapes leading down to a circular, flared foot. The overall aesthetic is minimalist and sculptural, with a focus on form and texture. The lamp appears to be made of a smooth, matte material, likely ceramic or a composite, and is presented in a monochromatic white finish, which enhances its modern and elegant appearance. It is designed to provide ambient lighting and serve as a decorative accent piece in a contemporary interior.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "ceramic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.316,
+        "height": 4.898,
+        "length": 3.316,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "sofa",
+    "description": "A stylish blue sofa with a tufted design on the sides and a patterned fabric on the seat. It features two plush back cushions and three accent pillows: two plain white and one with a geometric grey pattern. The sofa is supported by slender, golden legs, adding a touch of elegance. This sofa is designed for comfort and aesthetic appeal, making it a focal point in any living space.",
+    "color": [
+        "blue",
+        "white",
+        "grey",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.371,
+        "height": 1.439,
+        "length": 1.315,
+        "unit": "meters"
+    }
+}

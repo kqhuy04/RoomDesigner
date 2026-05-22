@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a wooden armchair with a brown leather seat. The chair has a simple, classic design with straight lines and a sturdy construction. The backrest is made of three horizontal wooden slats, and the armrests are also made of wood, extending from the front legs to the back legs. The seat is a solid rectangle upholstered in dark brown leather. The chair casts a distinct shadow on the right side, suggesting it is illuminated from the left. The overall aesthetic is functional and timeless, suitable for various settings.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "library"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.72,
+        "height": 0.994,
+        "length": 0.564,
+        "unit": "meters"
+    }
+}

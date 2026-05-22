@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A contemporary upholstered accent chair featuring a distinctive curved silhouette where the backrest and armrests seamlessly merge into a single, enveloping shell. The design includes a comfortably cushioned seat with subtle stitching details along its edges and the shell's perimeter, hinting at quality craftsmanship. It is supported by four slim, tapered legs, which are light in color, matching or complementing the upholstery. The chair's form is elegant and inviting, offering a blend of modern sophistication and comfort, suitable for various interior settings.",
+    "color": [
+        "beige",
+        "cream"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.453,
+        "height": 3.757,
+        "length": 3.205,
+        "unit": "meters"
+    }
+}

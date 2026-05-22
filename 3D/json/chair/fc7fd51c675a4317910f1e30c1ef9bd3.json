@@ -1,0 +1,30 @@
+{
+    "object": "chair",
+    "description": "This is a simple, modern office chair with a red seat and backrest. It features a white central support column and a black five-wheeled base, designed for easy maneuverability. The chair is positioned in the corner of a room with light yellow, wood-like flooring and teal walls, suggesting a minimalist or functional setting. The overall design is straightforward and practical, intended for typical office or study use.",
+    "color": [
+        "red",
+        "white",
+        "black",
+        "yellow",
+        "teal"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.203,
+        "height": 0.932,
+        "length": 1.203,
+        "unit": "meters"
+    }
+}

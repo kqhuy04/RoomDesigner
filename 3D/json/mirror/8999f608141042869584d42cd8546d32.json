@@ -1,0 +1,26 @@
+{
+    "object": "mirror",
+    "description": "A golden oval-shaped mirror is displayed against a plain light grey background. The mirror reflects a dimly lit room with warm lighting. Elements visible in the reflection include what appears to be furniture, possibly a table or cabinet, and a window or light source creating a bright rectangular glow. The reflection is somewhat blurred, suggesting a sense of depth and atmosphere within the reflected space. The mirror itself has a thick, smooth, golden frame, giving it a classic or slightly ornate appearance. The overall presentation is simple, focusing attention on the mirror and its implied environment.",
+    "color": [
+        "gold",
+        "grey",
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "dressing room"
+    ],
+    "style": "classic",
+    "material": "metal",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.855,
+        "height": 3.637,
+        "length": 0.145,
+        "unit": "meters"
+    }
+}

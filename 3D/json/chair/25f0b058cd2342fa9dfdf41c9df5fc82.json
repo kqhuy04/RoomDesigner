@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A classic beanbag chair, this object is designed for comfort and casual seating. Its soft, pliable form conforms to the user's body, offering a relaxed and inviting seating experience. The material appears to be a smooth, possibly synthetic fabric, giving it a slightly shiny, modern look. The chair is plump and shapeless when empty, but takes on a more defined, ergonomic form when in use. Its simple, unstructured design makes it versatile for various informal settings. The rich, solid color adds a bold statement to any space.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "playroom",
+        "basement"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 3.048,
+        "height": 2.213,
+        "length": 3.048,
+        "unit": "meters"
+    }
+}

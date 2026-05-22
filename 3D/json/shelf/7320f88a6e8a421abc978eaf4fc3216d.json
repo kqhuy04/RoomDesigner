@@ -1,0 +1,22 @@
+{
+    "object": "shelf",
+    "description": "A wooden bookshelf with three open compartments. The shelf has a simple, modern design with clean lines. It is made of polished wood, giving it a warm and inviting appearance. The shelf is supported by two sturdy legs that taper slightly towards the bottom. The back of the shelf is open, allowing for air circulation and easy access to items placed on the shelves. The overall construction appears solid and durable, suggesting it is designed for practical use.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.05,
+        "height": 0.5,
+        "length": 0.2,
+        "unit": "meters"
+    }
+}

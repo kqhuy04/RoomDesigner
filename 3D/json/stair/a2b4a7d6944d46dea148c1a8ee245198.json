@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a modern indoor staircase with a minimalist design. It features wooden treads and a sleek metal railing system. The staircase has a central structure with two flights of stairs, one ascending and the other descending, suggesting it connects different levels of a building. The metal supports are thin and angular, emphasizing a contemporary aesthetic. The wooden treads have a natural finish, adding warmth to the otherwise industrial feel of the metal. Shadows cast by the staircase and railings on the wall and floor indicate light sources from above and to the side, highlighting the architectural form of the stairs. A wooden door is visible to the right of the staircase, suggesting it leads to another room or area.",
+    "color": [
+        "brown",
+        "gray",
+        "white",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "landing",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.08,
+        "height": 2.534,
+        "length": 3.058,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "wardrobe",
+    "description": "A large, wooden wardrobe with multiple compartments. It features two sliding doors, one with a dark blue panel, and a set of open shelves on the right side. There are also several drawers and cabinets, suggesting ample storage space. The wood has a rich, reddish-brown grain, and the overall design appears functional and classic. The wardrobe is shown slightly ajar, revealing the interior shelving and a partially open drawer.",
+    "color": [
+        "brown",
+        "blue",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.587,
+        "height": 0.187,
+        "length": 0.748,
+        "unit": "meters"
+    }
+}

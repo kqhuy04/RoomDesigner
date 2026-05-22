@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "The image features a multi-level spiral staircase, rendered with a realistic reflection on a light-colored floor, indicating a polished surface. The staircase is constructed with dark wooden treads, providing warmth and richness, complemented by sleek silver metal balusters that form a graceful, curving railing. The structure extends upwards through what appears to be a light-colored, possibly white, interior space. The uppermost section reveals a small landing area with a window and a protective metal railing, suggesting access to an upper floor or a compact balcony. The overall design emphasizes clean lines and functional elegance, with a prominent 'VONKA' branding visible on the walls.",
+    "color": [
+        "brown",
+        "silver",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "duplex_apartment",
+        "lobby"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 2.499,
+        "height": 2.051,
+        "length": 2.499,
+        "unit": "meters"
+    }
+}

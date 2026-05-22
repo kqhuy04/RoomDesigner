@@ -1,0 +1,24 @@
+{
+    "object": "desk",
+    "description": "This 3D model depicts a simple, low-poly desk with a drawer-like structure on the side and a tall, thin vertical element emerging from its surface. The desk has a rounded rectangular top and a box-like base with four short legs. The side of the desk features two protruding elements that resemble drawers or shelving units. The vertical element is a thin, rectangular prism, likely representing a monitor stand, a lamp, or some other accessory. The overall design is minimalist and geometric, with clean lines and flat surfaces. The color palette is subdued, featuring a dominant tan or light brown for the desk itself and a muted gray for the vertical element. This type of desk would be suitable for a variety of settings where a functional and uncluttered workspace is desired.",
+    "color": [
+        "tan",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.062,
+        "height": 0.08,
+        "length": 0.054,
+        "unit": "meters"
+    }
+}

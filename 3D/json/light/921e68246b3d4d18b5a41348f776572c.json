@@ -1,0 +1,20 @@
+{
+    "object": "light",
+    "description": "A 3D model preview of a grey traffic light with two signal heads. The traffic light is mounted on a rectangular backplate with rounded corners. Each signal head is cylindrical with a flared opening and appears to be designed to house a light source. The backplate is attached to the signal heads with visible bolts and mounting hardware. The overall design is simple and functional, characteristic of standard traffic signal equipment. The lighting in the preview casts a subtle shadow, indicating the object's form and depth.",
+    "color": [
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.273,
+        "height": 0.455,
+        "length": 0.268,
+        "unit": "meters"
+    }
+}

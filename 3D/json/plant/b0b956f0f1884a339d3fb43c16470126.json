@@ -1,0 +1,23 @@
+{
+    "object": "plant",
+    "description": "This is a modern planter with a unique design. It consists of a cylindrical container supported by three slender legs. The cylinder's exterior is adorned with a repetitive pattern of curved, ribbon-like elements that create a visually intriguing texture and allow light to filter through. The entire structure is white, giving it a clean and minimalist aesthetic. The slender legs add a touch of elegance and provide stability to the planter. Its overall design suggests it's intended for indoor use and could be used to display plants or flowers in a stylish manner.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "balcony",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "decorative",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.402,
+        "height": 0.518,
+        "length": 0.402,
+        "unit": "meters"
+    }
+}

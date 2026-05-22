@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a simple, modern desk with a single drawer unit on the right side. The desk has a rectangular, flat tabletop supported by four sturdy legs. The drawer unit is integrated seamlessly under the right side of the tabletop, featuring a single drawer with a metallic handle. The overall design is minimalist and functional, suitable for a home office or study space. The color is a uniform warm brown, giving it a natural and understated appearance. The shadow cast by the desk suggests it's placed on a light-colored floor under a light source from the left.",
+    "color": [
+        "brown",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.524,
+        "height": 0.736,
+        "length": 0.711,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "wardrobe",
+    "description": "A large, multi-section wardrobe featuring a light wood grain finish on its main body and a contrasting dark brown top and base. It has several hinged doors, some with solid panels, one with a semi-transparent or mirrored glass panel, and antique brass-colored handles. The interior reveals multiple shelves for folded items, two pull-out drawers at the bottom, and hanging rods for clothes, offering diverse storage solutions.",
+    "color": [
+        "light brown",
+        "dark brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "clean",
+    "dimensions": {
+        "width": 2.076,
+        "height": 2.01,
+        "length": 0.612,
+        "unit": "meters"
+    }
+}

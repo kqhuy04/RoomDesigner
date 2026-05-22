@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is a wooden nightstand with a modern design. It features a square top, a shelf area, and a closed cabinet with a round knob. The wood grain is dark and rich, giving it a sophisticated look. The nightstand is compact and appears to be designed for a bedroom or living room space, offering both storage and a surface for items like lamps or books. The clean lines and simple form suggest a minimalist or contemporary aesthetic.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.0,
+        "height": 1.932,
+        "length": 1.921,
+        "unit": "meters"
+    }
+}

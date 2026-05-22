@@ -1,0 +1,26 @@
+{
+    "object": "curtain",
+    "description": "A pair of white curtains hangs from a gold curtain rod. The curtains are made of a light, flowing fabric that drapes gracefully. They are partially drawn, revealing a neutral background. The overall presentation is clean and minimalist, suggesting a modern or contemporary setting. The gold rod adds a touch of subtle elegance, complementing the simplicity of the curtains. The fabric appears to have a soft texture, and the way it falls suggests it's a medium-weight material, providing some privacy and light diffusion.",
+    "color": [
+        "white",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.487,
+        "height": 2.344,
+        "length": 0.544,
+        "unit": "meters"
+    }
+}

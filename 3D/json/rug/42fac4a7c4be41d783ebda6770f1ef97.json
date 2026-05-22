@@ -1,0 +1,24 @@
+{
+    "object": "rug",
+    "description": "This is a textured rug with a woven pattern. The fibers appear to be natural, possibly jute or a similar material, giving it a rustic and organic feel. The pattern is intricate, creating a sense of depth and visual interest without being overly busy. The color is a neutral, earthy tone that would complement a variety of decor styles. The rug is shown from an angled perspective, highlighting its texture and the way light plays off the woven surface. It appears to be a flat-weave rug, suitable for high-traffic areas or as a base layer for furniture.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "natural",
+    "material": "jute",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.396,
+        "height": 0.01,
+        "length": 1.666,
+        "unit": "meters"
+    }
+}

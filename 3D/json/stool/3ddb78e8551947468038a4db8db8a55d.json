@@ -1,0 +1,28 @@
+{
+    "object": "stool",
+    "description": "This is a modern, minimalist stool with a light wood frame and a cane-woven seat and sides. The frame has rounded edges and a U-shaped structure that forms the legs and supports. The top surface and the two open sides are filled with intricate cane weaving, creating a textured and airy appearance. The wood has a natural, warm tone with visible grain patterns, complementing the neutral color of the cane. Its compact and clean design makes it a versatile piece for various interior settings, offering both functional seating and a touch of natural, bohemian-inspired style.",
+    "color": [
+        "brown",
+        "beige",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway",
+        "bathroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "cane"
+    ],
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 4.2,
+        "height": 4.2,
+        "length": 4.2,
+        "unit": "meters"
+    }
+}

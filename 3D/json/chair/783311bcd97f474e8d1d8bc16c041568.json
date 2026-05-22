@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a striking wingback armchair with a bold geometric pattern. The upholstery features a tapestry-like design with a repeating motif of diamonds and zigzags in shades of golden yellow, muted orange, and soft grey. The chair has a high, winged back that curves gently to the sides, providing a sense of enclosure and comfort. It is supported by four slender, tapered wooden legs. A matching throw pillow with the same intricate pattern sits on the seat, enhancing the chair's inviting appeal. The overall design suggests a blend of traditional comfort with a contemporary, artistic flair.",
+    "color": [
+        "yellow",
+        "orange",
+        "grey"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study"
+    ],
+    "style": "eclectic",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "vibrant, cozy",
+    "dimensions": {
+        "width": 0.749,
+        "height": 0.927,
+        "length": 0.701,
+        "unit": "meters"
+    }
+}

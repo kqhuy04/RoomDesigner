@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "A vintage television with a pale green casing and a dark gray bezel around the screen. The screen itself is a bright, reflective green, suggesting it's either off or displaying a solid color. To the right of the screen, there's a wooden panel with a speaker grille and two control knobs, one larger than the other, accompanied by four small indicator lights. The television is supported by three angled wooden legs. Two thin, silver antennas extend from the top of the television, angled outwards. The overall design evokes a sense of nostalgia for older electronic devices.",
+    "color": [
+        "green",
+        "gray",
+        "wood brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "retro",
+    "material": [
+        "plastic",
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.805,
+        "height": 2.0,
+        "length": 1.061,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A rustic wooden picnic table with attached benches. The table surface is made of several wooden planks joined together, and the benches are similarly constructed. The entire structure is supported by sturdy wooden legs that form an 'A' frame. Visible metal bolts secure the wooden components, suggesting a robust and durable construction. The wood grain and texture are pronounced, giving it a natural and weathered appearance. This design is typical for outdoor seating and dining, often found in parks, backyards, or campgrounds. The simplicity of its design emphasizes functionality and natural material.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "backyard"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.634,
+        "height": 0.32,
+        "length": 0.689,
+        "unit": "meters"
+    }
+}

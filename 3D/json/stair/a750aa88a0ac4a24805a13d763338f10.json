@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a vintage outdoor staircase with a weathered appearance. The steps are constructed from metal with intricate, decorative cutouts forming the risers, suggesting an older, possibly Victorian or Art Nouveau influence. The treads appear to be made of wood or a similar material, also showing signs of age and wear. The staircase leads up to a double wooden door, which also has a classic, paneled design. Above the door, there's an ornate metal canopy with decorative scrollwork, partially covered in greenery, hinting at its outdoor setting and age. The surrounding ground is paved with brick, with some grass and fallen leaves suggesting a natural, slightly unkempt environment. The overall impression is one of historical charm and a touch of decay.",
+    "color": [
+        "gray",
+        "brown",
+        "white",
+        "green"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden"
+    ],
+    "style": "vintage",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.875,
+        "height": 1.53,
+        "length": 0.82,
+        "unit": "meters"
+    }
+}

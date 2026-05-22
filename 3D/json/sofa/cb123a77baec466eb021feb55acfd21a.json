@@ -1,0 +1,21 @@
+{
+    "object": "sofa",
+    "description": "This is a large, modern sectional sofa featuring an L-shaped configuration with a prominent rounded chaise lounge on one end. The main body consists of a long straight section with three distinct back cushions, all upholstered in a uniform light purple or lavender-colored fabric. The design is sleek and minimalist, with a low-profile base that gives it a contemporary aesthetic. The rounded edges of the chaise lounge contribute to a soft and inviting appearance, making it suitable for comfortable lounging and seating multiple individuals. The sofa appears sturdy yet elegant, focusing on both comfort and modern design principles.",
+    "color": [
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.543,
+        "height": 2.143,
+        "length": 4.398,
+        "unit": "meters"
+    }
+}

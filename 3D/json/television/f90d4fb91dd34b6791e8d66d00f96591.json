@@ -1,0 +1,26 @@
+{
+    "object": "television",
+    "description": "This is a sleek, modern television with a large, dark screen and thin bezels. It is supported by two slim, angled metallic legs that give it a stable and contemporary appearance. The screen itself appears to have a slight texture, possibly indicating a matte finish. The overall design is minimalist, focusing on the display and a clean silhouette. It's positioned against a plain, light-colored background, suggesting it's meant to be the focal point in a room. The television is currently off, displaying a dark, reflective surface.",
+    "color": [
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.366,
+        "height": 0.716,
+        "length": 1.161,
+        "unit": "meters"
+    }
+}

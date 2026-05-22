@@ -1,0 +1,22 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D rendered model of a wooden dresser or chest of drawers. The piece features eight drawers, arranged in two vertical columns of four, providing substantial storage space. The wood exhibits a warm, reddish-brown tone, with subtle grain patterns and a smooth, slightly polished finish. Each drawer is equipped with a small, crescent-shaped handle in a lighter, contrasting color. Several drawers are depicted slightly ajar, showcasing their functional design. The overall aesthetic is traditional and practical, designed for utility and a classic appearance in a living space.",
+    "color": [
+        "brown",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.535,
+        "height": 0.945,
+        "length": 0.683,
+        "unit": "meters"
+    }
+}

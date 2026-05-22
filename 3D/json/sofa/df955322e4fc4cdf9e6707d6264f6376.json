@@ -1,0 +1,23 @@
+{
+    "object": "sofa",
+    "description": "A two-seater sofa with a modern design. It features deep button tufting on the back cushions, creating a classic yet contemporary look. The seat cushions are also tufted, providing a comfortable and plush feel. Integrated armrests are complemented by two cylindrical bolster pillows, adding a touch of elegance and extra support. The sofa is upholstered in a textured teal fabric, giving it a rich and inviting appearance. It stands on four tapered wooden legs, contributing to its overall sleek silhouette. The clean lines and compact size make it a versatile piece suitable for various living spaces.",
+    "color": [
+        "teal",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "cool",
+    "dimensions": {
+        "width": 1.614,
+        "height": 0.982,
+        "length": 1.063,
+        "unit": "meters"
+    }
+}

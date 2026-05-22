@@ -1,0 +1,534 @@
+{
+    "class_predictions": [
+        {
+            "inference_id": "852de779-cb06-4842-8998-6fb5ce67a660",
+            "time": 0.017496411921456456,
+            "image": {
+                "width": 56,
+                "height": 68
+            },
+            "predictions": [
+                {
+                    "class": "bed",
+                    "class_id": 4,
+                    "confidence": 0.9052
+                }
+            ],
+            "top": "bed",
+            "confidence": 0.9052,
+            "prediction_type": "classification",
+            "parent_id": "cc265977-6dd6-4a13-867c-623dbf707ba4",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "ac99a7b5-6804-49c9-8d82-b42846165860",
+            "time": 0.032362987054511905,
+            "image": {
+                "width": 57,
+                "height": 63
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "95240514-de51-4217-9b61-04f4687ff5a0",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "d1dfb4b7-0999-4171-ba58-71adcf82f3d9",
+            "time": 0.021455442998558283,
+            "image": {
+                "width": 37,
+                "height": 89
+            },
+            "predictions": [
+                {
+                    "class": "sofas",
+                    "class_id": 1,
+                    "confidence": 0.907
+                }
+            ],
+            "top": "sofas",
+            "confidence": 0.907,
+            "prediction_type": "classification",
+            "parent_id": "27448b95-42af-4741-8dbf-b949849e18d7",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "b6e9d19c-7623-4ee5-b6ac-cec341b3b43d",
+            "time": 0.036874798126518726,
+            "image": {
+                "width": 71,
+                "height": 87
+            },
+            "predictions": [
+                {
+                    "class": "bed",
+                    "class_id": 4,
+                    "confidence": 0.9846
+                }
+            ],
+            "top": "bed",
+            "confidence": 0.9846,
+            "prediction_type": "classification",
+            "parent_id": "d4809bb0-4697-48d0-9024-285ba6690e76",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "1ff3c54f-a5da-4eee-ab29-a8c05e2aff0e",
+            "time": 0.029448975110426545,
+            "image": {
+                "width": 63,
+                "height": 33
+            },
+            "predictions": [
+                {
+                    "class": "sofas",
+                    "class_id": 1,
+                    "confidence": 0.9935
+                }
+            ],
+            "top": "sofas",
+            "confidence": 0.9935,
+            "prediction_type": "classification",
+            "parent_id": "82227880-c63d-421f-bd35-571f41db67d5",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "8762677f-d134-4092-92c6-7131d517b2a5",
+            "time": 0.02952002687379718,
+            "image": {
+                "width": 33,
+                "height": 66
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "9920108a-2700-45e9-807f-d7b4642072db",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "7f9f38ca-7c23-4592-8fca-765845b1e330",
+            "time": 0.006806381978094578,
+            "image": {
+                "width": 36,
+                "height": 22
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "aec20bd3-6d85-4db3-99e2-1d2bce21cd6f",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "8196867d-c982-4738-9852-a12381b06cfe",
+            "time": 0.035712457029148936,
+            "image": {
+                "width": 21,
+                "height": 19
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "9f380f86-a0d7-4e81-b0f7-21e5200e3cc9",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "44d6b311-f8e0-4273-a9d8-a566ee8ec9ef",
+            "time": 0.0028889619279652834,
+            "image": {
+                "width": 19,
+                "height": 22
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "ecbadb44-c761-472f-913f-3837ea3e72f1",
+            "root_parent_id": "image"
+        },
+        {
+            "inference_id": "a52652e2-8883-4b09-8420-5d0498addab1",
+            "time": 0.003102035028859973,
+            "image": {
+                "width": 53,
+                "height": 26
+            },
+            "predictions": [],
+            "top": "",
+            "confidence": 0.0,
+            "prediction_type": "classification",
+            "parent_id": "4d3b9ac2-fd45-48ed-ab4e-1fee3b5d1f10",
+            "root_parent_id": "image"
+        }
+    ],
+    "det_predictions": {
+        "image": {
+            "width": 487,
+            "height": 355
+        },
+        "predictions": [
+            {
+                "width": 56.0,
+                "height": 68.0,
+                "x": 210.0,
+                "y": 66.0,
+                "confidence": 0.9703421592712402,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "cc265977-6dd6-4a13-867c-623dbf707ba4",
+                "parent_id": "c425b629-96bb-486a-903e-1b2d9e73a570",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 57.0,
+                "height": 63.0,
+                "x": 80.5,
+                "y": 68.5,
+                "confidence": 0.9680169224739075,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "95240514-de51-4217-9b61-04f4687ff5a0",
+                "parent_id": "74cf7274-2b42-4277-a471-cf4e0d8746dc",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 37.0,
+                "height": 89.0,
+                "x": 59.5,
+                "y": 255.5,
+                "confidence": 0.9621798396110535,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "27448b95-42af-4741-8dbf-b949849e18d7",
+                "parent_id": "6d42fb5c-fedd-4632-a49b-458b2a6b887e",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 71.0,
+                "height": 87.0,
+                "x": 381.5,
+                "y": 74.5,
+                "confidence": 0.9507672190666199,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "d4809bb0-4697-48d0-9024-285ba6690e76",
+                "parent_id": "bb8024a0-8cdf-4f7f-80a6-ce646b737d79",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 63.0,
+                "height": 33.0,
+                "x": 114.5,
+                "y": 317.5,
+                "confidence": 0.9502951502799988,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "82227880-c63d-421f-bd35-571f41db67d5",
+                "parent_id": "eebf986f-7e5c-4a28-94df-3da31fb7f846",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 33.0,
+                "height": 66.0,
+                "x": 309.5,
+                "y": 244.0,
+                "confidence": 0.9398633241653442,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "9920108a-2700-45e9-807f-d7b4642072db",
+                "parent_id": "f6cd237e-1dc7-4ad6-ab29-3fb6fc4ff7b0",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 36.0,
+                "height": 22.0,
+                "x": 340.0,
+                "y": 334.0,
+                "confidence": 0.9345818758010864,
+                "class_id": 2,
+                "class": "sink",
+                "detection_id": "aec20bd3-6d85-4db3-99e2-1d2bce21cd6f",
+                "parent_id": "e2efddf4-df01-42ae-b646-99fb6c261d1b",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 21.0,
+                "height": 19.0,
+                "x": 173.5,
+                "y": 46.5,
+                "confidence": 0.8834679126739502,
+                "class_id": 5,
+                "class": "toilet",
+                "detection_id": "9f380f86-a0d7-4e81-b0f7-21e5200e3cc9",
+                "parent_id": "b27553f6-144a-426a-a822-61940bf23e7b",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 19.0,
+                "height": 22.0,
+                "x": 270.5,
+                "y": 140.0,
+                "confidence": 0.8686747550964355,
+                "class_id": 5,
+                "class": "toilet",
+                "detection_id": "ecbadb44-c761-472f-913f-3837ea3e72f1",
+                "parent_id": "0d16d571-4122-4219-b4df-3fc4b37c3be2",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            },
+            {
+                "width": 53.0,
+                "height": 26.0,
+                "x": 286.5,
+                "y": 50.0,
+                "confidence": 0.8272548913955688,
+                "class_id": 0,
+                "class": "bathtub",
+                "detection_id": "4d3b9ac2-fd45-48ed-ab4e-1fee3b5d1f10",
+                "parent_id": "4de58f6b-1f0d-4d59-86a6-b887fda5fc3b",
+                "parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                },
+                "root_parent_id": "image",
+                "root_parent_origin": {
+                    "offset_x": 0,
+                    "offset_y": 0,
+                    "width": 487,
+                    "height": 355
+                }
+            }
+        ]
+    },
+    "real_predictions": {
+        "image": {
+            "width": 487,
+            "height": 355
+        },
+        "predictions": [
+            {
+                "width": 54.0,
+                "height": 66.0,
+                "x": 210.0,
+                "y": 66.0,
+                "confidence": 0.9703421592712402,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "c425b629-96bb-486a-903e-1b2d9e73a570",
+                "parent_id": "image"
+            },
+            {
+                "width": 55.0,
+                "height": 61.0,
+                "x": 80.5,
+                "y": 68.5,
+                "confidence": 0.9680169224739075,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "74cf7274-2b42-4277-a471-cf4e0d8746dc",
+                "parent_id": "image"
+            },
+            {
+                "width": 35.0,
+                "height": 87.0,
+                "x": 59.5,
+                "y": 255.5,
+                "confidence": 0.9621798396110535,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "6d42fb5c-fedd-4632-a49b-458b2a6b887e",
+                "parent_id": "image"
+            },
+            {
+                "width": 69.0,
+                "height": 85.0,
+                "x": 381.5,
+                "y": 74.5,
+                "confidence": 0.9507672190666199,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "bb8024a0-8cdf-4f7f-80a6-ce646b737d79",
+                "parent_id": "image"
+            },
+            {
+                "width": 61.0,
+                "height": 31.0,
+                "x": 114.5,
+                "y": 317.5,
+                "confidence": 0.9502951502799988,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "eebf986f-7e5c-4a28-94df-3da31fb7f846",
+                "parent_id": "image"
+            },
+            {
+                "width": 31.0,
+                "height": 64.0,
+                "x": 309.5,
+                "y": 244.0,
+                "confidence": 0.9398633241653442,
+                "class_id": 1,
+                "class": "bed",
+                "detection_id": "f6cd237e-1dc7-4ad6-ab29-3fb6fc4ff7b0",
+                "parent_id": "image"
+            },
+            {
+                "width": 34.0,
+                "height": 20.0,
+                "x": 340.0,
+                "y": 334.0,
+                "confidence": 0.9345818758010864,
+                "class_id": 2,
+                "class": "sink",
+                "detection_id": "e2efddf4-df01-42ae-b646-99fb6c261d1b",
+                "parent_id": "image"
+            },
+            {
+                "width": 19.0,
+                "height": 17.0,
+                "x": 173.5,
+                "y": 46.5,
+                "confidence": 0.8834679126739502,
+                "class_id": 5,
+                "class": "toilet",
+                "detection_id": "b27553f6-144a-426a-a822-61940bf23e7b",
+                "parent_id": "image"
+            },
+            {
+                "width": 17.0,
+                "height": 20.0,
+                "x": 270.5,
+                "y": 140.0,
+                "confidence": 0.8686747550964355,
+                "class_id": 5,
+                "class": "toilet",
+                "detection_id": "0d16d571-4122-4219-b4df-3fc4b37c3be2",
+                "parent_id": "image"
+            },
+            {
+                "width": 51.0,
+                "height": 24.0,
+                "x": 286.5,
+                "y": 50.0,
+                "confidence": 0.8272548913955688,
+                "class_id": 0,
+                "class": "bathtub",
+                "detection_id": "4de58f6b-1f0d-4d59-86a6-b887fda5fc3b",
+                "parent_id": "image"
+            }
+        ]
+    }
+}

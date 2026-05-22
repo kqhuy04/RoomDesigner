@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "A bright red, modern, minimalist sofa with clean lines. It features a low profile and blocky design, divided into three seat cushions and four backrest cushions. The armrest is integrated into the left side of the sofa. This piece appears to be made of a smooth, likely synthetic material, giving it a clean and somewhat futuristic look. The segmented cushions suggest a comfortable yet structured seating experience.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "waiting room"
+    ],
+    "style": "modern",
+    "material": "synthetic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.922,
+        "height": 0.951,
+        "length": 2.033,
+        "unit": "meters"
+    }
+}

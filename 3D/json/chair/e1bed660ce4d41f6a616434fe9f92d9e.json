@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a stylized armchair with a distinctive blocky, pixelated design. The armchair features a prominent backrest and armrests, all constructed from large, geometric shapes. The seat is multi-layered, adding to its stacked appearance. The overall aesthetic is minimalist and reminiscent of early 3D graphics or toy blocks. The chair is supported by four small, visible wooden legs at the base. Its construction gives it a sturdy and somewhat abstract look, making it a unique piece of furniture.",
+    "color": [
+        "pink"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "playroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.134,
+        "height": 1.134,
+        "length": 1.205,
+        "unit": "meters"
+    }
+}

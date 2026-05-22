@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a simple, minimalist table with a flat, rectangular top and four legs. The design is very geometric and clean, suggesting a modern or contemporary aesthetic. The table appears to be made of a solid material, possibly wood or a composite, given its uniform color and smooth surface. The legs are thick and rectangular, providing a sturdy base for the tabletop. The overall impression is one of functionality and understated elegance, suitable for various settings where a clean and uncluttered design is desired. The neutral color makes it versatile and easy to integrate into different interior design schemes.",
+    "color": [
+        "light gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.533,
+        "height": 0.583,
+        "length": 0.556,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "desk",
+    "description": "A bright blue desk lamp with a flexible gooseneck and a conical shade. The lamp has a round, flat base with a black on/off switch. A white plug with two prongs is attached to a black cord that extends from the base. The interior of the lamp shade is white, and a light bulb is visible within. The overall design is functional and modern, suitable for various workspaces or study areas.",
+    "color": [
+        "blue",
+        "white",
+        "black"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.866,
+        "height": 0.794,
+        "length": 0.679,
+        "unit": "meters"
+    }
+}

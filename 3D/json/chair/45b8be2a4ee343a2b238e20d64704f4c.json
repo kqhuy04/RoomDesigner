@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A sleek and modern gaming chair, designed for comfort and performance. Its ergonomic design features a high backrest with integrated headrest and lumbar support, promoting good posture during extended gaming sessions. The chair is upholstered in a combination of black and vibrant red, creating a bold and dynamic aesthetic. The armrests are padded and adjustable, offering customizable comfort. The chair is mounted on a sturdy five-star base with smooth-rolling casters, allowing for easy maneuverability across various floor surfaces. This chair is built to provide a supportive and immersive experience for gamers.",
+    "color": [
+        "black",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "gameroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.134,
+        "height": 0.279,
+        "length": 0.14,
+        "unit": "meters"
+    }
+}

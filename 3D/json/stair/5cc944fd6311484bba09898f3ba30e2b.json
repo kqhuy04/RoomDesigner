@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This is a minimalist, modern staircase leading upwards. It appears to be a spiral staircase, with wooden steps curving around a central support. The steps are a warm, natural wood color, and the surrounding structure is a light gray. The staircase is integrated into a larger architectural element, suggesting it might be part of a building's interior design or a standalone structure. The lighting casts shadows, highlighting the depth and form of the stairs. The overall impression is one of functional elegance and clean design.",
+    "color": [
+        "wood",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "attic",
+        "loft",
+        "interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.225,
+        "height": 1.472,
+        "length": 2.534,
+        "unit": "meters"
+    }
+}

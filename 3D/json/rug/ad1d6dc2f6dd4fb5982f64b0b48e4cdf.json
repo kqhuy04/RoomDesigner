@@ -1,0 +1,28 @@
+{
+    "object": "rug",
+    "description": "This is an intricately designed Persian rug with a central medallion. The dominant color in the medallion and the field is a deep navy blue, adorned with a dense floral pattern. Surrounding the central medallion is a wide border in a cream or off-white color, featuring a delicate floral motif with accents of blue, orange, and hints of red. The outer edges of the rug are framed by thinner borders in complementary colors. The rug appears to be made of fine threads, suggesting a high-quality weave and a soft texture. The overall design is classic and elegant, indicative of traditional Persian rug-making techniques. The perspective suggests it's laid out on a flat surface, possibly a floor.",
+    "color": [
+        "navy blue",
+        "cream",
+        "white",
+        "blue",
+        "orange",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.045,
+        "height": 0.016,
+        "length": 2.019,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "This is an ornate, antique armchair upholstered in deep emerald green tufted leather. The frame of the chair features intricate carvings and is finished in a dark, aged wood with metallic accents. The button-tufted backrest and seat create a classic, regal appearance, while the rolled arms and curved legs add to its vintage charm. The leather shows signs of wear, suggesting a rich history and a sense of luxury. This chair would be a statement piece in any room, exuding elegance and sophistication.",
+    "color": [
+        "green",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "library",
+        "study",
+        "bedroom"
+    ],
+    "style": "antique",
+    "material": [
+        "leather",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.091,
+        "height": 1.231,
+        "length": 1.102,
+        "unit": "meters"
+    }
+}

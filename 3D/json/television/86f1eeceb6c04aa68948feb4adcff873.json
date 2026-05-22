@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "This is a vintage, heavily weathered CRT television. The screen is cracked and shows some signs of damage, with red splotches that could represent blood. The casing is a dull, greenish-gray metal, heavily rusted and worn, with visible scratches and peeling paint. Several red wires are visible exiting the side, connected to the back. The front features a row of four round knobs, also showing signs of age and rust. A circular speaker grille is visible on the upper right side. The overall appearance suggests an object that has seen significant wear and tear, possibly from a post-apocalyptic setting or a very old, discarded item.",
+    "color": [
+        "gray",
+        "red",
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "basement",
+        "garage"
+    ],
+    "style": "retro",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "grim",
+    "dimensions": {
+        "width": 0.535,
+        "height": 0.65,
+        "length": 0.9,
+        "unit": "meters"
+    }
+}

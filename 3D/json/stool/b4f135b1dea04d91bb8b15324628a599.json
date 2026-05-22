@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This 3D model displays a modern, minimalist bar stool rendered in a monochromatic white finish. The seat is cylindrical, featuring distinct vertical channel tufting or ribbed detailing, suggesting a padded and comfortable surface. It rests on a slender, cylindrical pedestal base, which typically indicates height adjustability. A circular footrest is integrated into the pedestal for user comfort. The stool is supported by a broad, flat, circular base, ensuring stability. The overall design is sleek and contemporary, devoid of any ornate decorations, emphasizing clean lines and functionality.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bar",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "upholstery"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 0.363,
+        "height": 0.8,
+        "length": 0.363,
+        "unit": "meters"
+    }
+}

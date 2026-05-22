@@ -1,0 +1,27 @@
+{
+    "object": "table",
+    "description": "This is a modern table lamp with a drum-shaped lampshade. The lampshade is a dark gray, and the base appears to be metallic with a circular plate and an adjustable arm. Beneath the lamp, there are two books stacked, one with its cover slightly ajar, and a round alarm clock is placed on top of the stack. The overall aesthetic is minimalist and functional, suggesting a study or bedside setting.",
+    "color": [
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal",
+        "paper"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.41,
+        "height": 0.322,
+        "length": 0.52,
+        "unit": "meters"
+    }
+}

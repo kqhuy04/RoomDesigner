@@ -1,0 +1,28 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, slender bookshelf with a minimalist design. It features a black metal frame that forms a rectangular prism shape. Inside the frame, there are five clear glass shelves evenly spaced. The shelves appear to be supported by thin metal rods or brackets attached to the inner sides of the frame. The overall impression is one of modern elegance and open display, suitable for showcasing books, decorative items, or collectibles. The simple geometric construction makes it versatile for various interior styles.",
+    "color": [
+        "black",
+        "white",
+        "clear"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.63,
+        "height": 1.53,
+        "length": 0.43,
+        "unit": "meters"
+    }
+}

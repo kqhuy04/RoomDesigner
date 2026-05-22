@@ -1,0 +1,23 @@
+{
+    "object": "chest",
+    "description": "This is a low-polygon 3D model of an open treasure chest. The chest is dark gray and has a hinged lid, which is slightly ajar. Inside, the chest is filled with a shimmering yellow substance, possibly gold coins or sand, arranged in wavy patterns. At the back of the chest, there are three white, pillow-like objects that could represent valuable items or cushions for the treasure. The overall aesthetic is simple and stylized, characteristic of low-poly game assets.",
+    "color": [
+        "gray",
+        "yellow",
+        "white"
+    ],
+    "appropriate_room": [
+        "any room for decoration",
+        "game room"
+    ],
+    "style": "low-poly",
+    "material": "plastic",
+    "usage": "storage, decorative",
+    "mood": "exciting, mysterious",
+    "dimensions": {
+        "width": 1.251,
+        "height": 1.725,
+        "length": 2.5,
+        "unit": "meters"
+    }
+}

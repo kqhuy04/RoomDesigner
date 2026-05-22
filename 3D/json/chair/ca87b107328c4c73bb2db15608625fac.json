@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a modern side chair featuring a minimalist design. The seat and backrest are formed from a single, curved piece of dark brown wood or wood laminate, showcasing a subtle wood grain texture. The frame consists of two continuous black metal tubes that form the legs and provide support, creating a sleek, open base. The chair's design is clean and functional, suitable for various contemporary settings.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "office",
+        "livingroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.496,
+        "height": 0.756,
+        "length": 0.49,
+        "unit": "meters"
+    }
+}

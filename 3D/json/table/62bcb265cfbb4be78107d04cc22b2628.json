@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "A rustic wooden nightstand with an open drawer, revealing a simple diamond-shaped drawer pull. The nightstand features a shelf below the drawer and is constructed from wood with a visible grain texture. The top surface appears to be a lighter wood inset within a darker frame. The overall design suggests a handcrafted or vintage aesthetic, with a somewhat aged appearance to the wood.",
+    "color": [
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.614,
+        "height": 0.628,
+        "length": 0.657,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a complex geometric pattern. The pattern features repeating circular motifs in a golden yellow color, interspersed with floral elements in a lighter greyish-pink. These motifs are connected by intricate, swirling lines in a vibrant teal blue, creating a sense of depth and movement. The background of the rug is a deep navy blue, providing a strong contrast to the lighter, more detailed elements of the design. The texture appears to be that of a woven fabric, possibly wool or a synthetic blend, with a slightly raised, embroidered quality to the patterns.",
+    "color": [
+        "blue",
+        "yellow",
+        "grey",
+        "pink"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "oriental",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "intricate",
+    "dimensions": {
+        "width": 4.0,
+        "height": 0.0,
+        "length": 4.0,
+        "unit": "meters"
+    }
+}

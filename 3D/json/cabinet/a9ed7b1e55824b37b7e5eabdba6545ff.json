@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "A light-colored wooden cabinet with glass doors and two drawers. The cabinet has a slightly tapered design, wider at the top than at the bottom, supported by four slender legs. The upper section features two open shelves behind sliding glass doors, framed by wood. The lower section has two drawers, each with a simple wooden pull. The wood grain is visible, suggesting a natural finish. This piece appears to be a display cabinet or a storage unit for a living space or dining area.",
+    "color": [
+        "tan",
+        "brown",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.2,
+        "height": 1.15,
+        "length": 0.39,
+        "unit": "meters"
+    }
+}

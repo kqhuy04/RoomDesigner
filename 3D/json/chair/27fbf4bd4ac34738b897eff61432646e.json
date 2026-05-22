@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "A distinctive modern accent chair with a rounded, deep seat and a black, textured exterior. The interior of the seat is upholstered in a bright, glossy yellow fabric, featuring subtle tufting that creates a visually appealing pattern. The chair is supported by a minimalist base of four dark, slender legs arranged in an X-like configuration, with a connecting crossbar for stability. The contrast between the dark exterior and the vibrant yellow interior, along with its unique silhouette, makes this chair a striking statement piece suitable for contemporary interior designs.",
+    "color": [
+        "black",
+        "yellow",
+        "gold",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.641,
+        "height": 0.626,
+        "length": 0.556,
+        "unit": "meters"
+    }
+}

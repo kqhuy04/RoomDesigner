@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist square-shaped ottoman featuring a light grey, heathered fabric upholstery. The cushion appears soft and comfortable. It is supported by four sturdy, tapered legs crafted from light-colored natural wood, exhibiting a visible wood grain. The design is clean and understated, suggesting a modern or Scandinavian aesthetic. The ottoman is presented against a plain light grey background, highlighting its form and texture.",
+    "color": [
+        "light grey",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "textile",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.55,
+        "height": 0.39,
+        "length": 0.4,
+        "unit": "meters"
+    }
+}

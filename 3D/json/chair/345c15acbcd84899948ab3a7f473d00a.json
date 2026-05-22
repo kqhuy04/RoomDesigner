@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a modern, minimalist lounge chair made entirely of bent plywood. The chair features a flowing, continuous design where the legs curve up to form the armrests and then seamlessly transition into the backrest. The bentwood construction gives it a sculptural quality, and the natural wood grain is visible, highlighting the material. A small, bright red tag with white text is affixed to the upper back of the chair. The design is elegant and simple, suggesting comfort and a contemporary aesthetic.",
+    "color": [
+        "light brown",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.084,
+        "height": 1.257,
+        "length": 1.101,
+        "unit": "meters"
+    }
+}

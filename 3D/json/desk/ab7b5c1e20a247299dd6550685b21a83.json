@@ -1,0 +1,28 @@
+{
+    "object": "desk",
+    "description": "This is a 3D model preview of an office desk with an ergonomic chair and a computer monitor. The desk appears to be made of a dark wood-like material and has a traditional design with carved details on its legs and drawers. The chair is a typical office swivel chair with a black upholstered seat and backrest, supported by a five-star base with wheels. The computer monitor is flat-screen and positioned centrally on the desk. The overall impression is of a functional and somewhat formal workspace, suitable for a home office or a study.",
+    "color": [
+        "black",
+        "dark brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 2.292,
+        "height": 2.274,
+        "length": 2.277,
+        "unit": "meters"
+    }
+}

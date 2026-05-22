@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "A large, white sectional sofa with a chaise lounge. The sofa is arranged in a U-shape, offering ample seating space. It features plush cushions and a modern, minimalist design. The overall aesthetic is clean and inviting, suggesting a comfortable and stylish centerpiece for a living area.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "familyroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.511,
+        "height": 0.754,
+        "length": 3.146,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with intricate Persian patterns. The primary color is a rich red, with accents of dark blue, black, and hints of orange and cream. The design features a central medallion surrounded by smaller motifs, including stylized animals and floral elements. The borders are also elaborately decorated with repeating patterns. The rug has a fringed edge on one side, suggesting it's made of woven material. The overall impression is one of traditional craftsmanship and a vibrant, detailed aesthetic.",
+    "color": [
+        "red",
+        "dark blue",
+        "black",
+        "orange",
+        "cream"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "dining room",
+        "hallway"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.876,
+        "height": 0.009,
+        "length": 1.195,
+        "unit": "meters"
+    }
+}

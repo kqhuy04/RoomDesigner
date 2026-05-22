@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A modern armchair with a striking, boxy silhouette. The seat and high back are upholstered in a light grey, textured fabric, offering a comfortable and inviting appearance. The chair rests on a distinctive X-shaped base made of polished metal, providing a sleek and contemporary contrast to the soft upholstery. The clean lines and geometric design suggest a piece of furniture that is both functional and visually appealing, likely serving as a statement piece in a well-designed interior space.",
+    "color": [
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.795,
+        "height": 2.0,
+        "length": 1.56,
+        "unit": "meters"
+    }
+}

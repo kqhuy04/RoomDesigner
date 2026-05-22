@@ -1,0 +1,24 @@
+{
+    "object": "rug",
+    "description": "A rectangular rug with a vibrant yellow base and a dark blue abstract line drawing. The design features a series of flowing, organic lines that intersect and overlap, creating a sense of movement and depth. Scattered throughout the pattern are small circular motifs, some with radiating lines resembling suns, and asterisk-like shapes. The overall aesthetic is modern and artistic, with a playful yet sophisticated feel. The texture of the rug appears to be woven, with a visible grain that adds to its tactile appeal.",
+    "color": [
+        "yellow",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "hallway"
+    ],
+    "style": "modern abstract",
+    "material": "textile",
+    "usage": "functional and decorative",
+    "mood": "vibrant and artistic",
+    "dimensions": {
+        "width": 2.421,
+        "height": 0.008,
+        "length": 2.107,
+        "unit": "meters"
+    }
+}

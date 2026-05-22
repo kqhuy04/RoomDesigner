@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a 3D model of a white chandelier. It features a cylindrical canopy at the top, from which a thin wire suspends a complex, organic-looking cluster of intertwined branches. These branches are curved and twisting, resembling natural forms like coral or vines. Small, leaf-like elements are attached at various points along the branches, suggesting buds or small lights. The overall design is abstract and artistic, creating a sense of movement and natural growth. The model is rendered in a monochromatic white against a plain grey background, highlighting its sculptural form.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": "metal",
+    "usage": "decorative",
+    "mood": "artistic",
+    "dimensions": {
+        "width": 0.536,
+        "height": 0.911,
+        "length": 0.513,
+        "unit": "meters"
+    }
+}

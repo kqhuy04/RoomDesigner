@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model displays a multi-level staircase system within a contemporary architectural setting. The main staircase is a prominent feature, characterized by its clean white risers and treads with warm wooden accents. It curves elegantly upwards, connecting different levels of the structure. A secondary, smaller staircase is visible, seemingly leading to a lower level, also featuring the same white and wood design. The stairs are flanked by white balustrades with a wooden handrail, providing safety and a sleek aesthetic. The surrounding area features a platform with a tiled floor, suggesting an indoor space that might be part of a house or a public building. The overall design emphasizes a sense of openness and flow, with translucent walls hinting at the structure's interior layout.",
+    "color": [
+        "white",
+        "wood brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "foyer",
+        "interior"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.289,
+        "height": 2.457,
+        "length": 3.164,
+        "unit": "meters"
+    }
+}

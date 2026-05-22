@@ -1,0 +1,26 @@
+{
+    "object": "sofa",
+    "description": "This is a rendering of a plush, L-shaped sectional sofa. The sofa is upholstered in a deep red, textured material that appears to be leather or a high-quality faux leather. It features a tufted design on the seat and back cushions, giving it a classic and comfortable look. The sofa is supported by short, slender metal legs, which add a touch of modern elegance. The sectional configuration suggests it's designed to accommodate multiple people and offers a versatile seating arrangement for a living space.",
+    "color": [
+        "red",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "familyroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.785,
+        "height": 0.209,
+        "length": 0.57,
+        "unit": "meters"
+    }
+}

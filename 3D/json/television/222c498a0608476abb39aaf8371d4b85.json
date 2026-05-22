@@ -1,0 +1,26 @@
+{
+    "object": "television",
+    "description": "A sleek, modern television with a minimalist design. The screen is large and black, suggesting a high-definition viewing experience. It is supported by a slender, metallic stand that runs horizontally along the bottom, adding to its clean aesthetic. The television appears to be a flat-panel display, likely an LED or OLED model, designed to blend seamlessly into contemporary living spaces. Its simple form and neutral colors make it versatile for various interior design styles.",
+    "color": [
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.339,
+        "height": 1.033,
+        "length": 1.674,
+        "unit": "meters"
+    }
+}

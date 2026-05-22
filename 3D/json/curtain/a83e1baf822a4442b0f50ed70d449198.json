@@ -1,0 +1,27 @@
+{
+    "object": "curtain",
+    "description": "A pair of light gray, floor-length curtains hangs from a dark wooden rod. The curtains are made of a textured fabric that appears to have a subtle weave. They are draped in a way that suggests they are open, with a gap between the two panels. The fabric is soft and flowing, with natural folds and creases that give them a realistic appearance. The lighting creates shadows and highlights on the curtains, emphasizing their texture and form. The overall presentation is clean and minimalist, focusing solely on the curtains and their mounting.",
+    "color": [
+        "light gray",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 4.745,
+        "height": 4.133,
+        "length": 0.675,
+        "unit": "meters"
+    }
+}

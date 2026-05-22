@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A plush, tufted leather lounge chair with a matching ottoman. The chair features a high back, rolled arms, and a deep seat, all upholstered in a rich, caramel-colored leather. The tufting creates a diamond pattern across the seat and back, adding a touch of classic elegance. The ottoman is also tufted and rests on a sleek, star-shaped metal base, mirroring the modern design of the chair's base. This set is designed for ultimate comfort and relaxation, perfect for a reading nook or a stylish living space.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable, luxurious",
+    "dimensions": {
+        "width": 0.401,
+        "height": 0.476,
+        "length": 0.667,
+        "unit": "meters"
+    }
+}

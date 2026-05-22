@@ -1,0 +1,20 @@
+{
+    "object": "bed",
+    "description": "A wireframe rendering of a queen-sized bed with a high headboard. The bed is neatly made with a quilted duvet and two large pillows, along with a smaller bolster pillow. The headboard has a textured appearance, suggesting a fabric upholstery. The bedding has a soft, draped quality, indicating a comfortable and inviting mattress and linens. The overall impression is one of a modern, possibly luxurious, bedroom furnishing.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.296,
+        "height": 1.048,
+        "length": 2.002,
+        "unit": "meters"
+    }
+}

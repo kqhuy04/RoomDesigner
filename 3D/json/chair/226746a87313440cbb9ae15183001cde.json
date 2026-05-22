@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A modern, ergonomic chair with a distinctive design. The seat and backrest are upholstered in a textured, olive-green fabric, forming a continuous, flowing shape. The chair rests on a single, sleek metallic pedestal that expands into a four-pronged base, providing stability and a futuristic aesthetic. The base has a polished, silver finish, reflecting the subtle lighting of the studio. The overall form of the chair suggests comfort and contemporary style, making it suitable for various professional or home environments.",
+    "color": [
+        "olive green",
+        "silver"
+    ],
+    "appropriate_room": [
+        "office",
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.478,
+        "height": 0.772,
+        "length": 0.534,
+        "unit": "meters"
+    }
+}

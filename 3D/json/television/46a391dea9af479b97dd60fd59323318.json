@@ -1,0 +1,33 @@
+{
+    "object": "television",
+    "description": "This is a modern Samsung QLED television, likely a 2020 model, showcasing a vibrant display with a festive blue and gold abstract background. The screen features a 'What to watch' interface with rows of popular shows and streaming service icons, including Downton Abbey, Doctor Who, Top Gear, The Inbetweeners, Netflix, Amazon Prime Video, BBC iPlayer, ITV Hub, Apple TV, BritBox, BT Sport, Disney+, My5, NOW, Rakuten TV, and YouTube. The television itself has a slim bezel and is mounted on a minimalist stand, suggesting it's designed for a contemporary living space.",
+    "color": [
+        "black",
+        "blue",
+        "white",
+        "gold",
+        "red",
+        "orange",
+        "purple",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entertainment room"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 1.45,
+        "height": 0.908,
+        "length": 0.262,
+        "unit": "meters"
+    }
+}

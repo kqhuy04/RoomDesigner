@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is a modern, abstract coffee table made of stone. It features two intersecting planes that create a unique asymmetrical design. One plane is a dark, almost black stone, while the other is a lighter, textured stone with earthy tones. The table is supported by two minimalist, rectangular legs, also made of the darker stone. The contrast in colors and textures of the stone gives the table a sophisticated and artistic appearance, making it a statement piece for a contemporary living space.",
+    "color": [
+        "black",
+        "tan",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "stone",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.2,
+        "height": 0.44,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

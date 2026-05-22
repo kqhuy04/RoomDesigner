@@ -1,0 +1,28 @@
+{
+    "object": "stool",
+    "description": "This is a dark brown, tufted ottoman with a square top. The top surface features a diamond-shaped tufting pattern, creating a quilted effect. The sides of the ottoman are smooth and curved, tapering slightly towards the base. Four short, wooden legs are visible at the bottom, providing a subtle elevation. The material appears to be a rich, textured leather, giving it a luxurious and classic feel. The overall design is compact and versatile, suitable for use as a footrest, extra seating, or a decorative accent piece in various interior settings.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway"
+    ],
+    "style": "classic",
+    "material": [
+        "leather",
+        "wood"
+    ],
+    "usage": [
+        "functional",
+        "decorative"
+    ],
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.639,
+        "height": 0.645,
+        "length": 0.639,
+        "unit": "meters"
+    }
+}

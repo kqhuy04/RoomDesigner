@@ -1,0 +1,23 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model of a modern, modular sofa. It features clean lines and a rectangular silhouette, suggesting a contemporary design. The sofa appears to be upholstered in a neutral-colored fabric, likely gray, with some accents of a lighter pink or red on the back cushions. The modular nature implies it can be configured in various arrangements to suit different spaces. It seems to be designed for comfort and style, suitable for a living room or lounge area.",
+    "color": [
+        "gray",
+        "pink",
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.232,
+        "height": 0.882,
+        "length": 2.716,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a minimalist chair with a brown stem and light green leaves. The seat of the chair is also a light green leaf shape, and the backrest is a taller, more pointed leaf. The stem appears to be made of wood and has a smooth finish. The overall design is organic and abstract, resembling a plant that has been transformed into a piece of furniture. It's likely intended for indoor use, possibly as a statement piece or for a whimsical setting.",
+    "color": [
+        "brown",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "nursery"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.457,
+        "height": 0.812,
+        "length": 0.541,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "This is a 3D render of a table lamp, presented in a monochrome white color scheme against a light grey background. The lamp consists of a cylindrical lampshade atop a decorative base. The base features a teardrop-shaped upper section, followed by three spherical or bulbous elements decreasing in size, resting on a flat, circular foot. A small spherical finial is visible at the top of the lampshade. The overall design is clean and simple, highlighting the form and silhouette of the object.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "transitional",
+    "material": "ceramic",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.623,
+        "height": 1.167,
+        "length": 0.623,
+        "unit": "meters"
+    }
+}

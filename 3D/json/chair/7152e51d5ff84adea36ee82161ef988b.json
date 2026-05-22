@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a single, upholstered dining chair with a dark wood frame. The fabric on the seat and backrest appears to be a patterned damask or brocade in shades of brown and cream, suggesting a classic or traditional aesthetic. The chair has a tall, somewhat ornate backrest with a decorative crest at the top and is supported by four sturdy legs. The overall impression is one of elegance and comfort, suitable for a formal dining room or as an accent piece in a living area.",
+    "color": [
+        "brown",
+        "cream",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.542,
+        "height": 0.899,
+        "length": 0.755,
+        "unit": "meters"
+    }
+}

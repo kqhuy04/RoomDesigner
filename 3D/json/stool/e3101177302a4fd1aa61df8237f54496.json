@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a square ottoman with a woven texture. It has four short, wooden legs that are reddish-brown in color. The ottoman is placed on a light gray, reflective surface, and the background is softly blurred, suggesting an indoor setting. The woven material appears to be a natural fiber, giving it a rustic and cozy feel. The overall design is simple and functional, suitable for use as a footrest, extra seating, or even a small side table.",
+    "color": [
+        "brown",
+        "tan",
+        "reddish-brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway"
+    ],
+    "style": "natural",
+    "material": "natural fiber, wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.293,
+        "height": 1.11,
+        "length": 2.293,
+        "unit": "meters"
+    }
+}

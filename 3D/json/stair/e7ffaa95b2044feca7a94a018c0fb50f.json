@@ -1,0 +1,30 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a multi-level stair tower with an open-air design. The structure features curved platforms at each level, connected by a central concrete core and a spiral wooden staircase. The platforms have railings for safety, and small human figures are included to give a sense of scale. The top level is partially covered by a roof. The entire structure is elevated on a wooden base that resembles a tiled floor. The design appears to be modern and minimalist, suitable for outdoor observation or as a unique architectural feature.",
+    "color": [
+        "gray",
+        "wood",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "park",
+        "observation deck"
+    ],
+    "style": "modern",
+    "material": [
+        "concrete",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.931,
+        "height": 3.192,
+        "length": 2.815,
+        "unit": "meters"
+    }
+}

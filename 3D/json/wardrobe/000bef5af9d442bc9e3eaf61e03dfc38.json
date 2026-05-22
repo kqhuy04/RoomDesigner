@@ -1,0 +1,26 @@
+{
+    "object": "wardrobe",
+    "description": "This is a 3D model rendering of a large, custom-built closet system. It features multiple compartments with open shelving, drawers, and hanging rods. The design appears modular and can be configured to fit various spaces. The overall aesthetic is clean and functional, with simple lines and a neutral color palette. The open doors reveal the interior organization, showcasing a practical approach to clothing and accessory storage. This type of closet would typically be found in a bedroom or a dedicated dressing room.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "walk-in closet"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "laminate"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.82,
+        "height": 2.73,
+        "length": 1.06,
+        "unit": "meters"
+    }
+}

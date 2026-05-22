@@ -1,0 +1,28 @@
+{
+    "object": "lamp",
+    "description": "This 3D model showcases an exquisitely intricate chandelier, rendered entirely in a pristine white. It features a dense arrangement of layered, multi-branched arms adorned with numerous stylized leaf-like or petal-shaped elements, creating a voluminous and sculptural form. The design evokes a sense of classical elegance and opulence, with its radial symmetry and detailed ornamentation. The base is sturdy, supporting the elaborate network of decorative components that spiral upwards, suggesting a grand and elaborate lighting fixture. The monochromatic presentation against a soft grey background emphasizes the complex geometry and craftsmanship of the design.",
+    "color": [
+        "white",
+        "light grey"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "foyer",
+        "ballroom"
+    ],
+    "style": "classical",
+    "material": [
+        "metal",
+        "glass",
+        "crystal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.236,
+        "height": 0.817,
+        "length": 1.179,
+        "unit": "meters"
+    }
+}

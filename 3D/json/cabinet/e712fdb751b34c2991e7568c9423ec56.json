@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a dresser with a rich, natural wood finish and a modern design. It features nine drawers of varying sizes, arranged in a visually interesting staggered pattern. Each drawer is equipped with a sleek, minimalist silver handle, providing a subtle contrast to the warm wood tones. The dresser is supported by a sturdy, dark metal frame, which adds a touch of industrial or contemporary flair. The wood grain is prominent, giving the piece a textured and organic feel. The overall aesthetic suggests a blend of rustic charm and modern sophistication, making it a versatile piece for storage and decor.",
+    "color": [
+        "brown",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "modern rustic",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 1.632,
+        "height": 1.087,
+        "length": 0.506,
+        "unit": "meters"
+    }
+}

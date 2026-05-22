@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "A contemporary ottoman designed for comfort and style. It features two stacked, circular cushions upholstered in a vibrant orange material, creating a soft and inviting appearance. The cushions have a subtle piping detail that defines their shape. The base of the ottoman is a contrasting metallic cylinder, providing a sturdy foundation and a touch of industrial chic. This piece is versatile, suitable for use as a footrest, extra seating, or even as a makeshift side table. Its compact yet substantial form makes it a practical addition to various living spaces.",
+    "color": [
+        "orange",
+        "gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.0,
+        "height": 1.952,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

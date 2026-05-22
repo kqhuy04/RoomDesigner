@@ -1,0 +1,21 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model of a wooden bed frame with a mattress. The bed has a classic design with a headboard and a footboard. The headboard is tall and rectangular, with a darker wood panel in the center. The footboard is shorter and also rectangular, with a similar wood panel detail. The side rails are also made of wood. The mattress appears to be light-colored, possibly white or cream, and is laid out on the bed frame. The overall impression is of a sturdy and traditional bed, suitable for a bedroom.",
+    "color": [
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 3.0,
+        "height": 2.1,
+        "length": 4.186,
+        "unit": "meters"
+    }
+}

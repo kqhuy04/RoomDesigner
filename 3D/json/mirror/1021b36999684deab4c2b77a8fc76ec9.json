@@ -1,0 +1,25 @@
+{
+    "object": "mirror",
+    "description": "This is a 3D rendered oval mirror with a thick, wavy white frame. The mirror surface is reflective, showing a blurred, light blue and white abstract pattern, likely indicating a reflection of the surrounding environment. The mirror is presented against a plain, light gray background, isolating the object. The overall aesthetic is simple and modern, with the unique frame adding a subtle touch of artistic flair.",
+    "color": [
+        "white",
+        "gray",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "bathroom",
+        "hallway",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "glass, plastic",
+    "usage": "functional, decorative",
+    "mood": "minimalist, clean",
+    "dimensions": {
+        "width": 0.549,
+        "height": 1.049,
+        "length": 0.01,
+        "unit": "meters"
+    }
+}

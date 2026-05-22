@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "This 3D model depicts a stylized street lamp. It features a prominent blue rectangular top with a slightly rounded edge, resembling a housing for the light source. Below this is a slender purple pole, which appears to connect the top to a wider, cylindrical base also in purple. The very bottom of the pole transitions into a mint green cylindrical section, possibly representing the main light-emitting part or a decorative element. The overall design is simplified and geometric, with clean lines and solid colors, suggesting a modern or abstract interpretation of a street lamp. The simplicity of the form and the bright, contrasting colors make it stand out against the neutral gray background.",
+    "color": [
+        "blue",
+        "purple",
+        "mint green"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "cityscape"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.559,
+        "height": 0.634,
+        "length": 0.722,
+        "unit": "meters"
+    }
+}

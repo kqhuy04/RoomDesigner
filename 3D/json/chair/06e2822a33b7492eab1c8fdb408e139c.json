@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a stylish director's chair, featuring a sturdy wooden frame and a comfortable canvas seat and back. The natural wood grain of the frame adds warmth and texture, contrasting nicely with the clean, light-colored canvas. The arms are elegantly curved, providing support and enhancing the chair's overall aesthetic. Its design suggests portability and ease of use, making it suitable for various settings. The chair's construction is robust, with visible dowels and crossbars that emphasize its craftsmanship. A subtle cushion on the seat adds an extra layer of comfort. The overall impression is one of relaxed sophistication and timeless design.",
+    "color": [
+        "white",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "studio"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "canvas"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.939,
+        "height": 1.084,
+        "length": 0.94,
+        "unit": "meters"
+    }
+}

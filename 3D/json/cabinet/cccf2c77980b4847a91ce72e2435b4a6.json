@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern, two-drawer filing cabinet with a sleek and minimalist design. The cabinet is finished in a uniform dark grey color, suggesting a metallic construction for durability. Each of the two drawers features a subtle, integrated horizontal handle that blends seamlessly into the drawer face, maintaining a clean aesthetic. The top part of the cabinet includes a darker, possibly black, panel or section, which could be a digital display, an accent, or a specialized compartment. Its compact size makes it ideal for organizing documents and office supplies in various professional or home office settings, emphasizing functionality and a contemporary appearance.",
+    "color": [
+        "dark grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "home office",
+        "study"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "storage",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.45,
+        "height": 0.6,
+        "length": 0.409,
+        "unit": "meters"
+    }
+}

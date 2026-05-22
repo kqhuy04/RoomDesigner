@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "This is a sleek, dark grey lounge chair designed for ultimate comfort and relaxation. It features an ergonomic, contoured shape with a raised headrest, allowing for a reclined posture. The surface appears soft and padded, with subtle horizontal segmentation that suggests flexibility and support. Its design is minimalist, resembling a modern bean bag or soft chaise lounge, resting directly on the floor without visible legs. The overall aesthetic is clean and contemporary, prioritizing comfort and functional style.",
+    "color": [
+        "dark grey",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "recreation room",
+        "home office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "relaxing",
+    "dimensions": {
+        "width": 0.742,
+        "height": 0.701,
+        "length": 2.694,
+        "unit": "meters"
+    }
+}

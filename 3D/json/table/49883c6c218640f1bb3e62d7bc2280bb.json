@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This is a 3D model of a vanity table, often referred to as a dressing table. It features a large oval mirror framed by multiple light bulbs, designed to illuminate the user for makeup application or grooming. The table itself has a smooth, rounded top and a series of drawers with decorative pulls. The overall design suggests a Hollywood or theatrical theme, emphasizing glamour and functionality for personal care. The table has a distinct curved silhouette, adding a touch of vintage elegance. It appears to be made of wood and has a polished finish.",
+    "color": [
+        "brown",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "bathroom"
+    ],
+    "style": "glam",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "glamorous",
+    "dimensions": {
+        "width": 0.211,
+        "height": 0.503,
+        "length": 0.454,
+        "unit": "meters"
+    }
+}

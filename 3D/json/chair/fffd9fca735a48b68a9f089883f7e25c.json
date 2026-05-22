@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a modern, minimalist armchair designed for comfort and style. It features a plush, upholstered seat and backrest with subtle tufting, providing a clean and contemporary aesthetic. The chair has a sturdy, angular frame with integrated armrests, all rendered in a pristine white finish. The simple, geometric design and lack of ornamentation contribute to its sleek appearance. It is supported by short, cylindrical legs that are almost hidden from view, further enhancing its floating or streamlined look. This chair is ideal for creating a sophisticated and uncluttered seating area, whether in a home or a commercial space.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric, metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.297,
+        "height": 0.952,
+        "length": 1.118,
+        "unit": "meters"
+    }
+}

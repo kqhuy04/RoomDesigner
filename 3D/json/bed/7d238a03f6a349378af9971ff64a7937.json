@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a modern wooden bed frame with a simple, minimalist design. It features a low platform base and a clean, rectangular headboard. The bed is dressed with crisp white bedding, including a fitted sheet, duvet, and two plush pillows. On either side of the bed are matching wooden nightstands, each with two drawers, providing convenient storage. The overall aesthetic is clean, contemporary, and functional, suggesting a sense of calm and order in a bedroom.",
+    "color": [
+        "brown",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.917,
+        "height": 0.781,
+        "length": 2.09,
+        "unit": "meters"
+    }
+}

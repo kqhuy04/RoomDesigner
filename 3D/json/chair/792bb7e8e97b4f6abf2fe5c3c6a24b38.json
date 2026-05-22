@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a high-backed office chair with a sleek, modern design. The chair features a two-tone upholstery, combining a deep brown leather with black accents. The brown sections have a textured, pebble-grain finish, while the black sections appear smoother and slightly glossy, suggesting a different type of leather or faux leather. The chair has adjustable armrests, also upholstered in brown, and a sturdy black base with five castor wheels for easy mobility. The seat and backrest are contoured for ergonomic support, with prominent stitching details that add to its sophisticated aesthetic. The chair is presented on a polished wooden floor, indicating its intended use in a home office or professional workspace.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 2.0,
+        "height": 0.995,
+        "length": 1.641,
+        "unit": "meters"
+    }
+}

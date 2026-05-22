@@ -1,0 +1,20 @@
+{
+    "object": "bed",
+    "description": "This is a minimalist white bed frame with a built-in headboard that features a shelving unit. The headboard has multiple open compartments, suggesting it can be used for storage or display. The bed frame itself is low-profile, with clean lines and a sleek, modern aesthetic. The entire piece is rendered in a uniform white, creating a bright and airy feel. The design is simple and functional, emphasizing a clutter-free and contemporary bedroom environment. The shelving unit integrated into the headboard adds a practical element, allowing for easy access to books, decor, or other personal items without the need for additional furniture.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.706,
+        "height": 2.262,
+        "length": 5.309,
+        "unit": "meters"
+    }
+}

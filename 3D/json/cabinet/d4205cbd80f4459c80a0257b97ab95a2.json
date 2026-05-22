@@ -1,0 +1,26 @@
+{
+    "object": "cabinet",
+    "description": "This is a minimalist wooden cabinet featuring a light, natural wood finish. The main body of the cabinet has a distinct fluted or reeded texture across its entire front, giving it depth and visual interest. It is designed with smoothly rounded corners on the top surface and the bottom frame, contributing to its soft aesthetic. A sleek, vertical handle is seamlessly integrated into the fluted front, maintaining clean lines. The cabinet stands on four slim, angled, and tapered legs, characteristic of mid-century modern or Scandinavian design. Its compact yet functional size makes it suitable for various storage needs while adding an elegant touch to a room.",
+    "color": [
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": [
+        "Scandinavian",
+        "Mid-century modern"
+    ],
+    "material": "wood",
+    "usage": "storage",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.796,
+        "height": 0.657,
+        "length": 0.385,
+        "unit": "meters"
+    }
+}

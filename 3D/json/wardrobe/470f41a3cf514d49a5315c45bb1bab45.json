@@ -1,0 +1,24 @@
+{
+    "object": "wardrobe",
+    "description": "This is a wooden wardrobe with a mirrored door. The wardrobe has multiple doors and drawers, suggesting ample storage space. The wood has a rich, warm tone with a visible grain pattern, giving it a classic and somewhat traditional appearance. The mirrored section is integrated into one of the doors, providing both functionality and a visual element that can make a room feel larger. The overall design appears to be for practical storage, likely intended for a bedroom or dressing area.",
+    "color": [
+        "brown",
+        "wood grain",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": "wood, glass",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 1.593,
+        "height": 1.85,
+        "length": 0.639,
+        "unit": "meters"
+    }
+}

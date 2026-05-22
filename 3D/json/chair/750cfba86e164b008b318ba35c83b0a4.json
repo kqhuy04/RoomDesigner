@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a modern, minimalist armchair with a simple silhouette. It features a low-profile design with clean lines and a comfortable, tufted seat and backrest. The armrests are integrated into the frame, providing a streamlined look. The chair's upholstery appears to be a soft, neutral-toned fabric or leather, and the frame is likely made of wood or a wood composite. The tufting on the cushions adds a touch of subtle elegance and visual interest, creating indentations that enhance the overall comfort and aesthetic. It's a versatile piece that would fit well in various contemporary interior settings, offering a place to relax and unwind.",
+    "color": [
+        "cream",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.133,
+        "height": 0.782,
+        "length": 1.201,
+        "unit": "meters"
+    }
+}

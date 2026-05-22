@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "A modern, flat-screen television with a sleek, minimalist design. The screen is completely black, indicating it is turned off or displaying a dark image. It features a thin bezel and sits on a silver, rectangular stand. The stand has a subtle curve at the front and appears to be made of metal. Along the bottom edge of the screen, there are small, circular buttons or indicator lights, suggesting controls or status indicators. The overall aesthetic is clean and contemporary, suitable for various home entertainment setups.",
+    "color": [
+        "black",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.85,
+        "height": 0.577,
+        "length": 0.141,
+        "unit": "meters"
+    }
+}

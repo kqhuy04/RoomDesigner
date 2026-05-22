@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "A rectangular, tufted ottoman with a plush, light-colored fabric seat. The seat is deeply button-tufted in a diamond pattern, creating a luxurious and inviting texture. It rests on a striking X-shaped base made of polished chrome or stainless steel. The metallic legs provide a modern contrast to the soft upholstery, offering a blend of comfort and contemporary style. This versatile piece can serve as a footrest, extra seating, or a decorative accent.",
+    "color": [
+        "beige",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "dressingroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.784,
+        "height": 0.641,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

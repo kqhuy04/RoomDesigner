@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "A visually striking chandelier featuring a delicate lilac drum shade with a subtle purple trim. Suspending from a bright yellow chain and canopy, the fixture boasts a central yellow stem with visible red accents, suggesting decorative candle holders or light sockets. Three pointed, light blue accents hang from the bottom of the shade, adding an unexpected and playful element to the design. The overall aesthetic combines traditional chandelier elements with a modern, whimsical touch.",
+    "color": [
+        "lilac",
+        "purple",
+        "yellow",
+        "red",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "playroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "fabric, metal, plastic",
+    "usage": "functional, decorative",
+    "mood": "playful, whimsical",
+    "dimensions": {
+        "width": 0.559,
+        "height": 0.913,
+        "length": 0.56,
+        "unit": "meters"
+    }
+}

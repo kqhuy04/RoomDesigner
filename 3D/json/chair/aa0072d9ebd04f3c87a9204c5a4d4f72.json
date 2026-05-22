@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern executive chair with a distinctive, stylized backrest. The chair features a dark brown, quilted upholstery that resembles leather, applied to both the seat and the tall, curved back. The backrest has an ergonomic, S-shaped design, widening at the top and bottom and narrowing in the middle, giving it a sculptural quality. The base of the chair is a sleek, dark metal with a four-star design, offering stability. This chair appears to be designed for a contemporary office or a stylish home study, blending comfort with a bold aesthetic.",
+    "color": [
+        "brown",
+        "dark grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.695,
+        "height": 1.497,
+        "length": 0.79,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "table",
+    "description": "This is a sleek and modern nightstand or small storage cabinet. It features a crisp white top surface with gently rounded edges, contrasting with the light gray main body. The front of the cabinet is distinguished by two vertically ribbed or fluted panels, which appear to be drawers, adding a tactile and sophisticated texture. These ribbed sections are framed by thin, reflective chrome or silver metallic strips, enhancing the contemporary design. A similar metallic trim forms a minimalist base around the bottom, elevating the unit slightly. The overall aesthetic is clean, sophisticated, and functional, suitable for modern interior spaces.",
+    "color": [
+        "white",
+        "light gray",
+        "silver"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal",
+        "composite"
+    ],
+    "usage": "functional",
+    "mood": "clean",
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.5,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

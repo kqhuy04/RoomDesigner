@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a 3D model of a modern storage cabinet, rendered with a low-poly aesthetic. The cabinet features a warm, light brown color, indicative of wood. It is divided into two vertical sections. The left side consists of five functional drawers, each fitted with a simple spherical knob. The right side provides four open shelves, suitable for displaying decorative items, books, or other personal belongings. The design is clean and minimalist, with slightly rounded or chamfered edges, presenting a simple yet contemporary piece of furniture against a plain light grey background.",
+    "color": [
+        "brown"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "office",
+        "kid's room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.409,
+        "height": 0.565,
+        "length": 0.231,
+        "unit": "meters"
+    }
+}

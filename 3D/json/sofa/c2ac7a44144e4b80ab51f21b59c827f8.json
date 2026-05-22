@@ -1,0 +1,27 @@
+{
+    "object": "sofa",
+    "description": "This image displays a modern black leather sofa and a matching armchair, presented against a plain light gray background. The sofa is a three-seater, featuring three plush back cushions and three seat cushions, while the armchair has a single back and seat cushion. Both pieces have wide, flat armrests and low, sturdy block feet, likely made of dark wood. The leather upholstery has a slightly textured, almost matte finish, contributing to a sleek yet comfortable appearance. The overall design is clean-lined and contemporary, suggesting both durability and comfort.",
+    "color": [
+        "black",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "familyroom",
+        "den",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 3.933,
+        "height": 0.874,
+        "length": 1.381,
+        "unit": "meters"
+    }
+}

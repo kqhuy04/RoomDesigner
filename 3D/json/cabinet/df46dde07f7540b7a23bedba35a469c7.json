@@ -1,0 +1,27 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern, three-drawer filing cabinet presented with a metallic, light gray finish. The top two drawers are partially open, showcasing their interior and the metal slide runners. Each drawer is equipped with a sleek, curved handle that appears to be made of a complementary metallic material. A key is visibly inserted into a lock mechanism located on the upper right side of the cabinet. The entire unit is supported by four small, shiny yellow or golden-colored caster wheels, suggesting mobility. The design emphasizes functionality and a clean, contemporary aesthetic.",
+    "color": [
+        "light gray",
+        "silver",
+        "gold"
+    ],
+    "appropriate_room": [
+        "office",
+        "home office",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "storage",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.482,
+        "height": 0.682,
+        "length": 0.674,
+        "unit": "meters"
+    }
+}

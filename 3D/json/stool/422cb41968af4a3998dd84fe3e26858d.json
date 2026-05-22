@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "This is a square ottoman, likely upholstered. It has a simple, blocky design with clean lines, suggesting a modern or minimalist aesthetic. The fabric appears to have a subtle texture, possibly a woven material. The shape and size indicate it can be used as a footrest, extra seating, or even as a makeshift coffee table with a tray on top. Its versatility makes it suitable for various living spaces.",
+    "color": [
+        "purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "familyroom",
+        "den"
+    ],
+    "style": "modern",
+    "material": "upholstery fabric",
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.755,
+        "height": 0.409,
+        "length": 0.755,
+        "unit": "meters"
+    }
+}

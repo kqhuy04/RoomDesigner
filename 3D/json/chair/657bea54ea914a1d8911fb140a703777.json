@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "This is a 3D rendered image of a stylized chair, constructed from an orange, pixelated material. The chair has a high, intricately patterned backrest that resembles a lattice or mosaic. The seat is also made of the same pixelated material, and it is supported by four splayed, angular legs that also have a pixelated, fragmented appearance. The overall aesthetic suggests a low-polygon or voxel-based design, giving it a retro or digital feel. The chair is presented against a solid green background, isolating it and emphasizing its form.",
+    "color": [
+        "orange"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lobby"
+    ],
+    "style": "digital art",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "unique",
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.41,
+        "length": 0.35,
+        "unit": "meters"
+    }
+}

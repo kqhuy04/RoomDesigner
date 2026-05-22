@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a small, oval-shaped wooden table with four tapered legs. It has a single drawer with a round brass knob. A patterned cloth drapes over the top of the table, hanging over one side. The table has decorative brass accents at the top of each leg. The wood appears to have a rich, dark finish with visible grain. The overall design suggests a vintage or antique aesthetic, possibly intended for a bedroom or dressing area.",
+    "color": [
+        "brown",
+        "red",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "living room"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "functional and decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.831,
+        "height": 0.695,
+        "length": 0.522,
+        "unit": "meters"
+    }
+}

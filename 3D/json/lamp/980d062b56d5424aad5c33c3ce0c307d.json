@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "This is an ancient-looking, possibly handmade, oil lamp. It is made of a rough, porous material, likely clay or a similar ceramic. The lamp has a rounded body that would have held the oil, a distinct nozzle or spout from which the wick would emerge, and a small opening at the top for filling. The surface is uneven, showing signs of wear and age, with variations in color and texture that suggest it is an artifact from antiquity. The overall shape is functional, designed to hold and burn oil for illumination, common in historical periods before modern lighting.",
+    "color": [
+        "brown",
+        "beige",
+        "tan"
+    ],
+    "appropriate_room": [
+        "study",
+        "livingroom",
+        "museum"
+    ],
+    "style": "ancient",
+    "material": "ceramic",
+    "usage": "functional",
+    "mood": "historical",
+    "dimensions": {
+        "width": 0.127,
+        "height": 0.056,
+        "length": 0.067,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a white staircase with a contemporary design. It features a unique, possibly spiral or curved, structure that leads up to a raised platform. The staircase has vertical railings on both sides, creating a sense of enclosure and safety. The platform it connects to also has similar railing details, suggesting it might be an upper level or balcony. The overall aesthetic is clean, minimalist, and architectural, with sharp lines and smooth surfaces. The lighting in the render creates distinct shadows, emphasizing the form and geometry of the staircase. This design would be suitable for modern homes, commercial buildings, or artistic installations where a striking and functional element is desired.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "loft",
+        "modernhome",
+        "commercialbuilding"
+    ],
+    "style": "modern",
+    "material": "painted wood or composite",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.46,
+        "height": 1.815,
+        "length": 2.53,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "A classic bar stool featuring a round, cushioned seat upholstered in vibrant red material, likely faux leather, which has a slightly worn or textured appearance. The seat is supported by a sturdy wooden frame, consisting of four legs connected by crossbars for stability. The wood has a natural, warm tone, highlighting its grain. The overall design is simple and functional, characteristic of a bar or counter seating.",
+    "color": [
+        "red",
+        "brown"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar",
+        "dining room"
+    ],
+    "style": "traditional",
+    "material": [
+        "wood",
+        "faux leather"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.529,
+        "height": 0.83,
+        "length": 0.529,
+        "unit": "meters"
+    }
+}

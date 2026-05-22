@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a white, ornate chandelier designed in a classic style. It features a central column from which multiple arms extend, each holding a lampshade. The arms are decorated with delicate, branching leaf-like elements, adding a touch of nature-inspired elegance. The overall design suggests a romantic or vintage aesthetic, suitable for enhancing the ambiance of a room. The chandelier is suspended by a chain and has a somewhat intricate, yet airy structure, implying it's designed to be a focal point in a decorative lighting setup.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "dining room",
+        "living room",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": "metal",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.888,
+        "height": 0.772,
+        "length": 0.888,
+        "unit": "meters"
+    }
+}

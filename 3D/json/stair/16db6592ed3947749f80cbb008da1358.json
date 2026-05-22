@@ -1,0 +1,22 @@
+{
+    "object": "stair",
+    "description": "This is a visual representation of a vertical stair structure, seen from a side profile. The stair appears to be a modular or tiered design, with distinct horizontal steps or platforms that progressively narrow as they ascend. The material seems to be a rough, textured stone or concrete, giving it a robust and possibly weathered appearance. The color palette is predominantly muted grays and earthy browns, suggesting a natural or industrial aesthetic. The overall form is monolithic and utilitarian, possibly part of a larger architectural element or a standalone decorative piece evoking ancient ruins or functional construction.",
+    "color": [
+        "gray",
+        "brown"
+    ],
+    "appropriate_room": [
+        "garden",
+        "outdoor"
+    ],
+    "style": "industrial",
+    "material": "stone",
+    "usage": "functional",
+    "mood": "sturdy",
+    "dimensions": {
+        "width": 0.01,
+        "height": 0.16,
+        "length": 0.627,
+        "unit": "meters"
+    }
+}

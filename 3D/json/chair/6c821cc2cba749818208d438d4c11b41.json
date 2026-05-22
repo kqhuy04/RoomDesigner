@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a luxurious, high-backed armchair with a matching ottoman, both upholstered in rich, brown leather. The armchair features deep tufting on the seat and back, creating a classic, inviting look. It has plush, padded armrests and a prominent headrest for enhanced comfort. The chair is supported by a distinctive black star base with five legs, suggesting a modern, possibly swivel, design. The ottoman mirrors the armchair's tufted design and is also supported by a similar black star base. The overall aesthetic is one of sophisticated comfort, suitable for relaxation and lounging.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern retro",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.574,
+        "height": 0.406,
+        "length": 0.287,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "rack",
+    "description": "This 3D model showcases a striking red cape draped over a futuristic black rack labeled 'CAPE RACK 9000'. The cape is the dominant visual element, with its vibrant red fabric catching the light and casting a strong shadow. The rack itself is angular and modern, with glowing teal text indicating its product name. A subtle circular glow emanates from behind the cape, suggesting it might be illuminated or set against a luminous backdrop. The overall presentation is sleek and eye-catching, likely intended for a modern or themed setting where it serves both a functional and decorative purpose.",
+    "color": [
+        "red",
+        "black",
+        "teal",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "closet",
+        "entryway"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional, decorative",
+    "mood": "futuristic, vibrant",
+    "dimensions": {
+        "width": 0.941,
+        "height": 3.202,
+        "length": 0.852,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "A vintage-style television with a gray, boxy screen and two antennas protruding from the top. It features two circular, light green knobs on the right side. The television is supported by a transparent, pedestal-like base with a reflective, metallic finish. The overall aesthetic suggests an older era of electronic devices, possibly from the mid-20th century. The screen appears to have a slightly glossy or reflective surface, hinting at a cathode-ray tube design. The antennas are thin and angled upwards, typical of early broadcast reception. The stand is rounded and wide at the base, adding a sense of stability to the somewhat retro design.",
+    "color": [
+        "gray",
+        "silver",
+        "green",
+        "transparent"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "plastic",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.074,
+        "height": 1.778,
+        "length": 0.952,
+        "unit": "meters"
+    }
+}

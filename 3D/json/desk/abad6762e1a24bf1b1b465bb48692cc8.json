@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "This is a modern wooden desk with a clean, minimalist design. It features a spacious tabletop with a subtle seam down the middle, suggesting it might be a foldable or extendable surface. To the right, a set of three drawers provides storage, with each drawer front featuring a horizontal slit handle. The desk has an open shelving area on the left, creating a sense of space and allowing for easy access to items. The wood grain is prominent, showcasing a warm, rich brown hue. The overall construction appears solid and functional, suitable for a home office or study.",
+    "color": [
+        "brown",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "home office",
+        "study",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional, storage",
+    "mood": "warm, minimalist",
+    "dimensions": {
+        "width": 0.9,
+        "height": 0.701,
+        "length": 0.501,
+        "unit": "meters"
+    }
+}

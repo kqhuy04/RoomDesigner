@@ -1,0 +1,28 @@
+{
+    "object": "wardrobe",
+    "description": "This is a tall, modern wardrobe featuring a two-tiered design. The upper section has four smaller cabinet doors with a wood grain finish and subtle metallic handles. The lower section is divided into three larger doors, also with a wood grain finish. The central door of the lower section incorporates a tall, rectangular mirror, adding functionality and a sense of depth to the piece. The entire unit is framed by a dark, possibly black or charcoal, material, creating a strong contrast with the warm wood tones. The overall design is clean, geometric, and appears to be constructed from wood composite materials with a mirrored insert.",
+    "color": [
+        "brown",
+        "wood grain",
+        "black",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood composite",
+        "glass"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.632,
+        "height": 2.507,
+        "length": 1.65,
+        "unit": "meters"
+    }
+}

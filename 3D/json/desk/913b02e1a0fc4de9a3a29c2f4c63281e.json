@@ -1,0 +1,22 @@
+{
+    "object": "desk",
+    "description": "This is a minimalist white desk lamp with a unique design. It features a circular light element positioned at the top, connected to a slender, angled arm that extends from a stable, circular base. A thin white cord emerges from the base, indicating its power source. The overall aesthetic is clean and modern, with smooth lines and a monochromatic finish. The lamp's design suggests it's intended to provide focused light for a workspace while also serving as a subtle decorative element due to its contemporary form.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "home office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.411,
+        "height": 4.107,
+        "length": 1.649,
+        "unit": "meters"
+    }
+}

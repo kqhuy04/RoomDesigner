@@ -1,0 +1,29 @@
+{
+    "object": "television",
+    "description": "This is a vintage Quasar television with a wood-grain finish. The screen is large and appears to be made of glass, with a slightly cloudy or textured surface, suggesting it's either an older CRT model or has a matte finish. There are two prominent rotary knobs on the right side, likely for channel selection and volume or settings. Below the screen, there's a control panel with several smaller buttons and sliders, labeled with functions such as 'Sharpness', 'Picture', 'Bright', 'Hue', 'Contrast', and 'Off/On'. A speaker grille is integrated into the right side of the unit. The television sits on a white, somewhat damaged or worn base, hinting at its age and perhaps being part of a larger display or prop.",
+    "color": [
+        "brown",
+        "gray",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "rec room"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "plastic",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.161,
+        "height": 1.771,
+        "length": 2.208,
+        "unit": "meters"
+    }
+}

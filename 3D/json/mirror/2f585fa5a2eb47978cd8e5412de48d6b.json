@@ -1,0 +1,29 @@
+{
+    "object": "mirror",
+    "description": "This is a tall, rectangular mirror with a simple, light-colored wooden frame. The mirror is positioned centrally in the frame and appears to be made of glass. The reflection in the mirror shows a grey wall with two pieces of art: a large red rectangular artwork and a smaller white rectangular object, possibly a heating unit or a display. The floor in the reflection appears to be a neutral tone. The overall presentation suggests a modern or minimalist interior setting.",
+    "color": [
+        "brown",
+        "grey",
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "hallway",
+        "livingroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.5,
+        "height": 0.9,
+        "length": 0.04,
+        "unit": "meters"
+    }
+}

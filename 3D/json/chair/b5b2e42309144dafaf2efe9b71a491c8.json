@@ -1,0 +1,30 @@
+{
+    "object": "chair",
+    "description": "This 3D model showcases a contemporary hammock designed for relaxation. The hammock itself features a light, off-white or cream-colored fabric, stretched in a gentle curve to create a comfortable resting surface. It is suspended from a sturdy, freestanding wooden frame through short metal chains, which connect to woven ropes at the hammock's ends. The frame is crafted from curved, polished brown wood, giving it an elegant and organic appearance. The main arched support rests on two perpendicular wooden crossbeams, providing stability. The overall design emphasizes a minimalist aesthetic, combining natural materials with a functional and comfortable form, ideal for unwinding.",
+    "color": [
+        "cream",
+        "brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "patio",
+        "garden",
+        "balcony",
+        "livingroom",
+        "sunroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "relaxing",
+    "dimensions": {
+        "width": 3.505,
+        "height": 1.585,
+        "length": 1.643,
+        "unit": "meters"
+    }
+}

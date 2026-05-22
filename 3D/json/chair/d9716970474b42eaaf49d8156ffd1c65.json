@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This image features a modern lounge chair and a matching ottoman, both upholstered in a rich, glossy red material that appears to be leather or a high-sheen faux leather. The material exhibits subtle textures and wrinkles, adding to its realistic appearance. The chair has a distinctive curved backrest and integrated armrests, providing a sleek and inviting silhouette. Both the chair and the rectangular ottoman are supported by slender, tapered dark wooden legs, characteristic of mid-century design. The overall aesthetic is one of sophisticated comfort, making it a stylish addition to a contemporary interior.",
+    "color": [
+        "red",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "den"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "leather",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "stylish",
+    "dimensions": {
+        "width": 1.17,
+        "height": 0.783,
+        "length": 1.437,
+        "unit": "meters"
+    }
+}

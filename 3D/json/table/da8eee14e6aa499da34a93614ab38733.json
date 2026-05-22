@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "This image displays a simple, rectangular table rendered in a 3D minimalist style. The table features a flat, smooth top surface and four thick, straight legs providing support. The design is entirely unadorned, emphasizing functionality and clean lines. Its basic geometric form suggests a sturdy and practical piece of furniture. The uniform coloration and lack of texture give it a modern and understated appearance, making it versatile for various interior settings. The object is presented against a plain, softly colored background, highlighting its solitary form.",
+    "color": [
+        "greyish-blue"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "kitchen",
+        "office",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.95,
+        "height": 1.303,
+        "length": 3.475,
+        "unit": "meters"
+    }
+}

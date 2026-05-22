@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a grand and elegantly designed bed, featuring a prominent, ornate headboard and footboard. The headboard is tall with a carved or molded top edge, supported by what appear to be classical columns or posts on either side. The main body of the bed, including the frame and footboard, matches the dark, rich tone of the headboard, possibly suggesting a dark wood or dark metal finish. The mattress appears light-colored, contrasting with the dark frame, and has a slight texture indicating fabric. The overall impression is one of sophistication and traditional luxury, suitable for a master bedroom.",
+    "color": [
+        "dark brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "master bedroom"
+    ],
+    "style": "classical",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.157,
+        "height": 1.918,
+        "length": 1.131,
+        "unit": "meters"
+    }
+}

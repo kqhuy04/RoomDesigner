@@ -1,0 +1,24 @@
+{
+    "object": "lamp",
+    "description": "A double-headed floor lamp with a unique, sculptural design. The lamp features two white conical shades, one slightly larger than the other, positioned at different heights. The lamp's structure is made of curved white metal, resembling a stylized stem with delicate, crystalline-like embellishments that appear to grow from the branches. The base is a simple, circular white disk, providing stability. The overall aesthetic is elegant and whimsical, with a touch of organic inspiration.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": [
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.372,
+        "height": 0.642,
+        "length": 0.191,
+        "unit": "meters"
+    }
+}

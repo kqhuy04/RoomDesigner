@@ -1,0 +1,23 @@
+{
+    "object": "cabinet",
+    "description": "This is a three-dimensional rendered model of a dresser. It has a dark brown finish and a lighter beige trim along the edges. The dresser features a total of six drawers: two smaller drawers at the top, side-by-side, and four wider drawers below them, stacked vertically. Each drawer has a small, square, golden knob for opening. The dresser stands on four short, angular legs, and the base has a slightly flared trim. The overall design is simple and geometric, suggesting a functional piece of furniture.",
+    "color": [
+        "brown",
+        "beige",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.78,
+        "height": 1.621,
+        "length": 1.858,
+        "unit": "meters"
+    }
+}

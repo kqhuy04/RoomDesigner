@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A collection of five antique wooden tables, presented against a vibrant blue background. The tables vary in shape and size, but share a consistent design aesthetic. One larger, oval-shaped table sits prominently in the foreground, its surface divided by a central seam. The other four tables are smaller and semi-circular, designed to be placed against a wall. All tables are crafted from rich, dark wood, featuring intricate detailing such as inlaid wood patterns and fluted legs. The overall impression is one of classic elegance and refined craftsmanship, reminiscent of historical furniture design.",
+    "color": [
+        "brown",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "diningroom",
+        "bedroom"
+    ],
+    "style": "classic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 4.292,
+        "height": 0.847,
+        "length": 2.074,
+        "unit": "meters"
+    }
+}

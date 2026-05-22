@@ -1,0 +1,25 @@
+{
+    "object": "curtain",
+    "description": "This is a decorative curtain with a damask pattern. The fabric appears to be light and flowing, creating soft folds and drapes. A wide band of solid white fabric runs horizontally across the curtain, adding a subtle contrast to the patterned material. The damask pattern itself is intricate, featuring floral or arabesque motifs in muted shades of pale green, pink, and grey against a white background. The overall impression is one of elegance and classic style, suggesting it would be suitable for a formal or traditional interior setting. The hem of the curtain is slightly scalloped, adding a delicate touch to the design.",
+    "color": [
+        "white",
+        "green",
+        "pink",
+        "grey"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "fabric",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.687,
+        "height": 2.28,
+        "length": 0.502,
+        "unit": "meters"
+    }
+}

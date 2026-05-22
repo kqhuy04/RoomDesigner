@@ -1,0 +1,31 @@
+{
+    "object": "wardrobe",
+    "description": "This is a vintage or antique-style two-door wardrobe, featuring a distressed reddish-brown wood finish for its main panels, which display a textured, almost rippled surface with etched lines, suggesting a rustic or aged look. These panels are framed by darker, possibly bronze or dark wood, trim and an ornate carved arch at the top. The wardrobe is adorned with elegant golden-yellow handles and stands on subtle curved legs, conveying a sense of historical charm and grandeur.",
+    "color": [
+        "reddish-brown",
+        "dark brown",
+        "gold"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "livingroom",
+        "hallway"
+    ],
+    "style": "antique",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": [
+        "storage",
+        "decorative"
+    ],
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.293,
+        "height": 2.314,
+        "length": 0.564,
+        "unit": "meters"
+    }
+}

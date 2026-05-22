@@ -1,0 +1,27 @@
+{
+    "object": "desk",
+    "description": "This is a modern gaming desk with a unique L-shaped design, featuring a prominent cut-out on the tabletop. It has a dark gray surface with a vibrant red edge trim. The desk is supported by two sturdy gray cylindrical legs on the left side, while the right side has a solid gray panel that extends downwards to create a footrest area, also outlined in red. Two circular cable management holes are visible on the tabletop. The overall aesthetic is sleek and functional, designed for a gaming setup or a modern workspace.",
+    "color": [
+        "gray",
+        "red",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "studyroom",
+        "officeroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.8,
+        "height": 0.786,
+        "length": 1.2,
+        "unit": "meters"
+    }
+}

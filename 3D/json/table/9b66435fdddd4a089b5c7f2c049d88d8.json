@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a white, classic-style table lamp. The lampshade is a flared cone shape, featuring a series of vertical pleats that create a textured, elegant look. Below the shade, the lamp stem is adorned with stacked, spherical elements, with the central sphere featuring a subtle spiral or ribbed texture. The base of the lamp is ornate, with intricate detailing and scrolled feet, suggesting a traditional or vintage design. The overall aesthetic is one of refined elegance and classic design, suitable for adding a touch of sophistication to a room. The clean white finish gives it a versatile and timeless appeal.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "classic",
+    "material": "ceramic, fabric",
+    "usage": "functional, decorative",
+    "mood": "elegant, cozy",
+    "dimensions": {
+        "width": 0.352,
+        "height": 0.655,
+        "length": 0.352,
+        "unit": "meters"
+    }
+}

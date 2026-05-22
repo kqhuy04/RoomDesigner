@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A classic table lamp with a conical lampshade and an ornate base. The lampshade is a clean white, tapering slightly towards the top. The base features a sculpted design with a round pedestal, decorative floral-like elements, and a tall, slender stem composed of stacked spheres and a fluted section. Two elegant, curved arms extend from just below the lampshade, creating a decorative silhouette. The entire lamp appears to be made of a single material, likely metal or a composite, given its uniform color and sculpted form. The design evokes a sense of traditional elegance.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "traditional",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.359,
+        "height": 0.598,
+        "length": 0.36,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A modern white chandelier with six conical lampshades. The lampshades are arranged in a circular pattern around a central hub, with each shade pointing slightly outwards and downwards. Thin white wires connect the lampshades to a circular ceiling plate. One of the lampshades has a ribbed texture, adding a subtle detail to the otherwise smooth design. The overall aesthetic is minimalist and clean, suitable for contemporary interior design.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.741,
+        "height": 0.708,
+        "length": 0.661,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "bed",
+    "description": "This is a rustic-style bed with a wooden frame and a simple mattress covered in a white and pink striped duvet. The headboard is made of rough-hewn logs, giving it a primitive and natural aesthetic. A small, pink pillow rests at the head of the bed. The overall design suggests a focus on natural materials and a slightly unfinished, handcrafted look, possibly evoking a sense of camping or a simple, outdoor living space. The bed is elevated on what appear to be stacked wooden logs, further enhancing its rustic appeal.",
+    "color": [
+        "brown",
+        "pink",
+        "white",
+        "tan"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "guest room",
+        "cabin"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "cozy, natural",
+    "dimensions": {
+        "width": 1.219,
+        "height": 1.091,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

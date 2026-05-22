@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "A modern, square-shaped ottoman upholstered in a textured, teal fabric. The ottoman features a softly rounded top with clean, straight lines along its sides, creating a contemporary and inviting look. It rests on four small, discreet dark-colored legs that elevate it slightly off the ground. The fabric has a subtle woven pattern, adding a touch of depth and visual interest. This versatile piece can serve as a footrest, extra seating, or even a casual surface for placing items like books or trays.",
+    "color": [
+        "teal"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 3.341,
+        "height": 0.422,
+        "length": 3.341,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a single upholstered armchair, designed for comfort and relaxation. It features a high, slightly curved backrest, offering good support, and substantial, rounded armrests that suggest a plush feel. The seat appears deep and inviting. The chair is rendered in a rich, dark red or burgundy color, which gives it a luxurious and classic appearance. The upholstery seems to be a smooth, possibly velvety fabric, hinting at a soft texture. Though the legs are not clearly visible due to the low resolution, they likely provide sturdy support for the substantial frame. This chair is a statement piece, combining comfort with a sense of traditional elegance.",
+    "color": [
+        "dark red",
+        "burgundy"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "lounge"
+    ],
+    "style": "classic",
+    "material": [
+        "fabric",
+        "wood",
+        "foam"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 2.292,
+        "height": 3.952,
+        "length": 1.917,
+        "unit": "meters"
+    }
+}

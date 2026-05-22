@@ -1,0 +1,23 @@
+{
+    "object": "rack",
+    "description": "This 3D model presents a minimalist, L-shaped bracket rendered in a light beige or off-white color, set against a vibrant green background. The object features smooth, rounded edges throughout, giving it a contemporary and refined appearance. The vertical segment of the 'L' includes a single, clean circular hole, designed for attachment with a screw or bolt. The horizontal segment extends forward, terminating with a semi-circular cutout, which suggests its function might be to support or cradle a cylindrical object such as a rod, pipe, or cable. Subtle shadows on its surfaces enhance its three-dimensional form, indicating a light source from the top-left. Its robust yet simple design makes it suitable as a functional component in various applications requiring support or fastening.",
+    "color": [
+        "light beige"
+    ],
+    "appropriate_room": [
+        "workshop",
+        "garage",
+        "office",
+        "utility room"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 0.381,
+        "height": 0.508,
+        "length": 0.635,
+        "unit": "meters"
+    }
+}

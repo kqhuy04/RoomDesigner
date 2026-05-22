@@ -1,0 +1,22 @@
+{
+    "object": "chair",
+    "description": "A modern, minimalist office chair rendered in a 3D model. The chair features a sleek, dark gray design with clean lines and geometric shapes. It has a high backrest, a comfortable seat, and armrests that are integrated into the overall structure. The base of the chair is a five-star pedestal with casters, designed for stability and mobility, typical of an office or task chair. The material appears to be a matte finish, possibly plastic or coated metal, giving it a smooth and contemporary look. The overall design emphasizes functionality and a professional aesthetic.",
+    "color": [
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.536,
+        "height": 2.783,
+        "length": 1.753,
+        "unit": "meters"
+    }
+}

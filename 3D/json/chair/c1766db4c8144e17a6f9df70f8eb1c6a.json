@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a simple, single-seat swing designed with a gently curved or concave surface. The seat itself appears to be crafted from a textured material, possibly weathered wood or a composite, showing a rustic finish with subtle grain-like patterns and varying shades of brown and grey. It is suspended by two sturdy, dark brown ropes, one attached to each end of the seat, connected via small, dark brackets. The overall design is functional and unadorned, suggesting a practical item for outdoor recreation. The object is rendered against a plain, light blue-grey background, highlighting its solitary form.",
+    "color": [
+        "brown",
+        "grey"
+    ],
+    "appropriate_room": [
+        "backyard",
+        "playground",
+        "park"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "rope"
+    ],
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 3.445,
+        "height": 3.195,
+        "length": 1.54,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "This is a classic, single-seater armchair upholstered in rich, dark brown leather. It features a robust design with comfortably rolled arms and a plush, inviting appearance. The upholstery is accentuated by prominent white contrast stitching, outlining the edges of the removable seat cushion and the distinctive curves of the backrest. A striking detail is the decorative nailhead trim (studs), which runs along the front edge of the arms and the base of the chair, adding a touch of traditional elegance and craftsmanship. The chair stands on four sturdy, short, dark-colored turned wooden legs. Its overall aesthetic combines comfort with a sophisticated, timeless appeal.",
+    "color": [
+        "dark brown",
+        "white",
+        "dark metallic"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "office",
+        "library"
+    ],
+    "style": "traditional",
+    "material": [
+        "leather",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.043,
+        "height": 0.996,
+        "length": 0.989,
+        "unit": "meters"
+    }
+}

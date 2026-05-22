@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "A minimalist floor lamp with a cylindrical head and a simple circular base. The lamp head features a tall, slender opening with internal components that suggest a light source or diffuser. A thin, vertical stem connects the head to the round, flat base, giving it a modern and unobtrusive appearance. The design emphasizes clean lines and a monochromatic color scheme, making it suitable for various contemporary interior settings. Its form is sleek and unfussy, prioritizing functionality and a subtle aesthetic.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.181,
+        "height": 0.658,
+        "length": 0.329,
+        "unit": "meters"
+    }
+}

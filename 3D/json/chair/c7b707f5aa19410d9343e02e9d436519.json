@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a 3D rendered model of a contemporary lounge chair. It features a beautifully crafted light brown wooden frame with a distinctive, curved silhouette that forms the armrests and backrest, comprising multiple elegant vertical spindles. The chair is fitted with plush, ribbed blue fabric cushions for the seat and back, providing a comfortable and inviting look. A cylindrical brown cushion is placed at the top, likely intended for lumbar or neck support. The chair stands on four sturdy, splayed wooden legs, complementing its modern and natural aesthetic. The design combines functionality with a sophisticated, relaxed style.",
+    "color": [
+        "light brown",
+        "blue",
+        "brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "relaxing",
+    "dimensions": {
+        "width": 0.575,
+        "height": 0.627,
+        "length": 0.461,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "This is a tall, integrated desk and shelving unit crafted from light-toned wood. The design features a sturdy desk surface with two shallow drawers directly underneath. Above the desk, there are three open shelves supported by the same wooden frame, providing ample storage or display space. The unit has clean, straight lines and a simple, functional aesthetic, making it suitable for various contemporary interiors. The wood grain is visible, adding a natural texture to the piece.",
+    "color": [
+        "light brown"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "home office",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.8,
+        "height": 1.8,
+        "length": 0.44,
+        "unit": "meters"
+    }
+}

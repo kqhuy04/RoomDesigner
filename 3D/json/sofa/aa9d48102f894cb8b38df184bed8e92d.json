@@ -1,0 +1,24 @@
+{
+    "object": "sofa",
+    "description": "This is a 3D model preview of a sofa with a light-colored cushion and a wooden frame. The frame features a slatted design on the armrests and sides, with a woven or textured panel on the lower front section. The sofa appears to be designed for a living room or lounge area, offering seating for multiple people. The overall aesthetic is simple and functional, with a slightly rustic or natural feel due to the prominent wood.",
+    "color": [
+        "white",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 1.097,
+        "height": 0.376,
+        "length": 0.372,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "This is a modern two-seater sofa presented against a dark grey background. The sofa features a sleek, low-profile design with clean lines and sturdy, wide armrests. It is upholstered in a light grey fabric with a subtle texture, likely a woven material like linen or a similar blend. The seating area consists of two separate cushions, and the backrest is also divided into two sections, maintaining symmetry. Two darker grey throw pillows are placed on the left side, adding a touch of visual interest and comfort. The sofa is slightly elevated by small, discreet feet, contributing to its minimalist aesthetic. Its neutral color palette and unfussy design make it versatile for various interior settings.",
+    "color": [
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.512,
+        "height": 0.751,
+        "length": 0.995,
+        "unit": "meters"
+    }
+}

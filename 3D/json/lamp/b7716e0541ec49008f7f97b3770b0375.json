@@ -1,0 +1,23 @@
+{
+    "object": "lamp",
+    "description": "This is a 3D model of a white, multi-arm chandelier, presented against a plain light grey background. The chandelier features a central stem extending down from a ceiling mount via a chain. Six elegantly curved arms branch out from the central body, each terminating in an inverted bell-shaped lampshade. Decorative elements, possibly resembling crystal drops or ornate carvings, adorn the structure below the shades and at the bottom center. The design is ornate and classic, showcasing intricate details in a monochromatic white finish, emphasizing its form and structure.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "diningroom",
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": "metal",
+    "usage": "lighting",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.959,
+        "height": 1.123,
+        "length": 0.763,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This 3D model showcases two cylindrical ottomans. The ottoman on the left is a solid white with a textured surface, resembling a pebbled leather or a similar synthetic material. It has a smooth, rounded shape that tapers slightly towards the top. The ottoman on the right features a distinct striped pattern of alternating wide bands of light beige or off-white and a medium grey. The fabric appears to have a visible weave, suggesting a natural material like linen or cotton. Both ottomans have a small black tag or handle extending from the top rim.",
+    "color": [
+        "white",
+        "grey",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "nursery"
+    ],
+    "style": "contemporary",
+    "material": [
+        "fabric",
+        "synthetic material"
+    ],
+    "usage": "functional",
+    "mood": "casual",
+    "dimensions": {
+        "width": 0.964,
+        "height": 0.505,
+        "length": 0.564,
+        "unit": "meters"
+    }
+}

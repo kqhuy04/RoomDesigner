@@ -1,0 +1,21 @@
+{
+    "object": "rack",
+    "description": "A two-tiered dish rack designed for efficient drying and organization of kitchenware. The top tier features vertical slots for plates, holding them upright to facilitate water drainage. The bottom tier offers a larger, flatter surface, ideal for cups, bowls, and other larger items. The rack is constructed from a sturdy metal frame with a sleek black finish, providing durability and a modern aesthetic. Its open design allows for ample airflow, promoting faster drying and preventing moisture buildup. The rack is compact yet spacious, suitable for most standard kitchen countertops.",
+    "color": [
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.41,
+        "height": 0.31,
+        "length": 0.26,
+        "unit": "meters"
+    }
+}

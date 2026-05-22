@@ -1,0 +1,29 @@
+{
+    "object": "light",
+    "description": "A whimsical pendant light fixture featuring a teal ceiling canopy from which a thin yellow cord suspends. The cord connects to a light purple, bell-shaped top. Below this, a striking cage-like structure made of curved purple bands forms a spherical shape. Within this open cage, three pale blue, orb-like elements are suspended, adding a playful and ethereal quality to the design. The overall aesthetic suggests a modern, artistic, and perhaps even fantastical interpretation of a lighting fixture, likely intended to be a focal point in a room.",
+    "color": [
+        "teal",
+        "yellow",
+        "purple",
+        "pale blue"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "nursery",
+        "playroom"
+    ],
+    "style": "contemporary",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional, decorative",
+    "mood": "playful, whimsical, modern",
+    "dimensions": {
+        "width": 0.406,
+        "height": 0.958,
+        "length": 0.392,
+        "unit": "meters"
+    }
+}

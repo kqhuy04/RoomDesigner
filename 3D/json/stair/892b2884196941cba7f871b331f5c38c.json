@@ -1,0 +1,31 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a spiral staircase with a modern, minimalist design. The staircase features a light wooden construction for the steps, creating a warm and inviting aesthetic. It appears to be enclosed within a transparent, glass-like structure, suggesting an indoor or semi-outdoor installation, possibly in a contemporary architectural setting. A single, thin, light-colored pole stands vertically in the center of the upper platform, potentially serving as a structural element or a decorative accent. The overall presentation is clean and geometric, emphasizing functionality and a sleek visual appeal. The base is a flat, grey surface, which could represent the ground or a floor.",
+    "color": [
+        "grey",
+        "white",
+        "transparent",
+        "light brown",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "atrium",
+        "modern house",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.509,
+        "height": 1.887,
+        "length": 2.285,
+        "unit": "meters"
+    }
+}

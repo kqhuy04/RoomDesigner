@@ -1,0 +1,24 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model preview of a simple, modern staircase. It features a clean, minimalist design with four distinct steps. The steps are rectangular and appear to be of equal height and depth, creating a uniform ascent. The overall impression is one of functionality and simplicity, suitable for various architectural styles. The edges are sharp and well-defined, suggesting a precise construction. The model is rendered with soft lighting that creates subtle shadows, giving it a sense of depth and form.",
+    "color": [
+        "white",
+        "blue",
+        "purple"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "landing",
+        "attic"
+    ],
+    "style": "modern",
+    "material": "concrete",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.379,
+        "height": 1.269,
+        "length": 2.0,
+        "unit": "meters"
+    }
+}

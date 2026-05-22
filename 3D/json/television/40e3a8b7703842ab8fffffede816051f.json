@@ -1,0 +1,24 @@
+{
+    "object": "television",
+    "description": "A minimalist, low-polygon 3D model of a flat-screen television. It features a dark gray bezel and a stand with a lighter gray base. The screen itself is a bright, pale blue, suggesting it is either on or displaying a light-colored image. The overall aesthetic is simple and clean, with sharp edges and flat surfaces characteristic of a voxel or low-poly art style. The lighting suggests a subtle shadow cast by the screen onto itself, adding a touch of depth. It's a modern and functional piece, suitable for various digital environments or as a stylized representation of technology.",
+    "color": [
+        "dark gray",
+        "pale blue",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.933,
+        "height": 0.8,
+        "length": 0.267,
+        "unit": "meters"
+    }
+}

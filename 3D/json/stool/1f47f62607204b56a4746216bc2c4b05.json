@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a round, plush ottoman with a distinctive segmented design, reminiscent of a pumpkin or a melon. The fabric is upholstered in a soft, light green color with thin, vertical white stripes, creating a subtle textured appearance. The segmentation is achieved through stitching that divides the surface into multiple panels, converging at the top and bottom, giving it a decorative and inviting look. It appears to be made of a soft, cushioned material suitable for resting feet or as extra seating.",
+    "color": [
+        "light green",
+        "white"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "nursery",
+        "family room"
+    ],
+    "style": "contemporary",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.137,
+        "height": 0.497,
+        "length": 1.139,
+        "unit": "meters"
+    }
+}

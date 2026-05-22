@@ -1,0 +1,28 @@
+{
+    "object": "lamp",
+    "description": "A tall, slender street lamp with a classic design, featuring a golden pole and a dual-light fixture at the top. The lamp heads are designed with transparent, possibly glass, covers, suggesting they house bulbs. The base of the lamp has a decorative, tiered structure, also in gold, and rests on a light grey circular platform. The overall aesthetic is simple and functional, suitable for illuminating outdoor spaces like streets, parks, or pathways. Its design appears to be a modern interpretation of traditional street lighting.",
+    "color": [
+        "gold",
+        "transparent",
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "pathway",
+        "park"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.3,
+        "height": 1.015,
+        "length": 0.141,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "A plush black leather ottoman with a tufted top and thick side panels, accented by prominent white stitching along the seams. The ottoman appears to be constructed in three stacked sections, creating a substantial and comfortable form. It rests on short, dark-colored legs that are barely visible beneath the lowest panel. The leather has a subtle sheen, suggesting a high-quality finish. The overall design is modern and somewhat minimalist, focusing on clean lines and rich texture. Its generous proportions indicate it's designed for comfort and could serve as a footrest, extra seating, or even a makeshift coffee table.",
+    "color": [
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "leather",
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.595,
+        "height": 0.537,
+        "length": 0.852,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "This 3D model depicts a modern table lamp, rendered in a uniform light grey. It features a simple cylindrical lampshade atop a slender central support pole that extends downwards to a circular, flat base. A distinctive feature of this lamp is the array of decorative elements dangling from the lower rim of the lampshade and around the upper part of the central pole. These ornaments consist of a variety of shapes including flat discs, open rings, and faceted or spherical beads, creating an ornamental and contemporary aesthetic. The rendering highlights the object's form through subtle shading, suggesting a smooth, matte finish.",
+    "color": [
+        "light grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.559,
+        "height": 1.253,
+        "length": 0.559,
+        "unit": "meters"
+    }
+}

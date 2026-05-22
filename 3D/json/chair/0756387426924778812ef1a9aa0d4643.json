@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "A modern office chair with a vibrant red seat and backrest. The chair features a sleek, minimalist design with a high back and a square seat. It is supported by a silver-toned, five-star base with wheels, typical of an office or desk chair. The seat has a slightly rounded front edge. The overall aesthetic is clean and functional, suitable for a contemporary workspace or home office.",
+    "color": [
+        "red",
+        "silver",
+        "gray"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 1.954,
+        "height": 1.96,
+        "length": 3.367,
+        "unit": "meters"
+    }
+}

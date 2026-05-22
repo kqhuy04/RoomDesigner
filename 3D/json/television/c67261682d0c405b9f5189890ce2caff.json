@@ -1,0 +1,34 @@
+{
+    "object": "television",
+    "description": "This 3D model depicts a vintage or retro television set, characterized by its reddish-brown wooden casing with a distinct grain texture. The front panel features a prominent yellowish-gold trim that frames the dark, rectangular screen, which appears dusty and scratched, suggesting age or disuse. Below the screen, there is a greenish speaker grille with a perforated pattern, flanked by two circular control knobs and a central rectangular push-button or lever mechanism, all accented with the same yellowish-gold. The unit stands on four small, light-colored feet, contributing to its classic mid-century aesthetic. The overall design evokes a sense of nostalgia and antique charm.",
+    "color": [
+        "reddish-brown",
+        "yellow",
+        "gold",
+        "dark green",
+        "black",
+        "light gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "den",
+        "gameroom"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "metal",
+        "glass",
+        "plastic"
+    ],
+    "usage": "decorative",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 4.043,
+        "height": 3.347,
+        "length": 3.277,
+        "unit": "meters"
+    }
+}

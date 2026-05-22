@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "A vintage, slightly worn armchair is the focal point of this scene. Upholstered in a muted blue fabric, it features classic wingback styling with elegant, carved wooden legs. The fabric appears faded and perhaps a little torn in places, suggesting it has seen many years of use. A small, plump green pillow rests on the floor beside it, adding a touch of color and comfort. The chair is situated on a rough, wooden platform, with a tall, distressed lampshade standing nearby, casting a soft glow that contributes to the room's cozy, albeit somewhat neglected, atmosphere. The overall impression is one of comfortable obsolescence and a rich history.",
+    "color": [
+        "blue",
+        "brown",
+        "green",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "vintage",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "cozy, nostalgic",
+    "dimensions": {
+        "width": 4.361,
+        "height": 1.219,
+        "length": 2.711,
+        "unit": "meters"
+    }
+}

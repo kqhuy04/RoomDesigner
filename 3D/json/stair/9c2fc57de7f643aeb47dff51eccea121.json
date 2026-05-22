@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a three-story structure resembling a modern stair tower or observation deck. It features a minimalist, geometric design with transparent walls, allowing visibility into the interior. Each level is accessed by a sleek wooden staircase that curves around the central space. The top level has an open-air platform with a simple railing, suggesting it could be used for viewing or as an outdoor space. The entire structure sits on a grid-patterned base, adding a contemporary architectural element. The overall impression is one of clean lines and functional design, suitable for a variety of modern settings.",
+    "color": [
+        "gray",
+        "white",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "balcony",
+        "patio"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 3.496,
+        "height": 1.994,
+        "length": 3.042,
+        "unit": "meters"
+    }
+}

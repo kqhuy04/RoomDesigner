@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "This is a sleek, modern television set with a large, flat screen, presented at an angle against a dark background. The screen displays a high-contrast promotional image featuring metallic silver headphones on the left and a glowing, metallic gold 'SONY' logo on the right, accompanied by swirling light effects and subtle geometric patterns. The television has thin bezels, suggesting a contemporary design, and is supported by minimalist stands – a pair of small, silver-colored feet on the left and a darker, angular foot on the right. The overall aesthetic emphasizes premium visual and audio technology.",
+    "color": [
+        "black",
+        "dark gray",
+        "silver",
+        "gold",
+        "bronze"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "media room",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "sleek",
+    "dimensions": {
+        "width": 1.232,
+        "height": 0.776,
+        "length": 0.26,
+        "unit": "meters"
+    }
+}

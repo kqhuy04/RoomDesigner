@@ -1,0 +1,23 @@
+{
+    "object": "curtain",
+    "description": "The image displays a single, full-length curtain rendered in a very light, pale lavender color against a dark grey background. The curtain features a series of vertical pleats, evenly spaced across its width, indicating it's gathered tightly at the top. These pleats create a uniform, undulating texture that runs consistently from the top hem down to the bottom. The bottom edge of the curtain shows a gentle, wavy curve, characteristic of a soft fabric gracefully draped. The overall presentation is that of a simple, versatile curtain design, suitable for various interior contexts. Its clean lines and singular color suggest a design that could easily blend into modern, minimalist, or classic decor schemes, offering both aesthetic appeal and practical functionality for window dressing.",
+    "color": [
+        "light purple"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "dining room",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.837,
+        "height": 3.053,
+        "length": 0.246,
+        "unit": "meters"
+    }
+}

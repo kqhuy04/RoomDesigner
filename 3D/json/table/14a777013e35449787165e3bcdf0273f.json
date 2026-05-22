@@ -1,0 +1,30 @@
+{
+    "object": "table",
+    "description": "A decorative table lamp with a bright green lampshade. The lampshade has a scalloped edge with a coral trim and is adorned with dangling pink beads. The lamp base is made of ornate, swirling golden metalwork, featuring intricate scroll designs. Two light blue, teardrop-shaped crystals hang from the metalwork, adding a touch of elegance. The base of the lamp is also golden and embellished with decorative cutouts and floral motifs. The overall design is whimsical and ornate, suggesting a playful yet sophisticated aesthetic.",
+    "color": [
+        "green",
+        "yellow",
+        "pink",
+        "orange",
+        "blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "powder room"
+    ],
+    "style": "ornate",
+    "material": [
+        "metal",
+        "fabric",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "whimsical",
+    "dimensions": {
+        "width": 0.411,
+        "height": 0.748,
+        "length": 0.416,
+        "unit": "meters"
+    }
+}

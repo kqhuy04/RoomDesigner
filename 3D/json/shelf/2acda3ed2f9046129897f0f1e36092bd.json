@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "A tall, dark wood bookshelf with four open shelves. The bookshelf has a simple, modern design with clean lines and a dark, rich wood grain finish. The shelves are evenly spaced, providing ample storage for books, decorative items, or other belongings. The overall appearance is sleek and functional, fitting well into various interior design schemes.",
+    "color": [
+        "brown",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.493,
+        "height": 2.239,
+        "length": 0.47,
+        "unit": "meters"
+    }
+}

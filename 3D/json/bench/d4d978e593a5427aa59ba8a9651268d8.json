@@ -1,0 +1,28 @@
+{
+    "object": "bench",
+    "description": "This is a rustic and sturdy wooden bench featuring a long backrest and a flat seat. The wood has a distressed, dark brown finish with visible grain and scratches, giving it an aged appearance. Integrated into the seat are five U-shaped metal bars, angled slightly upwards, which could serve as dividers or hangers. The bench stands on thick wooden legs reinforced with simple metal brackets at the base, suggesting it is designed for stability and possibly permanent installation. The overall design is utilitarian and durable.",
+    "color": [
+        "brown",
+        "grey",
+        "silver"
+    ],
+    "appropriate_room": [
+        "waiting_room",
+        "locker_room",
+        "public_space",
+        "mudroom"
+    ],
+    "style": "industrial",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "sturdy",
+    "dimensions": {
+        "width": 4.975,
+        "height": 1.312,
+        "length": 1.016,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model of a rustic swing, suspended by thick ropes. The swing seat itself appears to be made from aged, weathered wood, forming a curved, elongated surface. A faded, red and white plaid cloth is draped across the seat, suggesting use or perhaps protection from the elements. The wood has a rough texture with visible grain and some discoloration, hinting at outdoor exposure. The ropes are thick and twisted, adding to the sturdy, traditional feel of the swing. The overall impression is one of simple, natural construction, perhaps for a garden or a more primitive setting.",
+    "color": [
+        "brown",
+        "red",
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "garden",
+        "outdoor",
+        "patio"
+    ],
+    "style": "rustic",
+    "material": [
+        "wood",
+        "rope",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 3.076,
+        "height": 3.6,
+        "length": 1.451,
+        "unit": "meters"
+    }
+}

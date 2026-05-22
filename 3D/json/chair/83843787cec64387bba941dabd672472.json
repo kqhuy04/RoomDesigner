@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a minimalist, blocky wooden chair. It has a cuboid seat and a similarly shaped backrest, supported by sturdy block legs. The design is very geometric and reminiscent of early 3D modeling or pixel art. The wood texture is visible, giving it a natural feel, but the overall aesthetic is stark and simplified. The chair appears to be rendered with a slight grain texture that emphasizes the wood material. It's a simple, functional piece of furniture with a modern, albeit primitive, design.",
+    "color": [
+        "light brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.512,
+        "height": 1.009,
+        "length": 0.445,
+        "unit": "meters"
+    }
+}

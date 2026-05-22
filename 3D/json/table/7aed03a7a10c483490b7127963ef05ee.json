@@ -1,0 +1,22 @@
+{
+    "object": "table",
+    "description": "This is a minimalist nightstand with a simple design. It features a single drawer with a handle and an open shelf below. The structure is clean and geometric, appearing to be made of a smooth, opaque material. The drawer is slightly pulled out, revealing its interior. The nightstand stands on four short legs. Its overall aesthetic is modern and functional, suitable for contemporary bedroom decor.",
+    "color": [
+        "white",
+        "light blue"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.768,
+        "height": 0.792,
+        "length": 0.837,
+        "unit": "meters"
+    }
+}

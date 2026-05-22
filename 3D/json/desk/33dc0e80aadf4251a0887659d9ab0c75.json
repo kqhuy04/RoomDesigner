@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "This is a modular wooden desk and shelving unit designed for an office or study. The desk features a curved L-shaped countertop supported by sleek metal legs, offering ample workspace. Attached to the desk are several open shelving units of varying heights and widths, providing extensive storage for books, files, and decorative items. One of the shelving units includes a small cabinet with a door, adding a concealed storage option. The warm wood tone and clean lines give it a functional yet stylish appearance suitable for a home office or a professional workspace.",
+    "color": [
+        "brown",
+        "wood grain"
+    ],
+    "appropriate_room": [
+        "study",
+        "office",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "wood, metal",
+    "usage": "storage, functional",
+    "mood": "organized, functional",
+    "dimensions": {
+        "width": 4.813,
+        "height": 1.963,
+        "length": 2.57,
+        "unit": "meters"
+    }
+}

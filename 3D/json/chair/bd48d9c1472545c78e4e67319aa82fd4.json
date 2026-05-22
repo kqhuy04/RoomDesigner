@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is an armless accent chair featuring a unique, organic design. The backrest is gently curved, providing support on one side and a more open feel on the other. The seat is circular and softly cushioned, upholstered in a light grey fabric with a subtle texture. The chair is supported by three slender, cylindrical legs in a polished golden-yellow finish, adding a touch of contemporary elegance to its minimalist form.",
+    "color": [
+        "light grey",
+        "gold"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.574,
+        "height": 0.516,
+        "length": 0.569,
+        "unit": "meters"
+    }
+}

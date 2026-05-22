@@ -1,0 +1,22 @@
+{
+    "object": "bed",
+    "description": "This is a 3D model preview of a bed, presented against a black background. The bed is made up with a pillow and sheets. The bedding appears to be a light color, possibly white or a pale gray, with a subtle sheen that suggests a smooth fabric like satin or silk. The pillow is generously filled and slightly rumpled, indicating it's been used or is meant to look inviting. The sheets are neatly folded and cover a mattress. Beneath the pillow and sheets, a darker, textured blanket or comforter is visible, adding depth and contrast to the setup. The overall presentation is simple, focusing on the textures and forms of the bedding itself.",
+    "color": [
+        "white",
+        "gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.951,
+        "height": 0.256,
+        "length": 0.867,
+        "unit": "meters"
+    }
+}

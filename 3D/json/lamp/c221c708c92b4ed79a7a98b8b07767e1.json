@@ -1,0 +1,29 @@
+{
+    "object": "lamp",
+    "description": "This image displays a collection of 3D models of various lamps, arranged in a row against a dark grey background. On the far left is a standard white articulated desk lamp with a round base and a flared shade. Following it are several variations of articulated desk lamps primarily in blue with bright yellow accents on their springs and joints; one is dynamically posed in a whimsical, creature-like manner. A smaller, simpler blue desk lamp is also present. The final and largest object on the far right is a tall, blue tripod floor lamp featuring a large, spherical yellow shade and subtle red chain details connecting its legs. The models have a clean, stylized, and somewhat cartoonish aesthetic, ideal for animation or a playful environment.",
+    "color": [
+        "blue",
+        "yellow",
+        "white",
+        "red"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "office",
+        "livingroom",
+        "studio"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 3.749,
+        "height": 0.966,
+        "length": 0.524,
+        "unit": "meters"
+    }
+}

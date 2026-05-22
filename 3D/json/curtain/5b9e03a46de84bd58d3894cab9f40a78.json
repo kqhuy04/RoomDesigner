@@ -1,0 +1,27 @@
+{
+    "object": "curtain",
+    "description": "This is a 3D model of a white window with a grid of panes and a white windowsill. Two curtains, made of a light-colored fabric with a repeating pattern of green leaves, hang from a dark brown curtain rod. The curtains are slightly gathered and extend down to the windowsill. The window is designed in a classic style, suitable for various interior settings. The lighting suggests a soft, natural illumination, casting subtle shadows. The overall impression is one of simplicity and a touch of nature brought indoors through the leaf pattern.",
+    "color": [
+        "white",
+        "green",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "classic",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.068,
+        "height": 0.69,
+        "length": 0.549,
+        "unit": "meters"
+    }
+}

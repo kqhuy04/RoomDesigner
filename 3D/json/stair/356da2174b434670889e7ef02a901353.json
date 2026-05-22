@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a modern staircase with a unique design. It appears to be an indoor staircase, possibly leading to a mezzanine or upper level. The staircase features a curved or spiral design, with steps that are yellow and green, possibly representing different materials or a decorative element. It is enclosed within a transparent or semi-transparent structure, suggesting a contemporary architectural style. The overall aesthetic is minimalist and clean, with a focus on form and function. The staircase is elevated from a grey base, with a larger grey platform surrounding it.",
+    "color": [
+        "grey",
+        "yellow",
+        "green",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "loft"
+    ],
+    "style": "modern",
+    "material": [
+        "glass",
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.914,
+        "height": 1.56,
+        "length": 2.493,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "cabinet",
+    "description": "This image displays a 3D model of a light wood cabinet, likely an upper kitchen or wall cabinet, presented against a plain light gray background. The cabinet features two front-facing doors, each adorned with a decorative arched panel design carved into its surface, suggesting a traditional or classic style. Each door is equipped with a handle, appearing white with a contrasting reddish-brown grip section. The wood grain is visible, giving the cabinet a natural and warm appearance. The overall aesthetic is functional and understated, suitable for various home settings requiring organized storage.",
+    "color": [
+        "light brown",
+        "white",
+        "reddish-brown"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "bathroom",
+        "utilityroom"
+    ],
+    "style": "traditional",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 2.056,
+        "height": 1.827,
+        "length": 1.197,
+        "unit": "meters"
+    }
+}

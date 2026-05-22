@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model preview showcases an elegant curved staircase, designed to be a focal point in a home or commercial space. The structure features warm brown wooden treads with a smooth, polished finish, complemented by a matching curved wooden handrail that flows gracefully along the ascending path. The balustrade consists of sleek black metal balusters, interspersed with decorative twisted cage elements, adding a touch of classic sophistication. A prominent newel post anchors the start of the staircase, echoing the design of the balusters. The white risers and stringers provide a clean contrast to the darker wood and metal. The overall design blends traditional craftsmanship with modern aesthetics, making it suitable for upscale interiors. The 'VONKA STAIRS' branding on the adjacent wall indicates this is a product demonstration.",
+    "color": [
+        "brown",
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "foyer",
+        "entryway",
+        "hallway",
+        "living room"
+    ],
+    "style": "transitional",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.308,
+        "height": 1.586,
+        "length": 2.81,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A white, hexagonal pendant light with a classic design. It hangs from a ceiling fixture by a chain. The light has a faceted, geometric shade that tapers downwards, topped by a decorative finial. The overall aesthetic suggests a traditional or vintage style, suitable for adding a touch of elegance to a room. The material appears to be metal, possibly painted or coated in white. The simplicity of the form and the monochrome color scheme lend it a versatile quality, allowing it to blend with various interior design themes while serving as a functional lighting element and a decorative accent.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "classic",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.492,
+        "height": 1.122,
+        "length": 0.47,
+        "unit": "meters"
+    }
+}

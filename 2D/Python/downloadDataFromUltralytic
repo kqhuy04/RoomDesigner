@@ -1,0 +1,9 @@
+import asyncio
+from ultralytics.data.converter import convert_ndjson_to_yolo
+
+async def download_dataset():
+    # Replace with the path to your downloaded .ndjson file
+    yaml_path = await convert_ndjson_to_yolo("furniture-4.ndjson")
+    print(f"Dataset ready at: {yaml_path}")
+
+asyncio.run(download_dataset())

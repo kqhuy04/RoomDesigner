@@ -1,0 +1,29 @@
+{
+    "object": "desk",
+    "description": "This is a modern, minimalist home office desk setup. The desk itself is white with thin, metallic legs, suggesting a contemporary and clean aesthetic. It features a large curved monitor displaying a colorful chart, a closed laptop, and a sleek desk lamp. To the right of the desk, a rolling set of three drawers provides storage. An ergonomic office chair in a light gray color is positioned in front of the desk, completing the functional workspace. The entire setup is placed on a white platform, casting subtle shadows, and is presented against a neutral gray background, emphasizing its clean lines and functional design.",
+    "color": [
+        "white",
+        "gray",
+        "blue",
+        "green"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.978,
+        "height": 1.412,
+        "length": 1.978,
+        "unit": "meters"
+    }
+}

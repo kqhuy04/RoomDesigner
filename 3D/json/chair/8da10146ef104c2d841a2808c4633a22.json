@@ -1,0 +1,32 @@
+{
+    "object": "chair",
+    "description": "This is a minimalist workspace setup featuring a white floating desk mounted on a light grey wall. Two thin, olive-green cables extend from the wall, supporting the desk and possibly a mounted light fixture above it. On the desk, a black desk lamp with a flexible neck stands to the left, next to two stacked books (one blue, one green). A laptop is also visible. To the right of the desk, a simple brown and metallic chair with a modern design is positioned, appearing ready for use. The overall presentation is clean and uncluttered, with a significant shadow cast by the desk and chair onto the floor, suggesting a light source from above and slightly to the right.",
+    "color": [
+        "white",
+        "grey",
+        "brown",
+        "black",
+        "green",
+        "blue",
+        "olive"
+    ],
+    "appropriate_room": [
+        "home office",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.192,
+        "height": 0.483,
+        "length": 0.613,
+        "unit": "meters"
+    }
+}

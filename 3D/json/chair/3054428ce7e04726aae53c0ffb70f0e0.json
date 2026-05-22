@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "A contemporary barrel chair upholstered in a textured grey fabric. The chair features a rounded silhouette with a deep, comfortable seat and a supportive back. It is adorned with a decorative throw pillow showcasing an abstract watercolor design with hues of blue, pink, and beige, resembling a serene landscape or ocean waves. The chair rests on a circular rug with a subtle striped pattern in earthy tones of green and beige, adding warmth and texture to the ensemble. The overall aesthetic suggests a cozy and stylish accent piece suitable for a variety of modern living spaces.",
+    "color": [
+        "gray",
+        "blue",
+        "pink",
+        "beige",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 4.505,
+        "height": 3.277,
+        "length": 4.445,
+        "unit": "meters"
+    }
+}

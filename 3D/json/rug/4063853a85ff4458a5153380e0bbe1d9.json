@@ -1,0 +1,27 @@
+{
+    "object": "rug",
+    "description": "This is a traditional Persian-style rug with a rich red base and intricate floral patterns in cream, gold, blue, and green. The central field is densely populated with stylized flowers and foliage, creating a classic and elegant look. It features a prominent border with a repeating motif, framing the central design. The rug appears to be made of wool or a similar natural fiber, giving it a soft texture and a luxurious feel. It's laid out on a paved stone surface, suggesting it might be used for outdoor decoration or to temporarily air out.",
+    "color": [
+        "red",
+        "cream",
+        "gold",
+        "blue",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "patio"
+    ],
+    "style": "Persian",
+    "material": "wool",
+    "usage": "decorative",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.888,
+        "height": 0.088,
+        "length": 0.582,
+        "unit": "meters"
+    }
+}

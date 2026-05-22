@@ -1,0 +1,25 @@
+{
+    "object": "light",
+    "description": "A modern pendant light with a unique, bulbous shade. The shade has a smooth, curved surface that tapers towards the top, connecting to a thin suspension wire. The material appears to be metallic with a subtle hammered or textured finish, giving it a touch of artisanal quality. The overall shape is reminiscent of a teardrop or a plump gourd, making it a visually interesting centerpiece for any room. The color is a muted, earthy tone, likely bronze or brushed copper, which lends a sophisticated and warm feel.",
+    "color": [
+        "bronze",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.967,
+        "height": 1.208,
+        "length": 0.967,
+        "unit": "meters"
+    }
+}

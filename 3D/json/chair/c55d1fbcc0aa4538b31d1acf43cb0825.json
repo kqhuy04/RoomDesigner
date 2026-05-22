@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This 3D model features a modern office chair with a sleek, minimalist design. The chair appears to be made from a highly polished, dark metallic or high-gloss plastic material, giving it a distinct metallic blue-black or deep teal color with prominent silver and white reflections. It has a high back, fixed armrests, and a sturdy five-star base with casters, indicating mobility. The overall aesthetic is very clean and contemporary, possibly leaning towards a futuristic look due to its shiny finish. The background is a soft-focus, cool-toned classroom or office setting, further highlighting the chair as the main subject.",
+    "color": [
+        "dark metallic blue",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "office",
+        "study",
+        "conference room",
+        "classroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "professional",
+    "dimensions": {
+        "width": 0.882,
+        "height": 1.446,
+        "length": 0.974,
+        "unit": "meters"
+    }
+}

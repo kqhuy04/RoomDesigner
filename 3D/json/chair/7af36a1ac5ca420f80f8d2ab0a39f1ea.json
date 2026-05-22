@@ -1,0 +1,24 @@
+{
+    "object": "chair",
+    "description": "A rustic set of outdoor furniture, featuring a long rectangular picnic table with attached benches and a separate, smaller square table with two chairs. The furniture is constructed from weathered wood, giving it a natural and sturdy appearance. The wood grain is prominent, and there are visible textures suggesting age and outdoor exposure. This set is ideal for casual outdoor dining, gatherings, or simply enjoying the ambiance of a park, backyard, or patio. The design is simple and functional, emphasizing durability and comfort for communal use.",
+    "color": [
+        "brown",
+        "tan"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "backyard",
+        "outdoor space"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.684,
+        "height": 0.22,
+        "length": 0.9,
+        "unit": "meters"
+    }
+}

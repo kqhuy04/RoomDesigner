@@ -1,0 +1,24 @@
+{
+    "object": "stool",
+    "description": "This is a tufted round ottoman with a plush upholstered top and a cylindrical body. The fabric has a subtle texture, giving it a cozy and inviting appearance. The top features a diamond tufting pattern, creating a sophisticated and classic look. The base of the ottoman is slightly recessed and appears to have small, discreet legs or a base structure that elevates it slightly from the floor. A thin, decorative trim or piping runs around the top edge of the cylindrical body, separating it from the tufted cushion. The overall design is elegant and versatile, suitable for various interior design styles.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "entryway",
+        "hallway"
+    ],
+    "style": "contemporary",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.511,
+        "height": 0.468,
+        "length": 0.511,
+        "unit": "meters"
+    }
+}

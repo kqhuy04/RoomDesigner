@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a stylized staircase that ascends within a concrete tower structure. The tower is topped with a lighter-colored, curved platform, upon which rests another, larger concrete block. The staircase itself features white railings and wooden steps, creating a contrast between the industrial feel of the concrete and the natural warmth of the wood. The entire structure is placed on a light wood-like floor. The design is abstract and minimalist, focusing on geometric shapes and contrasting textures.",
+    "color": [
+        "gray",
+        "white",
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "foyer",
+        "modern_architecture"
+    ],
+    "style": "minimalist",
+    "material": [
+        "concrete",
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 2.713,
+        "height": 1.515,
+        "length": 2.215,
+        "unit": "meters"
+    }
+}

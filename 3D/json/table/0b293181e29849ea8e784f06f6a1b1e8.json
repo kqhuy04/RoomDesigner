@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "A vintage-style table with a hexagonal top and an ornate, carved pedestal base. The table is a pale, distressed turquoise color with visible wood grain texture, suggesting an aged or weathered finish. On the tabletop, there are two chess pieces, one purple and one green, positioned near a small, light purple chess clock. The overall aesthetic evokes a sense of whimsical nostalgia, perhaps reminiscent of a dollhouse accessory or a decorative piece for a fantasy-themed room. The design is detailed and intricate, particularly in the sculpted stem of the pedestal, which features bulbous and fluted sections.",
+    "color": [
+        "turquoise",
+        "purple",
+        "green",
+        "light purple"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "playroom"
+    ],
+    "style": "vintage",
+    "material": "wood",
+    "usage": "decorative",
+    "mood": "whimsical",
+    "dimensions": {
+        "width": 2.018,
+        "height": 3.877,
+        "length": 2.018,
+        "unit": "meters"
+    }
+}

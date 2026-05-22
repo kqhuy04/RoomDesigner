@@ -1,0 +1,23 @@
+{
+    "object": "stool",
+    "description": "A sleek, modern black leather ottoman with a rectangular shape and plush cushioning. It features clean lines and prominent white stitching that outlines the top surface and the layered sections of the base. The ottoman stands on four short, angled legs that blend seamlessly with the overall design. Its sturdy construction and sophisticated appearance make it a versatile piece of furniture, suitable for adding comfort and style to various living spaces.",
+    "color": [
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den"
+    ],
+    "style": "modern",
+    "material": "leather",
+    "usage": "functional",
+    "mood": "sophisticated",
+    "dimensions": {
+        "width": 0.517,
+        "height": 0.468,
+        "length": 0.741,
+        "unit": "meters"
+    }
+}

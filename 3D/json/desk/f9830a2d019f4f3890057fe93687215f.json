@@ -1,0 +1,22 @@
+{
+    "object": "desk",
+    "description": "A white, modern-style desk lamp with a curved arm and a saucer-shaped shade. The lamp features a circular base with a small knob on top, and the arm is connected with adjustable joints, indicated by spherical elements. The shade houses a frosted bulb, suggesting it's designed to provide diffused lighting. The overall design is minimalist and clean, with smooth curves and a monochromatic finish. This lamp would be suitable for a workspace, study, or bedside table, offering functional illumination with a contemporary aesthetic.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "study",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.846,
+        "height": 0.895,
+        "length": 0.446,
+        "unit": "meters"
+    }
+}

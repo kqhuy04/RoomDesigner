@@ -1,0 +1,29 @@
+{
+    "object": "table",
+    "description": "A low-poly, stylized 3D model of a pool table with a blue playing surface and a golden-brown wooden frame. The corners of the table are accented with black bumpers. The table is supported by two simple, blocky legs on each side. The overall design is clean and geometric, suggesting a minimalist or game-oriented aesthetic. The lighting highlights the smooth surfaces and creates subtle reflections on the frame. This is a generic representation, not of a specific brand or model, and appears suitable for use in video games or 3D rendering projects.",
+    "color": [
+        "blue",
+        "goldenrod",
+        "black",
+        "brown",
+        "gray"
+    ],
+    "appropriate_room": [
+        "gameroom",
+        "basement",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "felt"
+    ],
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 1.52,
+        "height": 0.712,
+        "length": 2.808,
+        "unit": "meters"
+    }
+}

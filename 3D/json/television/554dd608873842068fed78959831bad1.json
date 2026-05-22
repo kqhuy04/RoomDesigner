@@ -1,0 +1,28 @@
+{
+    "object": "television",
+    "description": "A black TV remote control with a variety of buttons for operating a television. The buttons are arranged in a logical layout, with a numeric keypad at the top, followed by function buttons like volume, channel, and menu controls. There are also colored buttons (red, blue, green, yellow) and navigation controls. The remote has a sleek, ergonomic design and features branding at the bottom. It is a common electronic accessory used for interacting with television sets and related media devices.",
+    "color": [
+        "black",
+        "gray",
+        "white",
+        "red",
+        "blue",
+        "green",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "familyroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "functional",
+    "dimensions": {
+        "width": 0.419,
+        "height": 0.157,
+        "length": 1.676,
+        "unit": "meters"
+    }
+}

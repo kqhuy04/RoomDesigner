@@ -1,0 +1,23 @@
+{
+    "object": "table",
+    "description": "A white table lamp with a classic silhouette. The lampshade is conical, tapering towards the top. The base of the lamp features an ornate, spherical element with intricate embossed patterns, possibly floral or geometric in design. A delicate, stylized butterfly ornament is attached to the side of the lampshade, adding a whimsical and decorative touch. The overall design suggests a blend of traditional elegance and charming detail, making it suitable for various interior settings.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "hallway",
+        "study"
+    ],
+    "style": "classic",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 1.027,
+        "height": 1.91,
+        "length": 1.115,
+        "unit": "meters"
+    }
+}

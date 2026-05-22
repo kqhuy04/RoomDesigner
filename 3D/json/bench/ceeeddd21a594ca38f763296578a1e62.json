@@ -1,0 +1,22 @@
+{
+    "object": "bench",
+    "description": "This 3D model preview showcases two distinct, low-poly benches or low tables presented against a plain, neutral background. Both objects are rendered in a uniform, muted burnt orange or terracotta brown color, emphasizing their simple, geometric forms. The bench on the left features a long, rectangular top surface supported by two T-shaped legs, positioned centrally beneath the top. The bench on the right also has a rectangular top, but its support comes from two solid L-shaped leg structures at each end, creating a more solid, block-like appearance. The overall design is highly minimalist and functional, suggesting a contemporary aesthetic suitable for various modern interior settings. Their clean lines and understated color contribute to a sense of calm simplicity.",
+    "color": [
+        "burnt orange"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "hallway",
+        "bedroom"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 4.402,
+        "height": 0.605,
+        "length": 0.604,
+        "unit": "meters"
+    }
+}

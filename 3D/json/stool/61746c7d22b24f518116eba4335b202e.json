@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist stool featuring a uniquely shaped seat and slender legs. The seat has an irregular, somewhat trapezoidal form, with slightly rounded corners, and is colored a warm brown, reminiscent of natural wood or a rich leather. Supporting the seat are four thin, dark navy legs that splay outwards slightly from the base, providing a stable and modern foundation. The contrast between the organic shape of the seat and the sharp lines of the legs creates a visually interesting piece. This stool is designed with simplicity and functionality in mind, suitable for various contemporary settings.",
+    "color": [
+        "brown",
+        "navy blue"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "dining room",
+        "bar area",
+        "workspace"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.915,
+        "height": 2.74,
+        "length": 3.025,
+        "unit": "meters"
+    }
+}

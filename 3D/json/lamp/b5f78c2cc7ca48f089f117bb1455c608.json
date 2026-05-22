@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This 3D model showcases a classic-style hanging light fixture, resembling a chandelier or large pendant light. It features a wide, slightly tapered drum-shaped lampshade in a pristine white finish. A delicate, intricately patterned lace-like trim adorns the top edge of the lampshade, contributing to its elegant and vintage aesthetic. The fixture is suspended from a decorative, fluted ceiling mount by a sturdy chain, all rendered in a cohesive white or light gray tone. A small, ornamental finial hangs centrally inside the shade, connected to the chain, adding a refined detail. The overall design suggests a blend of traditional elegance with a touch of shabby chic charm, designed to provide ambient lighting while serving as a decorative focal point.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway",
+        "nursery"
+    ],
+    "style": "shabby chic",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 3.543,
+        "height": 3.834,
+        "length": 3.543,
+        "unit": "meters"
+    }
+}

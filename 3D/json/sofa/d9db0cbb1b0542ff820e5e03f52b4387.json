@@ -1,0 +1,33 @@
+{
+    "object": "sofa",
+    "description": "This image features a two-seater sofa upholstered in a fabric with a muted floral pattern, displaying shades of blue, pink, green, and cream. The sofa is placed on a dark blue or gray patterned rug. Behind it, there's a textured wall resembling rough stone or plaster in earthy brown tones, with a warm, golden light shining down and illuminating the central section directly behind the sofa. The overall scene creates a small, staged vignette for the furniture piece.",
+    "color": [
+        "blue",
+        "pink",
+        "green",
+        "cream",
+        "brown",
+        "gold",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "den"
+    ],
+    "style": "traditional",
+    "material": [
+        "fabric",
+        "wood",
+        "stone",
+        "textile"
+    ],
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 1.201,
+        "height": 0.875,
+        "length": 0.927,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "This is a visually striking chandelier with a modern, somewhat retro aesthetic. It features a central vertical pole, likely made of metal, from which a circular frame extends. Attached to this frame are six cylindrical lampshades, all of which are a vibrant green color. The lampshades are oriented vertically and appear to be open at the top and bottom. Subtle hints of pink are visible in the circular frame, suggesting a unique color combination. The overall design suggests a playful yet sophisticated lighting fixture, likely intended to be a focal point in a room.",
+    "color": [
+        "green",
+        "pink",
+        "light green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "metal",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.621,
+        "height": 0.47,
+        "length": 0.569,
+        "unit": "meters"
+    }
+}

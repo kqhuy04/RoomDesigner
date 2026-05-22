@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A sleek, modern cantilever chair with a smooth, matte grey finish. The seat and back are seamlessly molded into a single, flowing piece, providing a comfortable and minimalist design. The chair is supported by a single, continuous frame that forms the legs, creating an elegant cantilever effect. This design is both visually striking and functional, offering a clean aesthetic that would fit well in contemporary spaces.",
+    "color": [
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "office",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": "plastic",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.943,
+        "height": 4.724,
+        "length": 3.104,
+        "unit": "meters"
+    }
+}

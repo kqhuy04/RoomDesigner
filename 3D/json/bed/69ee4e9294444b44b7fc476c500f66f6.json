@@ -1,0 +1,27 @@
+{
+    "object": "bed",
+    "description": "This is a modern bed with a wooden frame and a tufted mattress. The frame is made of light-colored wood with a subtle grain pattern. The headboard is tall and wraps around to the sides, creating a cozy enclosure. The mattress is thick and appears to be upholstered in a light gray fabric with a grid-like pattern, suggesting it might be tufted or quilted. The overall design is minimalist and clean, focusing on simple shapes and natural materials. The bed appears to be designed for a single person, possibly a daybed or a twin-sized bed.",
+    "color": [
+        "light brown",
+        "gray",
+        "beige"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom",
+        "guest room"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.827,
+        "height": 0.642,
+        "length": 1.588,
+        "unit": "meters"
+    }
+}

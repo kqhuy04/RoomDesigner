@@ -1,0 +1,26 @@
+{
+    "object": "stool",
+    "description": "A wooden stool with a floral cushion. The stool has a square base constructed from horizontal and vertical wooden planks, creating an open, slatted design. The wood appears to be painted white. The top of the stool is a cushioned seat covered in a fabric featuring a floral pattern with shades of pink, purple, and green on a white background. The design is simple and rustic, with visible screws holding the wooden components together. The overall appearance is charming and slightly vintage, suitable for adding a touch of comfort and style to a room.",
+    "color": [
+        "white",
+        "pink",
+        "purple",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "entryway"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.455,
+        "height": 0.539,
+        "length": 0.453,
+        "unit": "meters"
+    }
+}

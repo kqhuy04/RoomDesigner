@@ -1,0 +1,27 @@
+{
+    "object": "lamp",
+    "description": "A white chandelier with a spiraling tiered design. The main body of the chandelier is composed of multiple circular frames stacked vertically, creating a layered effect. Attached to these frames are numerous small, oval-shaped decorative elements that appear to be clear or translucent, giving the chandelier a delicate and airy appearance. A braided cord or chain hangs from a ceiling canopy and connects to the top of the chandelier. The overall design is intricate and modern, suggesting it would cast interesting light patterns when illuminated.",
+    "color": [
+        "white",
+        "transparent"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "acrylic"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.509,
+        "height": 0.826,
+        "length": 0.509,
+        "unit": "meters"
+    }
+}

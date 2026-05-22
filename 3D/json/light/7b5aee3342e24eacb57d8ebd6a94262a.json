@@ -1,0 +1,29 @@
+{
+    "object": "light",
+    "description": "This is a preview of a 3D model of a stage lighting setup. It appears to be a series of lights mounted on a truss or frame, with a distinctive pink or magenta glow emanating from some of them. The lights are positioned to illuminate a stage or performance area. The overall impression is of a dynamic and vibrant lighting design, likely intended for concerts, theatrical productions, or other live events. The detail suggests it could be a standalone unit or part of a larger stage rigging system. The model seems to capture the essential form and function of professional stage lighting.",
+    "color": [
+        "pink",
+        "magenta",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "stage",
+        "event venue",
+        "performance hall",
+        "studio"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 0.57,
+        "height": 0.324,
+        "length": 1.083,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "object": "stool",
+    "description": "This is a simple, modern stool with a round, teal-colored seat and three slender, dark legs. The stool appears to be made of metal for the legs and possibly a durable plastic or composite material for the seat. Its minimalist design suggests it's meant for functional use, providing a convenient seating option in various settings. The clean lines and understated color palette give it a contemporary feel, making it versatile enough to blend with different decor styles.",
+    "color": [
+        "teal",
+        "black"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "bar",
+        "livingroom",
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.976,
+        "height": 1.028,
+        "length": 0.976,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "A simple and elegant round wooden table with three sturdy legs. The tabletop is crafted from light-colored wood with visible grain, giving it a natural and warm feel. The legs are a contrasting, slightly darker orange-brown hue, providing a stable base and a touch of color. The overall design is minimalist and functional, making it suitable for various settings. Its compact size suggests it could be used as an accent piece, a side table, or a small display surface.",
+    "color": [
+        "light brown",
+        "orange-brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "kitchen"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.597,
+        "height": 0.76,
+        "length": 0.597,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "object": "cabinet",
+    "description": "This is a modern and elegant display cabinet featuring a sturdy, rectangular golden metal frame. It comprises four levels; the top three levels are fitted with clear glass shelves, perfect for showcasing decorative items, collectibles, or retail merchandise, allowing light to pass through and enhancing visibility. The bottom section includes a solid white display platform, beneath which are two dark brown drawers, each adorned with a small golden knob, providing discreet storage. The sleek design, combined with the reflective gold and transparent glass, gives it a luxurious and sophisticated appearance, making it suitable for various contemporary interior settings. Its tall structure makes it a prominent piece for both functional display and aesthetic enhancement.",
+    "color": [
+        "gold",
+        "transparent",
+        "white",
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "retail store",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "glass",
+        "wood"
+    ],
+    "usage": "display",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.313,
+        "height": 0.868,
+        "length": 0.615,
+        "unit": "meters"
+    }
+}

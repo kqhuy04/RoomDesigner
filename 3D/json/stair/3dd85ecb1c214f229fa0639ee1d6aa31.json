@@ -1,0 +1,26 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a set of outdoor stairs leading up to a platform, with a railing on the platform and a single vertical post. The stairs are constructed from wooden planks with a golden hue, suggesting they might be made of oak or a similar warm-toned wood. The steps are evenly spaced and appear to be sturdy, designed for safe ascent and descent. The platform itself is a flat, grey surface, possibly concrete or stone, providing a stable area at the top of the stairs. A railing, also in a golden wood tone, surrounds a portion of the platform, offering support. A solitary grey post rises vertically from the platform, its purpose unclear but potentially for lighting or structural support. The entire structure is set on a larger grey, flat base, resembling a foundation or a paved area.",
+    "color": [
+        "gray",
+        "gold"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "garden",
+        "patio"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "concrete"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.211,
+        "height": 1.653,
+        "length": 2.747,
+        "unit": "meters"
+    }
+}

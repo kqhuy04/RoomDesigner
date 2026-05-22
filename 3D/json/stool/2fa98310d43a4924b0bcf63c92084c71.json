@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "This is a minimalist white bar stool with a gently contoured seat designed for comfort. It features four tapered legs that angle outward for stability, connected by two horizontal braces that provide additional support and create a footrest. The simple, clean lines and absence of a backrest give it a modern and airy appearance. The entire stool is rendered in a smooth, matte white finish, making it versatile and easy to integrate into various decor styles. Its design prioritizes functionality and a sleek aesthetic.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "dining room",
+        "bar"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.435,
+        "height": 1.34,
+        "length": 1.574,
+        "unit": "meters"
+    }
+}

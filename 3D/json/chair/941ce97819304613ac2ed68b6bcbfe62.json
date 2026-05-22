@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "This is a whimsical 3D model of a primitive swing set with a unique character. The swing itself is made from rough-hewn wooden logs, tied together with twine. Two upright posts support a crossbeam, from which two ropes hang, holding a simple wooden plank seat. Seated on the swing is a carved figure with a long, stylized face, prominent horns, and a gaping mouth. This character is depicted playing a small stringed instrument, resembling a ukulele or a guitar. The entire structure is set upon a circular wooden base covered with lush green grass, suggesting an outdoor or natural setting. The overall aesthetic is rustic and handcrafted, with a touch of the uncanny or folkloric.",
+    "color": [
+        "brown",
+        "green",
+        "gray",
+        "red"
+    ],
+    "appropriate_room": [
+        "garden",
+        "patio",
+        "playroom"
+    ],
+    "style": "folk art",
+    "material": "wood",
+    "usage": "decorative",
+    "mood": "quirky",
+    "dimensions": {
+        "width": 0.96,
+        "height": 0.836,
+        "length": 0.96,
+        "unit": "meters"
+    }
+}

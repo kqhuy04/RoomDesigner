@@ -1,0 +1,32 @@
+{
+    "object": "chair",
+    "description": "This image features a comfortable upholstered armchair with a light grey or off-white fabric, distinguished by its high back, subtly curved armrests, and dark brown wooden legs. The chair has a modern, yet timeless design. To its right, a small side table complements the setting, featuring two drawers with metallic pulls, a light grey or white finish, and slender, dark-colored legs with a slight curve. Perched on the table is a lamp with a bright yellow conical shade and a classic-style brass or gold-toned base, alongside a dark book. The overall arrangement suggests a cozy and functional reading or relaxation area.",
+    "color": [
+        "light grey",
+        "yellow",
+        "dark brown",
+        "white",
+        "metallic"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "study",
+        "reading room"
+    ],
+    "style": "transitional",
+    "material": [
+        "fabric",
+        "wood",
+        "metal",
+        "marble"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.893,
+        "height": 1.411,
+        "length": 1.386,
+        "unit": "meters"
+    }
+}

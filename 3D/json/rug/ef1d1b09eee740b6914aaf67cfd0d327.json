@@ -1,0 +1,29 @@
+{
+    "object": "rug",
+    "description": "This is a rectangular rug with a traditional geometric pattern. The primary color is a deep red, with intricate designs in darker reds, blues, blacks, and off-whites. The pattern features repeating octagonal motifs in the central field, surrounded by borders with various geometric elements like diamonds and zigzag lines. The rug has fringe on its short ends, which appears to be a light beige or cream color with hints of light blue or grey. The overall impression is one of rich detail and craftsmanship, typical of oriental or tribal rug designs. The lighting in the preview suggests a slightly textured surface, implying it's made of woven fibers.",
+    "color": [
+        "red",
+        "dark red",
+        "blue",
+        "black",
+        "off-white",
+        "beige",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "diningroom"
+    ],
+    "style": "traditional",
+    "material": "textile",
+    "usage": "functional, decorative",
+    "mood": "warm, intricate",
+    "dimensions": {
+        "width": 2.424,
+        "height": 0.011,
+        "length": 1.37,
+        "unit": "meters"
+    }
+}

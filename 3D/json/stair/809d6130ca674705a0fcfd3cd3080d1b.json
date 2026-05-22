@@ -1,0 +1,22 @@
+{
+    "object": "stair",
+    "description": "This is a white, multi-level staircase with railings. It appears to be an exterior staircase, possibly for a building or a balcony. The design is clean and modern, with sharp lines. The shadows suggest it is a 3D model rendered with lighting. It has multiple flights of stairs and landings, indicating it provides access to different elevated levels. The white color gives it a minimalist and clean aesthetic. The overall structure seems robust and functional, designed for safe passage between floors.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "exterior",
+        "balcony",
+        "building access"
+    ],
+    "style": "modern",
+    "material": "unknown",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.37,
+        "height": 2.47,
+        "length": 3.014,
+        "unit": "meters"
+    }
+}

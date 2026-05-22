@@ -1,0 +1,23 @@
+{
+    "object": "light",
+    "description": "A modern, minimalist pendant light with a sleek, cylindrical spotlight head. The light is suspended from a thin cable attached to a round ceiling canopy. The spotlight head is designed to be adjustable, allowing for directional lighting. Its white finish and simple form make it versatile for various interior design schemes, providing focused illumination for tasks or accent lighting.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.21,
+        "height": 0.927,
+        "length": 0.082,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "object": "table",
+    "description": "A low, octagonal-shaped table with a dark gray surface. The table has four slender, tapered wooden legs that splay slightly outwards, providing a stable base. The overall design is minimalist and modern, with clean lines and a simple form. It appears to be a side table or end table, suitable for placing next to a sofa or chair to hold drinks, books, or decorative items.",
+    "color": [
+        "dark gray",
+        "wood brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.126,
+        "height": 1.096,
+        "length": 1.123,
+        "unit": "meters"
+    }
+}

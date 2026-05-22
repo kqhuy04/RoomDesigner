@@ -1,0 +1,24 @@
+{
+    "object": "table",
+    "description": "This is a modern, minimalist console table designed for media storage and display. It features a dark wood grain finish, giving it a sophisticated and natural aesthetic. The console has two closed cabinet sections, each with a sleek, recessed handle for easy access. Between the cabinets are two open shelving compartments, perfect for organizing media devices, books, or decorative items. The overall design is clean and linear, emphasizing functionality and a contemporary look. Its compact yet substantial form makes it suitable for various living spaces.",
+    "color": [
+        "brown",
+        "dark brown",
+        "silver"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.255,
+        "height": 0.636,
+        "length": 0.647,
+        "unit": "meters"
+    }
+}

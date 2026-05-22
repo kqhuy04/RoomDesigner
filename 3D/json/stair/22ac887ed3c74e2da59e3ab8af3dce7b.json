@@ -1,0 +1,27 @@
+{
+    "object": "stair",
+    "description": "This is a 3D model of a multi-level stair tower with an enclosed central core and open landing platforms. The stairs are spiral, with wooden treads and handrails supported by white balusters. The structure appears to be designed for outdoor or industrial use, possibly as an emergency exit or access point to different levels of a building or structure. The overall design is functional and utilitarian, with clean lines and simple geometric forms. The base is a light beige textured platform, suggesting it's situated on the ground or a similar surface.",
+    "color": [
+        "white",
+        "brown",
+        "beige",
+        "grey"
+    ],
+    "appropriate_room": [
+        "outdoor",
+        "industrial"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "utilitarian",
+    "dimensions": {
+        "width": 2.438,
+        "height": 2.341,
+        "length": 2.515,
+        "unit": "meters"
+    }
+}

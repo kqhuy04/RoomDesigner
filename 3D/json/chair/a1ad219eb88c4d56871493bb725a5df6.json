@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a 3D model of a chair with a checkered texture. The texture consists of light brown squares interspersed with smaller, colored plus signs. The chair has a simple, boxy design with four legs, a seat, and a backrest. The backrest has an opening in the middle. The overall appearance is somewhat pixelated, suggesting it might be intended for a video game or a stylized rendering. The colors of the plus signs vary, including purple, green, yellow, and blue, adding a playful touch to the otherwise muted brown base.",
+    "color": [
+        "brown",
+        "purple",
+        "green",
+        "yellow",
+        "blue"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.583,
+        "height": 1.099,
+        "length": 0.583,
+        "unit": "meters"
+    }
+}

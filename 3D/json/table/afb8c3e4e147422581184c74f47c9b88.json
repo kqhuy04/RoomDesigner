@@ -1,0 +1,25 @@
+{
+    "object": "table",
+    "description": "This is a rendering of a modern nightstand. The piece is a rectangular box with two drawers. Each drawer has a gold frame around it and a gold square knob. The main body of the nightstand is white. The nightstand has four cylindrical legs. The top portion of each leg is white and the bottom portion of each leg is gold. The background is a solid dark gray.",
+    "color": [
+        "white",
+        "gold",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "modern",
+    "dimensions": {
+        "width": 0.4,
+        "height": 0.6,
+        "length": 0.427,
+        "unit": "meters"
+    }
+}

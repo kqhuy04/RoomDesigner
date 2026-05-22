@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "A rustic wooden shelf with two curved supports at either end. The shelf is made of planks that have a worn, weathered appearance, suggesting it's an older or distressed piece. The supports are also made of wood and have a similar textured, aged finish. The overall design is simple and functional, intended for displaying items. It appears to be free-standing, rather than mounted to a wall. The grain and imperfections in the wood contribute to its rustic charm. It's designed to be a practical storage or display solution with a vintage aesthetic.",
+    "color": [
+        "brown",
+        "tan",
+        "gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "kitchen"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "warm",
+    "dimensions": {
+        "width": 0.628,
+        "height": 0.141,
+        "length": 0.201,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a single armchair upholstered in a textured, medium blue fabric. The chair features a high, winged backrest with a button-tufted design arranged in a 3x3 grid. It has wide, supportive arms and a deep, comfortable seat. The chair is supported by four slender, tapered wooden legs that angle outwards slightly. The overall design suggests a blend of mid-century modern and contemporary aesthetics, offering both comfort and style for a living space.",
+    "color": [
+        "blue",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": "fabric, wood",
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 2.0,
+        "height": 2.465,
+        "length": 2.069,
+        "unit": "meters"
+    }
+}

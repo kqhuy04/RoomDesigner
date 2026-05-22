@@ -1,0 +1,27 @@
+{
+    "object": "light",
+    "description": "A sleek and modern white pendant light designed for contemporary spaces. It features a long, rectangular shade that hangs from a minimalist rectangular canopy by two thin wires. The shade itself appears to be made of a translucent material, suggesting it will diffuse light softly. The overall design is clean and unfussy, prioritizing form and function. Its simple geometric shape makes it a versatile lighting solution that can complement various interior design schemes, from Scandinavian to industrial.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen",
+        "hallway"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "plastic"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.9,
+        "height": 0.736,
+        "length": 0.042,
+        "unit": "meters"
+    }
+}

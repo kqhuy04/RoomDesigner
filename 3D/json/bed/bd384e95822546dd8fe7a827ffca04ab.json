@@ -1,0 +1,35 @@
+{
+    "object": "bed",
+    "description": "This 3D model presents a contemporary suspended swing bed, ideal for a modern lounge or outdoor relaxation area. The central platform features a light beige, textured mattress or cushion, offering a soft and inviting surface. The bed's base is crafted from light-toned wood, complemented by subtle dark grey or silver metal brackets at each corner, which connect to the suspension system. The entire platform hangs gracefully by four slender white ropes or cables, contributing to its airy and unique design. Adorning the mattress are three pillows: one central square pillow flanked by two irregularly shaped ones. These pillows boast a striking geometric pattern in dark grey and black, accented with vibrant, almost neon, green and teal shapes, giving them a distinct digital or futuristic aesthetic. The design highlights clean lines and a minimalist yet sophisticated appeal.",
+    "color": [
+        "beige",
+        "brown",
+        "dark grey",
+        "silver",
+        "white",
+        "black",
+        "green"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "patio",
+        "lounge area",
+        "balcony"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood",
+        "metal",
+        "rope"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 1.062,
+        "height": 0.95,
+        "length": 0.909,
+        "unit": "meters"
+    }
+}

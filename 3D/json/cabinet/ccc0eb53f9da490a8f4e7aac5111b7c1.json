@@ -1,0 +1,29 @@
+{
+    "object": "cabinet",
+    "description": "This is a contemporary storage cabinet featuring an asymmetrical design with a dark brown wood frame and rounded edges. The unit offers diverse storage solutions, including an open shelf on the top left, two light brown drawers with light purple pulls on the top right, and a wide central open compartment. The lower section contains three smaller light brown drawers with matching light purple pulls on the left, alongside two lighter, off-white sliding door compartments on the right. The entire piece is supported by short, splayed legs, contributing to its modern aesthetic and offering practical storage and display space.",
+    "color": [
+        "dark brown",
+        "light brown",
+        "off-white",
+        "light purple"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "home office",
+        "study"
+    ],
+    "style": "mid-century modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "modern",
+    "dimensions": {
+        "width": 1.658,
+        "height": 1.664,
+        "length": 0.549,
+        "unit": "meters"
+    }
+}

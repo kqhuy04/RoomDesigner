@@ -1,0 +1,29 @@
+{
+    "object": "stair",
+    "description": "This is a modern, multi-level staircase enclosed within a clear glass shaft. The staircase features wooden treads and risers, with sleek wooden handrails and metal balusters. It is designed to be a prominent architectural feature, likely for a contemporary home or building. The structure sits atop a wooden platform, suggesting it's an elevated or standalone element within a larger space. The transparent walls allow for an unobstructed view of the stairs and the surrounding area, creating a sense of openness and light. The overall design is minimalist and sophisticated, emphasizing clean lines and natural materials.",
+    "color": [
+        "wood",
+        "grey",
+        "white",
+        "transparent"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "livingroom",
+        "atrium"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.819,
+        "height": 2.652,
+        "length": 2.225,
+        "unit": "meters"
+    }
+}

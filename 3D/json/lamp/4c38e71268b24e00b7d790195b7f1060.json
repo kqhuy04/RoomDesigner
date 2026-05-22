@@ -1,0 +1,22 @@
+{
+    "object": "lamp",
+    "description": "This is a pair of modern bedside lamps, each with a conical shade and a spherical top. The shades are white with a textured pattern of diagonal lines in gray, creating a subtle visual depth. A circular decorative element, resembling a sunburst or a starburst, is prominently featured on the front of each shade. The lamps are connected by a central rod, suggesting they are designed to be used together, likely as a matching set. The overall aesthetic is clean and minimalist, with a focus on form and texture rather than intricate detailing. The design would fit well in a contemporary bedroom or a sophisticated living space.",
+    "color": [
+        "white",
+        "gray"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "livingroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.006,
+        "height": 4.087,
+        "length": 2.255,
+        "unit": "meters"
+    }
+}

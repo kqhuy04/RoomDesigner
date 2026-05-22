@@ -1,0 +1,30 @@
+{
+    "object": "curtain",
+    "description": "This 3D model depicts a window framed by two blue curtains. The curtains are drawn open, revealing a view through the window of what appears to be an outdoor scene with trees and a building in the background. The curtains are made of a textured fabric and are hung from a brown curtain rod. The window itself has a gray frame with multiple panes. The overall impression is that of a cozy and functional window treatment, providing privacy and light control while adding a touch of color to the room. The wall surrounding the window has a textured finish, likely representing stucco or a similar material.",
+    "color": [
+        "blue",
+        "brown",
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "kitchen"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "calm",
+    "dimensions": {
+        "width": 0.019,
+        "height": 0.087,
+        "length": 0.128,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "object": "stair",
+    "description": "This 3D model depicts a modern staircase with a landing. The staircase itself is enclosed by grey walls, suggesting it's part of a larger structure or an interior space. A white railing lines the top of the landing, providing a safety feature. The stairs are a light grey color and appear to be made of a solid material. The entire structure is supported by thin, vertical metal posts. The base of the structure is a light wooden platform, adding a contrasting warm element to the overall design. The model is rendered against a dark grey background, highlighting the architectural features.",
+    "color": [
+        "grey",
+        "white",
+        "wood"
+    ],
+    "appropriate_room": [
+        "hallway",
+        "outdoor",
+        "modern home"
+    ],
+    "style": "modern",
+    "material": [
+        "metal",
+        "concrete",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.612,
+        "height": 1.675,
+        "length": 2.637,
+        "unit": "meters"
+    }
+}

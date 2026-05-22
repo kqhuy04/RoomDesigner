@@ -1,0 +1,25 @@
+{
+    "object": "chair",
+    "description": "A classic industrial-style metal chair, often referred to as a Tolix chair or cafe chair. It is made of a single piece of molded metal, giving it a sleek and minimalist appearance. The chair features a curved backrest that flows into the armrests, a slightly sloped seat with three small drainage holes, and four sturdy legs that taper towards the floor. This design is known for its durability, stackability, and versatility, making it suitable for a wide range of indoor and outdoor settings. The chair's construction allows for easy cleaning and maintenance.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "kitchen",
+        "diningroom",
+        "cafe",
+        "restaurant",
+        "patio",
+        "outdoor seating area"
+    ],
+    "style": "industrial",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 1.776,
+        "height": 2.938,
+        "length": 1.764,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A stylized 3D render of a black cat comfortably sleeping in a simple swing. The swing is suspended from a rough-hewn wooden beam by two dark, thin ropes. Above the cat, glowing white 'Z' symbols indicate it is dreaming. The overall aesthetic is dark and minimalist, with the glowing 'Z's providing a subtle touch of fantasy or whimsy. The scene is set against a plain black background, emphasizing the central subject.",
+    "color": [
+        "black",
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "nursery",
+        "playroom"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "decorative",
+    "mood": "calm",
+    "dimensions": {
+        "width": 2.025,
+        "height": 3.693,
+        "length": 3.4,
+        "unit": "meters"
+    }
+}

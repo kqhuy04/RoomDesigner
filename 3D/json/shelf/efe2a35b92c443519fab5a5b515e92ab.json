@@ -1,0 +1,25 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, open bookshelf with six shelves. It is constructed from wood with a natural, weathered finish, giving it a rustic and slightly aged appearance. The design is simple and functional, with straight lines and no decorative embellishments. The shelves are evenly spaced, providing ample vertical storage. The wood grain is visible, adding texture and depth to the object. The overall impression is one of practical utility and understated elegance, suitable for organizing books or displaying various items.",
+    "color": [
+        "brown",
+        "tan",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "rustic",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "neutral",
+    "dimensions": {
+        "width": 0.988,
+        "height": 2.529,
+        "length": 0.484,
+        "unit": "meters"
+    }
+}

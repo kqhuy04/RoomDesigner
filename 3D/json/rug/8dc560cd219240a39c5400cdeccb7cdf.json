@@ -1,0 +1,32 @@
+{
+    "object": "rug",
+    "description": "This is a small, rectangular rag rug with a vibrant and eclectic design. It is composed of numerous vertical stripes of various widths and colors, giving it a patchwork or bohemian appearance. The colors range from bright reds, oranges, yellows, and greens to blues, purples, pinks, and blacks, with some white and grey stripes interspersed. The edges of the rug are finished with a fringe of the same material, adding to its handmade and casual feel. The rug appears to be made from strips of fabric sewn or woven together, likely recycled or repurposed materials, creating a textured and visually dynamic surface.",
+    "color": [
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "pink",
+        "black",
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "kids room"
+    ],
+    "style": "bohemian",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 1.796,
+        "height": 0.037,
+        "length": 0.942,
+        "unit": "meters"
+    }
+}

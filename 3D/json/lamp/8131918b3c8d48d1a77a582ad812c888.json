@@ -1,0 +1,26 @@
+{
+    "object": "lamp",
+    "description": "A white, intricate chandelier suspended by a chain. The chandelier has a wide, circular top that tapers downwards into a more pointed, heart-like shape at the bottom. The body of the chandelier is composed of numerous vertical, rod-like elements arranged in a circular pattern, creating a cage-like effect. Inside this structure, a central support system branches out, holding what appear to be light bulb sockets or decorative elements resembling petals. The overall design suggests a delicate and somewhat ornate piece, possibly intended to cast interesting shadows when illuminated.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "diningroom",
+        "bedroom",
+        "hallway"
+    ],
+    "style": "traditional",
+    "material": [
+        "metal",
+        "glass"
+    ],
+    "usage": "functional",
+    "mood": "elegant",
+    "dimensions": {
+        "width": 0.95,
+        "height": 1.099,
+        "length": 0.951,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "A dark wood armchair with a black cushioned seat. The chair has a simple, modern design with clean lines. The armrests are integrated into the frame, creating a continuous loop from the backrest to the front legs. The backrest consists of three vertical wooden slats. The seat appears to be upholstered in a dark material, possibly leather or faux leather. The wood shows signs of wear, with some lighter patches and scuff marks, suggesting it might be vintage or have a distressed finish. The overall appearance is minimalist and functional.",
+    "color": [
+        "brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "wood, leather",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.61,
+        "height": 0.955,
+        "length": 0.642,
+        "unit": "meters"
+    }
+}

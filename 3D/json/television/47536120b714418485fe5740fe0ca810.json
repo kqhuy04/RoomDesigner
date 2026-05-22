@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "This is a vintage television with a wooden casing. The screen is a light blue, suggesting it is either off or displaying a static image. The bezel around the screen is black, and the wooden frame has a rich, textured pattern. To the right of the screen, there is a speaker grille with vertical lines and a control panel below it. The control panel appears to have several buttons or dials, rendered in a metallic silver finish. The overall design evokes a sense of nostalgia, typical of mid-20th century electronics.",
+    "color": [
+        "brown",
+        "light blue",
+        "black",
+        "silver"
+    ],
+    "appropriate_room": [
+        "living room",
+        "bedroom",
+        "den",
+        "study"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 2.854,
+        "height": 2.0,
+        "length": 2.245,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "This is a retro-style television with a thick, olive-green casing. It features a curved screen with a static or grainy display, suggesting it's either off or tuned to a non-existent channel. Two silver, flexible antennas with colorful, spherical tips extend from the top. Below the screen, there are several buttons and a small red circular control. A matching olive-green remote control with numerous buttons lies to the right of the television. The overall aesthetic is reminiscent of older cathode-ray tube televisions, evoking a sense of nostalgia.",
+    "color": [
+        "green",
+        "silver",
+        "gray",
+        "red",
+        "blue",
+        "yellow"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "game room"
+    ],
+    "style": "retro",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 0.628,
+        "height": 0.325,
+        "length": 0.63,
+        "unit": "meters"
+    }
+}

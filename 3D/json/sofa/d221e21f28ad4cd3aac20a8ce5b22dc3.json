@@ -1,0 +1,31 @@
+{
+    "object": "sofa",
+    "description": "This is a modern, compact two-seater sofa, featuring a minimalist design with clean lines. It is upholstered in a light beige or off-white textured fabric. The sofa has slim, integrated armrests and rests on sleek, dark-colored metal legs, giving it a contemporary, floating appearance. It is adorned with three throw pillows: a prominent central pillow with a bold, colorful geometric pattern in shades of orange, teal, brown, and red, flanked by two smaller pillows with a subtle light gray and white checkered pattern.",
+    "color": [
+        "beige",
+        "orange",
+        "teal",
+        "brown",
+        "red",
+        "light gray",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "modern",
+    "dimensions": {
+        "width": 1.822,
+        "height": 0.825,
+        "length": 0.92,
+        "unit": "meters"
+    }
+}

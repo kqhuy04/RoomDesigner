@@ -1,0 +1,28 @@
+{
+    "object": "chair",
+    "description": "This is a 3D rendered image of a blue office chair with black armrests and a black five-star base with wheels. The chair is placed on an orange rectangular mat. The chair has a contoured backrest and seat, designed for ergonomic support. The armrests are curved and positioned to provide comfort for the arms. The base is designed to be stable and allow for easy movement, typical of office chairs. The orange mat underneath adds a pop of color and defines the space the chair occupies. The overall presentation is clean and minimalist, focusing on the chair itself.",
+    "color": [
+        "blue",
+        "black",
+        "orange",
+        "grey"
+    ],
+    "appropriate_room": [
+        "office",
+        "bedroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": [
+        "plastic",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 4.707,
+        "height": 4.653,
+        "length": 4.707,
+        "unit": "meters"
+    }
+}

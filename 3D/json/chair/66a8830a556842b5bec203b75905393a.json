@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern, high-backed armchair with a matching ottoman. The chair features a tufted design on the backrest and seat, giving it a plush and comfortable appearance. It has padded armrests and a supportive headrest. The entire set is upholstered in a vibrant orange material, likely leather or a high-quality faux leather, and rests on a sleek black base with swivel capabilities. The ottoman shares the same tufted design and color, serving as a footrest to complement the chair. The overall design is contemporary and stylish, intended for relaxation and comfort.",
+    "color": [
+        "orange",
+        "black"
+    ],
+    "appropriate_room": [
+        "living room",
+        "home office",
+        "lounge"
+    ],
+    "style": "modern",
+    "material": [
+        "leather",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "comfortable",
+    "dimensions": {
+        "width": 0.569,
+        "height": 0.798,
+        "length": 1.183,
+        "unit": "meters"
+    }
+}

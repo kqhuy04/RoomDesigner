@@ -1,0 +1,22 @@
+{
+    "object": "sofa",
+    "description": "This is a minimalist, two-seater sofa with clean lines and a vibrant red color. The design is blocky and modern, with thick, square arms and a low profile. The seat cushion and back cushions appear to be integrated into the overall structure, creating a seamless look. The sofa has a simple, unfussy aesthetic that would fit well in a contemporary or Scandinavian-inspired interior. Its compact size makes it suitable for smaller living spaces or as an accent piece in a larger room. The solid red color adds a bold pop of personality to any setting.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "waitingroom"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "vibrant",
+    "dimensions": {
+        "width": 2.545,
+        "height": 1.258,
+        "length": 1.401,
+        "unit": "meters"
+    }
+}

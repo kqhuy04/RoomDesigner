@@ -1,0 +1,27 @@
+{
+    "object": "shelf",
+    "description": "This is a tall, narrow, five-tiered bookshelf with a simple, modern design. Each shelf is made of a light brown, wood-like material with a visible grain pattern. The shelves are supported by thin, dark vertical posts, creating an open and airy structure. The overall aesthetic is minimalist and functional, designed to maximize vertical storage space. The warm wood tone adds a natural element, making it versatile for various room decors.",
+    "color": [
+        "brown",
+        "dark gray"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study",
+        "office"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.361,
+        "height": 1.502,
+        "length": 0.5,
+        "unit": "meters"
+    }
+}

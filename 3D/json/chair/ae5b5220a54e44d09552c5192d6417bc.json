@@ -1,0 +1,27 @@
+{
+    "object": "chair",
+    "description": "This is a modern armchair with a unique geometric design. The armchair features a blocky seat cushion and a cylindrical back cushion, both upholstered in a dark grey fabric with a subtle woven texture. The frame is constructed from light wood, providing a visually striking contrast to the dark upholstery. The armrests are integrated into the overall frame, extending from the back and creating a partial enclosure. The base of the chair is also made from the same light wood, giving it a cohesive and contemporary look. Overall, the armchair is designed to be a stylish and comfortable seating option for modern living spaces.",
+    "color": [
+        "grey",
+        "wood"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "office",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "fabric",
+        "wood"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 2.036,
+        "height": 2.246,
+        "length": 2.759,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object": "desk",
+    "description": "A sleek, modern desk lamp designed for targeted illumination. It features a conical shade that directs light downwards, a long, adjustable arm for versatile positioning, and a sturdy, minimalist base for stability. The lamp's design emphasizes clean lines and functional simplicity, making it suitable for various workspaces and study areas. Its monochromatic finish gives it a contemporary and unobtrusive appearance, allowing it to blend seamlessly with different interior decors. The articulated arm and shade allow users to customize the light's angle and focus, perfect for reading, working, or creative tasks.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "office",
+        "livingroom",
+        "studyroom"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.494,
+        "height": 0.594,
+        "length": 0.196,
+        "unit": "meters"
+    }
+}

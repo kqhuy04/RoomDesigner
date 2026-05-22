@@ -1,0 +1,23 @@
+{
+    "object": "chair",
+    "description": "This is a simple, minimalist chair with a white finish. It features a basic design with a seat, backrest, and four legs. The chair appears to be made of a solid material, possibly wood or plastic, and has a clean, geometric form. The overall aesthetic is very understated, making it a versatile piece for various settings. The chair is positioned in front of a white wall or partition, suggesting it might be part of a larger installation or a display.",
+    "color": [
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "studio",
+        "office"
+    ],
+    "style": "minimalist",
+    "material": "wood",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.959,
+        "height": 0.361,
+        "length": 0.266,
+        "unit": "meters"
+    }
+}

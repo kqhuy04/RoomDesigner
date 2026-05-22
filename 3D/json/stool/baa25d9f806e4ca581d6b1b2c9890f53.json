@@ -1,0 +1,22 @@
+{
+    "object": "stool",
+    "description": "This is a cube-shaped ottoman, meticulously upholstered with a deep red, possibly faux leather, material. The design features classic tufting, where the fabric is pulled inward at regular intervals, creating diamond-shaped sections and distinct folds. Buttons, or indentations resembling them, are visible at each pulled point, enhancing the luxurious, capitonne style. The material has a subtle sheen, suggesting a smooth, somewhat glossy texture. It is a standalone piece, designed for both aesthetic appeal and practical use as a seat or footrest.",
+    "color": [
+        "red"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "lounge"
+    ],
+    "style": "classic",
+    "material": "faux leather",
+    "usage": "functional",
+    "mood": "luxurious",
+    "dimensions": {
+        "width": 2.131,
+        "height": 2.129,
+        "length": 2.132,
+        "unit": "meters"
+    }
+}

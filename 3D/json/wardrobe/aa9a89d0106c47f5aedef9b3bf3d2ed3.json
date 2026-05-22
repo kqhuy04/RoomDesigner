@@ -1,0 +1,22 @@
+{
+    "object": "wardrobe",
+    "description": "This is a tall, narrow wardrobe with a minimalist design. It features two sliding doors with a vertical seam down the center, suggesting a hidden division within. Below the doors, there are three drawers, each with a small, circular black handle. The wardrobe is constructed from light-colored wood with a visible grain pattern. The overall aesthetic is simple and functional, with clean lines and an absence of ornate detailing. It appears to be a standalone piece of furniture, designed for efficient storage in a bedroom or a similar personal space. The light wood and uncluttered design contribute to a sense of neatness and organization.",
+    "color": [
+        "light brown",
+        "black"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room"
+    ],
+    "style": "modern",
+    "material": "wood",
+    "usage": "storage",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.786,
+        "height": 1.661,
+        "length": 0.519,
+        "unit": "meters"
+    }
+}

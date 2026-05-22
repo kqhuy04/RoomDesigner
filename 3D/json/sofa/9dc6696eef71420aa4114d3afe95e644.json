@@ -1,0 +1,24 @@
+{
+    "object": "sofa",
+    "description": "This is a preview of a 3D model of a brown sofa. It appears to be a two-seater or three-seater couch with two light-colored throw pillows placed on it. The sofa has a simple, modern design with clean lines and upholstered arms. The dark background of the preview suggests that the focus is solely on the sofa itself, allowing potential users to assess its form and texture without distraction. The overall appearance is one of comfort and relaxation, suitable for a variety of living spaces.",
+    "color": [
+        "brown",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "lounge",
+        "bedroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "cozy",
+    "dimensions": {
+        "width": 0.61,
+        "height": 0.823,
+        "length": 1.646,
+        "unit": "meters"
+    }
+}

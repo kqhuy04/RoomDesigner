@@ -1,0 +1,26 @@
+{
+    "object": "curtain",
+    "description": "This is a piece of a curtain with a floral and leaf pattern. The fabric appears to be a light color, possibly off-white or cream, serving as the base for the artwork. The pattern features vibrant green leaves and branches in various shades, suggesting a lush, tropical, or botanical theme. Interspersed among the greenery are touches of red and orange, likely depicting flowers or fruits, adding pops of color. The curtain's edges are irregular and appear somewhat frayed or damaged, indicating it might be a fragment or a vintage item. The material seems somewhat translucent, allowing light to filter through and casting subtle shadows.",
+    "color": [
+        "green",
+        "red",
+        "orange",
+        "white",
+        "beige"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom"
+    ],
+    "style": "botanical",
+    "material": "fabric",
+    "usage": "decorative",
+    "mood": "natural",
+    "dimensions": {
+        "width": 0.981,
+        "height": 1.496,
+        "length": 0.45,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "object": "shelf",
+    "description": "This is a 3D model of a modern, minimalist shelf. It appears to be made of a single, solid piece with a simple, angular design. The shelf is presented in a neutral gray color, with a slightly lighter gray or white accent along its bottom edge, possibly indicating a base or a different material. The form is clean and geometric, suggesting it's designed for functionality and to blend seamlessly into a contemporary interior. Its thin profile and lack of ornamentation emphasize a sleek aesthetic, making it suitable for displaying items without drawing too much attention away from the objects themselves. The overall impression is one of understated elegance and practical design.",
+    "color": [
+        "gray",
+        "white"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "hallway",
+        "office"
+    ],
+    "style": "modern",
+    "material": "metal",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.3,
+        "height": 0.78,
+        "length": 0.6,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object": "shelf",
+    "description": "This is a wall-mounted shelf designed in the shape of a sunflower. The central part is a dark brown circular housing with several staggered, dark gray shelves, supported by thin black vertical rods. Surrounding the central unit are eight bright yellow, petal-shaped elements that mimic the appearance of sunflower petals. The overall design is whimsical and decorative, making it suitable for adding a playful touch to a room while also providing storage space.",
+    "color": [
+        "yellow",
+        "dark brown",
+        "dark gray",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "kid's room",
+        "hallway"
+    ],
+    "style": "whimsical",
+    "material": [
+        "wood",
+        "metal"
+    ],
+    "usage": "storage",
+    "mood": "playful",
+    "dimensions": {
+        "width": 0.56,
+        "height": 0.562,
+        "length": 0.053,
+        "unit": "meters"
+    }
+}

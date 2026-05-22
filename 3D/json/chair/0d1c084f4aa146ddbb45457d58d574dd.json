@@ -1,0 +1,26 @@
+{
+    "object": "chair",
+    "description": "This is a modern lounge chair and ottoman set with a minimalist design. The chair features a high back and a comfortable seat, both upholstered in black fabric. The frame and legs of both pieces are made of bent light-colored wood, giving it a natural and organic feel. The ottoman is a rectangular shape with the same black upholstery and wooden frame, designed to complement the chair for enhanced relaxation. The overall aesthetic is sleek and contemporary, making it a stylish addition to a living space.",
+    "color": [
+        "black",
+        "light brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "study"
+    ],
+    "style": "modern",
+    "material": [
+        "wood",
+        "fabric"
+    ],
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.615,
+        "height": 0.41,
+        "length": 0.268,
+        "unit": "meters"
+    }
+}

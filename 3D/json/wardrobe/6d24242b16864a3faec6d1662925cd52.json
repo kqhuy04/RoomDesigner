@@ -1,0 +1,24 @@
+{
+    "object": "wardrobe",
+    "description": "This is a vintage-style wardrobe with a tall, narrow cabinet on the left and a wider cabinet with an oval mirror on the right. The left cabinet features three small drawers with brass handles. Both cabinets have brass handles and appear to be made of aged, distressed wood. The overall aesthetic suggests an antique piece of furniture, possibly from the early 20th century, with a rustic and worn appearance. It sits on a decorative base with carved details. The dark, textured background enhances the vintage feel of the object.",
+    "color": [
+        "brown",
+        "dark brown",
+        "brass"
+    ],
+    "appropriate_room": [
+        "bedroom",
+        "dressing room",
+        "hallway"
+    ],
+    "style": "vintage",
+    "material": "wood, glass, metal",
+    "usage": "storage",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.884,
+        "height": 2.479,
+        "length": 0.834,
+        "unit": "meters"
+    }
+}

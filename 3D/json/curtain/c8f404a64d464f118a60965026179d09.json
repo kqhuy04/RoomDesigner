@@ -1,0 +1,24 @@
+{
+    "object": "curtain",
+    "description": "This is a 3D model preview of a single, plain white curtain. The curtain is hung from a dark, slender rod via numerous metallic grommets along its top edge, creating a neatly pleated and uniformly folded appearance. The vertical folds extend consistently down the length of the curtain, suggesting a clean and structured look. The overall design is simple and functional, set against a solid dark grey background.",
+    "color": [
+        "white",
+        "grey"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "diningroom",
+        "office"
+    ],
+    "style": "modern",
+    "material": "fabric",
+    "usage": "functional",
+    "mood": "minimalist",
+    "dimensions": {
+        "width": 0.111,
+        "height": 3.022,
+        "length": 2.761,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "object": "television",
+    "description": "A vintage television with a wooden casing and a reflective screen. The screen shows a hazy reflection, possibly of foliage or an outdoor scene, with a bright light source in the center. The front panel features two knobs, a central brand name plate, and a series of small buttons. The overall aesthetic suggests an older era of electronics, with a blend of polished wood and metallic accents.",
+    "color": [
+        "brown",
+        "green",
+        "gold",
+        "silver",
+        "black"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "study",
+        "bedroom"
+    ],
+    "style": "retro",
+    "material": [
+        "wood",
+        "glass",
+        "metal"
+    ],
+    "usage": "functional",
+    "mood": "nostalgic",
+    "dimensions": {
+        "width": 1.923,
+        "height": 2.0,
+        "length": 1.867,
+        "unit": "meters"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "object": "stool",
+    "description": "This is a rectangular, dark brown leather ottoman, designed with a padded top that likely functions as a lid for storage. The top surface is divided into three distinct panels by stitched seams, and its edges are adorned with a continuous line of decorative, light-colored studs or nailheads, adding a classic touch. The leather material exhibits a noticeable texture and varying sheen, suggesting a distressed or well-worn appearance which contributes to its character. The body of the ottoman is substantial, resting on short, solid feet. It presents a robust and traditional aesthetic.",
+    "color": [
+        "dark brown"
+    ],
+    "appropriate_room": [
+        "livingroom",
+        "bedroom",
+        "den",
+        "study"
+    ],
+    "style": "classic",
+    "material": [
+        "leather"
+    ],
+    "usage": "functional",
+    "mood": "classic",
+    "dimensions": {
+        "width": 0.84,
+        "height": 0.539,
+        "length": 0.585,
+        "unit": "meters"
+    }
+}
